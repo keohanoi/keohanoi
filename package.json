@@ -1,0 +1,26 @@
+{
+  "name": "daily-artwork-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "crawl": "cd src && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsins/Daily-GitHub-Trending.git"
+  },
+  "author": "Hsins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hsins/Daily-GitHub-Trending/issues"
+  },
+  "homepage": "https://github.com/Hsins/Daily-GitHub-Trending#readme",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^21.3.1",
+    "request-promise": "^4.2.6"
+  }
+}
