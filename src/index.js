@@ -67,11 +67,9 @@ const saveFile = async (template) => {
 
 (async () => {
   let data = await getData();
-  const template = `
-    <div class="artwork-of-the-day">
+  const template = `<div class="artwork-of-the-day">
       <img src="${data.img}" alt="${data.artwork}"/>
-    </div>
-    `;
-  console.log(' -- template: ', template);
+      <h5>${data.artwork}</h5> - <h3>${data.artist}</h3>
+    </div>`;
   await saveFile(template);
 })();
