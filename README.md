@@ -1,7 +1,7 @@
-<div class="artwork-of-the-day" align="center">
-      <img src="https://uploads5.wikiart.org/images/martiros-saryan/july-1937.jpg!Large.jpg" alt="July"/>
-      <h5>July</h5> - <h3>
-                    Martiros Sarian
-                    ·  1937
+<div class="artwork-of-the-day">
+      <img src="https://uploads6.wikiart.org/00340/images/caravaggio/martyrdom-of-saint-ursula.jpg" alt="Martyrdom of Saint Ursula"/>
+      <h5>Martyrdom of Saint Ursula</h5> - <h3>
+                    Caravaggio
+                    ·  1610
                 </h3>
     </div>
