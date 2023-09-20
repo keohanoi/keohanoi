@@ -1,7 +1,7 @@
 <div class="artwork-of-the-day">
-      <img src="https://uploads5.wikiart.org/images/frans-hals/portrait-of-a-jester-with-a-lute.jpg!Large.jpg" alt="The Lute Player"/>
-      <h5>The Lute Player</h5> - <h3>
-                    Frans Hals
-                    ·  1624
+      <img src="https://uploads1.wikiart.org/images/richard-hamilton/four-self-portraits-05-3-81-1990.jpg" alt="Four Self-Portraits 05.3.81"/>
+      <h5>Four Self-Portraits 05.3.81</h5> - <h3>
+                    Richard Hamilton
+                    ·  1990
                 </h3>
     </div>
