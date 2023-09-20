@@ -1,7 +1,7 @@
 <div class="artwork-of-the-day">
-      <img src="https://uploads2.wikiart.org/images/henri-fantin-latour/around-the-piano-1885.jpg" alt="Around the piano"/>
-      <h5>Around the piano</h5> - <h3>
-                    Henri Fantin-Latour
-                    ·  1885
+      <img src="https://uploads7.wikiart.org/images/pietro-perugino/portrait-of-francesco-delle-opere-1494.jpg!Large.jpg" alt="Portrait of Francesco delle Opere"/>
+      <h5>Portrait of Francesco delle Opere</h5> - <h3>
+                    Pietro Perugino
+                    ·  1494
                 </h3>
     </div>
