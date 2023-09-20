@@ -1,7 +1,7 @@
 <div class="artwork-of-the-day">
-      <img src="https://uploads7.wikiart.org/images/pietro-perugino/portrait-of-francesco-delle-opere-1494.jpg!Large.jpg" alt="Portrait of Francesco delle Opere"/>
-      <h5>Portrait of Francesco delle Opere</h5> - <h3>
-                    Pietro Perugino
-                    ·  1494
+      <img src="https://uploads1.wikiart.org/00238/images/ancient-greek-pottery/dionysus-cup-by-exek-as-530.jpg!Large.jpg" alt="Dionysus Cup by Exekіas"/>
+      <h5>Dionysus Cup by Exekіas</h5> - <h3>
+                    Ancient Greek Pottery
+                    ·  -530
                 </h3>
     </div>
