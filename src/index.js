@@ -67,9 +67,12 @@ const saveFile = async (template) => {
 
 (async () => {
   let data = await getData();
-  const template = `<div class="artwork-of-the-day">
-      <img src="${data.img}" alt="${data.artwork}"/>
-      <h5>${data.artwork}</h5> - <h3>${data.artist}</h3>
-    </div>`;
+  let template = fs.readFileSync(path.join(__dirname, 'template/daily-artwork-template.md'), 'utf8');
+
+  template = template.replace('{{img}}', data.img.trim());
+  template = template.replace('{{artwork}}', data.artwork.trim());
+  template = template.replace('{{artist}}', data.artist.trim());
+  template = template.replace('{{des}}', data.des.trim());
+
   await saveFile(template);
 })();
