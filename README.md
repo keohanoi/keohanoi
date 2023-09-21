@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00443/images/judith-leyster/1630young-boy-in-profile-c-1630-1.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/nicholas-of-verdun/nero-cameo-1st-c-after-christ.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Young Boy in Profile</h2>
+        <h2 class="artwork-name">Nero Cameo, 1st C. after Christ</h2>
         <h3 class="artist">
-          Judith Leyster
-                    ·  1630
+          Nicholas of Verdun
+                    ·  1200
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Judith Leyster possessed a remarkable ability to capture the freshness and spontaneity of children. In this beautifully painted tondo, the young boy conveys the innocence of childhood, his cheeks red and lips flushed. The flowing strand of hair in the background, known as a "love-lock," displays the lightness of Leyster’s touch, as do the delicate strokes defining the sitter’s features. Characteristic of Leyster’s techniques is the use of the back of the brush to scratch long strands of hair into the wet paint. Leyster’s supposed teacher Frans Hals (c.1585–1666) also possessed a remarkable ability to paint children with an energy and immediacy that transmits a sense of their vibrant youthfulness.<br><br>Judith Leyster entered into the Saint Luke’s Guild of Haarlem as an independent master in 1633. As a master in her own right, rare for a female artist, Leyster established her own workshop and had paying students. Five years earlier, her proficiency and talent had already drawn public praise. A chronicler of Haarlem described Judith Leyster, only nineteen years old at the time, as a painter of "good and keen insight." Following her marriage to fellow Haarlem artist Jan Miense Molenaer in 1636 Leyster stopped producing art in her own name, but probably continued to paint in collaboration with—and in the workshop of—her husband.<br><br><a target="_blank" href="https://www.nga.gov/collection/art-object-page.142346.html">National Gallery of Art</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A cameo portrait of Nero is set in the right-hand side of the removable trapezoidal panel on the front of the shrine. It is the same shape and size as the Venus intaglio. Together with the Ptolemy Cameo, which was stolen in 1574, these three major ancient gems constituted a major focus of attention on the front of the shrine. It is possible that they were a reference to the skulls of the three Magi that were visible when the trapezoidal panel was removed. The theme of Agrippina’s coronation of Nero (she can be seen holding a laurel wreath over his head) may have been re-interpreted in the context of the medieval interpretation that biblical kings were the predecessors of German rulers.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
