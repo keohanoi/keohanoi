@@ -2,21 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/akseli-gallen-kallela/lemmink-inen-s-mother-1897.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/diego-velazquez/the-jester-don-juan-of-austria-1633.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lemminkäinen's Mother</h2>
+        <h2 class="artwork-name">The Jester Don Juan of Austria</h2>
         <h3 class="artist">
-          Akseli Gallen-Kallela
-                    ·  1897
+          Diego Velazquez
+                    ·  1633
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lemminkäinen's Mother (Lemminkäisen äiti) is an 1897 Romantic nationalist painting by Finnish painter <a target="_blank" href="/en/akseli-gallen-kallela">Akseli Gallen-Kallela</a>. The painting illustrates a passage from the Kalevala, the Finnish national epic compiled by Elias Lönnrot in the 19th century.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Jester Named Don John of Austria is a portrait by <a target="_blank" href="/en/diego-velazquez">Velázquez</a>, now in the Museo del Prado in Madrid. Its subject was a jester or bufón at the court of Philip IV of Spain from 1624 to 1654 who appeared in court comedies in front of important court figures. The subject's real name is unknown, but he came to be nicknamed after John of Austria, the son of Charles V, well known for his victory at Lepanto. He is shown dressed in a general's cloak and black doublet, is surrounded by abandoned helmets, armour and weapons, and with a fragment of a battle-scene of Lepanto in the background.
 <br>
-<br>The painting illustrates a poem where hero Lemminkäinen has died and his mother has dredged the pieces of her son's lifeless body from the river of Tuonela and sewn them together again. She is shown with the body in pietà style, waiting for the bee, a messenger of the god Ukko, to bring her honey from the gods to bring her son to life again.</span>
+<br>It was produced for display in the Torre de la Parada, a hunting lodge on the outskirts of Madrid in the Sierra de Guadarrama near El Pardo. Around 1635-40 this lodge was one of Philip IV's main architectural projects, since he was a great hunting fanatic who wanted somewhere to rest during the long time he spent on that pastime. Its other homes have been the Palacio del Buen Retiro (1701–16), the Royal Palace of Madrid (1772–1816) and the <a target="_blank" href="/en/artists-by-art-institution/real-academia-de">Real Academia de Bellas Artes de San Fernando</a> (1816–1827), before it finally moved to its current home at the Prado in 1827.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
