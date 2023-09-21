@@ -1,7 +1,7 @@
 <div class="artwork-of-the-day">
-      <img src="https://uploads6.wikiart.org/images/jacob-jordaens/the-four-evangelists.jpg!Large.jpg" alt="The Four Evangelists"/>
-      <h5>The Four Evangelists</h5> - <h3>
-                    Jacob Jordaens
-                    ·  1625
+      <img src="https://uploads0.wikiart.org/images/morris-louis/charred-journal-firewritten-v-1951.jpg!Large.jpg" alt="Charred Journal: Firewritten V"/>
+      <h5>Charred Journal: Firewritten V</h5> - <h3>
+                    Morris Louis
+                    ·  1951
                 </h3>
     </div>
