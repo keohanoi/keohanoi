@@ -1,7 +1,7 @@
 <div class="artwork-of-the-day">
-      <img src="https://uploads0.wikiart.org/images/morris-louis/charred-journal-firewritten-v-1951.jpg!Large.jpg" alt="Charred Journal: Firewritten V"/>
-      <h5>Charred Journal: Firewritten V</h5> - <h3>
-                    Morris Louis
-                    ·  1951
+      <img src="https://uploads8.wikiart.org/images/honore-daumier/the-laundress.jpg!Large.jpg" alt="The Laundress"/>
+      <h5>The Laundress</h5> - <h3>
+                    Honore Daumier
+                    ·  1861
                 </h3>
     </div>
