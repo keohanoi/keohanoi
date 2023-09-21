@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/william-turner/shore-scene-with-waves-and-breakwater-1835.jpg"
+        src="https://uploads5.wikiart.org/images/caravaggio/portrait-of-fra-antionio-martelli-1608(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Shore Scene with Waves and Breakwater</h2>
+        <h2 class="artwork-name">Portrait of Fra Antionio Martelli</h2>
         <h3 class="artist">
-          J.M.W. Turner
-                    ·  1835
+          Caravaggio
+                    ·  1608
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">No less remarkable than Turner's late marine canvases are some small oils on millboard that address similar subjects in a manner more abstract and perfunctory than anything he ever painted in oil. These also can hardly have been made outdoors, for Turner seems to have entered into the very spray and surge of the breakers as they crash on the shore. Rather he is recreating the experience of his walks on the sands, from memory and, perhaps, inspired by the movement of paint itself. Even if not painted within the elements they describe, few of his oil sketches convey more sense of the open air.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Fra Antonio Martelli (c. 1607/1608) is a painting by the Italian master Michelangelo Merisi da <a target="_blank" href="/en/caravaggio">Caravaggio</a>, in the Palazzo Pitti, Florence.
+<br>
+<br>Until recently it was thought that this painting represented Alof de Wignacourt, Grand Master of the Order of the Knights of Malta, and that it was a preparatory study for the large and famous Portrait of Alof de Wignacourt and his Page, but recent documentary discoveries indicate that it is the portrait of another prominent member of the Order, Antonio Martelli of Florence, Prior of Messina.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
