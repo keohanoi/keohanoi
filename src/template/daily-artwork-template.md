@@ -1,49 +1,4 @@
 <div class="artwork-of-the-day">
-  <style>
-    .container {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-evenly;
-      align-items: center;
-    }
-  </style>
-  <style>
-    .artwork-name {
-      font-size: 1.5rem;
-      font-weight: 600;
-      margin: 0;
-    }
-  </style>
-
-  <style>
-    .artwork-origin {
-
-
-      display: flex;
-      flex-direction: row;
-      justify-content: space-evenly;
-      align-items: center;
-      width: 100%;
-    }
-  </style>
-
-  <style>
-    .artwork-detail {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      width: 500px
-    }
-  </style>
-
-  <style>
-    img {
-      width: 500px;
-      height: 500px;
-    }
-  </style>
-
   <div class="container">
     <div class="img-wrapper">
       <img
