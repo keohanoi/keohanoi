@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/andre-derain/ball-of-soldiers-in-suresnes-1903.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/william-turner/shore-scene-with-waves-and-breakwater-1835.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ball of soldiers in Suresnes</h2>
+        <h2 class="artwork-name">Shore Scene with Waves and Breakwater</h2>
         <h3 class="artist">
-          Andre Derain
-                    ·  1903
+          J.M.W. Turner
+                    ·  1835
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A man in an infantry uniform dances with a taller woman, the splayed fingers of his white-gloved hand sharply illuminated against her green skirt. Three fellow soldiers observe in the background; the tallest may be a self-portrait of André Derain who painted this work during a year of military service. The artist takes a humorous approach to his subject, presenting the dance as an awkward social ritual. This early picture is notable for its areas of bold, flat color, anticipating Derain’s experiments with Fauvism.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">No less remarkable than Turner's late marine canvases are some small oils on millboard that address similar subjects in a manner more abstract and perfunctory than anything he ever painted in oil. These also can hardly have been made outdoors, for Turner seems to have entered into the very spray and surge of the breakers as they crash on the shore. Rather he is recreating the experience of his walks on the sands, from memory and, perhaps, inspired by the movement of paint itself. Even if not painted within the elements they describe, few of his oil sketches convey more sense of the open air.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
