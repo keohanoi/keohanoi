@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/peter-paul-rubens/perseus-and-andromeda.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00134/images/john-altoon/john-altoon.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Perseus and Andromeda</h2>
+        <h2 class="artwork-name">Ocean Park Series</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1621
+          John Altoon
+                    ·  1962
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perseus and Andromeda is a 1622 painting by the Flemish artist <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> featuring the ancient Greek myth of Perseus and Andromeda after the former's defeat of the Gorgon.
-<br>
-<br>The paintings shows the Gorgon's reflection on Perseus' shield. The painting also shows Tobiano Pegasus, the goddess of glory over Perseus' head and several putti. The bottom of the painting partially shows Cetus, killed by Perseus earlier.
-<br>
-<br>This painting probably remained in Rubens' house until his death; an engraving from 1684, depicting the facade of Rubens' house in Antwerp, shows the painting through the window of the second floor. In the summer of 1769 the painting was acquired by the Russian Hermitage Museum from the collections of Heinrich von Brühl. It is now housed in the Rubens Hall on the second floor of the Hermitage Museum.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Oil on canvas. 72 x 84 in. <b>Orange County Museum of Art</b>, Newport Beach, CA: Museum purchase with additional funds provided by Dr. James B. Pick and Dr. Rosalyn M. Laudati, Mr. Ward Chamberlin, Mrs. E.G. Chamberlin, Patricia Fredericks, Mr. and Mrs. Carl Neisser, Mr. and Mrs. John Martin Shea, Mr. and Mrs. Samuel Goldstein, Zada Taylor, Mr. David H. Steinmetz, and Mrs. Bernard McDonald. Permission courtesy of the Estate of John Altoon and Braunstein/Quay Gallery, San Francisco, CA.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
