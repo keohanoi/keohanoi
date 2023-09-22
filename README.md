@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/john-martin/the-last-judgement-1853.jpg"
+        src="https://uploads1.wikiart.org/00334/images/marlene-dumas/evil-is-banal-1984.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last Judgement</h2>
+        <h2 class="artwork-name">Evil is Banal</h2>
         <h3 class="artist">
-          John Martin
-                    ·  1853
+          Marlene Dumas
+                    ·  1984
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This and two other pictures, The Great Day of His Wrath and The Plains of Heaven compose a triptych, and are the last major works Martin produced before his death. They are generally considered among his most important achievements, possibly his masterpiece. The subjects are taken from The Book of Revelation. The Last Judgement illustrates the central event of the Book, and is composed from various passages in the narrative. On a throne in the heavens sits God in judgement, surrounded by the four and twenty elders. The four angels have sounded their trumpets after the opening of the Seventh Seal. Below on the right the forces of evil commanded by Satan are defeated; the armies of Gog and Magog tumble into the bottomless pit. To the left on Mount Zion are the good, already in the 'plains of heaven' and awaiting the call to appear before the throne.
-<br>
-<br>The principal figures were identified in an engraved key published in 1855 by Leggatt, Haward and Leggatt to accompany the picture. The damned include richly dressed women, notably Herodias's daughter and the whore of Babylon, lawyers and churchmen who have sought only worldly wealth. The saved, at God's right hand, are anonymous figures of virtuous women and innocent children, true lovers, martyrs, philanthropists, and foreground, portraits of the famous. Among the good Martin has included a high percentage of artists and poets, as well as statesmen and philosophers. These include Thomas More, Wesley, Canute, Dante, Washington, Copernicus, Newton, Watt, Chaucer, Tasso, Corneille, Shakespeare, Michelangelo, Rubens, D-4rer and Wilkie. The great men are ranged in a timeless tableau; Martin reproduces their best known images. Included among the contemporary detail is a railway train plunging into an abyss, its carriages marked 'London', 'Paris', and so on. (Terry Riggs)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting is based on a photograph of the artist looking over her shoulder. She is in her forties, smiling, with long, flamboyant orange hair. Her light blue eyes are fixed on something outside the work, and her chin rests on her hand.<br><br>The bright self-portrait contrasts dramatically with its title, which refers to Hanna Arendt's controversial report on Nazi bureaucracy and the chilling normality of evil. This gap between the image and the word takes the painting to another dimension. Dumas clearly draws a parallel between the Nazi regime and the policies and practices of apartheid. In the mid-1980s, when she finished this painting, apartheid was at its height. Dumas joined other South African artists engaged actively in diverse political, social and cultural critique and resistance. Under this new light, the portrait here tends to be interpreted differently. Dumas in the painting does not seem as light but much more thoughtful. She looks behind her, to where she comes from, with an ironic smile. As a white person in South Africa, using a self-portrait is a strong political statement, making the painting even more powerful. Questioning her own identity, Dumas places herself with humility as a potential perpetrator of evil acts and glances at the viewer as if saying: It could have been me, it could have been you.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
