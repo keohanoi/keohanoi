@@ -2,33 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/filippo-lippi/funeral-of-st-jerome-1465.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/frans-hals/portrait-of-isaak-abrahamsz-massa-1626.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Funeral of St. Jerome</h2>
+        <h2 class="artwork-name">Portrait of Isaak Abrahamsz Massa</h2>
         <h3 class="artist">
-          Filippo Lippi
-                    ·  1465
+          Frans Hals
+                    ·  1626
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Funeral of St. Jerome is a painting by the Italian Renaissance painter <a target="_blank" href="/en/filippo-lippi">Filippo Lippi</a> of Saint Jerome's funeral. It is housed in the Museo dell'Opera del Duomo next to the Cathedral of Prato, central Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Isaak Abrahamsz. Massa is a 1626 painting by <a target="_blank" href="/en/frans-hals">Frans Hals</a> that is in the collection of the Art Gallery of Ontario. It depicts Isaac Massa, a prosperous merchant and a close friend of Hals. Massa was the subject of an earlier work by Hals – Isaak Abrahamsz Massa and Beatrix van der Lean – which also featured his wife. Massa would commission another portrait by Hals in 1635.
 <br>
-<br>The large altarpiece was commissioned by the provost of Prato, Geminiano Inghirami, a patron of the arts who also called <a target="_blank" href="/en/donatello">Donatello</a> and Michelozzo to work in the cathedral. The panel is dated 1440, but this has been always considered a false due to the large stylistic differences with other Lippi's works of the period. It is generally recognized to be from between 1452, when Lippi arrived in Prato (or a few years before), and Inghirami's death in 1460.
+<br>The painting is inscribed with the date 1626, but there is no mention of the identity of the sitter. For many years this led to debate, and it was often assumed to be a self-portrait. Wilhelm Valentiner was a noted proponent of this theory. Other scholars, such as Numa S. Trivas, did advance the idea that it was a portrait of Massa, and this was confirmed by the discovery of an inscription on a 17th-century engraving.
 <br>
-<br>It is housed in the cathedral's museum since the 20th century.
+<br>The 1626 portrait is noted for its informality and vitality. Massa appears leaning over the back of a chair, a significant departure from standard formal portrait poses of the period. Hals would later use similar poses in a number of other paintings, and it would also be employed by other artists in later centuries. Massa’s expression is candid, distracted. He is relaxed and engaged in his own affairs. Hals’s brush strokes too are quick and free instead of smooth and controlled, which not only contributes to Hals’s distinct style but also allowed him to complete an entire painting in one sitting, which accounts for the high volume he produced in his lifetime. Many of Hals’s contemporaries were students of Caravaggio, influenced by his strong chiaroscuro. Though Hals may also have looked to Caravaggio his use of light is even, but Hals still manages to create bold highlights of Massa’s facial features – the right side of his face is illuminated while the left falls into a natural shadow.
 <br>
-<br>The work features numerous characters, painted in different attitudes. In the center, lying on a catafalque with a precious cloth decorated with pomegranates, is the body of St. Jerome. He is surrounded by a group of monks, whose faces show their mourning and despair for the saint's death. The pomegranate cloth is also visible in the funerary monument of Geminiano Inghirami, once in the church of San Francesco, attributed to Pasquino da Montepulciano (1460).
+<br>Massa had made his fortune as a silk merchant in Russia, and was a noted expert on the country. The view through the window of large coniferous trees may be intended to reflect this, it being a scene of Muscovy where much of Massa's trading was conducted. The landscape in the background may have not been painted by Hals, perhaps being the work of noted landscape artist Pieter de Molijn. In Massa's hand he holds a sprig of holly. In traditional symbolism this represents friendship and constancy, and may reflect the close relationship between the artist and subject. It has also been interpreted as Massa's pledge to be faithful to his wife during his long absences.
 <br>
-<br>The mourner's faces show that Lippi had studied Giotto's work in the Bardi Chapel, as some gestures are very similar, such as that of the monks kissing the saint's feet or the one raising his hands. Also the saint's position is similar to Giotto's, as well as the presence of ancient numismatic, a widespread theme at the time.
-<br>
-<br>In the foreground is Inghirami kneeling, with a crippled youth in front of him who points at Jerome's body (a trick to avoid that the donor's red garments could distract the observer). The crippled figure is inspired by the frescoes by <a target="_blank" href="/en/masaccio">Masaccio</a> and Masolino da Panicale in the Brancacci Chapel, which Lippi knew well as he had a been a monk in the convent housing the chapel in his youth.
-<br>
-<br>The upper part of the panel, aside from rocky mountains with three secondary scenes (Adoration of the Child and two episodes of the saint's life), is occupied by angels, perhaps executed by Fra' Diamante or another collaborator. Among them circles which allude to the Heaven's Circles, the Redeemer (with a book with Alpha and Omega), the Holy Spirit dove and the Jesus opening his arms.
-<br>
-<br>At the bottom is the coat of arms of the Inghirami family.</span>
+<br>For many years the painting was part of the collection of the Earls of Spencer. The 1822 Bibliotheca Spenceriana, a catalogue of the Spencer collection, describes it as hanging in one of the bedrooms of the estate. In 1924 the 7th Earl Spencer was forced to sell off part of the family collection to pay down debts. He sold the Hals, along with other works to art merchant Joseph Duveen. The next year Duveen sold the painting to Canadian businessman Frank P. Wood. Upon Wood's death in 1955 his collection was given to the Art Gallery of Ontario, which is where the portrait still resides. In 1959 the painting was stolen from the gallery, along with five other masterworks. The insurance company agreed to pay a ransom for the stolen pictures, and three weeks after disappearing the painting was recovered from a storage room in Parkdale. It had sustained only slight damage.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
