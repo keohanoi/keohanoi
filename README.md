@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/lorenzo-lotto/susanna-and-the-elders-1517.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00281/images/leonora-carrington/do-you-know-my-aunt-eliza-1941.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Susanna and the Elders</h2>
+        <h2 class="artwork-name">Do You Know My Aunt Eliza?</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1517
+          Leonora Carrington
+                    ·  1941
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Susanna and the Elders is a painting by the Italian Renaissance painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, dating from 1517. It is housed in the Uffizi Gallery of Florence.
-<br>
-<br>The work has the signature LOTUS PICTOR 1517. The date places it during Lotto's sojourn in Bergamo, executed perhaps as a private commission. It is likely that it formed a cover for a portrait.
-<br>
-<br>The painting is known in catalogues only from the 20th century, when it was part of the Benson collection in London, and was acquired in 1975 by Alessandro Contini-Bonacossi for 750 million liras. It was later transferred from his collection to the Uffizi, which now exhibits the painting in the room for Lombard painters.
-<br>
-<br>The painting depicts the story of Susanna from the Old Testament. She was the wife of one Joachim, and received the advances of his husband's friends while taking a bath. After her refusal, the "Elders" accused her of adultery, but the accusation was later proved to be false thanks to the intervention of Daniel.
-<br>
-<br>Lotto portrayed her after getting naked for the bath (the clothes scattered around her), while the Elders burst into from the door of the bath's enclosure, followed by two serf called to support their accusation of adultery. The cartouches, showing the characters' dialogue, are an archaic element, perhaps required by the commissioner himself as a complement of the moral message.
-<br>
-<br>The upper part of the picture is occupied by a view of the garden and a castle within an idyllic landscape. A preliminary scene of the episode is shown there, with the woman entering the garden while her two maidens return.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the age of nineteen, Leonora Carrington discovered <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/surrealism">Surrealism</a> through Herbert Read’s book on the movement (<i>Surrealism</i>, London 1936). She was drawn into the movement’s orbit through her relationship with <a target="_blank" href="https://www.wikiart.org/en/max-ernst">Max Ernst</a>, developing her own richly individual imagery that grew out of her childhood obsessions. In the period 1937-41, added impetus came from the tensions engendered by Ernst’s rejected wife, Marie-Berthe Aurenche, and then by his imprisonment on the declaration of war. Escaping occupied France, Carrington crossed into Spain in a state of mental collapse and eventually reached Portugal in 1941, only to encounter Ernst travelling with the American collector Peggy Guggenheim to New York.<br><br><i>Do you know my Aunt Eliza?</i> includes one of Carrington’s central images: the horse. The robed and horse-headed figure with a crucifix towers over a sinister accomplice. The imagery is ambiguous, as Carrington often used the horse as a sign of dynamism and speed and sovereignty. This aspect is seen most notably in her major early painting <i>The Inn of the Dawn Horse</i> 1936-7 (Metropolitan Museum of Art, New York, reproduced in Aberth 2004, p.31), but also in the frozen horse in Portrait of Max Ernst 1939 (reproduced in Aberth 2004, p.43), whose pose, incidentally, anticipates that in Do you know my Aunt Eliza? One recent commentator has added that the horse was ‘multi-determined’, representing for Carrington ‘her access to the invisible world, the sustenance of her internal reality, and the energy that provides her with the impetus to transcend the irrationality of the human world’ (Salomon Grimberg, ‘Leonora Carrington and Julien Levy’, in Tribute to Julien Levy, auction catalogue, Tajan, Paris, October 2004, opposite lots 482-5). In Do you know my Aunt Eliza?, however, the atmosphere is darkly threatening, the horse’s eyeless gaze is matched by the blind stare of its human accomplice. In the context of the artist’s lapsed Catholicism, this image recalls the biting parody of religion found in Francisco Goya (1746-1828), whose bleak etchings may also be remembered in the dense hatching of this drawing. Related drawings, including an untitled image which evokes a witches coven (Tribute to Julien Levy 2004, lot 458), reinforce this association.<br><br>It has been inferred, from the quality of the materials and the finish, that the ink drawings (of which I am an Amateur of Velocipedes is another), were made once Carrington had reached New York in 1941 (Grimberg 2004). They evidently relate closely to more hurried pencil sketches made as part of Carrington’s therapy under Dr Morales in Santander in 1940. The horse image appears in many of these with a similar ambiguity, oscillating between nightmare and self-identification. The artist relived her breakdown in the searing novel Down Below (1943, republished in Carrington 1989, pp.163-209), but a note to her father (that at one time accompanied the sketches) gives, with raw immediacy, a sense of the collapse: ‘It is difficult for you to imagine what very hard work it is to reconstruct a complete nervous wreck ... I think you had better know that I have been very close to lunacy’ (Tribute to Julien Levy 2004, lot 694).<br><br>The question that serves as this drawing’s title is inscribed on the back. Just as with I am an Amateur of Velocipedes, it can be related to Carrington’s story Little Francis (republished in Carrington 1989, pp.163-209). This tells of the destructive rivalry for Uncle Ubriaco’s affection between Amelia, his daughter, and her cousin Francis. These characters thinly disguise Marie-Berthe, Ernst and Carrington herself, the conflict that, in part at least, precipitated her breakdown. The central passages, which focuses on Francis (the Carrington figure), concern his attempts to retain Ubriaco. On being forced to move-on by the immanent arrival of Amelia, he sings ‘rather dejectedly’, while cycling (Carrington 1989, p.110):</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
