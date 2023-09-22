@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/georges-seurat/sunday-afternoon-on-the-island-of-la-grande-jatte-1886.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00121/images/francis-picabia/6883080766-547ce09ce9-k.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Sunday Afternoon on the Island of La Grande Jatte</h2>
+        <h2 class="artwork-name">The Procession, Seville</h2>
         <h3 class="artist">
-          Georges Seurat
-                    ·  1886
+          Francis Picabia
+                    ·  1912
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This most famous and influential <a target="_blank" href="https://www.wikiart.org/en/paintings-by-style/neo-impressionism">Neo-Impressionist</a> work depicts a cross-section of Paris society enjoying a Sunday afternoon in the park on an island in the Seine River just at the gates of Paris. Sunday was the time that middle-class Parisians escaped the city to enjoy the outdoors. The people primarily gather in small groups of two or three or sit alone in proximity to others. It is the relationship between these people that creates a sense of modernity, with its distance and disconnection, and nervous tension that lends the work an air of mystery.<br><br>Using a grid system and applying small dots of paint, Seurat took two years to complete this large-scale painting. He went to the park often, observing and making over 60 preliminary studies, including 15 in oil. Invoking Greek classical art, Seurat explained, "The Panathenaeans of Phidias formed a procession. I want to make modern people, in their essential traits, move about as they do on those friezes, and place them on canvases organized by harmonies of color." Seurat hoped to capture the permanence, or essential forms, behind the fleeting moments. Everyone here is caught in a still pose, except for the child in the orange dress skipping off into the trees, the man on the far left playing trombone, and the furious little dog at the lower right. However, it seems a stillness that might burst into movement at any moment, just as the upper half of the painting moves into the sunlight and the boats in the distance cut across the river. While Seurat invoked classical and Egyptian figures, some have interpreted the overall static effect of the composition and the stiffness of the poses as a critique of the artificiality of modern society and the boredom of middle-class life.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Francis Picabia was an organizing member of the Salon de la Section d'or, exhibiting a group of 13 paintings there, including this large square canvas that testifies to his assimilation of Cubism and Futurism. This rhythmic and colourful evocation reflects the memory of a religious procession observed during a trip to Spain. The barely discernible motif of nuns dressed in black and white is fragmented into irregular planes that build up in the centre of the painting. The critic Maurice Raynal compared this to the poetry of Mallarmé, which cannot be understood on a first reading. Apollinaire likened it to Orphic Cubism, or "pure painting", an abstract idiom analogous to music. The painting caused outrage at the 1913 New York Armory Show, establishing his reputation in the USA as the highly provocative leader of an artistic school."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
