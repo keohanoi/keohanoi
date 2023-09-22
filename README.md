@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/eva-hesse/tomorrow-s-apples-5-in-white-1965.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/pastoral-concert-fête-champêtre-1509(2).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Tomorrow's Apples (5 in White)</h2>
+        <h2 class="artwork-name">Pastoral Concert (Fête champêtre)</h2>
         <h3 class="artist">
-          Eva Hesse
-                    ·  1965
+          Giorgione
+                    ·  1509
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hesse trained as a painter but, in the mid-1960s, experimented with making reliefs like this one, and began to use materials such as wool and string. This development was prompted by the difficulties she was having in translating her often complex drawings into painting. From making reliefs, Hesse naturally gravitated towards sculpture. This is one of Hesse’s earliest relief works and, like others of the time, is characterised by semi-organic shapes and trailing linear elements.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is one of the mysteries of European painting: in spite of its undeniable quality and epochal importance, opinions are divergent concerning both its creator and its theme. It is the outstanding masterpiece of the Venetian Renaissance, the summit of Giorgione's creative career, so much so that according to some it may have been painted, or at least finished, by Titian rather than Giorgione.
+<br>
+<br>The painting has been interpreted as an allegory of Nature, similar to Giorgione's Storm, which was undeniably painted by him; it was even viewed as the first example of the modern herdsman genre. Its message must be more complex than this. It is likely that the master consciously unified several themes in this painting, and the deciphering of symbols required a degree of erudition even at the time of its creation. During the eighteenth century the painting was known by the simple name of "Pastorale" and only subsequently was it given the title "Fête champêtre" or "Concert champêtre", owing to its festive mood. Modern research has pointed out that the composition is in fact an allegory of poetry.
+<br>
+<br>The female figures in the foreground are probably the Muses of poetry, their nakedness reveals their divine being. The standing figure pouring water from a glass jar represents the superior tragic poetry, while the seated one holding a flute is the Muse of the less prestigious comedy or pastoral poetry. The well-dressed youth who is playing a lute is the poet of exalted lyricism, while the bareheaded one is an ordinary lyricist. The painter based this differentiation on Aristotle's "Poetica".
+<br>
+<br>The scenery is characterized by a duality. Between the elegant, slim trees on the left, we see a multi-levelled villa, while on the right, in a lush grove, we see a shepherd playing a bagpipe. Yet the effect is completely unified. The very presence of the beautiful, mature Muses provides inspiration; the harmony of scenery and figures, colours and forms proclaims the close interrelationship between man and nature, poetry and music.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
