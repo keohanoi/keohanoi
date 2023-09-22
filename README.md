@@ -2,27 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/michael-bell/the-ring-2008.jpg"
+        src="https://uploads2.wikiart.org/00129/images/titian/violante.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Ring</h2>
+        <h2 class="artwork-name">Violante</h2>
         <h3 class="artist">
-          Michael Bell
-                    ·  2008
+          Titian
+                    ·  1518
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Violante is an oil painting attributed to <a target="_blank" href="/en/titian">Titian</a>, dated to around 1515 and now held at the Kunsthistorisches Museum in Vienna.
 <br>
-<br>"The Ring" is the third of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
+<br>The work was part of the Venetian collection of Bartolomeo della Nave and in 1636, it was sold to the Duke of Hamilton, who brought it to London. In 1659, it was acquired by Archduke Leopold Wilhelm of Austria, whose collection later became part of the current museum.
 <br>
-<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
-<br> 
-<br>In Scene 3, "The Ring" the subway station is flooding with an avalanche of water symbolic of an extreme emotional outpour as an emergency phone dangles off the hook.
+<br>The title refers to the traditional identification with Violante, the daughter of painter Palma the Elder (to whom the painting was assigned for a long time), which has however no proof. An etching by <a target="_blank" href="/en/david-teniers-the-younger">David Teniers the Younger</a> show the painting having larger size, although a representation of the archduke's gallery from the same artist depicts it in the same current size. The painting must have been a popular painting when it was in the Archduke's cabinet, as it was portrayed in his gallery paintings.
 <br>
-<br></span>
+<br>The work was attributed to Titian by Italian art historian Roberto Longhi. The woman portrayed is very similar to that in the Balbi Holy Conversation and a series of portraits of wavy-haired blonde women such as the Woman at the Mirror, Flora, the Vanity, Salome and the Young Woman with Black Dress.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
