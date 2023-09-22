@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00159/images/charuvi-agrawal/cdl-hanuman-image03.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00243/images/martyl-langsdorf/cyrus-tiffany-in-the-battle-of-lake-erie-september-13-1813-mural-by-martyl-schweig-at-the-recorder.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">26000 Bells of Hanuman Sculpture</h2>
+        <h2 class="artwork-name">Cyrus Tiffany in the Battle of Lake Erie, September 13, 1813</h2>
         <h3 class="artist">
-          Charuvi Agrawal
-                    ·  2014
+          Martyl Langsdorf
+                    ·  1943
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Shri Hanuman 25ft Suspended Sculpture made of 26000 Bells created by Charuvi Agrawal. The 25 feet sculpture of Shri Hanuman made of 26,000 bells which is a unique combination of art and technology and also a humble effort in portray the depth, splendor and the meaning of the verses.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mural in the Recorder of Deeds building, built in 1943. 515 D St., NW, Washington, D.C. Created as a Works Progress Administration work (US government work in public domain). Photograph of mural by Carol M. Highsmith, who has also released photo to public domain.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
