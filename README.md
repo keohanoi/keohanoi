@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/pastoral-concert-fête-champêtre-1509(2).jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00442/images/kathe-kollwitz/kathe-kollwitz-peasant-war-print-6-battlefield-1907-obelisk-art-history.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pastoral Concert (Fête champêtre)</h2>
+        <h2 class="artwork-name">The Battlefield</h2>
         <h3 class="artist">
-          Giorgione
-                    ·  1509
+          Kathe Kollwitz
+                    ·  1907
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is one of the mysteries of European painting: in spite of its undeniable quality and epochal importance, opinions are divergent concerning both its creator and its theme. It is the outstanding masterpiece of the Venetian Renaissance, the summit of Giorgione's creative career, so much so that according to some it may have been painted, or at least finished, by Titian rather than Giorgione.
-<br>
-<br>The painting has been interpreted as an allegory of Nature, similar to Giorgione's Storm, which was undeniably painted by him; it was even viewed as the first example of the modern herdsman genre. Its message must be more complex than this. It is likely that the master consciously unified several themes in this painting, and the deciphering of symbols required a degree of erudition even at the time of its creation. During the eighteenth century the painting was known by the simple name of "Pastorale" and only subsequently was it given the title "Fête champêtre" or "Concert champêtre", owing to its festive mood. Modern research has pointed out that the composition is in fact an allegory of poetry.
-<br>
-<br>The female figures in the foreground are probably the Muses of poetry, their nakedness reveals their divine being. The standing figure pouring water from a glass jar represents the superior tragic poetry, while the seated one holding a flute is the Muse of the less prestigious comedy or pastoral poetry. The well-dressed youth who is playing a lute is the poet of exalted lyricism, while the bareheaded one is an ordinary lyricist. The painter based this differentiation on Aristotle's "Poetica".
-<br>
-<br>The scenery is characterized by a duality. Between the elegant, slim trees on the left, we see a multi-levelled villa, while on the right, in a lush grove, we see a shepherd playing a bagpipe. Yet the effect is completely unified. The very presence of the beautiful, mature Muses provides inspiration; the harmony of scenery and figures, colours and forms proclaims the close interrelationship between man and nature, poetry and music.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Käthe Kollwitz is acclaimed for her poignant scenes of human suffering, especially the tragic consequences of poverty and disease among women and children. A consummate draftsman, she relied on the graphic arts-in the form of prints, illustrations, and posters-as a powerful instrument of political allegiance to her left-leaning social agenda. She was anti-war, anti-violence, and a believer in the resilience of the human spirit.<br><br>Kollwitz's dramatic night scene, part of her Peasant War print cycle, depicts a mother searching for her dead son among a field of corpses. In the soft light of the lantern, her weathered hand is illuminated as she touches the chin of a young man, perhaps her own child. Rather than portray the chaos and brutality of battle, Kollwitz shows us the agonizing aftermath of the fighting when the bodies of the dead were claimed by their loved ones. Though the scene alludes to the atrocities of a 16th-century workers revolt, it stands as a universal statement of a mother's love for her son, made more heartbreaking in that it foreshadows the death of Kollwitz's own son, Peter, who was killed in battle shortly after the start of the First World War (1914-1918).</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
