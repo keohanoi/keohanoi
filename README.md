@@ -2,21 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00142/images/diego-velazquez/pablo-de-valladolid.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/rembrandt/the-jewish-bride-1666.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pablo de Valladolid</h2>
+        <h2 class="artwork-name">The Jewish Bride</h2>
         <h3 class="artist">
-          Diego Velazquez
-                    ·  1637
+          Rembrandt
+                    ·  1666
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Pablo de Valladolid is a portrait by <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> of Pablo or "Pablillos" de Valladolid, 1587–1648, a jester and actor at Philip IV's court from 1632 until his death. It is now in the Prado, to which it was moved in 1827.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Jewish Bride (Dutch: Het Joodse bruidje) is a painting by <a target="_blank" href="/en/rembrandt">Rembrandt</a>, painted around 1667.
 <br>
-<br>In 1701 it was at the Palacio del Buen Retiro, in 1772 at the Palacio Real de Madrid and in 1816 at the <a target="_blank" href="/en/artists-by-art-institution/real-academia-de">Academia de San Fernando</a>. In 1865, during his visit to Spain, the French painter <a target="_blank" href="/en/edouard-manet">Édouard Manet</a> wrote of it:</span>
+<br>The painting gained its current name in the early 19th century, when an Amsterdam art collector identified the subject as that of a Jewish father bestowing a necklace upon his daughter on her wedding day. This interpretation is no longer accepted, and the identity of the couple is uncertain. The ambiguity is heightened by the lack of anecdotal context, leaving only the central universal theme, that of a couple joined in love. Speculative suggestions as to the couple's identity have ranged from Rembrandt's son Titus and his bride, or Amsterdam poet Miguel de Barrios and his wife. Also considered are several couples from the Old Testament, including Abraham and Sarah, Boaz and Ruth, or Isaac and Rebekah, which is supported by a drawing by the artist several years prior.
+<br>
+<br>While technical evidence suggests that Rembrandt initially envisioned a larger and more elaborate composition, the placement of his signature at lower left indicates that its current dimensions are not significantly different from those at the time of its completion. According to Rembrandt biographer Christopher White, the completed composition is "one of the greatest expressions of the tender fusion of spiritual and physical love in the history of painting."
+<br>
+<br>The painting is in the permanent collection of the Rijksmuseum Amsterdam.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
