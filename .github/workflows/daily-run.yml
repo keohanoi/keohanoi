@@ -25,12 +25,13 @@ jobs:
       - name: Commit files
         run: |
           # Hard-code user configuration
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "nguyentruongkhang22"
+          git config --global user.email "nguyentruongkhang22@gmail.com"
+          git remote set-url origin https://nguyentruongkhang22:${{ secrets.SuperSecret }}@github.com/nguyentruongkhang22/nguyentruongkhang22.git
           git pull
           # Checkout the branch so we can push back to it
           git checkout main
           git add -A
           # Only commit and push if we have changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Daily Trending at $(date +'%Y-%m-%d %H:%M')")
+          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Daily Artwork at $(date +'%Y-%m-%d %H:%M')")
           git push
