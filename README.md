@@ -2,25 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/salvador-dali/galatea-of-the-spheres.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00142/images/57726d7cedc2cb3880b47b1a/supper-at-emmaus-caravaggio-1606.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Galatea of the Spheres</h2>
+        <h2 class="artwork-name">Supper at Emmaus</h2>
         <h3 class="artist">
-          Salvador Dali
-                    ·  1952
+          Caravaggio
+                    ·  1606
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Galatea of the Spheres is a painting by <a target="_blank" href="/en/salvador-dali">Salvador Dalí</a> made in 1952. It depicts Gala Dalí, Salvador Dalí's wife and muse, as pieced together through a series of spheres arranged in a continuous array. The name Galatea refers to a sea nymph of Classical mythology renowned for her virtue, and may also refer to the statue beloved by its creator, Pygmalion.  <br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Supper at Emmaus (1606) is a painting by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a>, housed in the Pinacoteca di Brera (Sala XXIX), Milan.
 <br>
-<br>Measuring 65.0 x 54.0 cm, the painting depicts the bust of Gala composed of a matrix of spheres seemingly suspended in space. It represents a synthesis of Renaissance art and atomic theory and illustrates the ultimate discontinuity of matter, the spheres themselves representing atomic particles.<br>
+<br>In the collection of Marchese Patrizi by 1624 and possibly commissioned by him, references by Caravaggio's early biographers Giulio Mancini and Giovanni Bellori suggest it was painted in the few months after May 1606 when the artist was in hiding on the estates of Prince Marzio Colonna following the death of Ranuccio Tomassoni (see main article, <a target="_blank" href="/en/caravaggio">Caravaggio</a>), although it may also have been painted in Rome earlier in the year - the innkeeper's wife seems to be the same as the model for Saint Anne in Madonna and Child with St. Anne of 1605, although given the almost complete echoing of pose and lighting, she may have been done from memory.
 <br>
-<br>Dalí had been greatly interested in nuclear physics since the first atomic bomb explosions of August 1945, and described the atom as his "favourite food for thought". Recognising that matter was made up of atoms which did not touch each other, he sought to replicate this in his art at the time, with items suspended and not contacting each other, such as in The Madonna of Port Lligat. This painting was also symbolic of his attempt to reconcile his renewed faith in Catholicism with nuclear physics. His friend, painter Antoni Pitxot, recalled that Dalí held in high regard the depth of perspective in the painting and the spheres he had painted.<br>
+<br>The painting inevitably invites comparison with the National Gallery version of the same subject: the expansive theatrical guestures have become understated and natural, the shadows are darkened, and the colours muted although still saturated. The effect is to emphasise presence more than drama. Some details - the ear of the disciple on the right, the right hand of the innkeeper's wife - remain badly drawn, but there is a fluidity in the handling of the paint which was to increase in Caravaggio's post-Roman work as his brushwork became increasingly calligraphic. The artist may have had problems working out his composition - the innkeeper's wife looks like a last-minute addition. Neither she nor the innkeeper are mentioned in the Gospel of Luke 24:28-32, but had been introduced by Renaissance painters to act as a foil to the amazement of the two disciples as they recognise the resurrected Christ.
 <br>
-<br>Dalí wished for this painting to be displayed on an easel, which had been owned by French painter <a target="_blank" href="/en/ernest-meissonier">Jean-Louis-Ernest Meissonier</a>, in a suite of three rooms called the Palace of the Winds (named for the tramontana) in the Dalí Theatre and Museum in Figueres. It remains on display there to this day. It was transported to and exhibited at the National Gallery of Victoria in Melbourne in 2009, along with many other Dalí paintings in the Liquid Desire exhibition.<br></span>
+<br>From 5 June to 31 August 2013, Supper at Emmaus was exhibited in The Museum of Arts and Crafts in Zagreb, as a welcoming present of Italian government for Croatia's joining the EU on 1 June 2013. In March 2014, Supper at Emmaus is loaned to Hong Kong's The Asia Society for an exhibition called "Light and Shadows - Caravaggio • The Italian Baroque Master". The society has also arranged other artworks and activities to promote the exhibition in Park Court, Pacific Place which runs from 12 March until 13 April 2014.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
