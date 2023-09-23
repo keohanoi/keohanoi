@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/theodule-ribot/the-martyrdom-of-st-sebastian-1865.jpg"
+        src="https://uploads7.wikiart.org/images/george-romney/admiral-sir-francis-geary-1709-1796-1783.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Martyrdom of St Sebastian</h2>
+        <h2 class="artwork-name">Admiral Sir Francis Geary (1709–1796)</h2>
         <h3 class="artist">
-          Theodule Ribot
-                    ·  1865
+          George Romney
+                    ·  1783
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this unusual illustration of the story of Saint Sebastian, successfully exhibited at the Salon of 1865, Ribot did not use the episode so often represented since the Middle Ages, in which the martyr is tied to a tree, his body pierced with arrows. He chose a later scene, when St Irene and one of her servants were bathing his wounds; only a broken arrow in the centre foreground and the remains of a rope around his right wrist recall his ordeal. Brilliantly lit by a light source coming from the upper right corner, the saint's body stands out against the shapes of two kneeling women in dark clothing looming out of the darkness and hardly discernible against the nocturnal landscape. The subtle shift from shadow to light is however not what visitors in 1865 would have seen as the industrially produced paints he used have evolved differently and the shadows in particular have turned black.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A full-length portrait to right wearing flag officer's full-dress uniform, 1767–1783, a tie wig and holding his hat and cane in his right hand. There is a pentimento which indicates the hat was originally on his head and the picture was exhibited at the Royal Academy in 1782. A rear-admiral under Hawke in 1759, Geary had the misfortune to miss the Quiberon Bay action that November. In May 1780 he succeeded to the command of the Channel fleet on the death of Sir Charles Hardy, during a critical period of threatened French invasion, but was forced to give up the command for health reasons the following August. In this painting he stands on the battery at Portsmouth, with the fleet anchored in the left background including the 'Victory', 100 guns, as his flagship. Both the background and the ships are believed to be by Dominic Serres. There is a modern inscription in the left foreground.
+<br>
+<br>The artist was an important portrait painter of the late eighteenth century, generally ranked third after Joshua Reynolds and Thomas Gainsborough. He was in Paris in 1764 and in 1773 moved to Italy for two years, where he became interested in history paintings in the elevated and élitist 'Grand Manner'. This developed into improving upon nature and the pursuit of perfect form. At its best his work demonstrated refinement, sensitivity and elegance, although it could also be repetitive and monotonous. As a society painter he typified late-eighteenth-century English artists who, compelled by the conditions of patronage to spend their time in producing portraits, could only aspire to imaginative and ideal painting. By 1780 Romney's portraits, according to Horace Walpole, were 'in great vogue' and he worked in an increasingly neo-classical style.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
