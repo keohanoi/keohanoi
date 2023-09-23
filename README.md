@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00307/images/sergio-illuminato/35-29-06-2020.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/hugo-simberg/the-garden-of-the-dead-1896.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">EPOPTEIA</h2>
+        <h2 class="artwork-name">The Garden of the Dead</h2>
         <h3 class="artist">
-          Sergio Mario Illuminato
-                    ·  2020
+          Hugo Simberg
+                    ·  1896
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The wheel of existence turns and shows the public part and the private part. We need to look “above” to rebuild identity after a pandemic shock. Detail is important. Detail is the enemy of any ideology. Who is pervasively entering our lives?<br><br>La ruota dell’esistenza gira e mostra la parte pubblica e la parte privata. Serve guardare “al di sopra” per ricostruire l’identità dopo uno shock pandemico. Il dettaglio è importante. Il dettaglio è nemico di qualsiasi ideologia. Chi sta entrando in maniera pervasiva nelle nostre vite?<br><br>La roue de l’existence tourne et montre la partie publique et la partie privée. Nous devons regarder “au-dessus” pour reconstruire l’identité après un choc pandémique. Le détail est important. Le détail est l’ennemi de toute idéologie. Qui entre de façon omniprésente dans nos vies?</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Garden of Death (Finnish: Kuoleman puutarha) (1896) is a painting by Finnish symbolist painter <a target="_blank" href="/en/hugo-simberg">Hugo Simberg</a>. Like many of Simberg's paintings, it depicts a gloomy, otherworldly scene. The central figures are reminiscent of the classic black-clad Grim Reaper, but paradoxically are tending to gardens; traditionally symbols of birth or renewal.
+<br>
+<br>The Garden of Death is one of the few paintings whose symbolism Simberg explained; typically he preferred to let viewers come to their own conclusions. In a note on one sketch he described the garden as "the place where the dead end up before going to Heaven".  Simberg's juxtaposition of the traditionally frightening imagery of death with the tenderness and humor of his portrayal invite the viewer to consider mortality in a new light. 
+<br>
+<br>The painting was a favourite subject of Simberg's and he made several versions using different techniques, including larger fresco version of the painting in the Tampere Cathedral, which also contains other works by Simberg.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
