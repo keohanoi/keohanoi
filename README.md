@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pablo-picasso/the-remains-of-minotaur-in-a-harlequin-costume-1936.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/john-singleton-copley/watson-and-the-shark-1782.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Remains of Minotaur in a harlequin costume</h2>
+        <h2 class="artwork-name">Watson and the Shark</h2>
         <h3 class="artist">
-          Pablo Picasso
-                    ·  1936
+          John Singleton Copley
+                    ·  1782
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This artwork was painted in 1936 as the stage curtain for Romain Rolland's play <i>Le 14 Juillet</i>. The work, which stands about 9 metres high and more than 12 metres across, has little direct reference to the play and was apparently hurriedly completed as an enlargement from a small gouache - an opaque watercolour - which had been finished long before the commission. <br><br>The subject is a strange choice, because there is no iconographic or narrative link to Romain Rolland's enthusiastic play. There is evidence, though, that the artist did try a Revolutionary design but did not have the time to complete it. There is a curious drawing dated June 13, 1936 which shows a joyful crowd with what looks like a symbolic reference to the taking of the Bastille. On the other hand, Picasso was obsessed by personal allusions at the time with reference to mythology and bullfighting. You can see in the curtain the confrontation of good and evil, the victory of youth, and beauty conquering menace, which was a logical rapprochement of the epic themes of both Picasso and Rolland.<br><br>Picasso was so attached to the work that he kept it in his Paris atelier throughout the war, and only donated it to Toulouse, a southern city with a strong bullfighting tradition, in 1965. At present the curtain is in its own gallery in the Espace d'Art Moderne et Contemporain, Toulouse, France.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">John Singleton Copley’s dramatic rendering of a shark attacking 14-year-old Brook Watson caused a sensation when it was exhibited at London’s Royal Academy in 1778. The pictured attack had occurred some 30 years earlier. Watson, an orphan, had unwisely decided to take a dip from a skiff while the ship on which he was crewing docked in Havana Harbor. A shark attacked him, biting his right leg and pulling him under.The boy surfaced briefly before the shark dragged him under a second time, severing his right foot. By the time Watson surfaced again, his mates had nearly reached him. Copley depicts the boy’s climactic rescue: just as the shark zeroed in for its third strike, a determined crewmate armed with a boat hook drove it away. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
