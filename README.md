@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hugo-simberg/the-garden-of-the-dead-1896.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00367/images/jacob-van-ruisdael/th-1.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Garden of the Dead</h2>
+        <h2 class="artwork-name">Bentheim Castle</h2>
         <h3 class="artist">
-          Hugo Simberg
-                    ·  1896
+          Jacob van Ruisdael
+                    ·  1653
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Garden of Death (Finnish: Kuoleman puutarha) (1896) is a painting by Finnish symbolist painter <a target="_blank" href="/en/hugo-simberg">Hugo Simberg</a>. Like many of Simberg's paintings, it depicts a gloomy, otherworldly scene. The central figures are reminiscent of the classic black-clad Grim Reaper, but paradoxically are tending to gardens; traditionally symbols of birth or renewal.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bentheim Castle (1653) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch Golden Age painter Jacob van Ruisdael. It is in the collection of the National Gallery of Ireland in Dublin.
 <br>
-<br>The Garden of Death is one of the few paintings whose symbolism Simberg explained; typically he preferred to let viewers come to their own conclusions. In a note on one sketch he described the garden as "the place where the dead end up before going to Heaven".  Simberg's juxtaposition of the traditionally frightening imagery of death with the tenderness and humor of his portrayal invite the viewer to consider mortality in a new light. 
+<br>This work is considered the most impressive of a dozen depictions Ruisdael made of Bentheim Castle. In the early 1650s he travelled with Nicolaes Berchem to Bentheim, in western Germany, just over the border. This work, called the Dublin version to distinguish it from the others, all with similar titles and all depicting the castle at various heights of hilltop, is significant in the series in that it puts the castle on top of a wooded mountain. In reality, the castle is on a low hill. These variations showcase Ruisdael's creative power. Despite the high realism of his landscapes, they are often compositions rather than exact copies of the real world.
 <br>
-<br>The painting was a favourite subject of Simberg's and he made several versions using different techniques, including larger fresco version of the painting in the Tampere Cathedral, which also contains other works by Simberg.</span>
+<br>The dimensions are 110 x 144&nbsp;cm. The painting is catalogue number 15 in Slive's 2001 catalogue raisonné of Ruisdael.
+<br>
+<br>Similar work by Jacob van Ruisdael, with their catalogue number from Slive's 2001 catalogue raisonné:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
