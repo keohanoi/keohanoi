@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/john-jackson/henry-william-greville-1801-1872-1830.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/victor-pasmore/abstract-in-white-grey-and-ochre-1949.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Henry William Greville (1801–1872)</h2>
+        <h2 class="artwork-name">Abstract in White, Grey and Ochre</h2>
         <h3 class="artist">
-          John Jackson
-                    ·  1830
+          Victor Pasmore
+                    ·  1949
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Henry William Greville was the third son of Charles Greville and Lady Charlotte Cavendish-Bentinck (d.1862), daughter of William HenryCavendish-Bentinck, 3rd Duke of Portland (1738-1809). He was born 28 October, 1801, and died unmarried, on 12 December, 1872. His brother was the diarist, Charles Greville, whose Leaves from a Diary was published after his death.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This was made shortly after Pasmore's first abstract collage, during a transitional phase in his career. The structures and patterns, shapes and colours of his landscape - inspired paintings had evolved into a formal vocabulary, and Pasmore began to work in a more abstract manner. While he was also making paintings based on square or spiral forms, a major line of investigation during this time was collage in the Cubist manner, which he developed between 1949-53. Here he used scraps of coloured paper and newsprint to give a new reality, that is an anti-illusionistic content, to his compositions. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
