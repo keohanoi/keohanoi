@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00103/images/carles-delclaux-is/els-dies-de-la-dona-350x200cm-delclaux-1972.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/ford-madox-brown/lear-and-cordelia(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Els dies de la dona</h2>
+        <h2 class="artwork-name">Lear and Cordelia</h2>
         <h3 class="artist">
-          Carles Delclaux Is
-                    ·  1972
+          Ford Madox Brown
+                    ·  1848
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Carles Delclaux Is (born 1951, Sant Cugat del Vallès) is a textile artist trained in the Aymat factory and in the Massana School of Fine Arts in Barcelona.
-<br>
-<br>From 1970 to 1974 he directed the Catalan School of Tapestry In 1975 he moved to Girona, where he held a chair in tapestry, teaching the craft of weaver based on academicism.
-<br>
-<br>He has recreated works of many artists, reinterpreting: Josep Grau-Garriga [1], Joan-Josep Tharrats, Josep Maria Subirachs, <a target="_blank" href="/en/joan-miro">Joan Miró</a>, Manuel Millares, José Beulas, <a target="_blank" href="/en/modest-cuixart">Modest Cuixart</a>, Pere Lloses, Domènec Fita, Narcís Comadira, Juan José Torralba, Francesc Torres i Monsó, Marcel Martí and others. His own designs evolve tapestry for a renaissance in the third millennium.
-<br>
-<br>His work is part of the collections of museums such as MACBA, CDAN, Contemporary Tapestry Museum-Casa Aymat, CDMT and others, as well as private collections and public institutions.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the first of three paintings by Brown that illustrate scenes from Shakespeare's tragedy King Lear. All three pictures are based on a series of pen and ink sketches produced during a trip to Paris in 1843-4. On 2 May 1848 Brown saw William Charles Macready (1793-1873) in a production of the play, and began work on this picture in November of the same year.
+<br>The painting illustrates Act IV, Scene VII from the play. Brown used models for most of the figures, but the head of Lear was inspired by 'a cast of Dante's and a drawing of Coulton' . He used his favourite model, Maitland, for the soldiers on the right, and his new pupil and friend, Dante Gabriel Rossetti, for the fool, who holds Lear in his sinister stare. He modelled the head of Cordelia on his own wife-to-be, Emma, but the hands were those of a professional model, Mrs Ashley. In order to render the spirit of Shakespeare's play, he chose to dress his figures in the costume of the 6th century when, according to Brown himself, as noted in his 1865 catalogue, 'paganism was still rife, and deeds were at their darkest.' Behind Lear's head he includes a detail from on of the main scenes in the Bayeux Tapestry.
+<br>The picture was first shown at the Free Exhibition in 1849, where it was well received, but remained unsold. Brown continued to work on the picture intermittently until 1854, when it was bought by John Seddon the architect for 15 guineas.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
