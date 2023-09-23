@@ -2,45 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/richard-dadd/the-fairy-feller-s-master-stroke-1864.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/albrecht-durer/self-portrait-1498.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Fairy Feller's Master-Stroke</h2>
+        <h2 class="artwork-name">Self-Portrait</h2>
         <h3 class="artist">
-          Richard Dadd
-                    ·  1864
+          Albrecht Durer
+                    ·  1498
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fairy Feller's Master-Stroke is a painting by English artist <a target="_blank" href="/en/richard-dadd">Richard Dadd</a>. It was begun in 1855 and worked on until 1864. Dadd painted it while incarcerated in the State Criminal Lunatic Asylum of Bethlem Royal Hospital, where he was confined after he murdered his father in 1843. It was commissioned by George Henry Haydon, who was head steward at Bethlem Royal Hospital at the time.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self-portrait (or Self-portrait at 26) is the second of <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>'s three painted self-portraits. In this work, executed in oil on wood panel in 1498, Dürer haughtily elevates himself to the social position he believed suited to an artist of his ability. Dürer depicts himself indoors under an arch, in half length, turning towards the viewer. Painted after his first trip to Italy, he is depicted bearing an arrogant, cocky expression which betrays the assured self-confidence of a young artist at the height of his ability. Dürer's presence dominates the pictorial space, from his hat which almost reaches the top of the canvas to his arm positioned on the lower ledge, where he rests his fingers enclosed in fine rich gloves.
 <br>
-<br>Dadd had begun his career as a painter of fairy paintings before the onset of his mental illness. After he was committed, he was encouraged to resume painting. G. H. Haydon was impressed by Dadd's artistic efforts and asked for a fairy painting of his own. Dadd worked on the painting for nine years, paying microscopic attention to detail and using a layering technique to produce 3D-like results. Although it is generally regarded as his most important work, Dadd himself considered the painting to be unfinished (the background of the lower left corner is only sketched in).
+<br>Until some time in the 19th century the painting was hung with and kept as a companion piece with Portrait of Dürer's Father at 70; in 1636 the two paintings were gifted as a pair to Charles I of England by the city of Nuremberg, and this work was at some point acquired by Philip IV of Spain. Today it is in the Museo del Prado in Madrid.
 <br>
-<br>He signed the back of the canvas with the inscription: "The Fairy-Feller's Master-Stroke, Painted for G. H. Haydon Esqre by Rd. Dadd quasi 1855–64". According to Patricia Allderidge, 'quasi' "may mean that it was set aside during that period or that it took a long time to start". The end date, 1864, coincides with Dadd's transfer to Broadmoor Hospital in Berkshire, the asylum where he spent the remaining 21 years of his life.
+<br>Dürer shows himself before an open window with a flat plane with a lake before distant snow-capped mountains, the landscape perhaps representing either the memory of his recent travels abroad or his inner mental state. Light spills from the window, falling along his head to highlight both his delicate skin tones and long blond hair. Dürer is dressed with effeminate grace in flamboyant, extravagant clothes showing the influence of Italian fashion. His low-necked shirt or chemise is of fine linen, gathered and trimmed with a band of gold braid or embroidery, and worn under an open-fronted doublet and a cloak tied over one shoulder. His white jacket has black lining under a white pleated shirt of which the verticals match the horizontals of his headdress. His fingers are crossed, hidden inside silk gloves, an unusual pose for Dürer's early career; he always paid close attention in detailing the hands of his sitters who are usually showing holding an object; examples include a pillow, rosary, sheet of paper and flower.
 <br>
-<br>In order to give context to his work, Dadd subsequently wrote a long poem by the name of Elimination of a Picture &amp; its Subject—called The Fellers' Master Stroke in which each of the characters appearing in the picture is given a name and purpose—including myriad references to old English folklore and Shakespeare—in an apparent attempt to show that the painting's unique composition was not merely a product of random, wild inspiration.
+<br>Dürer presents himself as almost seductive, with a rakish patterned hat placed over long, almost girlishly curled blond locks of hair under a draped pointed hat with a tassel. He looks out at the viewer with a cool ironic stare.
 <br>
-<br>The painting is in the Tate Britain collection. It was presented to the Tate by the war poet Siegfried Sassoon in memory of his friend and fellow officer Julian Dadd, a great-nephew of the artist, and of his two brothers who gave their lives in the First World War.
-<br>
-<br>The Queen song "The Fairy Feller's Master-Stroke" from the album Queen II was born of Freddie Mercury's appreciation of the work; it makes direct reference to the painting's characters as detailed in Dadd's poem.
-<br>
-<br>Terry Pratchett's novel The Wee Free Men contains a scene inspired by the painting.
-<br>
-<br>The painting, the art of the insane, and Dadd are mentioned in the novel, Mortal Love, by Elizabeth Hand.
-<br>
-<br>The work is a central plot element in the novel The Witches of Chiswick by Robert Rankin.
-<br>
-<br>Neil Gaiman wrote a tribute to the painting for Intelligent Life (July/August 2013)
-<br>
-<br>The painting appears in Alex Bledsoe's Tufa novels.
-<br>
-<br>The painting is an attributed plot element in Mike Shevdon's The Road to Bedlam, Book II of his The Courts of the Feyre series.
-<br>
-<br>Former Gorky's Zygotic Mynci singer Euros Childs included an instrumental song titled "The Fairy Feller's Master-Stroke" on his 2009 solo album, Son of Euro Child.
-<br>
-<br>Mark Chadbourn's "The Fairy Feller's Master Stroke", about a contemporary young man looking for meanings in the painting, won the British Fantasy Award for best short story in 2003.</span>
+<br>Art historian Marcel Brion believes the self-portrait marks a farewell to his irresponsible youth, the acclaim he received during his visit to Italy and his general apprehension as the 15th century came to an end and dark clouds hung over the Germanic states. The middleground of the pleasing flat plain and lake may represent his travels from 1492 to 1497, yet they are shadowed by steep mountainous glaciers; forebodings of what lay in store. In this Brion interprets the artist's state as looking toward his future and past. Dürer's youthful character was enthusiastic, adventurous and inhibited, and after he left his hometown of Nuremberg in 1490 to travel as journeyman painter he was able to live his early youth with abandon and almost without consequence. By the time this portrait was painted he was back home, and old enough to begin to accept responsibilities.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
