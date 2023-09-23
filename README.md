@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/rembrandt/christ-in-the-storm.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00103/images/carles-delclaux-is/els-dies-de-la-dona-350x200cm-delclaux-1972.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Storm on the Sea of Galilee</h2>
+        <h2 class="artwork-name">Els dies de la dona</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1633
+          Carles Delclaux Is
+                    ·  1972
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Storm on the Sea of Galilee is the only seascape ever painted by Rembrandt. It depicts Jesus calming the waves of the sea, saving the lives of the fourteen men aboard the vessel. Of these fourteen men, it is said Rembrandt included a self portrait of himself in the boat, next to Jesus and his twelve disciples. On March 18, 1990, the painting was stolen by thieves disguised as police officers. They broke into the Isabella Stewart Gardener Museum in Boston, Massachusetts, and stole this painting, along with twelve other works. The paintings have never been recovered, and it is considered the biggest art theft in history. The empty frames of the paintings still hang in their original location, waiting to be recovered. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Carles Delclaux Is (born 1951, Sant Cugat del Vallès) is a textile artist trained in the Aymat factory and in the Massana School of Fine Arts in Barcelona.
+<br>
+<br>From 1970 to 1974 he directed the Catalan School of Tapestry In 1975 he moved to Girona, where he held a chair in tapestry, teaching the craft of weaver based on academicism.
+<br>
+<br>He has recreated works of many artists, reinterpreting: Josep Grau-Garriga [1], Joan-Josep Tharrats, Josep Maria Subirachs, <a target="_blank" href="/en/joan-miro">Joan Miró</a>, Manuel Millares, José Beulas, <a target="_blank" href="/en/modest-cuixart">Modest Cuixart</a>, Pere Lloses, Domènec Fita, Narcís Comadira, Juan José Torralba, Francesc Torres i Monsó, Marcel Martí and others. His own designs evolve tapestry for a renaissance in the third millennium.
+<br>
+<br>His work is part of the collections of museums such as MACBA, CDAN, Contemporary Tapestry Museum-Casa Aymat, CDMT and others, as well as private collections and public institutions.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
