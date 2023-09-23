@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/piero-della-francesca/portraits-federico-da-montefeltro-and-battista-sforza-1465(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00226/images/ludwig-manzel/friedrichi-group-siegesallee.JPG!Large.JPG"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portraits Federico da Montefeltro and Battista Sforza</h2>
+        <h2 class="artwork-name">Siegesalle Grp</h2>
         <h3 class="artist">
-          Piero della Francesca
-                    ·  1465
+          Ludwig Manzel
+                    ·  1900
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The double portrait of the Dukes of Urbino, also known as the Diptych of Federico da Montefeltro and Battista Sforza is a diptych, oil on panel (47 × 33&nbsp;cm each panel), with portraits of the Federico da Montefeltro and Battista Sforza. It is the work of <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a> dated to about 1465 to 1472 and in the collection of the Uffizi Gallery in Florence. It is one of the most famous works of the Italian Renaissance.
-<br>
-<br>It is a tempera made over wood.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Monument group № 15 in the former Siegesallee in Berlin commemorates Brandenburg’s Margrave and Elector (1371–1440) Frederick I. The bust on the left commemorates the knight Count Johann von Hohenlohe (House of Hohenlohe), and the bust on the right the Landeshauptmann Wend von Ileburg. The relief shows the Electress Elisabeth of Brandenburg.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
