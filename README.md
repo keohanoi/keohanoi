@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pieter-bruegel-the-elder/land-of-cockaigne-1567.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/francis-gruber/job-1944.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Land of Cockaigne</h2>
+        <h2 class="artwork-name">Job</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1567
+          Francis Gruber
+                    ·  1944
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In medieval times, Cockaigne was a mythical land of plenty, but Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one. He chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gruber was committed to realism and to Communism. Job was painted for an exhibition which opened shortly after the liberation of Paris in 1944. Gruber uses the Biblical story of Job's suffering as an allegory for the survival of hope under the Occupation. The inscription, which comes from The Book of Job, translates as: 'Now, once more my cry is a revolt, and yet my hand suppresses my sobs.' (Tate)</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
