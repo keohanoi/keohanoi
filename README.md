@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/albrecht-durer/portrait-of-bernhard-von-reesen-1521.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00381/images/john-frederick-kensett/eatons-neck-long-island-john-frederick-kensett.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Bernhard von Reesen</h2>
+        <h2 class="artwork-name">Eaton's Neck, Long Island</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1521
+          John Frederick Kensett
+                    ·  1872
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Bernhart von Reesen is a painting by German Renaissance master <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, dating from 1521, now housed in the Gemäldegalerie Alte Meister of Dresden, Germany.
-<br>
-<br>The painting was executed during the artist's trip to the Low Countries (1520–1521). On 16 March 1521, Dürer wrote that he had portrayed in Antwerp one Bernhart von Reesen, being paid eight florins and some small gifts for his wife and maid. The subject is unknown, although he could be one rich merchant from Danzig who was active in the cosmopolitan Flemish port. Other scholars identify him with Bernard van Orley, a painter from Brussels.
-<br>
-<br>The man is portrayed with black garments, aside from the white shirt under the jacket. His hands, which, according to the Flemish painting tradition, are lying on the lower border, hold a cartouche where it is perhaps written his address.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At once amplifying and simplifying a pictorial design the artist first broached in his Shrewsbury River, New Jersey, compositions of the 1850s, Eaton's Neck is unusual if not unique in Kensett's oeuvre for its Long Island subject. On the other hand, recording the site, on Long Island's north shore near Huntington in Suffolk County, would have required perhaps an hour's sail or less across the Long Island Sound from Kensett's studio off Darien, Connecticut. Like virtually all the paintings found in the studio at the artist's death in 1872, Eaton's Neck is unsigned and undated, and its state of completion is, at best, ambiguous. Kensett, for instance, worked the shoreline foliage into a state of finish comparable to works that he signed and sold, but the apparent sailboats punctuating the distant horizon are plotted without being fully articulated, as they are in finished works. Still, given the reductive character of almost all Kensett's late paintings, this synthesis of uninflected land, water, and sky engages the spectator equally with, if not more than, any in the same gallery by the artist or his Hudson River School colleagues.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
