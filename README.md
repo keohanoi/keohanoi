@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/albrecht-durer/portrait-of-elector-frederick-the-wise-of-saxony-1496.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/57726d7fedc2cb3880b48098/jean-auguste-dominique-ingres-comtesse-d-haussonville-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Elector Frederick the Wise of Saxony</h2>
+        <h2 class="artwork-name">Portrait of Countess D'Haussonville</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1496
+          Jean Auguste Dominique Ingres
+                    ·  1845
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Frederick III of Saxony is a <a target="_blank" href="/en/paintings-by-media/tempera-on-gesso-pitch-and-mastic">tempera</a> on canvas painting by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed in 1496. It is housed in the Gemäldegalerie of Berlin, Germany.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Comtesse d'Haussonville is an 1845 oil on canvas painting by the French <a target="_blank" href="/en/artists-by-art-movement/neoclassicism">Neoclassical</a> artist Jean-Auguste-Dominique Ingres.
 <br>
-<br>The painting was one of the first commissions received from Frederick III, Elector of Saxony, together with the Seven Sorrows Polyptych and the central panel of the Dresden Altarpiece. Dürer knew the elector during the latter's short stay in Nuremberg in April 1496.
+<br>The sitter, Louise de Broglie, Countess d'Haussonville, of the wealthy House of Broglie. The Princesse de Broglie, whom Ingres later portrayed c. 1851–53, was married to Louise's brother Albert de Broglie, the French monarchist politician, diplomat and writer. Highly educated, Louise de Broglie was later an essayist and biographer, and published historical romance novels based on the lives of Lord Byron, Robert Emmett and Margaret of Valois.
 <br>
-<br>The German artist portrayed the Elector again in a burin etching in 1524.
+<br>The painting is one of the few portrait commissions Ingres accepted at the time, as he was more interested Neoclassical subject matter, which to his frustration was a far less lucrative source of income than portraiture. He had made a preparatory sketch and had begun an oil and canvas version two years earlier, but abandoned the commission when de Broglie became pregnant and was no longer able to pose for the long periods he required, and she had anyway found indeterminable and "boring". The final work is signed and dated at the lower left.
 <br>
-<br>Dürer portrayed Frederick's bust from three-quarters, looking right, above a dark green background. Elements such as the parapet on which his arms lie, or the hands holding a roll, were typical of Flemish art of the period.
+<br>By 1845 Ingres' fame was at its height, and he was much in demand as a portraitist. While lucrative, he found the format distracting from, and inferior to, his main interest of <a target="_blank" href="/en/paintings-by-genre/history-painting">History painting</a>. At the time, he committed to only two portraits; the current work and the Portrait of Baronne de Rothschild. Today, however, it is for portraits such as these for which he is best known.
 <br>
-<br>Frederick's impervious personality, as well as his status, are emphasized by the large beret and by his determined glance</span>
+<br>Louise de Broglie (1818-1882) was 27 at the time of the portrait. Ingres had two to three years earlier sketched her with black chalk as a preparatory drawing, and begun a oil on canvas painting, which excludes the mirror and reflected images, and reverses the pose, but that was abandoned. The sessions were long and slow, and de Broglie found them long and boring, at one stage complaining "for the last nine days Ingres has been painting on one of the hands". She fell pregnant with her third child, was thus unable to pose further, and the 1842 painting remains unfinished.
+<br>
+<br>Ever contrary, Ingres later complained that he was unhappy with de Broglie's final portrait, and that he had failed to fully capture her charms. He was relieved when the portrait was met with approval from her family, writing that "family, friends, and above all the loving father [the duc de Broglie] were delighted with it...Finally to crown the work, M. Thiers - and I was not present - came to see it with the subject and repeated several times this wicked remark "M Ingres must love you to have painted you that way. But all this does not make me proud, and I do not feel that I have conveyed all the graces of that charming model.
+<br>
+<br>The painting is composed from pale blue, grey, brown, gold and white hues. de Broglie is shown fully frontal, looking out at the viewer with a demure expression, the intensity of which has often been compared to his later portrait of Madame Moitessier. Ingres reintroduces a motif first seen in his 1814 Portrait of Madame de Senonnes, that of the central figure reflected in a background mirror.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
