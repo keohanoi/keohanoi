@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pieter-bruegel-the-elder/land-of-cockaigne-1567.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/elaine-de-kooning/john-f-kennedy-1963.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Land of Cockaigne</h2>
+        <h2 class="artwork-name">John F. Kennedy</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1567
+          Elaine de Kooning
+                    ·  1963
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In medieval times, Cockaigne was a mythical land of plenty, but Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one. He chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">When de Kooning traveled to West Palm Beach, Florida, to paint Kennedy's portrait, she commented that the president was difficult to sketch due to his "extreme restlessness..he read papers, talked on the phone, jotted down notes, crossed and uncrossed his legs, shifted from one arm of the chair to the other.." Upon returning to New York City, de Kooning worked tirelessly for nearly a year, sketching and re-sketching Kennedy based on her original renderings, as well as from hundreds of newspaper clippings and other images. Evidently awed by the task at hand, de Kooning's final product is a lean, vertical portrait with traditional dimensions, her gestural rhythms evoking the restlessness of her subject. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
