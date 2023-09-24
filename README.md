@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/vardges-sureniants/salome-1907.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/claude-monet/zaandam-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Salome</h2>
+        <h2 class="artwork-name">Houses on the Achterzaan</h2>
         <h3 class="artist">
-          Vardges Sureniants
-                    ·  1907
+          Claude Monet
+                    ·  1871
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Salome  (Greek: Σαλώμη Salōmē, pronounced [salóːmeː]) (c. AD 14 – between 62 and 71) was the daughter of Herod II and Herodias. She is infamous for demanding and receiving the head of John the Baptist, according to the New Testament. According to Flavius Josephus's Jewish Antiquities, Salome was first married to Philip the Tetrarch of Ituraea and Trakonitis. After Philip's death in 34 AD she married Aristobulus of Chalcis and became queen of Chalcis and Armenia Minor. They had three children. Three coins with portraits of Aristobulus and Salome have been found.
-<br> Her name in Hebrew is שלומית (Shlomiẗ, pronounced [ʃlomiθ]) and is derived from the root word שָׁלוֹם (shalom), meaning "peace".
-<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This light-filled, en plein air scene is one of twenty-four landscapes that Monet painted during his sojourn in the Netherlands in 1871. Painted near the village of Zaandam, the Achterzaan river occupies the foreground of the painting while windmills and industrial buildings can be seen in the distant background. The water reflects the multi-colored houses and willow trees that line the river bank as well as a white sail boat that floats along the water. A woman dressed in a white diaphanous gown stands beneath a willow tree on the left, gazing by the water. 
+<br>
+<br>Employing a distinctly blonde color palette reminiscent of that used by landscape painter Corot, Monet renders this scene with attention to atmospheric detail and palpable light. This painting also evokes a sense of leisure and pastoral beauty typical of Dutch seventeenth century paintings that Monet would have seen during his stay in Holland. The artist’s color palette, portrayal of leisurely pursuits, and increasing attention to the surface of the canvas—all practices that Monet explored during his stay in Holland—were significant and influential in the development of his increasingly modern approach to painting.
+<br>
+<br>Monet postdated this work, marking the canvas in his studio in the year after it was painted. The fact that Monet held on to the canvas for many years after he completed it contributes to the pristine condition of the unlined, unvarnished painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
