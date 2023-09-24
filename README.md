@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00246/images/christo-and-jeanne-claude/over-the-river-1992-2017-unrealized.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/caravaggio/portrait-of-a-courtesan(2).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Over the River (Unrealized)</h2>
+        <h2 class="artwork-name">Portrait of a Courtesan</h2>
         <h3 class="artist">
-          Christo and Jeanne-Claude
-                    ·  2017
+          Caravaggio
+                    ·  1597
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jeanne-Claude died in 2009, yet despite her instrumental importance to their joint endeavor, Christo continues to work on ideas they planned together. There are a lot: Christo estimates that in the past 50 years, he has realized 23 works, but failed to secure permission for a further 47 of them. Perhaps the most notable of the latter group is a project to cover six miles of the Arkansas River with reflective fabric, creating a psychedelic tunnel through the rugged valleys of Colorado. Local wildlife conservationists repeatedly blocked the idea, but for a time, it really did look as though his concept might come to fruition.<br><br>However, in January 2017, Christo announced that he was pulling out. Having spent a reported $15 million of his own money on the project, he went on the record to state that he could no longer continue in good conscience. The problem, it turned out, was the owner of the proposed site: the American government. “I can’t do a project that benefits this landlord,” Christo told the <i>New York Times</i>. When asked to clarify his statement, he explained, “The decision speaks for itself. My decision process was that, like many others, I never believed that Trump would be elected.” Make of it what you will, but in a half-century of creating art, it is the most direct political statement Christo has ever made.<br><br><a target="_blank" href="https://www.artsy.net/article/artsy-editorial-understanding-christo-jeanne-claude-6-pivotal-artworks">Artsy</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Courtesan (also known as Portrait of Fillide) was a painting by the <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>. Painted between 1597 and 1599, it was destroyed in Berlin in 1945 and is known only from photographs. It has been suggested that the portrait represents the goddess Flora.
+<br>
+<br>Earlier scholars identified the flower she presses to her breast as orange blossom or bergamot, symbol of marriage and fidelity, and claimed the subject as Caterina Campi, wife of Caravaggio's friend Onorio Longhi. Caravaggio scholar John Gash, however, identifies the flowers as "definitely jasmine", symbol of erotic love, and therefore more suitable to a courtesan than to a respectable married woman. The portrait belonged to Caravaggio's patron, Marchese Vincenzo Giustiniani, and the 1638 inventory of the Giustiniani collection lists a "portrait of a courtesan named Fillide", identified by modern scholars as Fillide Melandroni.
+<br>
+<br>Fillide figured prominently in Caravaggio's work in the closing years of the 1590s, appearing as Saint Catherine, as Mary in Martha and Mary Magdalene, and as Judith in Judith Beheading Holofernes. She may have appeared even more frequently - a considerable number of Caravaggio's works are now lost - but she seems to vanish from his paintings after 1599. If sophisticated patrons such as Giustiniani represented one pole of Caravaggio's life, the world of Fillide was the other. She was one of Rome's most successful prostitutes, much sought after by the Roman elite; but she had her true existence in the streets. In February 1599 she was arrested together with a young man named Ranuccio Tomassoni, who seems to have been her pimp, (he came from a good family but was continually turning up in police records in the company of prostitutes, and not as a customer), and charged with creating a disturbance in connection with a noisy mardi gras party in her house. Fillide's friends included another prostitute, Anna Bianchini, who modelled for Caravaggio as Mary Magdalene in his Penitent Magdalene, as Martha (opposite Fillide) in Martha and Mary Magdalene, and as the Mother of Christ in Rest on the Flight into Egypt. Tomassoni would also appear again, but not in paintings: in 1606 Caravaggio killed Tomassoni in an attempt to castrate him.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
