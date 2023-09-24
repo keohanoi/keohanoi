@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/bernd-luz/premier-grand-prix-automobile-de-monaco-2015.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00328/images/louise-bourgeois/femme-maison-1946-1947-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Premier Grand Prix Automobile de Monaco</h2>
+        <h2 class="artwork-name">Woman-House</h2>
         <h3 class="artist">
-          Bernd Luz
-                    ·  2015
+          Louise Bourgeois
+                    ·  1947
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">To start the 1931 racing year, Rudolf Caracciola and his co-driver Wilhelm Sebastian triumph in the Mille Miglia in an SSKL (the L stands for light), a vehicle which is perforated with holes to reduce its weight. The 7.1 litre engine now produces 300 horsepower and achieves a top speed of 235 km/h.
-<br>
-<br>The race is characterised by uncertainty. Communication with the drivers is practically impossible. On the last lap, Caracciola and Sebastian themselves are unaware that Tazio Nuvolari has already been eliminated and that Giuseppe Campari in the Alfa has overtaken the Scuderia Ferrari. And then the unbelievable happens: Caracciola crosses the finish line in the lead position on the 13 April 1931. The average speed of 101.1 km/h is a new track record.
-<br>
-<br>The exuberant Mercedes-Benz race director, Alfred Neubauer, is there to jubilantly greet him at the finish. “Neubauer is totally carried away as he executes a completely crazy Indian dance. What the hell's going on here ...? I don't get it ... not yet anyway ... then it dawns on me: I've won the Thousand Miles…” With that, overall victory at the prestigious Mille Miglia, which has been held since 1927, goes for the first time to a foreign driver.
-<br>
-<br>In the same year, Caracciola and the SSKL also win the Eifelrennen motor race, the Großer Preis von Deutschland (German Grand Prix) and the AVUS race. In the 1932 season, the Stuttgart plant withdraws completely from motorsport due to continually increasing economic problems.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is titled <i>Femme Maison</i>. And that meant to Louise Bourgeois either “woman house” or “house woman” in French. She was a native of France and always went back and forth between English and French.<br>In this period in the 1940s, she was raising three small boys, and so she was certainly thinking of how she felt trying to be an artist and also a stay at home mother. She chose architectural imagery to, in effect, suffocate this woman. It’s kind of dire, in a way. But on the other hand, the woman stands very upright with a certain dignity. And we can tell it's a self-portrait because the hair that comes out of the house was a signifier of Bourgeois’ own long hair.<br><br>Architecture was a motif she used throughout her career to symbolize her feelings. She saw architectural structures as a place of refuge. On the other hand, she saw that an architectural structure could also be a trap.<br><br>Bourgeois' <i>Femme Maison</i> imagery became a symbol of the feminist art movement in the late 60s and in the 70s. Women, in particular, brought attention to the body and to issues of biography and personal feelings into artworks. Bourgeois had always been dealing with these things, so the Femme Maison image was very resonant with feminist artists, and I find that it's still resonant with women.<br><br><u>Deborah Wye for MOMA</u></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
