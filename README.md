@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/francis-bacon/two-figures-1953(1).jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00436/images/florine-stettheimer/1939the-cathedrals-of-wall-street-1939-3.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two Figures</h2>
+        <h2 class="artwork-name">The Cathedrals of Wall Street</h2>
         <h3 class="artist">
-          Francis Bacon
-                    ·  1953
+          Florine Stettheimer
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Due to its homosexual overtones, the inaugural exhibition of Two Figures caused an uproar. Drawn from studies of anatomical drawings and Eadweard Muybridge's motion photography, Two Figures is as much an exploration of the body in action as it is a representation of the physical act of love. The two figures entwined in bed are covered by Bacon's "curtain" of striated lines, which both obstructs the view and enhances the movement of the figures. Instead of evoking the romance of a nighttime rendezvous, the dark colors of the painting allude to a more sinister encounter.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work unites various public figures with the major financial establishments of the day, suggesting the close relationship between politics and big business in New York. The reimagined facade of the New York Stock Exchange pays homage to President Franklin D. Roosevelt and the financial leaders Bernard Baruch, John D. Rockefeller, and J. P. Morgan. Perhaps as a warning against the temptations of earthly riches and power, Stettheimer adds a group of Salvation Army workers. The artist also depicts herself; she offers a bouquet of flowers to the brightly gilded sculpture of George Washington outside the former Subtreasury Building.<br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/488733">The Met</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
