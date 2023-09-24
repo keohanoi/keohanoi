@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/ende/message-to-the-church-of-ephesus.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/titian/the-feast-of-the-gods-1529.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Message to the Church of Ephesus</h2>
+        <h2 class="artwork-name">The Feast of the Gods</h2>
         <h3 class="artist">
-          Ende
-                    ·  975
+          Titian
+                    ·  1529
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Gerona codex is the only Beatus – apart from its copy, the Turin Beatus (ff. 55v-56r) – in which this image covers two folios. This is probably because the copyist left a blank space on the corresponding verso folio in the Morgan Beatus (f. 47v) for reasons concerning the text, which was used by Maius to draw certain abstract elements which were undoubtedly adopted by the Tábara Beatus, whilst En chose to make the illustration look natural by eliminating the abstract drawings. Folio 70v depicts the delivery of the message with St John on the left holding a book in his hand and the flying angel on the right posed as if in conversation. Both are framed by a tree with a lanceolate crown and another, very simple, triangular tree with branches and leaves similar to those on the palm tree (f. 147v), which are perhaps of a symbolic nature. Between the two figures, the words “ubi iohannes loquens/cum angelo” can be read. These legends do not simply identify the figures but also explain the action taking place. In the Gerona Beatus, iohannes is nominative being the subject carrying out the action of delivering the news and addressing – loquens – the angel – cum angelo. Depicted on folio 71r is the church of Ephesus, “aeclesia efesi” as it says inside, represented as a highly imaginative temple flanked by two stylised and very decorative trees with a large central nave set between two side apses with arches or galleries closed off by blinds, and a sanctuary, identified by the curtains that were closed at specific moments of the eucharistic sacrifice, with an altar and chalice both made of gold and all set beneath a wide, horseshoe arch. The roof of the temple is very complex being pyramidal in shape and having lateral embellishments resembling wavy, oriental-style horns. The construction is set upon a stylised element which, in comparison with the Turin Beatus, looks like a crypt set in the rock of a mountain but with a predominant decorative and imaginary character.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Feast of the Gods is an oil painting by Giovanni Bellini, with substantial additions by Titian, who added all the landscape to the left and centre. It is one of a cycle of paintings on mythological subjects produced for Alfonso I d'Este, the Duke of Ferrara, for his camerino d'alabastro ('chamber of alabaster') in the Castello Estense, Ferrara. It is one of the few mythological pictures by Bellini, who completed it in 1514. After his death soon afterwards (1516), Titian probably modified the landscape on the left to match it to his The Bacchanal of the Andrians (1518–1523), also in Alfonso's camerino. A more thorough reworking in about 1529 added more landscape, adding the mountain behind the figures.
+<br>
+<br>The scene depicted conflates two episodes in Ovid's Fasti. Priapus, on the right, is attempting to seduce the sleeping nymph Lotis, but is prevented from success by the bray of Silenus' donkey. Around are the drunken Gods: Jupiter has an eagle next to him, Poseidon is caressing Cybele and Ceres, while Hermes is languidly lying on a barrel. The boy with vine-leaves on his head is an unusually young depiction of Bacchus. It is thought that Bellini initially painted the figures as mortals, following a misleading translation of Ovid (the so-called Ovidio volgarizzato), and had to re-paint them with the attributes of the Olympian gods.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
