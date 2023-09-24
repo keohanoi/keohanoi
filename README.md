@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pieter-bruegel-the-elder/the-adoration-of-the-kings-1564.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/salvador-dali/antequam-exhires-de-vulva-sactificavite-jeremiah-1-5.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Adoration of the Kings</h2>
+        <h2 class="artwork-name">Antequam exhires de vulva sactificavite (Jeremiah 1:5)</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1564
+          Salvador Dali
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this unusual rendering of the Adoration, the Three Kings presenting their gifts are treated as caricatures and the Virgin is not idealised. The work is composed from a high viewpoint, focusing attention on the Infant Christ on his mother's lap, at the exact centre of the picture. People crowd around them and there is little sense of depth or space. The elongated figures of the Kings are characteristic of a painting style that was fashionable around this time.<br><br>A figure on the extreme right wears spectacles. His presence may indicate that those around Christ are blind to his significance; Bruegel has used spectacles on other occasions to signify in an ironic manner the inability of the subject to see the truth. Most of the figures, in fact, appear to be gently mocked by the artist.<br><br>It is uncommon for soldiers to be included in a depiction of the Adoration. As in other works by Bruegel, their presence may reflect the Spanish occupation of the Netherlands at this time.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Biblia Sacra was based on the Holy Bible written in Latin Vulgate text, there are five volumes of a 105 lithographs taken from the original paintings that Dali completed between 1963 and 1964. The original illustrations were completed with a combination of gouache, watercolor, ink, and pastel and incorporated a wide variety of religious, historical and mythological imagery. They were intense both in color and in images. While the completed works earned Dali audiences with both Popes Pius XII and John XXIII, the search for the renewal of Dali's faith was ultimately unfulfilled.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
