@@ -2,19 +2,30 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00453/images/marie-laurencin/1923femmes-au-chien.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/david-michael-hinnebusch/pierre-mcqueen-taylor-2001.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Women with Dogs</h2>
+        <h2 class="artwork-name">Pierre, McQueen, Taylor</h2>
         <h3 class="artist">
-          Marie Laurencin
-                    ·  1923
+          David Michael Hinnebusch
+                    ·  2001
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The horizontal composition shows two young women, one of whom is holding a guitar, on either side of a dog. It is the perfect reflection of the feminine world that Marie Laurencin enjoyed painting in the early 1920s. It is also a direct echo of her work on the sets of the operetta Les Biches [The Does] in 1923. The animal interposes itself and seems to connect the two female figures, one wearing a dress with bows and the other a scarf. The two pensive young women are not facing one another, and seem not to know each other.<br>The slightly lunar atmosphere is created by the cold tones: white, green, blue, grey and black. The rose tones of the skirt and the curtain add a touch or warmth however, along with the large yellow strip on the left of the painting, an unusual colour for Marie Laurencin.<br>The delicateness of the canvas is magnified by its spectacular and sophisticated frame, made from mirrors and glass beads. We know that one of Marie Laurencin's clients had works by the artist framed in this manner in her home, but this is the only canvas in the collection to feature this type of frame.<br><br><a target="_blank" href="https://www.musee-orangerie.fr/en/artworks/femmes-au-chien-196419">Musée de l'Orangerie</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Pierre, McQueen, Taylor" approx 48 x 48 ins., acrylic and spraypaint on paper bond print with image and Foamcore, is part of Hinnebusch's "Oceanfront Series," a group of approx. 50 paintings. They were made on halved 4 foot by 8 foots sheets of foamcore Hinnebusch recycled from a Christmas Amazon.com commercial which Hinnebusch was a production asssistant on. While on the Venice Beach boardwalk, Hinnebusch met and be-friended former Time Magazine art editor and writer Alexander Eliot, who suggested he drop the name of the series as it might be confused with Richard Diebenkorn's "Ocean Park" paintings and not call the work a series at all as it wouldn't help. Mr. Eliot also named Hinnebusch's painting "Sainte Chapelle" and presented HInnebusch with a hand written critique of Hinnebusch's work. 
+<br>
+<br>The Oceanfront Series paintings were made from photographs made into high contrast using the photocopy filer in photoshop and then printed on architectural bond prints roughly 36 x 48 inches and then glued to the Foam Core. This started what Hinnebusch jokingly referred to his "vertical drip" paintings because "..I'm sober and Jackson Pollack wasn't."
+<br>
+<br>"Pierre, McQueen, Taylor" is based on a photograph of a Venice Beach street artist from Paris named Pierre, two of his portraits of American actors Steve McQueen and Elizabeth Taylor on display. In the ten years of the artwork's travel to and from the beach and to and from New York City in 2005,  "Pierre, McQueen, Taylor" has reduced in size by half vertically and is expected to be framed for posterity in the near future. (written in 2014.)
+<br>
+<br>http://en.wikipedia.org/wiki/Alexander_Eliot
+<br>http://en.wikipedia.org/wiki/Richard_Diebenkorn
+<br>http://en.wikipedia.org/wiki/Foamcore
+<br>
+<br>
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
