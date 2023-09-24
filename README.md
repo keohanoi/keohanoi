@@ -2,23 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/gerard-sekoto/the-jazz-band-1961.jpg"
+        src="https://uploads7.wikiart.org/images/william-holman-hunt/isabella-and-the-pot-of-basil-1867.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Jazz Band</h2>
+        <h2 class="artwork-name">Isabella and the Pot of Basil</h2>
         <h3 class="artist">
-          Gerard Sekoto
-                    ·  1961
+          William Holman Hunt
+                    ·  1867
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sekoto’s first love was music, and after receiving a harmonium as gift from his father he taught himself to read music, and composed his own tunes from a very young age. The discovery of a whole collection of these self-composed songs in an old suitcase after Sekoto’s death, led to the production of a musical CD titled ‘The Blue Heads’ by The Sekoto Foundation under the guidance of Barbara Lindop. Paris, the “City of Light”, was a beacon of artistic freedom from the early 1920’s and lured thousands of artists, musicians and writers, many of whom were political or cultural exiles, to experience its cordial racial and artistic climate. Sekoto was one of these cultural asylum-seekers having left South Africa under self-imposed exile in 1947. Handicapped by being black, poor and not knowing the language or culture – an unknown artist painting in a cold, dark hotel room – Sekoto’s first years in Paris were a battle for survival.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Isabella and the Pot of Basil is a painting completed in 1868 by <a target="_blank" href="/en/william-holman-hunt">William Holman Hunt</a> depicting a scene from John Keats's poem Isabella, or the Pot of Basil. It depicts the heroine Isabella caressing the basil pot in which she had buried the severed head of her murdered lover Lorenzo.
 <br>
-<br>Following World War II Boulevard St Germain, located on the Left Bank, across the Seine from the Tuileries, rivaled Boulevard Montparnasse as the intellectual center of Paris. There are few countries in the world to rival France in its respect for Jazz musicians and Jazz as an art form. By virtue of this, Sekoto was able to find employment at l’Echelle de Jacob (Jacob’s ladder) – one of Paris’ trendy nightclubs at the time – when the owner heard him play the piano at an audition he had stumbled upon. By using thick impasto brushstrokes to accentuate the rhythmic composition of angular shapes, Sekoto creates a visual beat in ‘Jazz Band’. His palette is dominated by grey and blue hues, recreating the smoky haze of the underground nightclub scene. The tight composition echoes the confined cellar space, and draws the viewer in as if seated at a table, nodding approvingly while listening to the live music.
+<br>Hunt had drawn an illustration to the poem in 1848, shortly after the foundation of the Pre-Raphaelite Brotherhood, but he had not developed it into a completed painting. The drawing portrayed a very different scene, depicting Lorenzo as a clerk at work while Isabella's brothers study their accounts and order around underlings.
 <br>
-<br>Commenting on this painting, Sekoto said: I played for a students’ café, then various other bars where the clients had more money and where the French and tourists paid more. This is one of the St Germain nightclub cellars. The players are not my pals nor was the picture done on the spot . (Bibliography: Barbara Lindop, Gerard Sekoto , Randburg, 1988, pp 31 and 237)</span>
+<br>Hunt returned to the poem in 1866, shortly after his marriage, when he began to paint several erotically charged subjects. His sensuous painting Il Dolce Far Niente had sold quickly, and he conceived the idea for a new work depicting Isabella. Having travelled with his pregnant wife Fanny to Italy, Hunt began work on the painting in Florence. However, after giving birth, Fanny died from fever in December 1866. Hunt turned the painting into a memorial to his wife, using her features for Isabella. He worked on it steadily in the months after her death, returning to England in 1867, and finally completing it in January 1868. The painting was purchased and exhibited by the dealer Ernest Gambart.
+<br>
+<br>The painting portrays Isabella, unable to sleep, dressed in a semi-transparent nightgown, having just left her bed, which is visible with the cover turned over in the background. She drapes herself over an altar she has created to Lorenzo from an elaborately inlaid prie-dieu over which a richly embroidered cloth has been placed. On the cloth is the majolica pot, decorated with skulls, in which Lorenzo's head is interred. Her abundant hair flows over the pot and around the flourishing plant, reflecting Keats's words that Isabella "hung over her sweet Basil evermore,/And moistened it with tears unto the core." Behind her, next to the doorway, are a pair of pattens, next to the edge of a cassone.
+<br>
+<br>The emphasis on sensuality, rich colours and elaborate decorative objects reflects the growing <a target="_blank" href="/en/artists-by-art-movement/aestheticism">Aesthetic movement</a> and similar features in the work of Hunt's Pre-Raphaelite associates <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> and <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>, such as Millais's Pot Pourri and Rossetti's Venus Verticordia. The pose of the figure also resembles Thomas Woolner's sculpture Civilization, which was partly modelled by Fanny's sister Alice.
+<br>
+<br>Hunt's work influenced several later artists, who adopted the same subject. Most notable are the paintings by John White Alexander (1897) and <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a> (1907). Alexander and Waterhouse reproduce Hunt's title and develop variations on his composition. Alexander's composition adapts the subject to a <a target="_blank" href="/en/james-mcneill-whistler">Whistlerian</a> style. Waterhouse reverses the composition, and places the scene in a garden, but retains the motif of the water-jug and the decorative skull.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
