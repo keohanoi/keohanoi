@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/georgy-yakulov/alisa-georgyevna-koonen-1920.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/pieter-bruegel-the-elder/land-of-cockaigne-1567.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Alisa Georgyevna Koonen</h2>
+        <h2 class="artwork-name">Land of Cockaigne</h2>
         <h3 class="artist">
-          Georgy Yakulov
-                    ·  1920
+          Pieter Bruegel the Elder
+                    ·  1567
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Alisa Georgyevna Koonen, also known as Alice Coonen, was a Russian and Soviet actress and the wife of the director Alexander Tairov.
-<br>Koonen was born in Moscow in a family of Belgian origin. At age 16 she joined the Moscow Art Theatre and studied with Stanislavski. She first appeared on the stage in Woe from Wit in 1906. At 19 she had her first major role, Mytyl in The Blue Bird (1908); she also performed Masha in Leo Tolstoy’s The Living Corpse and Anitra in Ibsen’s Peer Gynt.
-<br></span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In medieval times, Cockaigne was a mythical land of plenty, but Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one. He chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
