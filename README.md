@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/willem-de-kooning/excavation.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00142/images/57726d86edc2cb3880b49101/william-bouguereau-dante-and-virgile-google-art-project-2.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Excavation</h2>
+        <h2 class="artwork-name">Dante and Virgil</h2>
         <h3 class="artist">
-          Willem de Kooning
-                    ·  1950
+          William-Adolphe Bouguereau
+                    ·  1850
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the late 1940s, even as De Kooning returned to figuration, he embarked on creating another abstraction, Excavation. While not as monumental as some later Abstract Expressionist paintings, the canvas was the biggest painting he had ever made, measuring just over six-and-a-half-feet tall and eight-feet wide. The pictorial space depicted in the painting was closely tied to De Kooning's sense of space in the physical world. As he explained in a talk he wrote for the Artists' Club, "If I stretch my arms next to the rest of myself and wonder where my fingers are - that is all the space I need as a painter." In essence, his canvases were born at the fullest extension of his arms, where his fingers held the brush that touched the canvas. To go beyond this scale would risk losing the human intimacy of the space.<br><br>Most of the canvas is covered in shapes of dirty white, cream, and yellow, outlined with black and gray lines. Throughout the canvas, there are passages of various colors, such as crimson, blue, magenta, gold, and aqua. This results in an all-over composition with no specific point of entry, causing the viewer's eyes to move across the entire canvas. No single section stands out as more or less interesting than another. However, one can discern a ground line at the bottom edge of the painting and a rectangle that resembles a door or window. While the composition seems to extend beyond the edges of the canvas, De Kooning brings the viewer back to a threshold, suggesting a particular place and time, grounding them in the present. Harold Rosenberg described the painting as "a classical painting, majestic and distant, like a formula wrung out of testing explosives," suggesting that it was a masterpiece that De Kooning had worked his way into and closed the door behind him.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Having failed on two occasions to win the Prix de Rome (1848 and 1849), Bouguereau was hungry for revenge. His early submissions to the Salon reveal this fierce desire to succeed. After his ambitious Equality before Death (1849), the young man aimed to create an impression once again. He put forward an even larger painting inspired by Dante whose work was much loved by the Romantics and who captured all its dramatic beauty. This painting was inspired by a short scene from the Inferno, set in the eighth circle of Hell (the circle for falsifiers and counterfeiters), where Dante, accompanied by Virgil, watches a fight between two damned souls: Capocchio, a heretic and alchemist is attacked and bitten on the neck by Gianni Schicchi who had usurped the identity of a dead man in order to fraudulently claim his inheritance.<br><br>The critic and poet Théophile Gautier was very complimentary: "Gianni Schicchi throws himself at Capocchio, his rival, with a strange fury, and Monsieur Bouguereau depicts magnificently through muscles, nerves, tendons and teeth, the struggle between the two combatants. There is bitterness and strength in this canvas – strength, a rare quality!” In fact, Bouguereau here shows great boldness. He is exploring the aesthetic boundaries: exaggerating the muscle structure to the point of distorting it, exaggerating the poses, contrasting colour and shadows, depicting monstrous figures and groups of damned souls. We are particularly reminded of the sublime visions of Romantic artists like Blake (1757-1827), Füssli (1741-1825), and Lawrence (1769-1830). Everything in this painting underlines the feeling of terribilita and horror: a theme to which Bouguereau would never again return.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
