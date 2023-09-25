@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/kuzma-petrov-vodkin/bathing-the-red-horse-1912.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00330/images/peter-paul-rubens/saturn-devouring-a-son.png!Large.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Bathing of a Red Horse</h2>
+        <h2 class="artwork-name">Saturn</h2>
         <h3 class="artist">
-          Kuzma Petrov-Vodkin
-                    ·  1912
+          Peter Paul Rubens
+                    ·  1638
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bathing of a Red Horse caused Petrov-Vodkin to catapult into fame and the public sphere, causing much artistic discussion about his paintings. Art connoisseurs, who were already at this time used to the striking color palettes and expressiveness of the futurists, were surprised at the artist’s different composition and the feeling of overt tension. This painting soon became his most iconic work, and was a trademark style of the artist. It also represents his attempt to synthesize Eastern and Western art, with elements of traditional Russian icons, Italian frescoes, and neoclassical trends. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saturn or Saturn Devouring His Son is a 1636 painting by the Flemish artist <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, now in the Museo del Prado.<br>
+<br>
+<br>It was commissioned for the Torre de la Parada by Philip IV of Spain and shows the influence of <a target="_blank" href="/en/michelangelo">Michelangelo</a> on Rubens, which he had picked up on his journey to Italy. The three stars at the top of the painting represent the planet Saturn as described by Galileo a few years before its painting. The central star is the planet itself, whilst the two others represent what he thought were two stars aligned with the planet. In reality, these were the rings around the planet, which his telescope was not powerful enough to distinguish.<br>
+<br>
+<br>In turn, the painting influenced <a target="_blank" href="/en/francisco-goya">Goya</a>'s painting of the same subject (1819–1823).<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
