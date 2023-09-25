@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/michael-bell/never-look-back-2009.jpg"
+        src="https://uploads2.wikiart.org/images/thomas-downing/red-1966.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Never Look Back</h2>
+        <h2 class="artwork-name">Red</h2>
         <h3 class="artist">
-          Michael Bell
-                    ·  2009
+          Thomas Downing
+                    ·  1966
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
-<br>
-<br>"Never Look Back" is the fourth of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
-<br>
-<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
-<br> 
-<br>In Never Look Back our Italian Femme Fetale contradicts the title by doing exactly what the title suggests she not do, as she glances back at a White Surveillance Van in the alley.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Red contains 36 crisply delineated circles, in a spectrum that flows from maroon to pink, floating in an invisible grid system. Working on the floor, Downing drew the circles freehand, without a compass, and used fast-drying Liquitex thinned with turpentine to soak the pigment onto the canvas. Slight spatial differences between the motifs and the occasional drip of pigment are the sole evidence of the artist’s handwork. Raw canvas played a substantive role in Downing’s color fields as it “kept light and air in the color no matter how dense or intense.” The artist’s dot paintings have been praised for their optical effects—the dots appear to advance and recede— and for their spiritual and symbolic qualities, based in the elemental form of the circle. However rich its associations, Red also embodies the openness and clarity that critic Clement Greenberg promoted in his theoretical writing, though it does so with a light-hearted tone, thanks to the upbeat palette that audaciously includes pink. Classified as Hard-Edge, Minimal or Op, Downing’s paintings are some of the more dazzling images of the sixties.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
