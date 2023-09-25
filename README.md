@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/john-william-waterhouse/consulting-the-oracle.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00142/images/57726dc0edc2cb3880b4f715/susanna-and-the-elders-1610-artemisia-gentileschi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Consulting the Oracle</h2>
+        <h2 class="artwork-name">Susanna and the Elders</h2>
         <h3 class="artist">
-          John William Waterhouse
-                    ·  1884
+          Artemisia Gentileschi
+                    ·  1610
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Consulting the Oracle is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas</a> painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>. Waterhouse painted it in 1884; according to Anthony Hobson, "The Illustrated London News described it as one of the principal works of the year". Hobson describes the work as having a "keyhole composition" because a partial ring of women focus upon a single other (the priestess).
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Susanna and the Elders is a 1610-1 painting by the Italian artist <a target="_blank" href="/en/artemisia-gentileschi">Artemisia Gentileschi</a>. It currently hangs in the Schloss Weißenstein collection, in Pommersfelden, Germany.
 <br>
-<br>Hobson goes on to say that the painting helps "to establish Waterhouse as a classical painter" because of his use of "classical, geometrical structures...the vertical, the horizontal and the circle". When he adds the diagonal, as "in the inclined figure of the priestess" and the out-of-place rug, it is a deliberately added tension.
-<br>
-<br>Template:TRAVIS DAMIAN HOULE CROUSER &gt;&gt;S
-<br>
-<br>&gt;&gt;K</span>
+<br>It depicts the story of Susanna from the Book of Daniel. In the story, two elders threaten to testify that Susanna was alone with a young man in her garden, which she was not, unless she has sex with them. Some other depictions of Susanna include Susanna and the Elders by <a target="_blank" href="/en/tintoretto">Tintoretto</a>, Susanna and the Elders by Rembrandt, and Susanna and the Elders by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It is only one of the multiple paintings Artemisia Gentileschi made to represent the story.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
