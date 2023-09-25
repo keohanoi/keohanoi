@@ -2,19 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00324/images/matthew-barney/matthew-barney-river-of-fundament-moca-1.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00203/images/hieronymus-bosch/jheronimus-bosch-or-follower-001.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">River of Fundament</h2>
+        <h2 class="artwork-name">Christ Carrying the Cross</h2>
         <h3 class="artist">
-          Matthew Barney
-                    ·  2014
+          Hieronymus Bosch
+                    ·  1510
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This near six-hour film, which takes the form of a three-act opera, was inspired by Norman Mailer's 700-page historical novel <i>Ancient Evenings</i> (1983). Mailer's novel, which met with critical derision on its release, deals with ancient Egyptian history and mythology, death and reincarnation, and sexuality. Featuring a cast including Maggie Gyllenhaal, Elaine Stritch, Salman Rushdie, Debbie Harry, YouTube "beatboxer" Ryan Robinson and Paul Giamatti, <i>River of Fundament</i> draws upon and reconstructs Ancient Evenings, simultaneously incorporating the modern history of the rise and fall of the American car industry. Automotive processes are presented with what art critic Adrian Searle calls "the character of rites and rituals," such as scenes in which a car is dismembered in a Los Angeles showroom, and subsequently smelted in Detroit.<br><br>The film also includes a number of explicit sexual scenes that Searle describes as "hard to take". In one scene, a man, whose penis is covered in human excrement and gold leaf, engages in anal sex. In another, a woman copulates with a car engine, and in yet another, two women engage in sexual play with a dildo that appears to be made of feces. For both Mailer and Barney, feces represent both death and fertility. Barney cites Maggie Nelson's 2011 book <i>Art of Cruelty</i> as a significant influence upon his view of such "extreme images", explaining that "I think my interest in [explicit scenes] has nothing at all to do with political provocation. I think it has to do with taking a kind of fundamental, albeit extreme, action and trying to naturalize it into the context of the narrative, or into what's happening on screen. And so in some way, it's about trying to remove its shock value".<br><br>Art critic Sebastian Smee described the film as "disgusting, dazzling and weirdly great" but that, ultimately, the film was "close to unbearable". He argued that people were often uneasy about celebrating Barney's work because it came with "a realization that giving oneself over to his aesthetic was like joining a cult" [...] If you believe, it's like baptism: You are absorbed into an intellectually stimulating subculture where everything makes more and more sense the deeper you delve. If you don't - if you think the work solipsistic, its relationship to reality fragile - you save yourself a lot of trouble. But you also miss out on the fun".</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Carrying the Cross is a painting attributed to a follower of <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. It was painted in the early 16th century, presumably between 1500 and 1535.  The work is housed in the Museum of Fine Arts in Ghent, Belgium.<br>
+<br>
+<br>The work was bought by the Museum of Fine Arts, Ghent in 1902, and was restored in 1956–1957. As for all Bosch related works, the dating is uncertain, although most art historians assigned it to his late career. The catalog of the Bosch exhibition held in Rotterdam in 2001 assigned it 1510–1535, attributing the execution to an imitator. According to one of the authors, Bernard Vermet, it is not as typical for Bosch is generally accepted and he finds it hard to believe that it was painted by the same painter as the Christ Crowned with Thorns (Bosch, London) in National Gallery in London. Moreover the colours remind him of the manierists of the 1530' and he relates the work to the Triptych of the Passion in Valencia and the Christ before Pilate in Princeton, works that were definitely painted after the death of Bosch. Since then the rejection has been accepted by Stephan Fischer and disputed by Fritz Koreny In October 2015 the Bosch Research and Conservation Project, that is doing technical research on most of Bosch's paintings since 2007, confirmed they reject the attribution to Bosch as well and consider it to be made by a follower. The museum's director was quoted on the same occasion as stating that if it was not by Bosch, then by a genius even greater than Bosch.<br>
+<br>
+<br>The work depicts Jesus carrying the cross above a dark background, surrounded by numerous heads, most of which are characterized with grotesque faces. There are a total of eighteen portraits, plus one on Veronica's veil. Jesus has a woeful expression, his closed eyes and the head reclinate.<br>
+<br>
+<br>In the bottom right corner is the impenitent thief, who sneers against three men who are mocking him. The penitent thief is at top right: he is portrayed with a very pale skin, while being confessed by a horribly ugly monk.<br>
+<br>
+<br>The bottom left corner houses Veronica with the holy shroud, her eyes half-open and the face looking back. Finally, at the top left is Simon of Cyrene, his face upside upturned.<br>
+<br>
+<br>There are two further versions of the subject by Bosch: a previous one from around 1498, now at the Royal Palace of Madrid, and another in the Kunsthistorisches Museum of Vienna from around 1500.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
