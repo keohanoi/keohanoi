@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/rembrandt/self-portrait-at-the-age-of-34-1640.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/thomas-cole/distant-view-of-niagara-falls-1830(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-portrait at the Age of 34</h2>
+        <h2 class="artwork-name">Distant View of Niagara Falls</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1640
+          Thomas Cole
+                    ·  1830
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self-Portrait at the Age of 34 is a self-portrait by <a target="_blank" href="/en/rembrandt">Rembrandt</a>, dating to 1640 and now in the National Gallery, London. The painting is one of many self-portraits by Rembrandt, in both painting and etching, to show the artist in a fancy costume from the previous century. In this case specific influences in the pose have long been recognised from <a target="_blank" href="/en/raphael">Raphael</a>'s Portrait of Baldassare Castiglione (now Louvre) and <a target="_blank" href="/en/titian">Titian</a>'s A Man with a Quilted Sleeve (in 2017 called Portrait of Gerolamo? Barbarigo) in the National Gallery. Rembrandt saw both of these in Amsterdam, in his day the centre of Europe's art trade, and made a sketch of the Raphael, with its price.
-<br>
-<br>He had tried out a similar pose in an etching of 1639, Self Portrait, Leaning on a Stone Wall (B21), looking rather more rakish.
-<br>
-<br>The artist depicted himself at the height of his career, richly dressed and self-secure. It is one of over 40 painted self-portraits by Rembrandt.
-<br>
-<br>The scientific analysis of this painting by the scientists at the National Gallery in London revealed the use of the following pigments by Rembrandt: lead white, bone black, charcoal black, ochres and vermilion.
-<br>
-<br> Media related to Self-portrait by Rembrandt (National Gallery, London) at Wikimedia Commons</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In mid-19th-century America, a love of the sublime <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/landscape">landscape</a>, which inspired in viewers awe of nature and a sense of the nation’s special status, was felt nowhere more powerfully than at Niagara Falls, by far the most frequently depicted and visited natural attraction in the United States. Thomas Cole, the founder of the <a target="_blank" href="https://www.wikiart.org/en/artists-by-painting-school/hudson-river-school">Hudson River School</a> of landscape painting, visited Niagara Falls for the first time in May 1829. He sketched the falls, writing of his experience there, “<i>I anticipated much—but the grandeur of the falls far exceeds anything I had been told of them—I am astonished that there have been no good pictures of them—I think the subject a sublime one</i>.”<br><br>The canvas expresses the untamed spirit of the waterfall that so impressed Cole. As was typical, he did not execute the painting directly from nature; his letters indicate that he finished it in London the following year. The completed image bears little resemblance to the actual site in the 1830s, which included factories, scenic overlooks, and hotels to accommodate a growing number of tourists. In his romanticized depiction of the pristine landscape—definitively identified as American by the Native American figures—Cole created a nostalgic look back at the vanishing wilderness of the United States.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
