@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/samuel-palmer/a-church-among-trees-1830.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/robert-motherwell/elegy-to-the-spanish-republic-no-110-1971.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Church among Trees</h2>
+        <h2 class="artwork-name">Elegy to the Spanish Republic No. 110</h2>
         <h3 class="artist">
-          Samuel Palmer
-                    ·  1830
+          Robert Motherwell
+                    ·  1971
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Palmer drew this about five years after he first met Blake. It shows the strong influence of Blake’s illustrations to Thornton’s Virgil, displayed nearby. There is a similar contrast of dark and light, though handled more broadly.
-<br>This drawing is also an evocation of the English pastoral vision, which complements Blake’s idea of England as a country where Jerusalem would one day have been ‘builded’. The peaceful walk to the church is flanked by wheat sheaves – a symbol of the Last Judgement, when the good are gathered into God’s heaven.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Elegy to the Spanish Republic No. 110 is part of a series comprising more than 140 paintings, which Motherwell worked on throughout his long career. The series functioned as the artist's memorial to the Spanish Civil War, an event that had come to symbolize for him the human tragedies of oppression and injustice. No. 110 is typical in its stark black and white palette, and interplay of ovoid and bar-like rectilinear forms. What exactly those forms are intended to mean, though, has been the subject of great debate. Some compare them to architecture, or to ancient monuments, while others read them as phalluses and wombs, which, along with the pictures' somber palette, might suggest the cycle of life and death.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
