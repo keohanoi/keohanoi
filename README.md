@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/henri-matisse/the-moraccans-1916.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/jean-tinguely/frigo-duchamp-1960.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Moroccans</h2>
+        <h2 class="artwork-name">Frigo Duchamp</h2>
         <h3 class="artist">
-          Henri Matisse
-                    ·  1916
+          Jean Tinguely
+                    ·  1960
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Matisse planned this picture as early as 1913, and it recalls visits made to Morocco around this time. A figure sits on the right with a back to us, fruit lies in the left foreground, and a mosque rises in the background beyond a terrace. Matisse said that he occasionally used black in his pictures in order to simplify the composition, though here it undoubtedly also recalls the stark shadows produced by the strong sunshine in the region. Like Bathers by a River (1917), The Moroccans was significantly influenced by Picasso's Cubism, and some have even compared it to Picasso's Three Musicians (1921). Although it employs the same brilliant color as much of Matisse's work, its use of abstract motifs and rigid diagrammatic composition is unusual, and has attracted considerable speculation. Rather than use the scene as an opportunity for decoration, it is as if Matisse has tried to find the means to chart and map it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In contrast with many other works by Jean Tinguely, we have little information on “Frigo Duchamp”, knowing only that the refrigerator was a gift to him from Marcel Duchamp. The work was executed between autumn 1960 and September 1962, when it was on view in the New York gallery of Sidney Janis. According to the artist, the piece was thereafter stored for twenty years in a friend’s garden, where it presumably remained nearly unchanged over the years.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
