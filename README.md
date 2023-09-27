@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00318/images/gian-maria-tosatti/dsc00923-mod-piccola.jpg"
+        src="https://uploads5.wikiart.org/images/jean-tinguely/m-ta-matic-no-14-1959.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Histoire et destin - New Men’s Land (Flag)</h2>
+        <h2 class="artwork-name">Méta-Matic No. 14</h2>
         <h3 class="artist">
-          Gian Maria Tosatti
-                    ·  2016
+          Jean Tinguely
+                    ·  1959
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is part of the complex project of interventions dedicated to the Jungle of Calais, the first real city of the XXI century, built by migrants on the Northern coast of France. The presence of this paradoxical capital of a free world in the perfect triangle between London, Paris, and Bruxelles, capitals of colonialism, represent a thorn in the side of Europe, a constant inquiry on the betrayed foundations of the modern European ideal. The presence of these men and the construction of a city testifies to the offer of an alliance after three hundred years of war declared by European states to the rest of the world. As I’m a poet I tried to build a language for these men, a symbology, self-narration that could have been understood by us. The Rainbow, a traditional symbol of regeneration and alliance, is the main element of this narration. The flag with the rainbow colors - which is not the white flag that European governments would like to wave on this city - is the flag of a new alliance. It waved for one day at the entrance of the Jungle. It was July 16th, 2016.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The portable and hand-driven “Méta-Matic No. 14” emphasises the happening aspect even more dramatically than the other drawing machines. Here it becomes particularly obvious that it is the moment of drawing, the interaction between art viewer (art user) and machine sculpture that actually constitutes the artwork, and that the drawing produced in the process is more like a document of a lived interaction than an artwork in its own right.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
