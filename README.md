@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/edward-hopper/lighthouse-at-two-lights-1929(1).jpg"
+        src="https://uploads3.wikiart.org/images/peter-paul-rubens/head-of-medusa.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lighthouse at Two Lights</h2>
+        <h2 class="artwork-name">Head Of Medusa</h2>
         <h3 class="artist">
-          Edward Hopper
-                    ·  1929
+          Peter Paul Rubens
+                    ·  1618
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this work, Hopper isolates the dramatic silhouette of a lighthouse against an open expanse of blue sky. Set on a rocky promontory in Cape Elizabeth, Maine, the architecture is bathed in bright sunlight offset by dark shadows. Standing proudly upright and seen from below, the lighthouse at Two Lights seems to symbolize a resolute resistance, even refusal, to submit to change or nature. For Hopper, who had been summering in Maine since 1914, the lighthouse also signified a pleasurable reprieve from life in New York.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Medusa is a c.1618 painting by the Flemish painter <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, showing the severed head of Medusa. The snakes in the painting have been attributed to <a target="_blank" href="/en/frans-snyders">Frans Snyders</a>. It is in the collection of the Kunsthistorisches Museum in Vienna. Another copy is held in Moravian Gallery in Brno.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
