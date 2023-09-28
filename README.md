@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/dorothea-tanning/far-from-1964.jpg"
+        src="https://uploads1.wikiart.org/00244/images/arne-quinze/arnequinze-valencia-mysecretgarden09.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Far From</h2>
+        <h2 class="artwork-name">My Secret Garden, Valencia</h2>
         <h3 class="artist">
-          Dorothea Tanning
-                    ·  1964
+          Arne Quinze
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Carlo McCormick: What effect would you say the passing years have had on your perceptions of the human form in terms of its frailty? You’ve always seemed to have a sense of mortality.
-<br>
-<br>None, really. You don’t have to be old and wise to be aware of our dilemma. The shadow of mortality, well, I’ve always had it for a sort of companion. But I’m glad you ask the question, because my work is generally perceived as erotic, period. You see, when I paint drifting nudes, it’s a statement about being human. Some people think it’s a statement about being sexy. It’s an obsession of the whole, not so cultural, establishment, that almost everything we do which is inexplicable must be reduced to sexuality, and that’s absurd. It’s certainly very strong—I would never say it wasn’t—but, after all, there are other yearnings, with names like glory, incandescence, and love and knowledge. I like to think that you feel some of this when you look at my pictures.
-<br>
-<br>    –from interview with Carlo McCormick, "Dorothea Tanning, " BOMB 33, (Fall 1990), p.  </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">“My Secret Garden Valencia” presents a series of six public sculptures that will enter into dialogue with the powerful architecture of Santiago Calatrava. Each sculpture of the series addresses the rich diversity of forms, structures and colours found in the Plantea. With “My Secret Garden Valencia”, Arne Quinze calls for a more profound dialogue between nature and culture in the development of our modern society. By challenging his public with unconventional sculptures, he encourages a sociocultural conversation that stimulates creativity and embraces diversity. <br><br>Arne Quinze is honoured to be invited by president Cris Gabarrón and curator Juan García Sandoval of The Gabarron Foundation to exhibit his work in Valencia. The Gabarron Foundation and the City of Arts and Sciences of Valencia have been collaborating since 2010 to create this wonderful museum space, dedicated to sculptural art: the Umbracle, an open artistic space - designed by world renowned architect Santiago Calatrava - and an extension of the museum itself, known by many as the Paseo del Arte. It was with deep respect that Quinze accepted their invitation and created six sculptures for this exhibition.<br><br>Arne Quinze explicitly wishes to thank<br>• Cris Gabarrón and Juan Garcia Sandoval of the Gabarron Foundation<br>• Enrique Vidal, General Manager, and Miriam Atienza, Contents Director of the City Of Arts &amp; Sciences museum<br>• François Fornieri, private collector<br>• Maruani Mercier gallery</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
