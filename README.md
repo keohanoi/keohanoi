@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00116/images/sandro-botticelli/botticelli-annunciazione-di-cestello-02.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/michelangelo/sistine-chapel-ceiling-creation-of-the-sun-and-moon-1512.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Cestello Annunciation</h2>
+        <h2 class="artwork-name">Sistine Chapel Ceiling: Creation of the Sun and Moon</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1489
+          Michelangelo
+                    ·  1512
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Cestello Annunciation, is a painting in tempera on panel made in 1489 for the church of the Florentine monastery of Cestello, which is now known as Santa Maria Maddalena de'Pazzi.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Creation of the Sun, Moon and Vegetation, (sometimes The Creation of the Sun, Moon, and Plants or The Creation of the Sun and the Moon) is one of the frescoes from <a target="_blank" href="/en/michelangelo">Michelangelo</a>'s nine Book of Genesis scenes on the Sistine Chapel ceiling. It is the second scene in the chronological sequence on the ceiling, depicting the third and fourth day of the Creation narrative. On the left, God is depicted from behind, extending his arm towards a bush, alluding to the plant world. On the right, God points and divides the sun and moon in the heavens (or hurls them into orbit). The faint moon is on the right side, touched by the God's left hand. The God's face expresses the stupendous force needed for the creation of the abode of living beings. The abstract patterns of drapery emphasize the motion of both figures of God.
 <br>
-<br>The subject of the painting is the Annunciation, in which the archangel Gabriel visits the Virgin Mary to 'announce' to her (hence 'Annuciation') that she has been chosen by God to bear the Christ child should she accept this invitation. Her 'fiat' (Let it be done to me) is her response. Underneath the painting on its original frame are words in Latin from St. Luke's Gospel 1:35 "The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee."
+<br>The Creation of the Sun, Moon and Planets is featured on the postage stamps of Vatican City (issue of 1994) and India (issue of 1975).
 <br>
-<br>The subject of the Annunciation is common in Christian art and has been depicted by many artists, in multiple formats, and in different time periods. In addition to the Cestello Annunciation, Botticelli also painted a 1485 Annunciation now in the Metropolitan Museum of Art and a 1495-1500 version now housed in the Kelvingrove Art Gallery and Museum.</span>
+<br>.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
