@@ -2,20 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/pierre-bonnard/dining-room-on-the-garden.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/57726dcfedc2cb3880b50d67/p-s-kr-yer-1899-sommeraften-ved-skagens-strand-kunstneren-og-hans-hustru.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dining Room on the Garden</h2>
+        <h2 class="artwork-name">Summer evening on Skagen's beach</h2>
         <h3 class="artist">
-          Pierre Bonnard
+          Peder Severin Kroyer
+                    ·  1899
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the time Bonnard was painting this summer breakfast scene, Rockefeller Center stood half built and Europe was gearing itself for war. Yet the modern world seems all but ignored in Bonnard's painting, which harks back to the artistic tenets of the late 19th century, its vibrant colors conjuring up the canvases and theories of Paul Gauguin's circle. Around 1890, Bonnard belonged to the Nabis (from the Hebrew word for "prophet"), a group that tended to paint mystical or occult scenes in order to invoke extraordinary psychic states. As this painting shows, Bonnard still lent a hallucinatory aura to the everyday some 40 years later.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Summer Evening at Skagen Beach – The Artist and his Wife (Danish: Sommeraften ved Skagens strand. Kunstneren og hans hustru) is an 1899 painting by <a target="_blank" href="/en/peder-severin-kroyer">Peder Severin Krøyer</a>. One of the best known paintings of the Skagen Painters, it depicts Krøyer with his wife Marie and his dog Rap strolling on the beach in the moonlight.
 <br>
-<br>Bonnard resolutely painted subjects such as those in Dining Room on the Garden (Grande salle à manger sur le jardin, 1934–35) for most of his life, being called très japonard (very Japanese-like) for his attempts to create a charged psychological moment in a virtually non-perspectival domestic space reminiscent of Japanese prints. This painting, one of more than 60 dining-room scenes he made between 1927 and 1947, is neither decorative (as these works have often been called) nor is its subject truly his first concern. Dining Room on the Garden sets out to capture the moment and the intrinsically ungraspable play of mood and light. On close inspection, the colored areas within the flattened picture plane lose their relation to the objects depicted: a chair melds into the window frame; the window echoes the painting's borders, becoming a view within a view; and Marthe, the painter's oft-depicted wife, merges passively into her surroundings. It is in his ability to create a timeless microcosm while laying bare the gesture of applying paint to canvas that Bonnard's modernism is revealed.</span>
+<br>The Skagen Painters were a close-knit group of mainly Danish artists who gathered each summer from the late 1870s in the fishing village of Skagen in the far north of Jutland, painting the local fishermen and their own gatherings. P.S. Krøyer arrived there in 1882, quickly becoming the most prominent member of the group.
+<br>
+<br>In 1895, in a letter to his friend Oscar Björck, Krøyer wrote "I am also thinking of painting a large portrait of my wife and me together — but for that I shall definitely need good weather, so it won't be this year." In fact it was four years later, in the summer of 1899, that he finally created his large painting. Maybe it was in recognition of 10 years of marriage with Marie Triepcke as illustrated in other works of family life at the time as well as in a number of the photographs and sketches he used as a basis for the work.
+<br>
+<br>The final result nevertheless has a rather melancholic tone. Despite the beautiful surroundings, Marie appears distant, disappearing into the blue moonlight. Even Krøyer's own weak figure seems to be experiencing difficulty in supporting her on his arm while the closest figure of all is Krøyer's faithful dog, Rap. After Krøyer had worked on the painting throughout the summer, he submitted it to the Charlottenborg Spring Exhibition in 1900. It was not very well received there, being criticized as banal. In fact, it presents the blue half-light, a favourite with the <a target="_blank" href="/en/artists-by-art-movement/symbolism">Symbolists</a> who believed the twilight hour heralded the coming of death. In 1907, Krøyer conveyed his own feelings about Skagen evenings: "Skagen can look so terribly dull in the bright sunlight ... but when the sun goes down, when the moon rises up out of the sea, ... with the fishermen standing on the beach and the cutters sailing by with loosened sails ... in recent years this has been the time I like most of all." A few months after the spring exhibition, Krøyer was admitted to Middelfart Mental Hospital after suffering a nervous breakdown.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
