@@ -2,29 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00203/images/hieronymus-bosch/jheronimus-bosch-or-follower-001.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/filippo-lippi/funeral-of-st-jerome-1465.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ Carrying the Cross</h2>
+        <h2 class="artwork-name">Funeral of St. Jerome</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1510
+          Filippo Lippi
+                    ·  1465
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Carrying the Cross is a painting attributed to a follower of <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. It was painted in the early 16th century, presumably between 1500 and 1535.  The work is housed in the Museum of Fine Arts in Ghent, Belgium.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Funeral of St. Jerome is a painting by the Italian Renaissance painter <a target="_blank" href="/en/filippo-lippi">Filippo Lippi</a> of Saint Jerome's funeral. It is housed in the Museo dell'Opera del Duomo next to the Cathedral of Prato, central Italy.
 <br>
-<br>The work was bought by the Museum of Fine Arts, Ghent in 1902, and was restored in 1956–1957. As for all Bosch related works, the dating is uncertain, although most art historians assigned it to his late career. The catalog of the Bosch exhibition held in Rotterdam in 2001 assigned it 1510–1535, attributing the execution to an imitator. According to one of the authors, Bernard Vermet, it is not as typical for Bosch is generally accepted and he finds it hard to believe that it was painted by the same painter as the Christ Crowned with Thorns (Bosch, London) in National Gallery in London. Moreover the colours remind him of the manierists of the 1530' and he relates the work to the Triptych of the Passion in Valencia and the Christ before Pilate in Princeton, works that were definitely painted after the death of Bosch. Since then the rejection has been accepted by Stephan Fischer and disputed by Fritz Koreny In October 2015 the Bosch Research and Conservation Project, that is doing technical research on most of Bosch's paintings since 2007, confirmed they reject the attribution to Bosch as well and consider it to be made by a follower. The museum's director was quoted on the same occasion as stating that if it was not by Bosch, then by a genius even greater than Bosch.<br>
+<br>The large altarpiece was commissioned by the provost of Prato, Geminiano Inghirami, a patron of the arts who also called <a target="_blank" href="/en/donatello">Donatello</a> and Michelozzo to work in the cathedral. The panel is dated 1440, but this has been always considered a false due to the large stylistic differences with other Lippi's works of the period. It is generally recognized to be from between 1452, when Lippi arrived in Prato (or a few years before), and Inghirami's death in 1460.
 <br>
-<br>The work depicts Jesus carrying the cross above a dark background, surrounded by numerous heads, most of which are characterized with grotesque faces. There are a total of eighteen portraits, plus one on Veronica's veil. Jesus has a woeful expression, his closed eyes and the head reclinate.<br>
+<br>It is housed in the cathedral's museum since the 20th century.
 <br>
-<br>In the bottom right corner is the impenitent thief, who sneers against three men who are mocking him. The penitent thief is at top right: he is portrayed with a very pale skin, while being confessed by a horribly ugly monk.<br>
+<br>The work features numerous characters, painted in different attitudes. In the center, lying on a catafalque with a precious cloth decorated with pomegranates, is the body of St. Jerome. He is surrounded by a group of monks, whose faces show their mourning and despair for the saint's death. The pomegranate cloth is also visible in the funerary monument of Geminiano Inghirami, once in the church of San Francesco, attributed to Pasquino da Montepulciano (1460).
 <br>
-<br>The bottom left corner houses Veronica with the holy shroud, her eyes half-open and the face looking back. Finally, at the top left is Simon of Cyrene, his face upside upturned.<br>
+<br>The mourner's faces show that Lippi had studied Giotto's work in the Bardi Chapel, as some gestures are very similar, such as that of the monks kissing the saint's feet or the one raising his hands. Also the saint's position is similar to Giotto's, as well as the presence of ancient numismatic, a widespread theme at the time.
 <br>
-<br>There are two further versions of the subject by Bosch: a previous one from around 1498, now at the Royal Palace of Madrid, and another in the Kunsthistorisches Museum of Vienna from around 1500.<br></span>
+<br>In the foreground is Inghirami kneeling, with a crippled youth in front of him who points at Jerome's body (a trick to avoid that the donor's red garments could distract the observer). The crippled figure is inspired by the frescoes by <a target="_blank" href="/en/masaccio">Masaccio</a> and Masolino da Panicale in the Brancacci Chapel, which Lippi knew well as he had a been a monk in the convent housing the chapel in his youth.
+<br>
+<br>The upper part of the panel, aside from rocky mountains with three secondary scenes (Adoration of the Child and two episodes of the saint's life), is occupied by angels, perhaps executed by Fra' Diamante or another collaborator. Among them circles which allude to the Heaven's Circles, the Redeemer (with a book with Alpha and Omega), the Holy Spirit dove and the Jesus opening his arms.
+<br>
+<br>At the bottom is the coat of arms of the Inghirami family.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
