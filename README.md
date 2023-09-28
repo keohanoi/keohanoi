@@ -2,25 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00142/images/57726dcfedc2cb3880b50d67/p-s-kr-yer-1899-sommeraften-ved-skagens-strand-kunstneren-og-hans-hustru.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00142/images/57726d84edc2cb3880b48c9b/venus-and-adonis-by-titian-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Summer evening on Skagen's beach</h2>
+        <h2 class="artwork-name">Venus and Adonis</h2>
         <h3 class="artist">
-          Peder Severin Kroyer
-                    ·  1899
+          Titian
+                    ·  1554
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Summer Evening at Skagen Beach – The Artist and his Wife (Danish: Sommeraften ved Skagens strand. Kunstneren og hans hustru) is an 1899 painting by <a target="_blank" href="/en/peder-severin-kroyer">Peder Severin Krøyer</a>. One of the best known paintings of the Skagen Painters, it depicts Krøyer with his wife Marie and his dog Rap strolling on the beach in the moonlight.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A composition of Venus and Adonis by the Venetian Renaissance artist <a target="_blank" href="/en/titian">Titian</a> has been painted a number of times, by Titian himself, by his studio assistants and by others. In all there are some thirty versions that may date from the 16th century, the nudity of Venus undoubtedly accounting for this popularity. It is unclear which of the surviving versions, if any, is the original or prime version, and a matter of debate how much involvement Titian himself had with surviving versions. There is a precise date for only one version, that in the Prado in Madrid, which is documented in correspondence between Titian and Philip II of Spain in 1554. However, this appears to be a later repetition of a composition first painted a considerable time earlier, possibly as early as the 1520s.
 <br>
-<br>The Skagen Painters were a close-knit group of mainly Danish artists who gathered each summer from the late 1870s in the fishing village of Skagen in the far north of Jutland, painting the local fishermen and their own gatherings. P.S. Krøyer arrived there in 1882, quickly becoming the most prominent member of the group.
+<br>The Prado version is set at dawn and shows the young Adonis pulling himself away from Venus, his lover. He carries a feathered spear or "dart", a weapon often used in hunting in the 16th century. The leads of his three hounds are wound around his arm at right. Under the trees behind them at left Cupid lies asleep, with his bow and quiver of arrows hanging from a tree; this is not a time for love. High in the sky, a figure rides a chariot; this is either Venus from later in the story, or Apollo or Sol, representing the dawn. Venus sits on a rock covered with a rich tablecloth with gold braid edges and buttons (not a military jacket, as sometimes thought). Adonis has a horn hanging from his belt; his dress is classical, taken from Roman sculptures.
 <br>
-<br>In 1895, in a letter to his friend Oscar Björck, Krøyer wrote "I am also thinking of painting a large portrait of my wife and me together — but for that I shall definitely need good weather, so it won't be this year." In fact it was four years later, in the summer of 1899, that he finally created his large painting. Maybe it was in recognition of 10 years of marriage with Marie Triepcke as illustrated in other works of family life at the time as well as in a number of the photographs and sketches he used as a basis for the work.
+<br>It is thought that the Roman poet Ovid was the main source, though other literary and visual sources have been suggested. In Book X of Ovid's Metamorphoses Adonis is a beautiful youth, a royal orphan, who spends his time hunting. Venus falls in love with him after one of Cupid's arrows hits her by mistake. They hunt together, but she avoids the fiercer animals, and warns him about them, citing the story of Atalanta. One day Adonis hunts alone and is gored by a wounded wild boar. Venus, in the sky in her chariot, hears his cries but cannot save him. In some versions, the death of Adonis is shown in the distance to the right. In Ovid, it is Venus who leaves first, and Adonis pulling himself away seems to be Titian's invention, for which some criticized him.
 <br>
-<br>The final result nevertheless has a rather melancholic tone. Despite the beautiful surroundings, Marie appears distant, disappearing into the blue moonlight. Even Krøyer's own weak figure seems to be experiencing difficulty in supporting her on his arm while the closest figure of all is Krøyer's faithful dog, Rap. After Krøyer had worked on the painting throughout the summer, he submitted it to the Charlottenborg Spring Exhibition in 1900. It was not very well received there, being criticized as banal. In fact, it presents the blue half-light, a favourite with the <a target="_blank" href="/en/artists-by-art-movement/symbolism">Symbolists</a> who believed the twilight hour heralded the coming of death. In 1907, Krøyer conveyed his own feelings about Skagen evenings: "Skagen can look so terribly dull in the bright sunlight ... but when the sun goes down, when the moon rises up out of the sea, ... with the fishermen standing on the beach and the cutters sailing by with loosened sails ... in recent years this has been the time I like most of all." A few months after the spring exhibition, Krøyer was admitted to Middelfart Mental Hospital after suffering a nervous breakdown.</span>
+<br>Two basic types of the composition were described by Harold Wethey, who called them the "Prado" and "Farnese" types; the Prado type is most common and is described above. Alternative terms are the "three-dog" and "two-dog" types. They are in most respects the same, but the Farnese type has a tighter crop on the subject and a wider shape, losing most of the sky. Adonis' raised hand is just below the picture edge, so the feathers on the spear are not seen, nor is the chariot in the sky, though the sun bursts through clouds in about the same place. There are only two hounds and no gold vessel on the ground at left. Cupid is brought closer to the main couple, and is now awake, holding a dove in his hands.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
