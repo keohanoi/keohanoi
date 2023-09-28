@@ -2,29 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hans-memling/mystic-marriage-of-st-catherine-1480.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/caravaggio/basket-of-fruit.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mystic marriage of St Catherine</h2>
+        <h2 class="artwork-name">Basket of Fruit</h2>
         <h3 class="artist">
-          Hans Memling
-                    ·  1480
+          Caravaggio
+                    ·  1596
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Mystic Marriage of St. Catherine (or Virgin and Child with Saints Catherine of Alexandria and Barbara) is a c. 1480 oil-on-oak painting by the Early Netherlandish painter <a target="_blank" href="/en/hans-memling">Hans Memling</a>, now in the Metropolitan Museum of Art, New York. The panel shows an enthroned Virgin holding the Child. St Catherine of Alexandria and St Barbara are seated alongside. Angels playing instruments flank the throne, while the left hand male figure is presumably the donor. The scene is set before a landscape.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Basket of Fruit (c.1599) is a <a target="_blank" href="/en/paintings-by-genre/still-life">still life</a> painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a> (1571–1610), which hangs in the Biblioteca Ambrosiana (Ambrosian Library), Milan.
 <br>
-<br>Intended as a devotional donor portrait, the panel combines elements of a Hortus conclusus, sacra conversazione and Virgo inter Virgines – the latter of which always presents Mary with Saints Catherine and Barbara. The work is characteristic of Memling's serene style, with structure and colors in harmony. The painting reflects techniques Memling probably learned from his predecessors <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>, to whom he was almost certainly apprenticed, and <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>, synthesizing elements of the earlier artists' work.
+<br>It shows a wicker basket perched on the edge of a ledge. The basket contains a selection of summer fruit:
 <br>
-<br>The composition is an almost exact copy of Memling's central panel in the St John Altarpiece. It is unknown when Memling painted the Mystic Marriage; 1480 seems a probable date according to tree ring analysis. The arbor arching over the Virgin's throne was added at a later date, probably in the 16th century.
+<br>Much has been made of the worm-eaten, insect-predated, and generally less than perfect condition of the fruit. In line with the culture of the age, the general theme appears to revolve about the fading beauty, and the natural decaying of all things. Scholars also describe the basket of fruit as a metaphor of the Church.
 <br>
-<br>The painting depicts the Virgin and Child flanked by saints and angels; the donor kneels to the left of the holy figures. The Virgin sits on a throne beneath a baldachin (canopy of honor) of rich brocade with the child on her lap. In the garden behind her emblem, an iris, is visible. Two angels dressed in liturgical garments with musical instruments stand to either side of the throne; the one to the left plays a portable organ and the one on right plays a harp. The martyr virgin saint, St Catherine of Alexandria kneels in front of Mary to the left; opposite is St Barbara, who sits to the right, reading a missal. The donor kneels behind St Catherine, a set of rosary beads in his hands. Attached to his hip, barely visible, is either a small purse or a coat-of-arms.
+<br>A recent X-ray study revealed that it was painted on an already used canvas painted with grotesques in the style of Caravaggio’s friend Prospero Orsi, who helped the artist in his first breakthrough into the circles of collectors such as his first patron, Cardinal Francesco Maria Del Monte, around 1594/1595, and who remained close to him for many years thereafter.
 <br>
-<br>St Catherine was highly venerated in the Middle Ages, second only in popularity to the Magdelen. Emperor Maxentius tortured Catherine on an iron-spiked wheel and later, when she proclaimed herself married to Christ, cut off her head. According to her legend the mystic marriage occurred in a dream from which she awoke with a ring on her finger. Her emblems are the breaking wheel and sword, seen in the foreground, peeking out from beneath the voluminous folds of her ermine-lined skirt.
+<br>Scholars have had more than their usual level of disagreement in assigning a date to the painting: John T. Spike places it in 1596; Catherine Puglisi believes that 1601 is more probable; and practically every year in between has been advanced. Puglisi's reasoning seem solid, (the basket in this painting seems identical with the one in the first of Caravaggio's two versions of Supper at Emmaus - even the quince seems to be the same piece of fruit), but no consensus has emerged.
 <br>
-<br>To denote her royal birth, Catherine wears a crown on her head and is dressed in rich clothing – a white tabard, red velvet sleeves, and a richly patterned brocade skirt. She extends her left hand to the Christ Child who places the ring on her finger, symbolizing their spiritual or mystical betrothal. James Snyder writes that typical of Memling's art, "the drama of the moment is in no way reflected by the expressions on the faces of the participants."</span>
+<br>In 1607 it was part of Cardinal Federico Borromeo’s collection, a provenance which raises the plausibility of a conscious reference to the Book of Amos. Borromeo, who was archbishop of Milan, was in Rome approximately 1597-1602 and a house guest of Del Monte in 1599. He had a special interest in the Northern European painters such as Paul Bril and Jan Brueghel the Elder, who were also in Rome at the time, (indeed, he took Breughel into his own household), and in the way they did landscapes and flowers in paintings as subjects in their own right, something not known at the time in Italian art. He would have seen the way Caravaggio did still life as incidental accessories in paintings such as Boy Bitten by a Lizard, Bacchus, in Del Monte's collection, and The Lute Player in the collection of Del Monte's friend Vincenzo Giustiniani. The scholarly Giustiniani wrote a treatise on painting years later, wherein, reflecting the hierarchical conventions of his day, he placed flowers "and other tiny things" only fifth on a twelve-scale register, but he said also that Caravaggio once said to him "that it used to take as much workmanship for him to do a good picture of flowers as it did to do one of human figures."
+<br>
+<br>Like its doppelganger in Supper at Emmaus, the basket seems to teeter on the edge of the picture-space, in danger of falling out of the painting and into the viewer's space instead. In the Supper this is a dramatic device, part of the way in which Caravaggio creates the tension of the scene; here, trompe l'oeil seems to be almost the whole purpose of the painting, if we subtract the possible didactic element. But the single element that no doubt attracted its original owner, and still catches attention today, is the extraordinary quasi-photographic realism of the observation which underlies the illusionism. Basket of Fruit can be compared with the same artist's Still Life with Fruit (c. 1603), a painting which John Spike identifies as "the source of all subsequent Roman still-life paintings."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
