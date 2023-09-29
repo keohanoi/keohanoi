@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/hieronymus-bosch/st-jerome-praying-1500.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00234/images/bernardino-luini/christ-crowned-wit-torns-bernardino-luini.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Jerome Praying</h2>
+        <h2 class="artwork-name">Christ Crowned with Thorns</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1500
+          Bernardino Luini
+                    ·  1522
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St. Jerome at Prayer is a painting of St. Jerome by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>, thought to have been completed c. 1482. Today it is housed at the Museum of Fine Arts in Ghent.
-<br>
-<br>The work is known only from its acquisition by the museum in 1908. As for most of Bosch's works, dating has been long disputed, dates having varied from 1490–1500 to 1495–1505. However, dendochronologic analysis has proved that it has been painted not after 1482.
-<br>
-<br>St. Jerome was a frequent subject of 15th century European art, depicted in his studio or during his penitence in the desert. Bosch for this picture adopted the latter iconography, although his saint is prone instead of kneeling. He is praying with a crucifix in his arms, also an unusual gesture of communion with Christ.
-<br>
-<br>Jerome lies on a rock located under a kind of shell-like cave. He is surrounded by his traditional symbols (the lion - although in this case it has a smaller size than usual - the galero, the Bible), but Bosch, as common in his works, also added some bizarre elements, such as the bony pig or the spherical shell emerging from the pool . This could symbolize the world floating towards decay.
-<br>
-<br>An owl and little owl are depicted on a branch: they allude, respectively, to heresy and the struggle against heresy. The Ten Commandments tables can be seen above the cave. The landscape is wide, in green tones.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The architecture of the Aula Leonardi is dominated by a majestic fresco by one of Leonardo da Vinci’s most mature and original followers, Bernardino Luini. The subject of this mural painting is clearly explained by the cartouche at the top of the central bay, which bears the title of the work itself: Caput regis gloriae spinis coronatur (“The Head of the King of Glory Crowned with Thorns”). The scene is divided into three distinct parts. At the centre, Christ is wearing a scarlet mantle and holding a cane as though it were a sceptre, and he appears to be seated on a sort of throne. His wrists are tied by a rope and on his head he wears a crown of thorns. He is surrounded by several soldiers who insult and mock him with strange grimaces, while two of them, who are closest to him, look as though they intend to beat on the crown of thorns with sticks, to press it deeper into his flesh. The two sides, on the other hand, show the twelve members of the Confraternita di Santa Corona, who commissioned the fresco from Bernardino Luini. There are six on each side, kneeling and wrapped in heavy black cloaks. Before it was taken over by the Ambrosiana, this hall was the chapter house of the confraternity, which was named after the Holy Crown of Christ and devoted to charitable work.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
