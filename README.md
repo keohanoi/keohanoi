@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/arthur-hughes/the-long-engagement-1859.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/sandro-botticelli/annunciation-1500(1).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Long Engagement</h2>
+        <h2 class="artwork-name">Annunciation</h2>
         <h3 class="artist">
-          Arthur Hughes
-                    ·  1859
+          Sandro Botticelli
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The title refers to middle class social conventions of the time, in particular the fact that the parents of a girl engaged to a poorly paid curate would typically not allow the marriage until he had secured a more remunerative position - i.e. within the church hierarchy. The girl is depicted looking at her own name (Amy) carved, some while ago, into the trunk of the tree by her fiancé as an expression of his love. The carving, however, is about to be covered by rambling ivy - growing up the trunk; ethereal youthful passion is becoming lost to lassiez-faire worldly capitalist demands. It can be said that this symbolism reflects the stark realities of late 1850s and 1860s Victorian England</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation is a painting created by Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>. It is a tempera on panel and measures 49.5&nbsp;cm tall and 58.5&nbsp;cm wide. It is in the Kelvingrove Art Gallery and Museum in Glasgow, Scotland.
+<br>
+<br>Its date is not certain though a majority of the critics consider it early, noticing certain elements reminiscent of <a target="_blank" href="/en/andrea-del-verrocchio">Verrocchio</a>. Van Marle, however, dates it circa 1490.
+<br>
+<br>On the lower part there is a note that indicates that it came from the Florentine Church of Saint Barnabas.
+<br>
+<br>The atmosphere is achieved through the succession of columns and sections of flooring that serve to demonstrate the perspective. The solemn architecture overlooks the figures.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
