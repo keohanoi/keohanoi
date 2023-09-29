@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00313/images/andy-warhol/unnamed-1-1.jpg"
+        src="https://uploads0.wikiart.org/images/arthur-hughes/the-long-engagement-1859.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Absolut Warhol (Absolut Vodka)</h2>
+        <h2 class="artwork-name">The Long Engagement</h2>
         <h3 class="artist">
-          Andy Warhol
-                    ·  1986
+          Arthur Hughes
+                    ·  1859
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1985 Warhol became the first artist commissioned to create a portrait of the Absolut Vodka bottle in what would become one of the most successful advertising campaigns of the twentieth century. Following the triumph of the <i>Absolut Warhol</i> ads, the president of the company that owned Absolut, Michael Roux, encouraged Warhol to suggest other artists that could be used in the campaign. Over the years more than three hundred and fifty artists have been commissioned, including <a target="_blank" href="https://www.wikiart.org/en/keith-haring/absolut-haring-1986">Keith Haring</a> and <a target="_blank" href="https://www.wikiart.org/en/edward-ruscha/absolut-ruscha-1988">Ed Ruscha</a> - both suggested by Warhol. In 1988, alongside the famous names, Roux began selecting less well-known artists, viewing the commission as an opportunity to launch their career. Interestingly, although Warhol never usually drank alcohol, he did use Absolut as a perfume.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The title refers to middle class social conventions of the time, in particular the fact that the parents of a girl engaged to a poorly paid curate would typically not allow the marriage until he had secured a more remunerative position - i.e. within the church hierarchy. The girl is depicted looking at her own name (Amy) carved, some while ago, into the trunk of the tree by her fiancé as an expression of his love. The carving, however, is about to be covered by rambling ivy - growing up the trunk; ethereal youthful passion is becoming lost to lassiez-faire worldly capitalist demands. It can be said that this symbolism reflects the stark realities of late 1850s and 1860s Victorian England</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
