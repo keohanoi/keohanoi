@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00234/images/bernardino-luini/christ-crowned-wit-torns-bernardino-luini.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/stanley-pinker/the-garden-of-eden(1).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ Crowned with Thorns</h2>
+        <h2 class="artwork-name">The Garden of Eden</h2>
         <h3 class="artist">
-          Bernardino Luini
-                    ·  1522
+          Stanley Pinker
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The architecture of the Aula Leonardi is dominated by a majestic fresco by one of Leonardo da Vinci’s most mature and original followers, Bernardino Luini. The subject of this mural painting is clearly explained by the cartouche at the top of the central bay, which bears the title of the work itself: Caput regis gloriae spinis coronatur (“The Head of the King of Glory Crowned with Thorns”). The scene is divided into three distinct parts. At the centre, Christ is wearing a scarlet mantle and holding a cane as though it were a sceptre, and he appears to be seated on a sort of throne. His wrists are tied by a rope and on his head he wears a crown of thorns. He is surrounded by several soldiers who insult and mock him with strange grimaces, while two of them, who are closest to him, look as though they intend to beat on the crown of thorns with sticks, to press it deeper into his flesh. The two sides, on the other hand, show the twelve members of the Confraternita di Santa Corona, who commissioned the fresco from Bernardino Luini. There are six on each side, kneeling and wrapped in heavy black cloaks. Before it was taken over by the Ambrosiana, this hall was the chapter house of the confraternity, which was named after the Holy Crown of Christ and devoted to charitable work.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 'The Garden of Eden', Pinker provides the viewer with a pared down, Cubist-inspired Adam and Eve who lock eyes sharply above an abundance of sensuous floral forms. At first glance, this appears an idyllic scene, but the reference to the Garden of Eden locates the viewer in an uncomfortable position of dramatic irony; the awareness of a loss which is both imminent and irretrievable. An ambience poised between darkness and light, innocence and knowledge, is invoked by the starkly contrasting background colours. As the artist relates in an interview with Michael Stevenson: "Essentially the flat background does the footwork in my paintings; it is usually a base colour, or colours, and it sets the mood... In each case it is with the background that it all begins. It is my first concern, long before I start with the detail. The components of the imagery then assert themselves on the flat space in terms of their shape, line and colour". 
+<br>
+<br>The subjects and objects recontextualised in this latter-day paradise become what curator of the South African National Gallery (which boasts several Pinkers in its collection), Hayden Proud, refers to as "the dramatis personae of his art. Populating the shallow stage of his format, they become suspended in a pictorial realm of studied whimsy, interlocking and fusing to become potent metaphors".
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
