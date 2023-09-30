@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00273/images/richard-diebenkorn/rd1374pub.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/diego-rivera/man-controller-of-the-universe-1934.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cityscape I</h2>
+        <h2 class="artwork-name">Man at the Crossroads/Man, Controller of the Univers</h2>
         <h3 class="artist">
-          Richard Diebenkorn
-                    ·  1963
+          Diego Rivera
+                    ·  1934
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diebenkorn painted this suburban California street in 1963 when he moved away from making abstract work and returned to a more representational style, having become a leading figure of the <a target="_blank" href="https://www.wikiart.org/en/artists-by-painting-school/bay-area-figurative-school#!#resultType:masonry">Bay Area Figurative School</a>. <i>Cityscape I</i> suggests that Diebenkorn's essentially abstract, signature style, comprised of large planes of bright color executed with expressive brushwork and plotted within a grid-like plane, extends even to his imagistic work. The planes - both the densely-packed planes of the buildings at the left as well as the larger, more open landscape planes at the right - stack up vertically to assert the flat surface of the picture and create its abstract design. Although at one level the painting is clearly a cityscape or landscape, at another level the viewer can cordon off almost any rectangular part of the picture to enjoy an almost totally abstract painting in miniature.<br><br><a target="_blank" href="https://www.theartstory.org/artist/diebenkorn-richard/artworks/#pnt_4">By Theartstore</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Rivera stirred up controversy yet again when he was commissioned to create Man at the Crossroads for the Rockefeller Center in 1933. He was chosen to complete a mural on the first floor of the Rockefeller Center, with the theme of man at the crossroads, looking to the hope of a new and better future. The original work included pictures of women drinking alcohol, cells depicting sexually transmitted diseases, Leon Trotsky and a portrait of Lenin, which upset Rockefeller, who commissioned the work. He demanded that the face of Lenin be changed, but Rivera refused. Rockefeller immediately paid for the work, dismissed Rivera, and covered the mural. Rivera, who was determined to have his mural shown, re-created it at the Palacio de Bellas Artes in Mexico City and renamed the piece Man, Controller of the Universe. The original Man at the Crossroad in the Rockefeller Center was smashed and hauled away in 1934. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
