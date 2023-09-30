@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/diego-rivera/man-controller-of-the-universe-1934.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00288/images/peter-paul-rubens/rubens-pieter-paul-the-union-of-earth-and-water-antwerp-and-the-scheldt.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Man at the Crossroads/Man, Controller of the Univers</h2>
+        <h2 class="artwork-name">The Union of Earth and Water</h2>
         <h3 class="artist">
-          Diego Rivera
-                    ·  1934
+          Peter Paul Rubens
+                    ·  1618
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Rivera stirred up controversy yet again when he was commissioned to create Man at the Crossroads for the Rockefeller Center in 1933. He was chosen to complete a mural on the first floor of the Rockefeller Center, with the theme of man at the crossroads, looking to the hope of a new and better future. The original work included pictures of women drinking alcohol, cells depicting sexually transmitted diseases, Leon Trotsky and a portrait of Lenin, which upset Rockefeller, who commissioned the work. He demanded that the face of Lenin be changed, but Rivera refused. Rockefeller immediately paid for the work, dismissed Rivera, and covered the mural. Rivera, who was determined to have his mural shown, re-created it at the Palacio de Bellas Artes in Mexico City and renamed the piece Man, Controller of the Universe. The original Man at the Crossroad in the Rockefeller Center was smashed and hauled away in 1934. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Union of Earth and Water  is a <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> painting by Flemish artist <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, showing Cybele as the personification of earth holding the horn of plenty and Neptune as the personification of water in the center.<br> The pair is crowned by the goddess Victoria and the union is heralded through a conch by the Triton below. The union symbolizes fertility, wealth and prosperity, specifically the city of Antwerp and the river Scheldt whose mouth in Rubens' times was blocked by the Dutch depriving Flanders of the access to the sea. The painting features a pyramidal composition, symmetry and the balance of forms. It was influenced by late Italian Renaissance, particularly by Venetian artists.<br>
+<br>
+<br>A smaller copy of the painting made in the Rubens' workshop was owned by the Russian businessman Vladimir Logvinenko. Following the abolition of a thirty per cent import duty on artworks in 2004, Logvinenko brought the copy from London to Moscow.<br>
+<br>
+<br>The painting is housed in the Rubens Hall of the Hermitage Museum, Russia. Previously it had been in the Chigi Collection in Rome from which it was acquired by the Hermitage Museum between 1798 and 1800.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
