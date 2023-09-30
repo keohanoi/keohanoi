@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/fernand-leger/woman-with-a-book-1923.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00378/images/grant-wood/gwood-tame-flowers-aic.png!Large.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman with a Book</h2>
+        <h2 class="artwork-name">Tame Flowers</h2>
         <h3 class="artist">
-          Fernand Leger
-                    ·  1923
+          Grant Wood
+                    ·  1939
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Leger believed that the mechanical age had the capability of curing the chaos that occurred during World War I, and reduced the figures in his paintings to mechanical shapes for this very purpose. In Woman with a Book, Leger has reduced the shape of the woman down to simple forms, which have been placed back together like a machine. This portrait thus gives of the impression that the woman is a mechanized version of herself. The simple, solidified forms were Leger’s attempt to use enduring images to recover from the devastation of the war. This portrait gives off the impression that the woman’s strong stance and solid figure offers comfort after the tribulations of war. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Tame Flowers.1939. Grant Wood (American, 1892–1942), hand-colored by Nan Wood Graham (1899-1990). Published by Associated American Artists.<br><br>Lithograph and watercolor on wove paper. Image from work residing in collections at the Art Institute of Chicago, Gift of David Q. and Mary H. Bell, 2016.400.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
