@@ -2,18 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00215/images/marina-abramovic/lk.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/hieronymus-bosch/christ-carrying-the-cross-1490.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Relation in Space</h2>
+        <h2 class="artwork-name">Christ Carrying the Cross</h2>
         <h3 class="artist">
-          Marina Abramović
+          Hieronymus Bosch
+                    ·  1490
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Performed on the 16th of July at the Venice Biennale in 1976 with Ulay. In Relation in Space (1976) they ran into each other repeatedly for an hour – mixing male and female energy into the third component called "that self."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Carrying the Cross is a painting by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>, executed in the 1480s. It is at the Kunsthistorisches Museum, in Vienna, Austria.
+<br>
+<br>Christ Child with a Walking Frame is painted on the back of this painting.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
