@@ -2,37 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/fra-angelico/annunciation-1434.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00324/images/marcel-broodthaers/dear-little-sister-1972.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Annunciation</h2>
+        <h2 class="artwork-name">Dear Little Sister</h2>
         <h3 class="artist">
-          Fra Angelico
-                    ·  1434
+          Marcel Broodthaers
+                    ·  1972
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation of Cortona is a panel-painting altarpiece or retable by <a target="_blank" href="/en/fra-angelico">Fra Angelico</a>: once housed in the Church of Gesù of Cortona, it is now held at the Museo Diocesano in Cortona.
-<br>
-<br>The Annunciation of Cortona was painted by Fra Angelico in 1433-1434, in tempera on panel, 175&nbsp;cm x 180&nbsp;cm.
-<br>
-<br>This is one of three Annunciations by Fra Angelico on the table (the other two are in the Prado Museum, and the Museo della Basilica di Santa Maria delle Grazie, in San Giovanni Valdarno. Two others, in fresco, are found in the convent of San Marco, Florence, at the top of the access stairs and the third cell.
-<br>
-<br>There are also scenes of the theme combined with Adoration of the Magi at the Museum San Marco, and a diptych in the Galleria Nazionale dell'Umbria.
-<br>
-<br>The scene is typical of Christian iconography, "The Annunciation to Mary by the Archangel Gabriel", is described in the Gospels and in great detail in The Golden Legend of Jacobus de Voragine, the reference book of painters of the Renaissance, which can be represented in all its symbolic (walled garden column, the presence of the Holy Spirit, an evocation of Adam and Eve expelled from Paradise).
-<br>
-<br>This work is the main panel of a polyptych work, which includes a multi predella panels with scenes from the Life of the Virgin at the same Annunciazione di San Giovanni Valdarno:
-<br>
-<br>They are also attributed to Zanobi Strozzi, an assistant of Fra Angelico.
-<br>
-<br>On the left, the scene of invoking the original sin, is consistent with the principles of the Christian iconography of the painting: the pair of Adam and Eve expelled from Paradise is situated outside the walled garden of Mary, set off on a hill beyond a fence.
-<br>
-<br>Conversely from other Annunciations of Fra Angelico, the vanishing point of perspective is in focus monofocal the left of the table.
-<br>
-<br>Interesting about the annunciation scene are the three lines of text painted between the Archangel on the left and the Virgin on the right. The words of the angel are written on two lines, reading from left to right. The words of Mary are between those two lines. If we look attentively we see that her words are written upside-down. But that is not all. Mary's reply is also written backwards. As a consequence we have to stand upside-down, reading from right to left, to discover what she is saying. This indicates to the viewer that the words are addressed to God, who would be in the proper position to read them.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Dear Little Sister</i> is based on a used vintage postcard and the text that was written on it by its sender in 1901, which Broodthaers found. The card’s illustration depicts an ocean liner sailing into port during a storm, with the lighthouse visible in the background to the right of the image. The message on the card, written on the front under the image, gives the work its title: ‘Dear little sister, this is to give you an idea of the sea during the storm which we had last night. Will give you details of this, best wishes and see you soon. Marie.’ <br><br>Broodthaers reproduced the image of the postcard in negative so that the ship has become a ghostly white shape that stands out against the dark background. The words too, which would originally have been handwritten in dark ink on a light-colored border, have become white text on a black ground. In 1972, Broodthaers made a four-minute film <i>Dear Little Sister (The Storm)</i> in which he used this same combination of image and text. In the film, images of the front of the postcard were interspersed with shots of the back, upon which the address, stamp, and postmark were visible. The text was duplicated, phrase by phrase, in the form of subtitles in white typeface on a black frame, like that surrounding the original postcard. That the film and the printed version of <i>Dear Little Sister</i> are so immediately related is typical of Broodthaers’s working practice; though he refused the title of the filmmaker, his films played an essential role in his artistic production and often relate directly to his works in other media.<br><br>The first showing of the film of <i>Dear Little Sister</i> was held at the G<i>alerie Michael Werner</i> in Cologne in June 1972, and for the occasion, a negative print of the postcard image was used as an invitation card. On the reverse of this version of the postcard, Broodthaers added his own message in the form of his monogram, ‘M.B.’, repeated numerous times underneath the printed details of the gallery and exhibition dates. To mark the exhibition, the gallery published the printed version of <i>Dear Little Sister</i> as a limited edition offset lithograph.<br><br><i>Dear Little Sister</i> is one of several works in which Broodthaers made use of vintage postcards. Others include the film <i>Le Mauritania</i>, also made in 1972 and also on a maritime theme. The use of found materials was a strategy that had initially sprung from financial necessity, but one that became central to his artistic project. Previously Broodthaers had used discarded materials to assemble sculptural objects, such as <a target="_blank" href="https://www.wikiart.org/en/marcel-broodthaers/casserole-and-closed-mussels-1964"><i>Casserole and Closed Mussels</i></a> (1964). These can be related to the ‘readymades’ of <a target="_blank" href="https://www.wikiart.org/en/marcel-duchamp">Marcel Duchamp</a>, whose designation of everyday objects as works of art challenged the status of the artwork and questioned the role of the author and of the art institution. Originally made in the 1910s, many of these – such as <a target="_blank" href="https://www.wikiart.org/en/marcel-duchamp/fountain-1917"><i>Fountain</i></a> (1917) were replicated during the 1960s. While not strictly a ‘readymade’, in that the original postcard is just the source for the image and does not itself constitute the work, <i>Dear Little Sister</i> relies for its existence on the artist’s chance encounter with a discarded object. <br><br>The use of a found image also raises questions of authorship, a concern linked not only to Duchamp, but to the wider <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/surrealism">surrealist</a> movement. The strategy of undermining the identity of the single author-artist was a common one in surrealist circles, where collective or automatic methods were harnessed to suppress authorial identity. The appropriation of found imagery, the adoption of alternative personae and the presentation of images without identifying their source were common. <i>Dear Little Sister</i> introduces the possibility of unknown collaborators: the unidentified photographer who took the picture of the ship, and Marie, the author of the intimate note that is written on the card, who yet remains an unknown quantity.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
