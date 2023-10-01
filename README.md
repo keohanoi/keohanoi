@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/giovanni-bellini/the-madonna-of-the-trees-1487.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/ernest-meissonier/1807-friedland-1875(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna with Trees</h2>
+        <h2 class="artwork-name">1807, Friedland</h2>
         <h3 class="artist">
-          Giovanni Bellini
-                    ·  1487
+          Ernest Meissonier
+                    ·  1875
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna of the Small Trees (Italian: Madonna degli Alberetti) is an oil on panel painting by Italian Renaissance artist <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, executed in 1487. It is housed in the Gallerie dell'Accademia in Venice.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Meissonier, largely self-taught, established his reputation in the 1840s as a painter of small-scale genre scenes rendered in meticulous detail. An 1864 history painting, "1814, the Campaign of France" (Musée d'Orsay, Paris), signaled the artist's new interest in epic Napoleonic subjects. Countering that image of Napoleon in defeat, "1807, Friedland," Meissonier's largest and most ambitious painting, evokes one of the emperor's greatest victories. These two paintings were the only realized works in a projected cycle of five episodes in the life of Napoleon.
 <br>
-<br>Stylistic elements, such as the division of the background, suggest that the work was based on Bellini's Alzano Madonna in the "Accademia Carrara di Belle Arti di Bergamo".
-<br>
-<br>The background behind the Madonna and Child includes a hanging tapestry, a typical element of contemporary sacred conversations and which also appears in the Alzano Madonna. At the sides are two portions of landscape with two slender trees, whence the traditional name of the picture.
-<br>
-<br>In the lower foreground, as usual in Bellini works, is a parapet in green marble with his signature.</span>
+<br>"1807, Friedland" gained notoriety in 1876 when the American department store magnate Alexander T. Stewart (1803–1876) purchased it from the artist, sight unseen, for an astronomical sum. Judge Henry Hilton acquired the work at Stewart's estate sale and in 1887 bequeathed it to the Metropolitan Museum.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
