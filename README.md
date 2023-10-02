@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/juan-gris/portrait-of-pablo-picasso-1912.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00142/images/danny-dimauro/witching-hour.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Pablo Picasso</h2>
+        <h2 class="artwork-name">Knighting of Danny diMauro</h2>
         <h3 class="artist">
-          Juan Gris
-                    ·  1912
+          di Mauro
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The Portrait of Pablo Picasso</i> (1912) by Juan Gris is considered one of the finest portraits of the cubist art movement. The portrait depicts <a target="_blank" href="https://www.wikiart.org/en/pablo-picasso">Pablo Picasso</a>, one of the most influential artists of the 20th century, who founded <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/cubism">Cubism</a> together with <a target="_blank" href="https://www.wikiart.org/en/georges-braque">Georges Braque</a>. Picasso was a defining figure in Gris’s artistic development, and the painting honors him as a mentor. In 1906, Gris moved to Paris and settled in the Montmartre neighborhood. Soon after, he met Picasso, who introduced him to the leading painters, poets, and critics of the new generation like Braque, Guillaume Apollinaire, <a target="_blank" href="https://www.wikiart.org/en/max-jacob">Max Jacob</a>, Maurice Raynal, and Pierre Reverdy. In his first years in Paris, Gris worked as a graphic artist, drawing illustrations for various political and satirical magazines. Influenced by his environment, he began to paint seriously in 1910, and the following year he decided to fully devote his time to painting. In a relatively short period of time, Gris began producing works comparable in quality to those of his older and more experienced colleagues.<br><br>Gris decided to make his artistic debut with <i>The Portrait of Pablo Picasso</i> at the 1912 Salon of Independent Artists. Gris depicts Picasso as a painter, holding a palette in his hand. The inscription at the bottom right of the painting, “Hommage à Pablo Picasso” exhibits Gris’s respect for Picasso as a leader and innovator. The portrait draws from <a target="_blank" href="https://www.wikiart.org/en/paintings-by-style/analytical-cubism">Analytical Cubism</a>, the early phase of Cubism that lasted from 1908 to 1912. The term Analytical Cubism describes the analytical approach to the subject matter: the artist deconstructs the subject by depicting it simultaneously from multiple points of view. In the portrait, Gris deconstructed the figure by fracturing the head, neck, and torso into various planes and geometric shapes. Gris created a very organized composition with a regulated structure of diagonals. The painting has limited to a palette of cool tones of blue, brown, and grey. This was also characteristic of Analytic Cubism because a simplified color palette further emphasized the structure of the forms. What distinguished the portrait was the contrast produced by the blues, browns, and grey that gave the colors a luminous quality.<br><br>The painting was also an homage to Picasso as an artist, and more specifically it relates to the portraits Picasso painted in 1910: <a target="_blank" href="https://www.wikiart.org/en/pablo-picasso/portrait-of-ambroise-vollard-1910"><i>Portrait of Ambroise Vollard</i></a> (1910), <a target="_blank" href="https://www.wikiart.org/en/pablo-picasso/portrait-of-daniel-henry-kahnweiler-1910"><i>Portrait of Daniel-Henry Kahnweiler</i></a> (1910), and [<a target="_blank" href="https://www.wikiart.org/en/pablo-picasso/portrait-of-wilhelm-uhde-1910">i]Portrait of Wilhelm Uhde[/i]</a> (1910). <i>The Portrait of Pablo Picasso</i> was also linked to <a target="_blank" href="https://www.wikiart.org/en/jean-metzinger/le-go-ter-1911"><i>Tea Time</i></a> (1911), a portrait by French painter and theorist, <a target="_blank" href="https://www.wikiart.org/en/jean-metzinger">Jean Metzinger</a>. According to some scholars, Gris was so impressed by <i>Tea Time</i> that he became convinced of the importance of mathematics, and the two paintings have a similar grid structure. <i>The Portrait of Pablo Picasso</i> was an artistic homage to Picasso’s innovations, who with Georges Braque paved the way for other Cubist painters like Gris. At the same time, the painting showed Gris’s artistic skill and maturity and is considered one of his early artistic achievements.<br></span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Awoke from a dream reminding him of his Knighting in Casa Loma at four am he painted the memory on wood.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
