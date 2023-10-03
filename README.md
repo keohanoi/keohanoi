@@ -2,23 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/jean-leon-gerome/pygmalion-and-galatea-1.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/pietro-perugino/the-vision-of-st-bernard.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pygmalion and Galatea</h2>
+        <h2 class="artwork-name">The vision of St. Bernard</h2>
         <h3 class="artist">
-          Jean-Leon Gerome
-                    ·  1890
+          Pietro Perugino
+                    ·  1493
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pygmalion and Galatea (French: Pygmalion et Galatée) is an 1890 painting by the French artist <a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a>. The motif is taken from Ovid's Metamorphoses, and depicts how the sculptor Pygmalion kisses his ivory statue Galatea, after the goddess Venus has brought her to life.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Virgin appearing to St. Bernard is a painting by the Italian artist <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, the main painter of the Umbrian school that was based in Perugia. The panel was executed as an altarpiece for the church of Santa Maria Maddalena dei Pazzi in Florence. It was later acquired in 1829/30 for King Ludwig I of Bavaria from the Capponi in Florence, and eventually made it to the Alte Pinakothek in Munich. The work has been called "one of the high points of European painting in the late 15th century."
 <br>
-<br><a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a> painted Pygmalion and Galatea in the summer of 1890. In 1891 he made a marble sculpture of the same subject, possibly based on a plaster version also used as model for the painting. He made several alternative versions of the painting, each presenting the subject from a different angle.
-<br>
-<br>The most famous version, where Galatea is seen from behind, was bought by Boussod, Valadon &amp; Cie on 22 March 1892. It was sold several times until it was donated to the Metropolitan Museum of Art by Louis C. Raegner in 1927. The other versions are in private collections or lost.</span>
+<br>The painting shows St Bernard of Clairvaux, deep in his studies, being interrupted by a fully corporeal vision of the Virgin Mary, who appears to him in the clear light of day. Four saints surround them. There is a seemingly effortless, perfect symmetry about the composition, yet there is nothing static or artificial about it in any way. The position of the Virgin and St. Bernard's prie-dieu are both slightly off balance, but not enough to ruin the serene harmony of the picture. The faces of the various figures contribute to this quiet beauty, without showing much individualism or realism. Likewise, the colours are bright and radiant, without being flashy.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
