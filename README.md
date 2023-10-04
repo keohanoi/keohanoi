@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/pinturicchio/semi-gods-ceiling-1490.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/edouard-manet/the-reading-1869.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Semi-Gods Ceiling</h2>
+        <h2 class="artwork-name">The reading</h2>
         <h3 class="artist">
-          Pinturicchio
-                    ·  1490
+          Edouard Manet
+                    ·  1869
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Semi-Gods Ceiling is a painting work by Italian Renaissance master <a target="_blank" href="/en/pinturicchio">Pinturicchio</a>, dating to c. 1490 and housed in the right wing hall of the Palazzo dei Penitenzieri in Rome, Italy. It comprises 63 octagonal coffers in gilt wood, decorated with allegoric and mythological figures on a fake mosaic background, and painted on paper.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Reading is an oil painting by French painter <a target="_blank" href="/en/edouard-manet">Édouard Manet</a>, circa 1865 - 1873.
 <br>
-<br>The work was commissioned by Cardinal Domenico della Rovere, at the time patron of the young Pinturicchio.
+<br>The painting was first exhibited in 1880 in one of the regular solo exhibitions mounted by Manet in his workshop. The picture was also part of the great posthumous exhibition of Manet's work in 1884, a year after his death.
 <br>
-<br>The figures of the ceiling were inspired by medieval bestiaries and libri monstruorum, which contained hybrid figures such as sphinxes, armed tritons, satyrs, dragons, sirens and centaurs. The theme has hidden philosophical and humanist meanings, perhaps suggested by the literates which formed the cardinal's court.
+<br>The work first belonged to the private collection of Winnaretta Singer, Princess Edmond de Polignac, where it remained until 1944, after the death of the Princess. It was offered as a gift to the French State and deposited in the Musée du Louvre. In 1947, it was transferred to the Galerie nationale du Jeu de Paume, a showroom located in the Jardin des Tuileries and which belongs to the Louvre. It remained there until 1986, when, with the creation of the Musée d'Orsay, it was brought to this museum, like the rest of the collection of Impressionist paintings in the Louvre. It can currently be seen in the Musée d'Orsay, in room 31 of level 5.
 <br>
-<br>In the center is the genealogical tree of the Della Rovere with two peacocks, which can be seen also at the corners. One of the representation is a nude allegory of Fortune, which rides a dolphin, differently from the contemporary Florentine depictions in which she is portrayed on a small boat. There is also a putto on two sea horses going to different directions, a Neoplatonic allegory of the human soul, divided between the Good and Evil, according to Marsilio Ficino's 1475 comments to Plato's Symposium. The Weighing of the Soul and the Eagle Defeating the Snake are ancient themes which had been syncretized by the Christian world.
+<br>The painting depicts the artist's wife, Suzanne Manet (born Suzanne Leenhoff), seated, and their son, Leon, standing and reading a book. Leon was a recurrent model for Manet who portrayed him in several pictures, such as The Lunch, The Boy Carrying a Sword and The Bubbles of Soap.
 <br>
-<br>Numerous depictions are of sea creatures, including sirens with two tails, painted while milking, leading pups, painting or executing acrobatic dances. They were perhaps an element inspired by the sea thiasus featured in Roman sarcophagi, and which was also used by <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>, whom perhaps Pinturicchio met in the building of the Belvedere Palace in the Vatican.</span>
+<br>In this work the white woman's dress dominates, and the sofa and curtains are treated with broad strokes of high brightness, in counterpoint to the dark tone of the belt and collar. According to Peter H. Feist, in this painting "Manet reacts more sensitive than usual, and looks especially to shades of white that are offered to his eyes".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
