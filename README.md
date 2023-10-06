@@ -2,18 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00105/images/erin-hanson/field-of-blooms.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/john-jackson/lieutenant-general-john-manners-1721-1770-marquess-of-granby-1760.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Field of Blooms</h2>
+        <h2 class="artwork-name">Lieutenant General John Manners (1721–1770), Marquess of Granby</h2>
         <h3 class="artist">
-          Erin Hanson
+          John Jackson
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A wide expanse of wildflowers sweeps across the canvas in this large oil painting. The expressionist movement of brush strokes captures the vibrancy and color of the poppies, thistles and daisies growing among the grasses. The abstracted shapes of the landscape come together in a harmony of motion and color.<br><br>This painting measures 13 feet wide by 6 1/2 feet tall. The stretched canvas is 3" deep, with the painting continued around the edges.<br><br>ERIN HANSON is a life-long painter, beginning her study of oils as a young child.  Her passion for natural beauty is seen in her work as she transforms vistas familiar and rare into stunning interpretations of bold color, playful rhythms and raw emotional impact. Her frequent forays into National Parks and other recesses of nature include backpacking expeditions, rock climbing, and photo safaris.  Hanson's unique painting style has become known as Open Impressionism, with hundreds of collectors eagerly anticipating her work.  As an iconic, driving force in the rebirth of contemporary impressionism, Hanson is quickly recognized as a prolific, modern master.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The eldest son of the 3rd Duke of Rutland, Granby's first military service was under the command of the Duke of Cumberland during the Scottish rebellion of 1745. He served in Flanders during the later stages of the War of the Austrian Succession (1740–1748), and in 1758 became Colonel of the Royal Regiment of Horse Guards (Blues).
+<br>
+<br>Granby greatly distinguished himself during the Seven Years’ War (1756–1763), commanding the second line of cavalry at the battle of Minden in 1759. In the same year he became Commander-in-Chief of the British forces in Germany following the resignation of Lord George Sackville.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
