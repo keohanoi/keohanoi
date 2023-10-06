@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00142/images/57726d84edc2cb3880b48a43/ilya-repin-barge-haulers-on-the-volga-google-art-project.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/rufino-tamayo/children-s-games-1959.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Barge Haulers on the Volga</h2>
+        <h2 class="artwork-name">Children's Games</h2>
         <h3 class="artist">
-          Ilya Repin
-                    ·  1873
+          Rufino Tamayo
+                    ·  1959
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Repin’s first widely recognized work after graduation from art school, Barge Haulers on the Volga was immediately praised by critics. Although its social message was crystal clear in its portrayal of the inhumane working conditions faced by the barge haulers, the work was bought by the Emperor’s second son, Grand Duke Vladimir Alexandrovich, and exhibited all throughout Europe as an example of Russian realist painting. The work was wildly popular, and it has been parodied throughout Russia, and used as the basis for political cartoons. It was also the inspiration for the popular Russian song “The Song of the Volga Boatmen.”</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This large abstract composition was painted in Paris by one of Mexico's best-known artists, Rufino Tamayo. As a young man, Tamayo studied the ethnographic treasures and Pre-Columbian art in Mexico City before moving to New York (1926–28, 1936–50) and Paris (1949–64). At odds with the politically motivated narrative paintings of the Mexican muralists—Diego Rivera, José Clemente Orozco, and David Alfaro Siqueiros—Tamayo sought to create a more universal art form based on modernist principles. While some of his subjects and his choice of colors were informed by Mexican art and culture, his flattened compositions and abstract forms derive from European modernism.
+<br>
+<br>In this mid-career painting of 1959, three children (identifiable only by the painting's title) play in a circle, their bodies reduced to a jumble of irregular, flat shapes suggesting heads, legs, torsos, and arms. Our eye follows these disjointed elements around the brightly colored composition in a syncopated rhythm that is enhanced by the artist's agitated application of paint. While we may not be able to decipher the particulars of this scene, the artist has recreated the movements, sounds, light, and heat associated with it.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
