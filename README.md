@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/rufino-tamayo/children-s-games-1959.jpg"
+        src="https://uploads3.wikiart.org/images/carlo-carra/pursuit-1915.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Children's Games</h2>
+        <h2 class="artwork-name">Pursuit</h2>
         <h3 class="artist">
-          Rufino Tamayo
-                    ·  1959
+          Carlo Carra
+                    ·  1915
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This large abstract composition was painted in Paris by one of Mexico's best-known artists, Rufino Tamayo. As a young man, Tamayo studied the ethnographic treasures and Pre-Columbian art in Mexico City before moving to New York (1926–28, 1936–50) and Paris (1949–64). At odds with the politically motivated narrative paintings of the Mexican muralists—Diego Rivera, José Clemente Orozco, and David Alfaro Siqueiros—Tamayo sought to create a more universal art form based on modernist principles. While some of his subjects and his choice of colors were informed by Mexican art and culture, his flattened compositions and abstract forms derive from European modernism.
-<br>
-<br>In this mid-career painting of 1959, three children (identifiable only by the painting's title) play in a circle, their bodies reduced to a jumble of irregular, flat shapes suggesting heads, legs, torsos, and arms. Our eye follows these disjointed elements around the brightly colored composition in a syncopated rhythm that is enhanced by the artist's agitated application of paint. While we may not be able to decipher the particulars of this scene, the artist has recreated the movements, sounds, light, and heat associated with it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">With the outbreak of the Great War, several of the Futurists, spurred by Filippo Tommaso Marinetti, turned their attention to war subjects, even before Italy entered the war on the side of the French and British (May 1915). This collage depicts a galloping cavalry officer, with knee-length boots, a red trousers and a cylindrical helmet. The use of newspaper clippings, and stenciled letters, testifies once more to Carlo Carrà's close ties to Parisian Cubism. The horse is preceded by the letters JOFFRE, the name of the French General who won the Battle of the Marne between September 5-12, 1914. Other clippings (Cinemas and MORITZ, for example) strike a discordant note of entertainment and sport and introduce an element of ambiguity and irony. The horse does indeed seem less in pursuit of the enemy than wading through encumbering garbage. The explanation may rest with Carrà's awareness of the force of irony already pervading certain Parisian art circles, and with his growing distraction from Futurist concerns in favor of “plastic values” and spiritual content that was to lead to his abandonment of the movement in 1915.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
