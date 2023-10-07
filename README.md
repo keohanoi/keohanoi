@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/nikolaos-gyzis/the-underground-school-1885.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/miriam-schapiro/dollhouse-1972.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Secret School</h2>
+        <h2 class="artwork-name">Dollhouse</h2>
         <h3 class="artist">
-          Nikolaos Gyzis
-                    ·  1886
+          Miriam Schapiro
+                    ·  1972
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gyzis's Secret School was one of five of his works to be included in the 1888 annual Panhellenic Exposition of Athens. A reviewer mentions Gyzis's Greek School at the Time of Slavery,31 which, since no other work by Gyzis deals with a similar subject, must be Secret School.32 What is quite intriguing is the fact that even though the myth was well-established by the time of the exposition, there do not seem to be any other references to the painting in the press. By 1900, however, the painting was well on its way to becoming a national icon. That year, inspired by Gyzis's painting, the poet Ioannis Polemis (1862–1924) wrote "The Secret School,"33 which, through its inclusion in school textbooks, served to further perpetuate the myth.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Miriam Schapiro collaborated with Sherry Brody on Dollhouse as part of Womanhouse, an installation by a feminist art cooperative sponsored by the California Institute of the Arts. Womanhouse was a condemned Hollywood mansion transformed by the artists into a series of rooms dealing with different aspects of women's experience, and Dollhouse provided another level of imagination and fantasy as a set of  "rooms within rooms." The compartments are filled with bits of lace, handkerchiefs, tea towels, miniature furniture, and personal mementos that Schapiro and Brody had collected from women all over the country. Dollhouse grew out of a series of works that Schapiro called her "shrines," in which she explored her shifting identities as artist, wife, and mother. A parlor, a kitchen, a Hollywood star's bedroom, a "harem" room, a nursery, and, on the top floor, an artist's studio suggest these conflicting roles. The different symbols challenge the idea that the domestic lives of women prevent them from making "serious" art. At the same time, the tiny rooms in Dollhouse evoke cells in which the hopes of women are often imprisoned.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
