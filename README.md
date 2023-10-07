@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00105/images/manfred-kielnhofer/contemporary-art-design-sculpture-show-ghost-time-guardians-waechter-sculptor-artist-manfred.jpg"
+        src="https://uploads4.wikiart.org/images/nikolaos-gyzis/the-underground-school-1885.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Contemporary Art Design Sculpture Show Ghost Time Guardians Waechter Sculptor Artist Manfred Kielnhofer Kili 1</h2>
+        <h2 class="artwork-name">The Secret School</h2>
         <h3 class="artist">
-          Manfred Kielnhofer
+          Nikolaos Gyzis
+                    ·  1886
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Manfred "KILI" Kielnhofer (born January 28, 1967 in Haslach an der Mühl) is an Austrian painter, sculptor, designer and photographer.<br><br>Manfred "KILI"Kielnhofer visited the technical College Linz where he took his final exam in 1995. he was engaged with technique and design and art on building lead him to his special way of art. Since 2000 he lives as a freelance artist in Linz. 2005 he launched Gallery Artpark in Linz.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gyzis's Secret School was one of five of his works to be included in the 1888 annual Panhellenic Exposition of Athens. A reviewer mentions Gyzis's Greek School at the Time of Slavery,31 which, since no other work by Gyzis deals with a similar subject, must be Secret School.32 What is quite intriguing is the fact that even though the myth was well-established by the time of the exposition, there do not seem to be any other references to the painting in the press. By 1900, however, the painting was well on its way to becoming a national icon. That year, inspired by Gyzis's painting, the poet Ioannis Polemis (1862–1924) wrote "The Secret School,"33 which, through its inclusion in school textbooks, served to further perpetuate the myth.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
