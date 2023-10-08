@@ -2,20 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/ralph-hotere/black-phoenix(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/jose-higuera/donde-miras-65x100.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Black Phoenix</h2>
+        <h2 class="artwork-name">Where are you looking at?</h2>
         <h3 class="artist">
-          Ralph Hotere
-                    ·  1988
+          Jose Higuera
+                    ·  2013
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a large art installation titled 'Black phoenix', created by artist Ralph Hotere in 1984. The installation incorporates the fire-damaged prow of a fishing boat and burnt planks of wood that lean against the wall on either side of the prow. Other planks have been laid on the floor in front of the prow. Each plank has had a strip of charcoal routed out to reveal the natural timber underneath. Polished brass plates are attached to the boat's prow, and some of the planks are carved with the tribal proverb 'Ka hinga atu he tete-kura - ka hara-mai he tete-kura' (As one fern frond (person) dies – one is born to take its place). The installation is made from metal and burnt wood and measures 5.00 m x 12.90 m x 5.65 m.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Where are you looking at? It is a game in which the protagonist, gets lost from his apparent task and distracts her gaze toward a point we don’t know and will never know, because it is out of the painting.
+<br>Where are you looking at? ... Is the question that will remain unanswered or open to the imagination of the painting’s viewer ... perhaps thinking that the boy’s look turned toward some important think that captured his full attention just then. </span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
