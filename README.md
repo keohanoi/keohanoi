@@ -2,33 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/vittore-carpaccio/the-miracle-of-the-relic-of-the-true-cross-on-the-rialto-bridge-1494.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00142/images/57726d86edc2cb3880b49101/william-bouguereau-dante-and-virgile-google-art-project-2.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Miracle of the Relic of the True Cross on the Rialto Bridge</h2>
+        <h2 class="artwork-name">Dante and Virgil</h2>
         <h3 class="artist">
-          Vittore Carpaccio
-                    ·  1494
+          William-Adolphe Bouguereau
+                    ·  1850
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Miracle of the Cross at the Ponte di Rialto, also known as The Healing of the Madman (Italian: Miracolo della Croce a Rialto) is a painting by Italian Renaissance artist <a target="_blank" href="/en/vittore-carpaccio">Vittore Carpaccio</a>, dating from c. 1496. It is now housed in the Gallerie dell'Accademia in Venice.
-<br>
-<br>The painting was commissioned for the Grand Hall of the Scuola Grande di San Giovanni Evangelista, the seat of the eponymous brotherhood in Venice. The commission included a total of nine large canvasses, by prominent artists of the time such as Bellini, <a target="_blank" href="/en/pietro-perugino">Perugino</a>, <a target="_blank" href="/en/vittore-carpaccio">Vittore Carpaccio</a>, Giovanni Mansueti, Lazzaro Bastiani and Benedetto Rusconi.
-<br>
-<br>The subject of the paintings was to be the miracles of a fragment of the True Cross. The item had been donated to the brotherhood by Philippe de Mézières (or Filippo Maser), chancellor of the Kingdom of Cyprus and Jerusalem in 1369, and soon became the object of veneration in the city.
-<br>
-<br>The canvasses were all executed in 1496-1501. All survive today, aside from that by Perugino, and are now in the Gallerie dell'Accademia.
-<br>
-<br>The painting shows the miracle of the healing of a madman through the relic of the Holy Cross, held by the Patriarch of Grado Francesco Querini, which took place in the Palazzo a San Silvestro on the Canal Grande, near the Rialto Bridge. The scene has an asymmetrical composition, with figures in the foreground at the left and, behind them, the façade of the buildings following the canal. They feature the typical inverted cone chimneys of medieval Venice.
-<br>
-<br>The miraculous event is relegated in a wide loggia in the upper left corner: most of the canvas is occupied by a veduta with a great number of characters and naturalistic items. The people include a group of walkers who precede the religious procession following the relic. The bridge is still in wood, as it was before it collapsed in 1524. Like the current version (dating from 1591) it had a double row of shops at the sides and, at the top, a movable boardwalk needed to allow the passage of the taller vessels.
-<br>
-<br>On the right is the 15th century appearance of the Fondaco dei Tedeschi, destroyed by a fire in January 1505. Other architectural features include the bell tower of San Giovanni Crisostomo, the portico of Ca' da Mosto and the bell tower of Santi Apostoli before its reconstruction in 1672.
-<br>
-<br>Details of human activities include the private gondolas used as ferries, the presence of numerous foreigners with eastern style garments, women clearing carpets, and workers who are clearing their barrels.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Having failed on two occasions to win the Prix de Rome (1848 and 1849), Bouguereau was hungry for revenge. His early submissions to the Salon reveal this fierce desire to succeed. After his ambitious Equality before Death (1849), the young man aimed to create an impression once again. He put forward an even larger painting inspired by Dante whose work was much loved by the Romantics and who captured all its dramatic beauty. This painting was inspired by a short scene from the Inferno, set in the eighth circle of Hell (the circle for falsifiers and counterfeiters), where Dante, accompanied by Virgil, watches a fight between two damned souls: Capocchio, a heretic and alchemist is attacked and bitten on the neck by Gianni Schicchi who had usurped the identity of a dead man in order to fraudulently claim his inheritance.<br><br>The critic and poet Théophile Gautier was very complimentary: "Gianni Schicchi throws himself at Capocchio, his rival, with a strange fury, and Monsieur Bouguereau depicts magnificently through muscles, nerves, tendons and teeth, the struggle between the two combatants. There is bitterness and strength in this canvas – strength, a rare quality!” In fact, Bouguereau here shows great boldness. He is exploring the aesthetic boundaries: exaggerating the muscle structure to the point of distorting it, exaggerating the poses, contrasting colour and shadows, depicting monstrous figures and groups of damned souls. We are particularly reminded of the sublime visions of Romantic artists like Blake (1757-1827), Füssli (1741-1825), and Lawrence (1769-1830). Everything in this painting underlines the feeling of terribilita and horror: a theme to which Bouguereau would never again return.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
