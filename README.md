@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/samuel-palmer/the-waterfalls-pistil-mawddach-north-wales-1836.jpg"
+        src="https://uploads6.wikiart.org/images/rembrandt/batavernas-trohetsed-1662.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Waterfalls, Pistil Mawddach, North Wales  1836</h2>
+        <h2 class="artwork-name">The Conspiracy of Claudius Civilis</h2>
         <h3 class="artist">
-          Samuel Palmer
+          Rembrandt
+                    ·  1662
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After his so-called 'visionary years' at Shoreham in Kent Palmer sought new places to inspire him. During the 1830s he paid visits to the West Country and more particularly to Wales, where he saw 'grand novelties &amp; enlarged the materials of imagination'. He paid his first visit in 1835 with the animal painter Henry Walter. Palmer appears to have made a drawing on the spot of the Pistil Mawddach falls, which lie north of Dolgellau, and then to have worked up both a watercolour (now at the Yale Center for British Art) and this oil of the subject. He returned to Wales in 1836, this time with Edward Calvert.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Conspiracy of Claudius Civilis was originally the largest painting ever created by Rembrandt, in the shape of a lunette, or a vertical rectangle with a round cornice on the top. The painting was originally commissioned by the city of Amsterdam for the town hall. However, the Amsterdam council rejected the painting and returned it to the artist, and it is still unknown as to whether or not he was ever paid for the work. After he received the painting back, Rembrandt cut the canvas down to a quarter of its original size, in order to sell the painting. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
