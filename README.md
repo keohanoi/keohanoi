@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/jose-higuera/donde-miras-65x100.jpg"
+        src="https://uploads4.wikiart.org/images/samuel-palmer/the-waterfalls-pistil-mawddach-north-wales-1836.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Where are you looking at?</h2>
+        <h2 class="artwork-name">The Waterfalls, Pistil Mawddach, North Wales  1836</h2>
         <h3 class="artist">
-          Jose Higuera
-                    ·  2013
+          Samuel Palmer
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Where are you looking at? It is a game in which the protagonist, gets lost from his apparent task and distracts her gaze toward a point we don’t know and will never know, because it is out of the painting.
-<br>Where are you looking at? ... Is the question that will remain unanswered or open to the imagination of the painting’s viewer ... perhaps thinking that the boy’s look turned toward some important think that captured his full attention just then. </span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After his so-called 'visionary years' at Shoreham in Kent Palmer sought new places to inspire him. During the 1830s he paid visits to the West Country and more particularly to Wales, where he saw 'grand novelties &amp; enlarged the materials of imagination'. He paid his first visit in 1835 with the animal painter Henry Walter. Palmer appears to have made a drawing on the spot of the Pistil Mawddach falls, which lie north of Dolgellau, and then to have worked up both a watercolour (now at the Yale Center for British Art) and this oil of the subject. He returned to Wales in 1836, this time with Edward Calvert.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
