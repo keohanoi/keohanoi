@@ -2,25 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/albrecht-durer/lamentation-of-christ.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/hans-baldung/the-trinity-and-mystic-pietà.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lamentation of Christ</h2>
+        <h2 class="artwork-name">The Trinity and Mystic Pietà</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1498
+          Hans Baldung
+                    ·  1512
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lamentation of Christ is an oil-on-panel painting of the common subject of the Lamentation of Christ attributed to German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed around 1498 and currently housed in the Germanisches Nationalmuseum of Nuremberg, Germany.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Trinity and Mystic Pietà is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on oak</a> painting undertaken in 1512 by the German artist <a target="_blank" href="/en/hans-baldung">Hans Baldung</a>.
 <br>
-<br>The work was executed for the family chapel of Karl Holzschuher in the church of Sankt Johannis in Nuremberg. Dürer's monogram can be seen in the corner of Jesus' white shroud, but it is commonly considered to be apocriphal.
+<br>The painting shows God supporting his son, with the Holy Spirit above them, represented by a dove; the holy trinity are joined by the weeping figures of St. John and the Virgin Mary. The inclusion of God supporting his crucified son within the picture was popular during the late fourteenth and early fifteenth centuries, but is otherwise rare in art history. Beneath the holy figures are a series of smaller individuals, who are assumed by art historians to be the family who commissioned the painting; this is likely to be the Bettschold and Rothschild families, given the coats of arms present in the lower corners. The donors were often depicted during the Middle Ages as much smaller than the holy figures, in order to emphasise the difference between them.
 <br>
-<br>The center of the painting is occupied by Jesus' dead body, supported by John the Apostle and lamented by Mary, Nicodemus and a pious Woman; Mary Magdalene and Joseph of Arimathea stand behind, holding balms to prepare the corpse for burial. Below is the crown of thorns and, in tiny proportions, the depictions of the donors from the Holzschuher and Grüber families, accompanied by their coat of arms.
-<br>
-<br>The landscape in the background shows the Calvary, where the two thieves are still hanging from their crosses, and, at the center, a town reproduction with a river. On the right is hilly rocky cliff with the sepulchre.</span>
+<br>The painting was acquired in 1894 by the National Gallery, London, who still hold the piece as at 2015. The gallery consider that "Baldung's painting invites our imaginative participation by stressing the human emotions of the mourners, and presenting even God the Father simply as a grieving parent."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
