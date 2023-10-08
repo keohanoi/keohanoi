@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/rembrandt/batavernas-trohetsed-1662.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00263/images/josef-capek/cze-ng-k-33970-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Conspiracy of Claudius Civilis</h2>
+        <h2 class="artwork-name">Study of a head</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1662
+          Josef Capek
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Conspiracy of Claudius Civilis was originally the largest painting ever created by Rembrandt, in the shape of a lunette, or a vertical rectangle with a round cornice on the top. The painting was originally commissioned by the city of Amsterdam for the town hall. However, the Amsterdam council rejected the painting and returned it to the artist, and it is still unknown as to whether or not he was ever paid for the work. After he received the painting back, Rembrandt cut the canvas down to a quarter of its original size, in order to sell the painting. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1913–1914, the work of Josef Čapek was distinguished by simplified form and a greater expressive immediacy. This is especially evident in the specific collection of head images from 1914–1915. In Study of a Head, the elementary, reduced form shifts towards a purely geometric treatment. Here, the strictly geometric forms bring Čapek to the very boundary of abstract art. Only the eye endows the drawing with a specific meaning: the head, composed of triangles, rectangles, circles and ovals or segments of them, has no individualized expression; this is a general form, an archetype, a sign. The summary quality of the image, the rhythmic alternation of empty and full planes, and the sparing colour scheme make it one of Čapek’s most rationally conceived head images. <i>(source: National gallery of Prague)</i></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
