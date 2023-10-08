@@ -2,31 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00129/images/caravaggio/the-seven-works-of-mercy.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/leonardo-da-vinci/the-lady-with-the-ermine-cecilia-gallerani-1496.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Seven Works of Mercy</h2>
+        <h2 class="artwork-name">The Lady with an Ermine (Cecilia Gallerani)</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1607
+          Leonardo da Vinci
+                    ·  1490
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Seven Works of Mercy (Italian: Sette opere di Misericordia), also known as The Seven Acts of Mercy, is an oil painting by Italian painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>, circa 1607. The painting depicts the seven corporal works of mercy in traditional Catholic belief, which are a set of compassionate acts concerning the material needs of others.
-<br>
-<br>The painting was made for, and is still housed in, the church of Pio Monte della Misericordia in Naples. Originally, it was meant to be seven separate panels around the church; however, Caravaggio combined all seven works of mercy in one composition which became the church's altarpiece. The painting is better seen from il "coreto" (little choir) in the first floor.
-<br>
-<br>The titular seven works/acts of mercy are represented in the painting as follows:
-<br>
-<br>American art historian John Spike notes that the angel at the center of Caravaggio’s altarpiece transmits the grace that inspires humanity to be merciful.
-<br>
-<br>Spike also notes that the choice of Samson as an emblem of Giving Drink to the Thirsty is so peculiar as to demand some explanation. The fearsome scourge of the Philistines was a deeply flawed man who accomplished his heroic tasks through the grace of God. When Samson was in danger of dying of thirst, God gave him water to drink from the jawbone of an ass. It is difficult to square this miracle with an allegory of the Seven Acts of Mercy since it was not in fact the work of human charity.
-<br>
-<br>Regarding the sharp contrasts of the painting’s chiaroscuro, the German art historian Ralf van Bühren explains the bright light as a metaphor for mercy, which "helps the audience to explore mercy in their own lives".. Current scholarship has also established the connection between the iconography of "The Seven Works of Mercy" and the cultural, scientific and philosophical circles of the painting's commissioners..
-<br>
-<br>The Seven Works of Mercy was adapted for the theatre in 2016 by the Royal Shakespeare Company. Written by Anders Lustgarten, The Seven Acts of Mercy was directed by Erica Whyman, the Deputy Artistic Director at the Royal Shakespeare Company.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The portrait <i>Lady with an ermine</i> (1489-1490) by Leonardo Da Vinci depicts Cecilia Gallerani, the teenage mistress of Ludovico Sforza, the regent and later the Duke of Milan. While some scholars doubted this identification, ample evidence affirms Cecilia Gallerani is the subject of <i>Lady with an ermine</i>. The earliest mention of the portrait appears in a sonnet by court poet Bernardo Bellincioni, in which he notes that it seems as if Cecilia is listening to an unseen speaker. Further confirmation exists in a correspondence between Cecilia and Isabella d’Este, the marquise of Mantua. In her letter, the marquise asks Cecilia to send her the portrait so she can compare Leonardo’s work to that of another master, <a target="_blank" href="https://www.wikiart.org/en/giovanni-bellini">Giovanni Bellini</a>. Most importantly, the correspondence reveals that although Ludovico commissioned the painting, Cecilia owned it.<br><br>It is possible that because Cecilia was not of the highest rank, Leonardo allowed himself the freedom to break away from local conventions of portraiture. Most notably, he abandoned the local tradition of the profile portrait in favor of a three quarter view of the subject. Through the innovative pose Leonardo provoked the viewer’s curiosity and engaged them with the sitter of the portrait: she seems to be attentively gazing at something or someone out of view at the right side of the picture. The lady holds the ermine with her left hand, while her right hand elegantly caresses the animal’s shoulder. The suggestive hand gesture recurs in Leonardo’s later composition <i>Leda and the Swan</i>  - even though the oil painting did not survive, the overall composition is known from <a target="_blank" href="https://www.wikiart.org/en/leonardo-da-vinci/leda-and-the-swan-1506">drawings</a> and <a target="_blank" href="https://www.wikiart.org/en/il-sodoma/leda-and-the-swan-copy-of-leonardo-da-vinci-1515">oil copies</a> made after Leonardo’s painting. In <i>Lady with an ermine</i>, Leonardo also demonstrated tremendous skill in his treatment of contrasting textures: the smooth skin next to the ermine’s fur, the carved jet-black beads against the chest and the intricately woven dress, the embroidered garment besides the smooth plain silk.<br><br>One of the key elements of the painting is the lively creature Cecilia holds in her arms. In fact, the symbolism of the ermine provides further evidence supporting the identification of Cecilia as the sitter. The ermine is a symbol of moderation and purity, and as such, its inclusion is appropriate for a portrait of a mistress of a Renaissance duke. Scholars also pointed to the fact that the Greek word for ermine is <i>galé</i>, thus it is a play on the Cecelia’s surname (Gallerani). Additionally, some have suggested that the ermine is an emblem associated to Ludovico, thus the ermine can be interpreted as an allusion to Cecilia’s lover.<br><br><i>Lady with an ermine</i> was purchased in Italy around 1800 by the Polish Prince Adam Jerzy Czartoryski. He brought the painting to Poland, where he presented it to his mother, the Princess Izabella. The painting was incorporated into the family collection in Puławy, the museum founded by Princess Izabella in 1796. Today, it is the highlight of the collection at the Czartoryski Museum in Kraków, and is considered one of Poland’s national treasures.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
