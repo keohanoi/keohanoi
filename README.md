@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00380/images/alphonse-mucha/1-madonna-of-the-lilies-alphonse-mucha.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/felix-gonzalez-torres/untitled-portrait-of-ross-in-l-a-1991.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna of the Lilies</h2>
+        <h2 class="artwork-name">“Untitled” (Portrait of Ross in L.A.)</h2>
         <h3 class="artist">
-          Alphonse Mucha
-                    ·  1905
+          Felix Gonzalez-Torres
+                    ·  1991
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1902, Mucha was commissioned to decorate a church in Jerusalem dedicated to the Virgin Mary. Shown here is the final version of 'Madonna of the Lilies', one of the murals for the church. The project was cancelled later for unknown reasons, so all that remains of this commission is this painting and earlier versions of it (Sakai City collection, Japan), as well as a design for a stained-glass window,' Harmony', which is also in the Mucha Trust collection.
-<br>
-<br>According to Mucha's letter to his wife Maruška, he conceived the subject as 'Virgo purissima', thus depicting the heavenly vision of Madonna, surrounded with a mass of lilies, symbol of purity. The seated young girl in Slavic folk costume carries a wreath of ivy leaves, symbol of remembrance. Her serious expression and strong physical presence contrast with the ethereal figure of the Virgiin.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Felix Gonzalez-Torres produced work of uncompromising beauty and simplicity, transforming the everyday into profound meditations on love and loss. “Untitled” (Portrait of Ross in L.A.) is an allegorical representation of the artist’s partner, Ross Laycock, who died of an AIDS-related illness in 1991. The installation is comprised of 175 pounds of candy, corresponding to Ross’s ideal body weight. Viewers are encouraged to take a piece of candy, and the diminishing amount parallels Ross’s weight loss and suffering prior to his death. Gonzalez-Torres stipulated that the pile should be continuously replenished, thus metaphorically granting perpetual life.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
