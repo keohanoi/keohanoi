@@ -2,29 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00142/images/57726d85edc2cb3880b48e32/dante-gabriel-rossetti-the-girlhood-of-mary-virgin.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/frederic-edwin-church/niagara-falls-from-the-american-side-1867.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Childhood of Mary Virgin</h2>
+        <h2 class="artwork-name">Niagara Falls, from the American Side</h2>
         <h3 class="artist">
-          Dante Gabriel Rossetti
-                    ·  1849
+          Frederic Edwin Church
+                    ·  1867
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Girlhood of Mary Virgin is an 1849 oil on canvas painting by the Pre-Raphaelite Brotherhood painter <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>, measuring 83.2 by 65.4 cm and now in the collection of Tate Britain, to which it was bequeathed in 1937 by Agnes Jekyll. It was his first completed oil painting and is signed "Dante Gabriele Rossetti P.R.B. 1849". He first exhibited it at the 'Free Exhibition' at the Hyde Park Corner Gallery.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Niagara Falls, from the American Side is a painting by the American artist <a target="_blank" href="/en/frederic-edwin-church">Frederic Edwin Church</a> (1826–1900). Completed in 1867, and based on preliminary sketches made by the artist at Niagara Falls and on a sepia photograph, it is the third of a series of paintings Church made of this famous landmark. The painting is now in the collection of the Scottish National Gallery. Church was a leading member of the Hudson River School of painters.
 <br>
-<br>Rossetti began the work in summer 1848, working hard and aiming to have it completed for exhibition in March 1849. In November 1848 he mentioned his choice of subject in a letter to his father's friend, Charles Lyell of Kinnordy, stating that it would definitely appeal to members of a religious community. It was a common subject in medieval and renaissance art and usually shows Mary with a book on her lap as her mother, Anne, teaches her to read. But instead Rossetti shows Mary embroidering a lily (traditional symbol of Mary's purity) under Anne's guidance while her father, Joachim, prunes a vine in the background, referring to the coming of Christ (who calls himself "the True Vine" in John 15.1). The vine is shaped like a cross, prefiguring Christ's passion.
+<br>The painting depicts the view from the east side of Niagara Falls&nbsp;– the American side. In the spray of the waterfall a rainbow is visible. The painting has been described as giving the impression of the water being in constant motion, rushing down, roaring.
 <br>
-<br>Rossetti made several preliminary chalk studies in chalk and the Scottish poet and artist William Bell Scott saw the work in progress in Hunt's studio and remarked on young Rossetti's technique:
+<br>Church made his first painting of the falls in 1857. He had visited the falls several times in July and late August the previous year, making a number of pencil and oil sketches from different points of view. He elected to paint the scene from the Canadian side, choosing unconventional dimensions for the painting that emphasized the panoramic effect.
 <br>
-<br>The models were sourced from close to home - Anne was portrayed by Rossetti's mother Frances, his sister Christina Georgina modelled for Mary, and the family servant Williams for Joachim. The angel's face was originally based on the half-sister of Thomas Woolner (1825-1892), but in August 1849 Rossetti replaced her features with those of another girl, recommended to him by his fellow Pre-Raphaelite James Collinson (1825-1881).
+<br>The painting was an immediate success, attracting over 100,000 visitors within the first fortnight of its premiere at a New York gallery. Following this, it was exhibited at major cities on the Eastern seaboard, toured Britain twice and was selected for the 1867 Exposition Universelle in Paris. It was purchased by the recently founded Corcoran Gallery of Art in 1876, cementing that institution's success. When the Corcoran closed in 2014, its collection was gifted to the National Gallery of Art, Washington, where the painting can be seen today in the Corcoran gallery.
 <br>
-<br>Rossetti wrote two sonnets to explain the painting's symbolism - the first was engraved at the bottom of the original frame, whilst the second was printed in the Free Exhibition catalogue. A crossed palm branch on the floor refers to Palm Sunday and Good Friday and the pale roses and thorn-shaped branches on the wall to Christ's passion and Mary's seven joys and seven sorrows. The oil lamp symbolises piety, three of the books are in colours symbolising the three cardinal virtues and the rose is another symbol of Mary (the 'rose without a thorn'). The Annunciation is prefigured by a dove, symbolising the Holy Spirit,
+<br>The painting Niagara Falls, from the American Side was commissioned from Church by the American art dealer Michael Knoedler in 1866. It was the third painting of the series and may have been originally destined for the Exposition. The painting was purchased by John S. Kennedy in 1887, who gifted it to his homeland of Scotland. Niagara Falls, from the American Side is the only major work by Frederic Edwin Church which is in a public collection in Europe.
 <br>
-<br>It received a generally good reception and reviews at the Free Exhibition. It was bought for £80 by Louisa, marchioness of Bath, wife of John Thynne, 4th Marquess of Bath and a family friend of the Rossettis - Rossetti repainted Mary's dress and the angel's face before sending the work to her, whilst the payment for it funded a trip to Belgium and France by him and <a target="_blank" href="/en/william-holman-hunt">William Holman Hunt</a>. It was exhibited again in 1850 in the Portland Gallery Exhibitions at the Royal Academy, where it received a less friendly reception. By 1864 it was owned by Lady Louise Fielding, who that year sent it back to Rossetti for repainting - he turned the angel's wings from white to deep pink and Mary's sleeves from yellow to brown. The original frame with its rounded upper corners was also replaced by a rectangular frame with both of Rossetti's sonnets on its base.</span>
+<br>The canvas is painted in the <a target="_blank" href="/en/artists-by-art-movement/romanticism">Romantic style</a> and captures the aesthetic principles of the sublime and the picturesque. Church was a member of the Hudson River School, a group of landscape artists, whose aesthetic vision was influenced by romanticism. The Romantic movement validated intense emotions. The movement was placing new emphasis on the sentiments of visionary and transcendental experience. Emotions like awe&nbsp;– especially that which is experienced in confronting the sublimity of untamed nature and its picturesque qualities&nbsp;– were now entirely new aesthetic categories, and very different from art styles of the same era&nbsp;– the unemotional Realism and of the calm, balanced <a target="_blank" href="/en/paintings-by-style/classicism">Classicism</a>&nbsp;– as a source of aesthetic experience.
+<br>
+<br>The Sublime view of nature was as something of a large scale dramatic subject, an expression of the sublime&nbsp;– defined by Edmund Burke as the strongest emotion that can be felt.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
