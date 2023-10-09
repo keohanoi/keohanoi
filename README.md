@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/lorenzo-lotto/madonna-with-a-bishop-and-st-onuphrius-1508.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/pietro-perugino/the-virgin-enthroned-with-angels-and-saints-vallombrosa-alterpiece.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna with a Bishop and St. Onuphrius</h2>
+        <h2 class="artwork-name">The Virgin enthroned, with angels and saints, Vallombrosa Alterpiece</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1508
+          Pietro Perugino
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna with Child between Saints Flavian and Onuphrius is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, signed and dated 1508, now in the Borghese Gallery, Rome, Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Vallombrosa Altarpiece is a painting by the Italian Renaissance painter <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, dating to 1500–01. It is housed in the Accademia Gallery of Florence, Italy.
 <br>
-<br>The painting was executed in the same year of the Recanati Polyptych, when Lotto moved to Rome (although it is not known if he had already painted it before leaving the Marche). It was first mentioned in a 1693 document, when it was already part of the Borghese Collection.
+<br>The painting was commissioned to Perugino for the high altar of the Vallombrosa Abbey, in the Florence countryside, and was finished within July 1500. The work was originally completed by a predella, of which only two portraits remain (Biagio Milanesi, the then-abbot, and of the monk Baldassarre); both works are now at the Uffizi Gallery.
 <br>
-<br>The painting uses the Holy Conversation composition, with the Madonna and Child in the center between two saints, a scheme widely used by <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a> and other Venetian painters of the time.
+<br>After the Napoleonic invasion of Italy and the suppression of the abbey, the canvas was moved to Paris in 1810. However, it was restored to Tuscany in 1817, being assigned to the Florentine gallery in this occasion.
 <br>
-<br>It depicts, on a dark background, a thoughtful Madonna. The Child is rather fat, and is trying to reach St. Flavian of Ricina, painted on the left. The latter is offering Jesus a pierced heart, a symbol of the future Passion. The identification of Flavian, the patron of the city of Recanati in the Marche, is disputed, and some scholars identified him as Ignatius of Antioch: according to the legend, after his death his heart opened and the name of Jesus (as referred by Lotto with the monogram YHS on it) in golden letters.
+<br>As for other Perugino's works, the panel is divided into two sections, in a pattern derived from his Assumption (now lost) of the Sistine Chapel: the upper part with God and celestial figures, and the lower one, with the saints. In the middle is the ascending Mary, enclosed within an almond which sharply ends at the lunette, in turn occupied by a blessing God surrounded by angels.
 <br>
-<br>On the right is Onuphrius the hermit, whose character was inspired by <a target="_blank" href="/en/albrecht-durer">Dürer</a>'s Christ among the Doctors, which the German artist had painted in Venice in 1506. Other elements recalling Dürer's works include the general asymmetry of the composition, the bright colors and the drapes, which Lotto had previous painted as screwed up paper, and are now instead softer and more colored.</span>
+<br>Below are four saints, portrayed above an indeterminate hilly landscape: from left, Bernard degli Uberti, John Gualbert, Benedict and Michael Archangel. At the lower edge is the artist's signature, reading "PETRVS PERVSINVS PINXIT AD MCCCCC".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
