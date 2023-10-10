@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/caravaggio/crowning-with-thorns-1603(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00158/images/remedios-varo/the-souls-of-the-mountain.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Crowning with Thorns</h2>
+        <h2 class="artwork-name">The Souls of the Mountain</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1603
+          Remedios Varo
+                    ·  1938
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crowning with Thorns was the subject of two paintings by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a>. The first version, dated to around 1604–1605, is now in the Cassa di Risparmi e Depositi of Palazzo degli Alberti, Prato (Tuscany). The attribution to Caravaggio is disputed.
-<br>
-<br>On June 25, 1605, Caravaggio wrote out, in his own hand, a contract to paint "a picture of the same size and value as the one I have already done for him of Christ's crowning", which restricts the Crowning to a period prior to this date. There is no firm evidence for a more precise dating, but the figure of Christ has been clearly influenced by the Christ in Rubens' altarpiece of The Crowning with Thorns in the Church of Santa Croce in Gerusalemme, Rome, completed in April 1602. The recipient of both the Crowning with Thorns and the Ecce Homo — the painting to which the contract relates — was Massimo Massimi, a wealthy financier and art collector in the circle of Caravaggio's patron, marquis Vincenzo Giustiniani. The actual date is disputed — John Gash places it in 1601–1603.
-<br>
-<br>Stylistically the painting is based on <a target="_blank" href="/en/peter-paul-rubens">Rubens</a>'s altarpiece for the pose of Christ and on <a target="_blank" href="/en/titian">Titian</a>'s treatment of the same subject (now in the Louvre) for the soldier with the staff behind Christ. But Caravaggio has reverted to the compact, symmetrical approach employed by 15th-century artists, visible in, for example, the work of <a target="_blank" href="/en/hieronymus-bosch">Hieronymous Bosch</a> in Christ Mocked. The gestures which define the situation are restrained and understated—the almost imperceptible actions of the tormentors focus attention on Christ, who looks up, his bound hands slightly raised almost in forgiveness.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The Souls of the Mountains</i> is one of the few artworks of Remedios Varo painted outside of Mexico. It was made in Paris, during Varo’s first years of stay in the city, in a newly discovered world, occupied by Nazis. The essence of the painting allows us to catch a glimpse of the interwar French bourgeoisie’ views of the woman and, more specifically, of the woman as an artist. The encased female characters in the artwork appear to be trapped inside the confining crust of the world, with only mist and darkness around them, in an unawakened state. Depicting the characters in such a manner, Varo evokes her inner feeling of isolation and shows the struggle of being a woman in that day and era.<br><br>The mountains can be viewed as phallic symbols, or as  a very thick, rock-hard mask the artist has to keep on to be accepted in the male-dominated art world she was then a part of. Female artists of this era were disregarded by the male artists, and were scaresly viewed as equals or as a real artists, hustled in the shadow of their painter spouses or partners. The cold-toned, gloomy palette of the painting was chosen to depict feelings of isolation and a hibernating state of the characters that want to escape their confinement. Dark and neutral misty strokes portray indecisiveness and uncertainty, but also Varo’s hazy vision of her future and surroundings. To create this tableau, Varo applied a frequently used surrealist technique of fumage, smoking the oil painted canvas to build up tension inside the gloomy atmosphere of the painting. This particular technique was used to limit the artist’s control over the painting, making room for the unconscious mind to guide the smoke of a candle flame into the desired shape and shade. The smoke, imprinted in the canvas, was then feathered away to make smooth patterns of clouds and mist, which in turn balance out the rocky, dominant shape of the mountains.<br>The title of the painting induces the idea that there is a life force under oppression which denies its freedom and right to be acknowledged; the souls should be freed of their confinement in order to be able to express themselves fully and without any restrictions from their surroundings, which in the artist’s case come from the patriarchal society.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
