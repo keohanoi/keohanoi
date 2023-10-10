@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/piet-mondrian/broadway-boogie-woogie-1943.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/pieter-bruegel-the-elder/children-s-games-1560.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Broadway Boogie Woogie</h2>
+        <h2 class="artwork-name">Children's Games</h2>
         <h3 class="artist">
-          Piet Mondrian
-                    ·  1943
+          Pieter Bruegel the Elder
+                    ·  1560
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Considered Mondrian’s masterpiece, Broadway Boogie Woogie is a shimmering combination of multi-colored grid lines, complete with blocks of color, all in the primary palette. This piece represents another development in the unique style of the artist, which may have been the most profound. After the abandonment of representational forms in 1913 and the reconciliation of his spiritual concerns with his aesthetic, Mondrian had finally developed the transition of solid black lines to lines consisting of multi-colored, vibrant hues, creating an entirely new feeling. This painting represents Mondrian’s seminal work as an artist, and unlike much of his work, is not entirely non-representational. One can see the grid of the Manhattan city streets and feel the beat of the boogie woogie music of which Mondrian was so fond.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artist's intention for this work is more serious than simply to compile an illustrated encyclopaedia of children's games, though some eighty particular games have been identified.See details below Bruegel shows the children absorbed in their games with the seriousness displayed by adults in their apparently more important pursuits. His moral is that in the mind of God children's games possess as much significance as the activities of their parents. This idea was a familiar one in contemporary literature: in an anonymous Flemish poem published in Antwerp in 1530 by Jan van Doesborch, mankind is compared to children who are entirely absorbed in their foolish games and concerns.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
