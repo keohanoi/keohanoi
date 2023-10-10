@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/filippo-lippi/adoration-of-the-magi.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/57726d7dedc2cb3880b47d0a/paysage-avec-orph-e-et-eurydice-nicolas-poussin-mus-e-du-louvre-inv-7307-q6485124.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Adoration of the Magi</h2>
+        <h2 class="artwork-name">Orpheus and Eurydice (Landscape with Orpheus and Eurydice)</h2>
         <h3 class="artist">
-          Filippo Lippi
-                    ·  1430
+          Nicolas Poussin
+                    ·  1650
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Adoration of the Magi is a tondo, or circular painting, of the Adoration of the Magi assumed to be that recorded in 1492 in the Palazzo Medici Riccardi in Florence as by <a target="_blank" href="/en/fra-angelico">Fra Angelico</a>. It dates from the mid-15th century and is now in the National Gallery of Art in Washington D.C. Most art historians think that <a target="_blank" href="/en/filippo-lippi">Filippo Lippi</a> painted more of the original work, and that it was added to some years after by other artists, as well as including work by assistants in the workshops of both the original masters. It has been known as the Washington Tondo and Cook Tondo after a former owner, and this latter name in particular continues to be used over 50 years after the painting left the Cook collection.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Landscape with Orpheus and Eurydice is a huge 200 × 124 cm (approx 6.5 × 4 feet) oil-on-canvas by artist in the <a target="_blank" href="/en/paintings-by-style/classicism">classical</a> style <a target="_blank" href="/en/nicolas-poussin">Nicolas Poussin</a>, painted between 1650 and 1653. It is currently held and exhibited at the Louvre in Paris
 <br>
-<br>The tondo is painted in tempera on a wood panel, and the painted surface has a diameter of 137.3&nbsp;cm (54 1/16 in.). The National Gallery of Art dates it to "c. 1440/1460".
+<br>Nicolas Poussin painted this work for his longtime friend and patron, Jean Pointel, who was a rich banker in Paris. Pointel also was a member of the libertines, a circle which Poussin himself frequented. It was in Pointel's collection, which had many works by Poussin, but was stored away after the political climate in Paris changed. In its place Poussin`s landscape with snake and dying man, was hung in Pointel`s private collection.
 <br>
-<br>Art historians are agreed that the painting was produced over a considerable period, with significant changes in the composition, and contributions from a number of hands. While some are critical of the discordances this history has produced, for John Walker, the second director of the National Gallery of Art, the result was
+<br>Poussin places the story of Orpheus in the Campagna Romana (Roman countryside): the Castel Sant'Angelo and the Torre delle Milizie ("Tower of the Militia") figure in this painting, borrowed from the landscape of the Eternal City. Dense smoke pours from a fire which devastates the Castle, and darkens a sky already overcast with sombre clouds. The fall of the light divides the landscape diagonally into bright and dark areas - a division clearly seen on the Torre delle Milizie.
 <br>
-<br>The painting shows the three Magi or "kings" presenting their gifts to the infant Jesus, who is held by his mother. Saint Joseph stands beside her, and the manger, ox and ass of the usual depiction of the Nativity are behind this main group. Thus far the composition contains the inevitable components in a very standard arrangement.
+<br>Many of Poussin's pictures have darkened, mainly as a result of a red underpainting which has begun to show through the colours. The Orpheus, however, is free of this: it has kept its original transparency even in the darker passages, and the whole painting is in a particularly fine state of preservation.
 <br>
-<br>As very often, the subject has been combined with the Adoration of the Shepherds, who are represented by three figures in ragged dress, one behind Joseph, and two at the right side of the stable building behind. Only the first of these is looking at Jesus and Mary, from an oblique angle almost behind them. Of the other two, the kneeling one points in the direction of the manger, well behind the sacred figures. The manger is placed outside the stable, and the ox and ass are also in the open air. The interior of the stable is occupied by what are presumably the Magi's horses and their grooms, removing their tack and in one case checking a horseshoe.
-<br>
-<br>Behind the magi on the left a large procession of their retinues continue to arrive, passing through an arch that is part of a large ruined structure. To the right of the main group the city walls of Bethlehem run up a steep slope, with a road or path running in front of the walls. Down this another large group, presumably more of the Magis' parties, is coming, riding on camels and horses. A number of townsfolk have come out through a gateway in the walls, and are looking and pointing, in one case kneeling in prayer, but all looking in a different direction from the final location of the main figures. At the top of the hill a large but indistinctly painted group form a crowd, perhaps funnelling down the narrow path.</span>
+<br>This work by Poussin remains cryptic and there are various opinions about possible ways to decipher it.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
