@@ -2,26 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/henri-fantin-latour/reading-1877.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00142/images/danny-dimauro/witching-hour.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Reading</h2>
+        <h2 class="artwork-name">Knighting of Danny diMauro</h2>
         <h3 class="artist">
-          Henri Fantin-Latour
-                    ·  1877
+          di Mauro
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Reading (La Lecture in French) is a painting by French painter <a target="_blank" href="/en/henri-fantin-latour">Henri Fantin-Latour</a> in 1877. It was acquired in 1901 by the city of Lyon and by the Musée des Beaux-Arts de Lyon where it is currently conserved.
-<br>
-<br>The painting depicts two women sitting in a room. The woman on the right is reading a book, leaning on a table covered with a decorative patterned tablecloth and a vase with some flowers. The other woman, on the left, seems not to listen to the reading as she appears to be distracted. Both the background wall, which holds a large part of the painting, and the black dresses of both women are very austere.
-<br>
-<br>The theme of the work can evoke the escape of women by reading. The woman on the left represents the artist's sister-in-law, Charlotte Dubourg. The painting was exhibited in 1877 at the Salon (Paris), in 1878 at the summer exhibition of the Royal Academy in London, and in 1900 at the Société des Beaux-Arts in Brussels.
-<br>
-<br>During the Biennial of Contemporary Art in 2009 in Lyon, artist Wong Hoy Cheong reinterpreted the painting in a photograph of Muslim women wearing a burqa.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Awoke from a dream reminding him of his Knighting in Casa Loma at four am he painted the memory on wood.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
