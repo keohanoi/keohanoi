@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00142/images/57726d7dedc2cb3880b47d0a/paysage-avec-orph-e-et-eurydice-nicolas-poussin-mus-e-du-louvre-inv-7307-q6485124.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00115/images/abbott-handerson-thayer/9b52730651fb3fdc328f4fb6929bbfb9.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Orpheus and Eurydice (Landscape with Orpheus and Eurydice)</h2>
+        <h2 class="artwork-name">The Sisters</h2>
         <h3 class="artist">
-          Nicolas Poussin
-                    ·  1650
+          Abbott Handerson Thayer
+                    ·  1884
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Landscape with Orpheus and Eurydice is a huge 200 × 124 cm (approx 6.5 × 4 feet) oil-on-canvas by artist in the <a target="_blank" href="/en/paintings-by-style/classicism">classical</a> style <a target="_blank" href="/en/nicolas-poussin">Nicolas Poussin</a>, painted between 1650 and 1653. It is currently held and exhibited at the Louvre in Paris
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Sisters is an 1884 oil on canvas painting by <a target="_blank" href="/en/abbott-handerson-thayer">Abbott Handerson Thayer</a>. It depicts Bessie and Clara Stillman, and was commissioned from Thayer by their brother, the banker James Stillman. It has been cited as one of Thayer's best works, a composition of grandeur.
 <br>
-<br>Nicolas Poussin painted this work for his longtime friend and patron, Jean Pointel, who was a rich banker in Paris. Pointel also was a member of the libertines, a circle which Poussin himself frequented. It was in Pointel's collection, which had many works by Poussin, but was stored away after the political climate in Paris changed. In its place Poussin`s landscape with snake and dying man, was hung in Pointel`s private collection.
+<br>After studying in New York City and Paris, Thayer took a studio in Brooklyn in 1880, and traveled often, summering for the next few years in Nantucket or Pittsfield, Massachusetts; in 1881 he went to Hartford, Connecticut to paint Mark Twain, and in 1882 he spent the winter in a cottage owned by Henry Ward Beecher in Peekskill, New York. In 1883 Thayer rented a home at Cornwell-on-Hudson, and built a studio on James Stillman's property. It was there that he painted two portraits of the sisters, one of Bessie alone, completed in 1883, and the double portrait, which he worked on until January 1884. Together, the paintings are quite different from his previous portraits, which had featured more opulent wardrobes in keeping with the fashionable style of the Paris Salon— an art reviewer had found fault with the "poor taste" of the glamorous finery of Thayer's 1881 Portrait of Mrs. William F. Milton, and thereafter the artist avoided ostentatious dress.
 <br>
-<br>Poussin places the story of Orpheus in the Campagna Romana (Roman countryside): the Castel Sant'Angelo and the Torre delle Milizie ("Tower of the Militia") figure in this painting, borrowed from the landscape of the Eternal City. Dense smoke pours from a fire which devastates the Castle, and darkens a sky already overcast with sombre clouds. The fall of the light divides the landscape diagonally into bright and dark areas - a division clearly seen on the Torre delle Milizie.
+<br>Thayer began The Sisters in the summer of 1883. It was at that time the largest portrait he had attempted, and the composition was arrived upon only after much trial and error. Thayer wrote:
 <br>
-<br>Many of Poussin's pictures have darkened, mainly as a result of a red underpainting which has begun to show through the colours. The Orpheus, however, is free of this: it has kept its original transparency even in the darker passages, and the whole painting is in a particularly fine state of preservation.
+<br>and later
 <br>
-<br>This work by Poussin remains cryptic and there are various opinions about possible ways to decipher it.</span>
+<br>Dressed in black and set against a muted green background, the sisters are seen in a doorway. Bessie stands in front, her arms down and hands clasped in front of her. Clara stands directly behind, and wraps her left hand around Bessie's waist while resting her upraised right hand on the entryway's frame. The sisters are noble in comportment and remote in expression. The unusual positioning of their figures implies a complex and intimate relationship.
+<br>
+<br>Though the overall impression is successful, the painting has been faulted for lapses in execution. The drawing of Bessie's right forearm is meager, Clara's left hand is weak, and the brushwork throughout is labored. Commissioned portraits were expected to be more highly finished, and although The Sisters was given a place of honor at the Society of American Artists exhibition of 1884, it received harsh criticism for the perceived "flimsiness" of its details. Technical faults notwithstanding, the nobility of its composition has been compared to the portraits of <a target="_blank" href="/en/thomas-eakins">Thomas Eakins</a>.
+<br>
+<br>For their elegance and restrained tones, Thayer's portraits of the mid-1880s, and particularly The Sisters, have been cited as influential to the work of his younger colleague Dennis Miller Bunker.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
