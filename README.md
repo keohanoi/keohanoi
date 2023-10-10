@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/pieter-bruegel-the-elder/children-s-games-1560.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/henri-rousseau/carnival-evening-1886.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Children's Games</h2>
+        <h2 class="artwork-name">Carnival Evening</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1560
+          Henri Rousseau
+                    ·  1886
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artist's intention for this work is more serious than simply to compile an illustrated encyclopaedia of children's games, though some eighty particular games have been identified.See details below Bruegel shows the children absorbed in their games with the seriousness displayed by adults in their apparently more important pursuits. His moral is that in the mind of God children's games possess as much significance as the activities of their parents. This idea was a familiar one in contemporary literature: in an anonymous Flemish poem published in Antwerp in 1530 by Jan van Doesborch, mankind is compared to children who are entirely absorbed in their foolish games and concerns.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although Rousseau is most widely known for his jungle motifs, he was also adept at a style of painting that he coined “portrait landscape.” These paintings included a landscape in the background of the painting, and a portrait in the foreground of the piece. This painting includes a forest in the background, which was one of the painting types first produced and displayed by Rousseau, foreshadowing his complex jungle scenes. Critics were initially baffled at the images of the people, who in many cases were strangely costumed, and somehow located in the middle of a large and foreboding forest. This painting is also notable for its lack of perspective, as the entire image is painted in one dimensional pane, as if on a backdrop. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
