@@ -2,35 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/jean-auguste-dominique-ingres/portrait-of-madame-de-senonnes.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/john-trumbull/the-sortie-made-by-the-garrison-of-gibraltar-1789.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Madame de Senonnes</h2>
+        <h2 class="artwork-name">The Sortie Made by the Garrison of Gibraltar</h2>
         <h3 class="artist">
-          Jean Auguste Dominique Ingres
-                    ·  1816
+          John Trumbull
+                    ·  1789
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Madame de Senonnes (once known as La Trastéverine) is an 1814 painting by Jean-Auguste-Dominique Ingres. It shows Madame de Senonnes, née Marie-Genevieve-Marguerite Marcoz, viscountess of Senonnes (29 June 1783, Lyon - 25 April 1828 (Paris)). Marcoz was 31 when the portrait was completed. Ingres had earlier portrayed her in a drawing of 1813.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Sortie Made by the Garrison of Gibraltar, 1789 (also called The Sortie made by the Garrison of Gibraltar in the Morning of the 27 of November 1781) is the title of a 1789 oil-on-canvas painting by American artist John Trumbull. The painting shows a key point in Gibraltar's history when the Great Siege of Gibraltar was undertaken by the Spanish against the British at Gibraltar in November 1781. The Spanish officer Don Jose de Barboza is being given respect as he lies dying. Although left behind by his own retreating troops he still unsuccessfully attacked the British troops with chivalry.
 <br>
-<br>The portrait is considered one of Ingres' finest. Because she was significantly attractive and aristocratic, Ingres', who professed to disdain portraiture, but needed the money, but great effort into the work, in the hope of attracting other commissions. Portrait of Madame de Senonnes is part of the collection of Le tableau fait partie des collections at the Musée des Beaux-Arts de Nantes.
+<br>The painting is based on a real attack that took place in Gibraltar on November 27, 1781. The Great Siege of Gibraltar was an unsuccessful attempt by Spain and France to capture Gibraltar from the British during the War of American Independence.
 <br>
-<br>Born into a relatively wealthy family, she married Jean Marcoz, a merchant draper, in 1802, and they moved to Rome in 1803, and had a daughter, Geneviève-Amélina Talensier that year. However, the marriage was unhappy, and they separated in 1809. Talensier left Rome to fight in the french army, and was wounded twice.
+<br>The painting depicts the events of the night of November 26, 1781 when British troops made a sudden attack (sortie), against the enemy batteries. The death of the Spanish officer Don Jose de Barboza is the focal point of the painting. He fell mortally wounded and died near his post refusing assistance after having been abandoned by his troops. He is portrayed as rejecting the aid of General George Elliott, commander of the British troops.
 <br>
-<br>She began to socialise in artistic circles, passing herself off as Italian. Marcoz met Alexandre de La Motte-Baracé, Viscount of Senonne, and they married in 1815, the year after their returne to France.
+<br>In 1782, the Siege was lifted and Trumbull's friend Antonio de Poggi, an artist and dealer based in London who had been in the besieged garrison, told him of an earlier incident, which had occurred in November 1781. This had all the ingredients he sought: “...the Heroism of the vanquished, the Humanity of the Victors - the darkness of night illuminating an extensive conflagration - the Hurry and Tumult of the troops busy in the work of destruction - the quiet &amp; calm of the Officers, the guiding Spirits of the Scene.”
 <br>
-<br>After her death in 1828, the portrait remained in the possession of her husband until 1831, when, pursued by creditors, he sent it to his elder brother, the Marquis de Senonnes, where it was kept in his castle in Feneu, in the west of France. The painting remained there until 1852, until it was discovered by chance on a pavement outside an art dealers. It was acquired by the usée des Beaux-Arts de Nantes for 4,000 francs.
+<br>Trumbull labored on the composition, over many sketches and three large completed canvases. As the project progressed, Trumbull's ambitions for it to be his big breakthrough to major patronage grew too. He refused large offers for the picture, preferring to exhibit it privately for admission fees.
 <br>
-<br>Marcoz is shown in a seductive and languid pose on a sofa, her hair tightly pulled back. She is dressed in a low cut luxurious velvet gown trimmed with ochre Indian muslin, a blond lace collar, and transparent lace, and with a white cashmere shawl. She is painted in bright red and gold colors, against a large, dark circular, mirror, lit by candle light, that reflects the back of her head and, especially, the curve of her neck. Her hands, which contain thirteen pale red and green jewel studded ring, caresses a white pillow and handkerchief. As with all of Ingres' female portraits, the sitter seems limbless, as if her body was not supported by a bone structure.
+<br>Horace Walpole, 4th Earl of Orford had called the painting: “the finest picture <i>had ever seen painted on the northern side of the Alps.”
 <br>
-<br>The work is Ingres' first to fully explore the use of a mirror, and the additional spatial space it allows, earlier seen but not as successfully, in the 1805 Mademoiselle Caroline Rivière.
-<br>
-<br>His signature is written in the business tucked into the edge of the mirror. A number of small paper studies survive; the earliest of which show her reclining erotically on a sofa, the later sketches focus on the presentation of her upper body and chest. Some art historians have compared it in tone to his Grande Odalisque, which he was working on simultaneously.
-<br>
-<br>Among the sources that Ingres took inspiration from were <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>'s Portrait of madame de Verninac (1799), and Leonardo da Vinci's La belle ferronnière.</span>
+<br>The painting is depicted on the back of the 2010 Gibraltar 10-pound note.</i></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
