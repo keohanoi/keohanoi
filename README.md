@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/gustav-klimt/the-beethoven-frieze-the-longing-for-happiness-finds-repose-in-poetry-right-wall-1.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/stanley-pinker/gold-and-silver.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Beethoven Frieze: The Longing for Happiness Finds Repose in Poetry. Right wall</h2>
+        <h2 class="artwork-name">Gold and Silver</h2>
         <h3 class="artist">
-          Gustav Klimt
-                    ·  1902
+          Stanley Pinker
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting, created for the Vienna Secession exhibition of 1914, was intended to be a celebration of the great composer Ludwig von Beethoven. As it was meant solely for the exhibition, Klimt painted the mural lightly on the walls at the Vienna Secession Building. After the exhibition, the painting was preserved, but it was not again displayed until 1986, where it remains on display today. The mural’s popularity has cemented its fame as portions of it were printed on the Austrian 100 euro coin in 2004. The coin contains less suggestive elements of the painting, including a knight in armor symbolizing strength, a woman holding a wreath of victory symbolizing ambition, and a woman with head held down and clasped hands, symbolizing sympathy.  </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a painting purely about greed. A snake is often seen a guardian or a ominous protector of a object or place, and in this instance it is entwined with the old South Africa and its mineral wealth. It resembles the snakes found with party packs, and wears a comical hat with a flag, and hisses, a warning to anyone interfering with the state of affairs. Even though the old South Africa flag and ZA, as seen on stickers identifying South African cars, are prominent, I am also drawing attention to universal greed where money, investments, gold and silver are of extraordinary importance because they are manifestations of power.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
