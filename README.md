@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/grandma-moses/not_detected_251623(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/theodule-ribot/the-martyrdom-of-st-sebastian-1865.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Spring in Evening</h2>
+        <h2 class="artwork-name">The Martyrdom of St Sebastian</h2>
         <h3 class="artist">
-          Grandma Moses
-                    ·  1947
+          Theodule Ribot
+                    ·  1865
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">While Moses' way of piecing together compositions was partly dictated by her sense of abstract design, the arrangements were always subordinated to the requirements of the landscape. As a substitute for academic perspective (which she had never learned), she had recourse not just to a progressive scheme of diminishing sizes, but also to coloristic indicators of space. She was quick to note such qualities as the pale blue of distant hills, or the tonal gradations of the sky. She translated phenomena observed from nature into veils of color and layers of pigment.
-<br>
-<br>The Spring in Evening is notable for the way in which Moses captured both time of year and time of day. The rawness of the freshly plowed earth, the new growth on the hillside, and the lambent pink of the sunset are all rendered with a sure feel for color and a striking verisimilitude. Variations in the physical and tonal density of the paint create a series of transitions between the artist s anecdotal vignettes and the more complex hues of the landscape. The bold silhouette of the horses and the houses are spare, formal essences embedded in a network of paint. It is, however, the natural landscape that brings the whole to life.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this unusual illustration of the story of Saint Sebastian, successfully exhibited at the Salon of 1865, Ribot did not use the episode so often represented since the Middle Ages, in which the martyr is tied to a tree, his body pierced with arrows. He chose a later scene, when St Irene and one of her servants were bathing his wounds; only a broken arrow in the centre foreground and the remains of a rope around his right wrist recall his ordeal. Brilliantly lit by a light source coming from the upper right corner, the saint's body stands out against the shapes of two kneeling women in dark clothing looming out of the darkness and hardly discernible against the nocturnal landscape. The subtle shift from shadow to light is however not what visitors in 1865 would have seen as the industrially produced paints he used have evolved differently and the shadows in particular have turned black.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
