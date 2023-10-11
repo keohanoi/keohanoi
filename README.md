@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/eugene-delacroix/the-crusaders-entry-into-constantinople-12th-april-1204-1840-oil-on-canvas-1840(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00318/images/gian-maria-tosatti/13-2011-govislandwork-7030-edited.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Crusaders' entry into Constantinople, 12th April 1204</h2>
+        <h2 class="artwork-name">I’ve already been here. Headache</h2>
         <h3 class="artist">
-          Eugene Delacroix
-                    ·  1840
+          Gian Maria Tosatti
+                    ·  2011
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Entry of the Crusaders in Constantinople (Entrée des Croisés à Constantinople) or The Crusaders Entering Constantinople is a large painting by <a target="_blank" href="/en/eugene-delacroix">Eugène Delacroix</a>. It was commissioned by Louis-Philippe in 1838, and completed in 1840. Painted in <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas</a>, it is in the collection of the Musée du Louvre in Paris.
-<br>
-<br>Delacroix's painting depicts a famous episode of the Fourth Crusade (12 April 1204), in which the Crusaders abandoned their plan to invade Muslim Egypt and Jerusalem, and instead sacked the Christian (Eastern Orthodox) city of Constantinople, the capital of the Byzantine Empire. The painting shows Baldwin I of Constantinople at the head of a procession through the streets of the city following the assault; on all sides are the city's inhabitants who beg for mercy.
-<br>
-<br>The painting's luminosity and use of colour owes much to Delacroix's study of the Old Masters, such as <a target="_blank" href="/en/paolo-veronese">Paolo Veronese</a>. The painting was exhibited in the Salon of 1841, where the painterly <a target="_blank" href="/en/artists-by-art-movement/romanticism">romanticism</a> of its style was controversial; Le Constitutionnel deplored "the confused and strangled composition, the dull earthy colours and the lack of definite contours", but Baudelaire appreciated the work's "abstraction faite".</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This installation is part of a larger project called <i>I’ve already been here</i>. It is a cycle of works centering around the sense of solitude in a city such as New York, where every year thousands of people go to find their luck.<br><br>This second chapter of the project is about the impressions that the artist got from the city: «everything runs while a lot of people are losing their strength. Every day someone is absent at the roll-call of the morning. I know that for anyone who leaves, there is someone who will take his place so that the illusion that the world goes on is saved, but after the economic crisis in Argentina and then the crisis of 2008 here, I think that it would be more interesting to focus on the people who disappear than to the everyday new rookies».<br><br><i>Headache</i> is a work that captures the way people slowly lose the capability to tell the difference between truth and lie. It is a work that attempts to go into the depth of the multiple perceptions of reality that people develop while they start to lie to themselves trying to hide their fears and their failures. Space is a sort of labyrinth in which every room looks like the previous, and in which every exit is another entrance into the same obsession. This installation is the spatialization of a state of mind that can last for decades, making you fade little by little until the collapse and the disappearence.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
