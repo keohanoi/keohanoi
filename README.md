@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/michael-bell/the-transfer-2009.jpg"
+        src="https://uploads3.wikiart.org/images/petro-kholodny-older/icon-of-archangel-gabriel-1920.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Transfer</h2>
+        <h2 class="artwork-name">Icon of Archangel Gabriel</h2>
         <h3 class="artist">
-          Michael Bell
-                    ·  2008
+          Petro Kholodny (Elder)
+                    ·  1920
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
-<br>
-<br>"The Transfer" is the first of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform in Scene 1, "The Transfer" as she awaits her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The iconostasis in the Holy Spirit Chapel of the Greek Catholic Theological Seminary in Lviv (1920s).</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
