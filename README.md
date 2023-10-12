@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/james-brooks/untitled-self-portrait-1932.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/giotto/lamentation-the-mourning-of-christ.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Untitled (Self Portrait)</h2>
+        <h2 class="artwork-name">Lamentation (The Mourning of Christ)</h2>
         <h3 class="artist">
-          James Brooks
-                    ·  1932
+          Giotto
+                    ·  1306
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Somber colors remain the rule rather than the exception in this rare self-portrait of the artist at age twenty-six. Painted six years after the artist moved from Dallas to New York, the advanced technique, facility with modeling, and distinctive color scheme show the artist coming into his own. His typically intense sober expression and simple attire convey a determined, perceptive, and serious spirit; however, the pompadour that tops off his handsome countenance may suggest an artist who is just as familiar with contemporary fashion as he is with developments in contemporary painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This fresco beautifully exemplifies Giotto’s break with Byzantine techniques. He creates a highly emotional story with the combination of elements of traditional Byzantine paintings, such as the dimensional layout and iconography, with his stylized faces showing an emotional response to the death of Christ. The result pulls the viewer into the scene by inviting them to witness the pain and anguish of the Lamentation. You can almost hear the sobs of the women and the shrieks from the angels above. This realistic depiction of emotion on human faces set him apart from other artists of his day, turning Christ and his followers into real human beings with real emotion.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
