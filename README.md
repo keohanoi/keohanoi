@@ -2,23 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/albrecht-durer/portrait-of-jakob-fugger.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/giovanni-antonio-boltraffio/madonna-litta-1490.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Jakob Fugger</h2>
+        <h2 class="artwork-name">Madonna Litta</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1519
+          Giovanni Antonio Boltraffio
+                    ·  1490
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Jakob Fugger is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed around 1520.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna Litta is a late 15th-century painting of the Madonna nursing the infant Jesus which is generally attributed to Leonardo da Vinci and is displayed in the Hermitage Museum, in Saint Petersburg. There are numerous replicas of the work by other Renaissance painters, and Leonardo's own preliminary sketch of Madonna's head in the Louvre. The Child's awkward posture, however, led some scholars to attribute parts of the painting to Leonardo's pupil Boltraffio. Other clues that contribute to the fact that Leonardo had this painting completed by one of his pupils include the harsh outlines of the Madonna and Child, as well as the plain landscape.
 <br>
-<br>Jakob Fugger was one of the richest merchants of Augsburg. He was portrayed by Dürer in 1518, when he had been called to the city by emperor Maximilian I, in the course of the Diet of Augsburg. Here the artist was part of delegation of his home city, Nuremberg, and met numerous personalities, including the Fugger with whom he was in good relationships since his second trip to Venice (1506–1507). The artist, however, executed the portrait later, around 1520.
-<br>
-<br>Dürer portrayed Fugger's bust from three-quarters, looking to the left, above a blue background. The man wears a finely embroidered hat on his head, and a wide coat with fur-lining, as a show of his upper social status.</span>
+<br>This work was painted sometime in the 1480s for the Visconti rulers of Milan and soon passed to the Litta family, in whose possession it would remain for centuries. In 1865, Alexander II of Russia acquired it from Count Litta, quondam minister to St Petersburg, and deposited the painting in the Hermitage Museum, where it has been exhibited to this day. The museum had the painting transferred from wood to canvas. The painting was briefly featured in the 2006 film The Da Vinci Code.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
