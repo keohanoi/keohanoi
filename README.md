@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/sandro-botticelli/portrait-of-a-young-man(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/james-brooks/untitled-self-portrait-1932.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a Young Man</h2>
+        <h2 class="artwork-name">Untitled (Self Portrait)</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1469
+          James Brooks
+                    ·  1932
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of a Young Man is a painting by the Italian Renaissance artist <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, dated between 1470 and 1475. It is housed in the Palazzo Pitti of Florence.
-<br>
-<br>Variously attributed to different painters, it was eventually included in Botticelli's works. It is one of the first known three-quarters portraits in western European art.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Somber colors remain the rule rather than the exception in this rare self-portrait of the artist at age twenty-six. Painted six years after the artist moved from Dallas to New York, the advanced technique, facility with modeling, and distinctive color scheme show the artist coming into his own. His typically intense sober expression and simple attire convey a determined, perceptive, and serious spirit; however, the pompadour that tops off his handsome countenance may suggest an artist who is just as familiar with contemporary fashion as he is with developments in contemporary painting.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
