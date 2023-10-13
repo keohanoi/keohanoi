@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/artemisia-gentileschi/portrait-of-a-condottiero-1622.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/morris-louis/dalet-kaf-1959.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a Condottiero</h2>
+        <h2 class="artwork-name">Dalet Kaf</h2>
         <h3 class="artist">
-          Artemisia Gentileschi
-                    ·  1622
+          Morris Louis
+                    ·  1959
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of a Gonfaloniere is a painting by the Italian baroque artist <a target="_blank" href="/en/artemisia-gentileschi">Artemisia Gentileschi</a>. It hangs in the Palazzio d'Accursio, Bologna. It is a portrait of an unknown gonfaloniere standing in full regalia and was painted in 1622.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dalet Kaf is an example of Louis' later Veils. Like the Unfurleds, they are poured from top to bottom, aided by gravity: to work within the small confines of his studio, Louis would staple canvas to the walls and pour paint from above. Here, the thin washes of paint slither across the surface of the canvas, the brighter colors muted by the "veil" of black that frames the composition. </span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
