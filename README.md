@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/the-wounded-deer-1946.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00233/images/boleslas-biegas/le-sphinx.jpeg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Wounded Deer</h2>
+        <h2 class="artwork-name">Le sphinx</h2>
         <h3 class="artist">
-          Frida Kahlo
-                    ·  1946
+          Boleslas Biegas
+                    ·  1902
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Later in her life, Kahlo was interested in ancient Eastern religions and mysticism, and The Little Deer is an assimilation of her Mexican and European heritage with these ancient beliefs. The image is of Kahlo’s head placed on top of a stag, which is pierced with arrows. The arrows no doubt refer to her own pain and suffering due to her injuries, as well as her injurious marriage to Diego Rivera. At the bottom of the painting, Kahlo has written “carma,” alluding to these ancient mystic beliefs. She also combines the eastern belief system with Aztec. An ancient Aztec symbol, the deer symbolized the right foot, and in this she was alluding to her injured right side, the foot of which had been crushed in a bus accident, and right leg being fractured in eleven different places. One year before her death, her right leg was amputated up to her right knee, due to complications from gangrene. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Le Sphinx se présente comme un buste, mais certaines parties sont aplaties comme dans un bas-relief. Le front est en volume, exagérément bombé, tandis que les mains croisées sont juste dessinées.<br><br>Le sculpteur a employé des procédés très modernes pour l'époque. Par exemple, les joues sont creuses, au lieu d'être pleines. Le visage nous paraît anormal, déformé, comme s'il ne s'agissait pas d'un être humain, mais d'une créature fantastique. Avec ses yeux scrutateurs et ses lèvres serrées, on dirait un spectre. La couleur blanche du plâtre renforce cet effet. Le titre renvoie à la mythologie grecque : le sphinx est celui qui pose à l'homme des énigmes impossibles, celui qui ne parvient pas à les résoudre étant dévoré sur le champ.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
