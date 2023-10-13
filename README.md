@@ -2,29 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/horia-damian/the-hill-1976.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/annibale-carracci/the-fishing.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Hill</h2>
+        <h2 class="artwork-name">The fishing</h2>
         <h3 class="artist">
-          Horia Damian
-                    ·  1976
+          Annibale Carracci
+                    ·  1596
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Horia Damian's Hill was installed on the Plaza of Seagram's Building on 14th October 1976. "Its presence has made the vastness of Park Avenue come alive as it emits subtle particles and completely modifies the spatial ontology of the city. If thousands of people have felt and experienced this impact, it is because between this sculpture and the colossal geometry of the city, a new harmony is confirming its presence.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Fishing (or Fishing Scene) is a painting by Italian artist <a target="_blank" href="/en/annibale-carracci">Annibale Carracci</a>, painted before 1595 and given to Louis XIV by Prince Camillo Pamphili in 1665. It is currently held and exhibited at the Louvre in Paris.
 <br>
-<br>And if this relatively small work loses none of its monumentality, which on the contrary is magnified, it is because it appears as natural as a work which has no author.
+<br>The painting and its companion, Hunting, were included in Charles Le Brun's inventory in 1683, and in November 1695 they were in the apartments of King Louis XIV's younger brother. It was no doubt for this purpose that they were given two sumptuous gilt frames, each with attributes suited to the subject of the painting - among the finest examples of the art of frame-making in the time of Louis XIV. In 1955, when the varnish was being cleaned, the 19th century gilding covering the original gilding was removed - a task of some magnitude which was carried out by the French firm of Lebrun.
 <br>
-<br>It is precisely this point which constitutes a major event in the art of our time. Indeed, for the first time in the second half of the 20th century, here, in the very center of New York, a new view of the artist towards his work and the rest of the world is being expressed.
+<br>This work, together with its companion, date from Carracci's Bolognese period, before he left for Rome in 1595 to paint at the Galleria Farnese. At this time he was extremely interested in landscape, and his experiments are a foreshadowing of <a target="_blank" href="/en/nicolas-poussin">Poussin</a>'s classical compositions; but in these pictures he is exploring in a different direction, in the tradition of the Bassani, a family of painters whose studios continued to turn out landscapes which were prized all over Europe. His interest was the countryside. Without any religious theme as pretext, he painted two pure landscapes whose true subjects are the forest and the river, motivated by the themes of hunting and fishing. Therefore, Carracci was able to show nature animated with the life of the aristocracy and of ordinary people. The composition follows the visual device of division into compartments.
 <br>
-<br>This new view implies the disappearance of the artist's personality to pave the way for universal sensitivity which animates all things.
-<br>
-<br>And if this constitutes an event it is because the 20th century, imprisoned in its decline and gripped in a crisis of civilization, has replaced art by the cult of the artist's personality, thus creating a void between the creator and that which he creates. The first consequence of this situation is the inversion of the very terms applied to reality, not only have we forgotten that the universal is the very essence of all individuality, but we have even managed to give individuality priority. This confusion is enhanced when we forget that individuality, by its very nature, is subject to the effects of time where as the very essence of art is to be eternal.
-<br>
-<br>Today's event changes this state of affairs and gives art once again its sole chance of being. In the present context, it makes it possible to realize the supremacy of the spiritual over the temporal and at the same time affirms the new revolutionary line of art in the light of the millennium to come." (Radu Varia)</span>
+<br>Together with the Galleria Farnese, the two thematic paintings are Carracci's greatest masterpieces, and have always been much admired by artists. <a target="_blank" href="/en/edouard-manet">Manet</a> found inspiration in the Fishing, and the Hunting has been copied by <a target="_blank" href="/en/henri-matisse">Matisse</a>, <a target="_blank" href="/en/edvard-munch">Edvard Munch</a> and Rouault.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
