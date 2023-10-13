@@ -2,18 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00210/images/james-turrell/rodencrater-p1-2-1.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00380/images/gustave-courbet/the-funeral-at-ornans-1850-artist-print-collector.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Roden Crater</h2>
+        <h2 class="artwork-name">A Burial at Ornans</h2>
         <h3 class="artist">
-          James Turrell
+          Gustave Courbet
+                    ·  1850
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Roden Crater is a cinder cone type of volcanic cone from an extinct volcano, with a remaining interior volcanic crater. It is located northeast of the city of Flagstaff in northern Arizona, United States. The artist James Turrell, for his land art project, acquired the 400,000-year-old, 3-mile-wide (4.8 km) crater's land. Turrell has since been transforming the inner cone of the crater into a massive naked-eye observatory, designed specifically for the viewing and experiencing sky-light, solar, and celestial phenomena. The fleeting Winter and Summer solstice events will be highlighted. The Dia Art Foundation is continuing to advocate for the development of James Turrell's Roden Crater project in the Painted Desert in Arizona which was begun in the 1970s with Dia's support. James Turrell, who purchased the Roden Crater in 1979, had plans to open the crater for public viewing in 2011.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts the burial of Courbet’s great uncle in the small French town of Ornans, and it is considered to be one of the turning points in French art. The painting depicted the scene with an unflattering air, and it did not romanticize the depictions of grief and mourning, as in traditional Romantic paintings. Critics of the piece decried both the style of the painting as well as the size. At 10 feet tall by 22 feet wide, the size of the canvas was typically reserved for religious or heroic scenes, and the painting critics said was intentionally ugly and harsh. For the subjects in the painting, Courbet also used the real people who had actually been at the burial, rather than actors used as models for the art. As it had such a deleterious effect on the Romantic style of painting, it could also be easily called “The Burial of Romanticism,” as Courbet himself said: “The Burial at Ornans was in reality the burial of Romanticism.”
+<br>
+<br>This 22 foot long canvas situated in a main room at the Musee d'Orsay buries the viewer as if he or she were in a cave. In a decidedly non-classical composition, figures mill about in the darkness, unfocused on ceremony. As a prime example of Realism, the painting sticks to the facts of a real burial and avoids amplified spiritual connotations. Emphasizing the temporal nature of life, Courbet intentionally did not let the light in the painting express the eternal. While sunset could have expressed the great transition of the soul from the temporal to the eternal, Courbet covered the evening sky with clouds so the passage of day into night is just a simple echo of the coffin passing from light into the dark of the ground. Some critics saw the adherence to the strict facts of death as slighting religion and criticized it as a shabbily composed structure with worn-faced working folk raised up to life-size in a gigantic work as if they had some kind of noble importance. Other critics such as Proudhon loved the inference of equality and virtue of all people and recognized how such a painting could help turn the course of Western art and politics.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
