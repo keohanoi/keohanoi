@@ -2,29 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/rembrandt/philosopher-in-meditation-1632.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/william-blake/the-ancient-of-days-1794.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Philosopher in Meditation</h2>
+        <h2 class="artwork-name">The Ancient of Days</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1632
+          William Blake
+                    ·  1794
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Philosopher in Meditation (Bredius 431) is the traditional title of an oil painting in the Musée du Louvre, Paris, that has long been attributed to the 17th-century Dutch artist <a target="_blank" href="/en/rembrandt">Rembrandt</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ancient of Days is a design by <a target="_blank" href="/en/william-blake">William Blake</a>, originally published as the frontispiece to the 1794 work Europe a Prophecy. It draws its name from one of God's titles in the Book of Daniel and shows Urizen crouching in a circular design with a cloud-like background. His outstretched hand holds a compass over the darker void below. Related imagery appears in Blake's Newton, completed the next year. As noted in Gilchrist's Life of William Blake, the design of The Ancient of Days was "a singular favourite with Blake and as one it was always a happiness to him to copy." As such there are many versions of the work extant, including one completed for Frederick Tatham only weeks before Blake's death.
 <br>
-<br>It is signed "RHL-van Rijn" and dated 1632, at the time of Rembrandt's move from Leiden to Amsterdam. Recent scholarship suggests that the painting depicts "Tobit and Anna waiting for their son Tobias" instead. This interpretation appears in the first known source, an auction catalogue from 1738 (see "Subject matter").
+<br>The British Museum notes that one copy, accessioned in 1885, was excluded from Martin Butlin's 1982 catalogue raisonné of Blake's paintings and drawings, suggesting the author doubted that attribution.
 <br>
-<br>The painting appeared in Paris around the middle of the 18th century and made the rounds of aristocratic collections before being acquired for the royal collections housed in the Louvre Palace. The presumed subject matter, the finely graded chiaroscuro treatment and intricate composition were widely appreciated in France and the painting is mentioned in the writings of many 19th- and 20th-century literary figures, including George Sand, Théophile Gautier, Jules Michelet, Marcel Proust, Paul Valéry, Gaston Bachelard, Paul Claudel, and Aldous Huxley.
+<br>Early critics of Blake noted the work as amongst his best, and a favourite of the artist himself. A description by Richard Thompson in John Thomas Smith's Nollekens and His Times, was of "... an uncommonly fine specimen of art, and approaches almost to the sublimity of Raffaelle or Michel Angelo." and as representing the event given in the Book of Proverbs viii. 27 (KJV), "when he set a compass upon the face of the earth." The subject is said to have been one of the 'visions' experienced by Blake and that he took an especial pleasure in producing the prints. The copy commissioned by Tatham in the last days of Blake's life, for a sum of money exceeding any previous payment for his work, was tinted by the artist while propped up in his bed. After his revisions, Blake is said to have,
 <br>
-<br>The popularity of the painting may be measured by its presence on the internet, where it is often used as an emblem of philosophy, or interpreted along esoteric or occult lines.
+<br>The image was used as the cover for Stephen Hawking's book God Created the Integers.
 <br>
-<br>Painted in oils on an oak panel measuring about 11 x 13 in. (28 x 34&nbsp;cm), the painting depicts in slightly accelerated perspective two figures in a partially vaulted interior that is dominated by a wooden spiral staircase. The architecture includes stone, brick and wood, with arched elements (window, vault, doors) that create an impression of monumentality. On the pre-iconographic level, this is one of the most "graphic" works painted by Rembrandt, in the sense that it contains many straight, curved, circular, and radiating lines: from the lines of the flagstones to those of the window, the bricks, the wainscotting, and of course the staircase. As in the staircase and the basketwork tray at the center of the composition, the curved lines can be said to organize the straight lines. The first figure is that of an old man seated at a table in front of a window, his head bowed and his hands folded in his lap. The second figure is that of an old woman tending a fire in an open hearth. A third figure—a woman standing in the stairs carrying a basket and turned to the spectator—is visible in 18th- and 19th-century engraved reproductions of the painting, but virtually invisible in the painting's present state. As it is, the overall painting is quite dark due to the aging of the varnish.
+<br>There are currently thirteen known extant copies of Europe a Prophecy. Because of Blake's production process of hand colouring each print, each image has own unique qualities. The following images of The Ancient of Days are those available via the digital archiving project, the William Blake Archive:
 <br>
-<br>The panel is signed "RHL-van Rijn 163_" at the bottom and left of the center, at a vertical from the figure of the old man. The signature is traced in light pigment on a dark background and is quite difficult to make out. The last digit is a tiny blob of paint, the form and placing of which would tally with a "0," "1" or "2." The type of signature—monogram plus patronymic—would argue for 1632, for the artist used this type of signature only in this year. This does not mean that the picture was painted in that year or even in Amsterdam, to which Rembrandt had moved in late 1631. In any case, this type of signature is so rare in Rembrandt's oeuvre and date-specific that it argues for authenticity.</span>
+<br> Media related to The Ancient of Days by William Blake at Wikimedia Commons</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
