@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/william-blake/the-ancient-of-days-1794.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00142/images/jan-van-eyck/man-in-a-blue-turban.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Ancient of Days</h2>
+        <h2 class="artwork-name">Man in a Blue Turban</h2>
         <h3 class="artist">
-          William Blake
-                    ·  1794
+          Jan van Eyck
+                    ·  1433
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ancient of Days is a design by <a target="_blank" href="/en/william-blake">William Blake</a>, originally published as the frontispiece to the 1794 work Europe a Prophecy. It draws its name from one of God's titles in the Book of Daniel and shows Urizen crouching in a circular design with a cloud-like background. His outstretched hand holds a compass over the darker void below. Related imagery appears in Blake's Newton, completed the next year. As noted in Gilchrist's Life of William Blake, the design of The Ancient of Days was "a singular favourite with Blake and as one it was always a happiness to him to copy." As such there are many versions of the work extant, including one completed for Frederick Tatham only weeks before Blake's death.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Man with a Blue Chaperon (or Portrait of a Man with a Blue Hood, earlier Portrait of a Jeweler or Man with a Ring) is a very small (22.5 cm x 16.6 cm with frame) oil on panel portrait of an unidentified man attributed to the Early Netherlandish painter <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>.
 <br>
-<br>The British Museum notes that one copy, accessioned in 1885, was excluded from Martin Butlin's 1982 catalogue raisonné of Blake's paintings and drawings, suggesting the author doubted that attribution.
+<br>The painting was commissioned and completed sometime around 1430. It contains a number of elements typical of van Eyck's secular portraits, including a slightly oversized head, a dark and flat background, forensic attention to the small details and textures of the man's face, and illusionistic devices. Artists did not give titles to their works during the <a target="_blank" href="/en/paintings-by-style/northern-renaissance">Northern Renaissance</a> period, and as with any portrait of a sitter whose identity is lost, the painting has attracted generic titles over the years. It had long been thought that the ring held in the man's right hand was meant as an indication of his profession as a jeweler or goldsmith and so the painting was long titled on variants of such. More recently the ring is interpreted as an emblem of betrothal and the titles given by various art historians and publications since are usually more descriptive of the colour or form of the headdress.
 <br>
-<br>Early critics of Blake noted the work as amongst his best, and a favourite of the artist himself. A description by Richard Thompson in John Thomas Smith's Nollekens and His Times, was of "... an uncommonly fine specimen of art, and approaches almost to the sublimity of Raffaelle or Michel Angelo." and as representing the event given in the Book of Proverbs viii. 27 (KJV), "when he set a compass upon the face of the earth." The subject is said to have been one of the 'visions' experienced by Blake and that he took an especial pleasure in producing the prints. The copy commissioned by Tatham in the last days of Blake's life, for a sum of money exceeding any previous payment for his work, was tinted by the artist while propped up in his bed. After his revisions, Blake is said to have,
+<br>The painting was attributed to van Eyck in the late 19th century, but this was repeatedly challenged by some art historians until a 1991 cleaning when infra-red photography revealed an underdrawing and methods of handling of oil that were unmistakably van Eyck's.
 <br>
-<br>The image was used as the cover for Stephen Hawking's book God Created the Integers.
+<br>Prior to 1948, the panel belonged to the Brukenthal National Museum in Sibiu, Romania. That year, the new Communist regime seized the panel, along with eighteen others it considered the museum's most valuable holdings, and gave it to the National Museum of Art of Romania in Bucharest. At the end of 2006, in time for Sibiu's stint as European Capital of Culture, the works were returned to the Brukenthal Museum.
 <br>
-<br>There are currently thirteen known extant copies of Europe a Prophecy. Because of Blake's production process of hand colouring each print, each image has own unique qualities. The following images of The Ancient of Days are those available via the digital archiving project, the William Blake Archive:
-<br>
-<br> Media related to The Ancient of Days by William Blake at Wikimedia Commons</span>
+<br>The man is shown in three-quarters view with his face dramatically lit by light falling from the left. This device provides both striking contrasts of light and shadow and draws the viewer's attention on to the man's face. He has brown eyes, and while his expression is impassive there are traces of melancholy, especially in the down-turn of his mouth. He is obviously a member of the nobility, being very well dressed in a fur lined brown jacket over a black undervest. His headdress, a chaperon, contains two wings which hang down over the man's shoulders and extend to his chest. The edges of the cloth are given a shredded look at the edges of their trains. The hood is brightly and dramatically coloured using pigment extracted from the expensive lapis lazuli gemstone to give it its bright, intense hue. The headdress is of a similar but less extravagant type to that seen in van Eyck's c. 1433 Portrait of a Man, and worn by a figure in the distance in his c. 1435 Madonna of Chancellor Rolin. This type of headdress was to go out of fashion by the mid 1430s, conveniently and definitively dating the painting as having been completed before then.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
