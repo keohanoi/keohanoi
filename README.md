@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00288/images/sigmar-polke/ahatfenster-2009.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00384/images/pellizza-da-volpedo/pellizza-da-volpedo-ritratto-di-una-giovane-donna-maternit-incipiente.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ahatfenster</h2>
+        <h2 class="artwork-name">Portrait of a Young Woman (Incipient Maternity)</h2>
         <h3 class="artist">
-          Sigmar Polke
-                    ·  2009
+          Pellizza da Volpedo
+                    ·  1891
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Parish of Grossmünster, the most ancient church of Zurich, published in 2005 an art contest for the creation of the windows for the central nave. Between the five proposals, in the spring of 2006, the jury chose a design of Sigmar Polke. He crafted seven windows in the nave from agate, re-establishing the early Middle Ages tradition to produce the church windows out of cut stones (mainly, alabaster). Polke cut this semi-precious stone into thin slices that would let light pass through them and give the appearance of brightly glowing walls. The brilliantly colorful result was then expanded with five figurative glass windows. The motifs feature Old Testament figures: the <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/der-sundenbock-2009">scapegoat</a>, <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/isaaks-opferung-2009">Isaac</a>, the <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/menschensohn-2009">Son of Man</a>, <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/elijas-himmelfahrt-2009">Elijah</a>, and <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/konig-david-2009">David</a>. They all move in the direction of the birth of Christ and thus toward the chancel window created by Augusto Giacometti in 1933.<br><br>Polke's formidable career was bookended with work in glass. He began his artistic training in 1959 as an apprentice in a glass-painting workshop, and he completed the Grossmünster windows a year before his death.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting can be traced back to the series of portraits painted around 1891, such as Pensieri (Thoughts), Ricordo di un dolore (Memory of a Pain) or Il mediatore Giani (The Mediator Giani), all of which have the same frontal approach and verista (realist) style. The figure, which could be Palmina, one of Pellizza's favourite models who had already been portrayed in Cherries, appears extraordinary and "modern" for the use of "tone on tone" colour, in a refined symphony of greens, raised by the reds and pinks of the complexion and blouse, and contrasted with grey and white. The facial expression is very intense, but veiled with sadness and unease, a sentimental element that led the critics to name the work Maternity incipient. The original title might have been Ritratto di giovane donna (Portrait of a Young Woman), if one wanted to identify the painting with the canvas exhibited by Pellizza in Turin in 1892, next to the Portrait of the Mediator Giani. The work had aroused the interest of his Macchiaioli friend Plinio Nomellini, whom he had met in Florence, but disconcerted the critics who considered the painted figure to be "unattractive and so... pathological looking" but "despite a certain monotony of colour, it is one of the best paintings in the exhibition". The particular chromatic sensitivity shown in this canvas is the first step towards the complete lightening of the chromatic range and the gradual elimination of the earth tones that would characterise his later works, where through pure colours, tone on tone, Pellizza would try to obtain the maximum in naturalistic luminosity and vivacity.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
