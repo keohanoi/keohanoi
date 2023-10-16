@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/stanley-pinker/construction-g-s-finger.jpg"
+        src="https://uploads5.wikiart.org/images/inigo-manglano-ovalle/portrait-of-a-young-reader-2006.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Construction. G's Finger</h2>
+        <h2 class="artwork-name">Portrait of a Young Reader</h2>
         <h3 class="artist">
-          Stanley Pinker
+          Inigo Manglano-Ovalle
+                    ·  2006
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This started off as a rectangular painting with the two wire figures cycling on a spiralling road to nowhere. I later added the arched section surmounted by the gloved hand and celestial sphere. Painted in the mid-1980s when the sticker proclaiming 'I love etc' was to be seen everywhere - it became meaningless and banal through overuse. A stencil on the front green figure proclaims 'I love life' while the person sharing the ride states 'I hate it'. The viper with a little devil's head says 'It is hell'. Overlooking this unsatisfactory state of affairs is a Checkers plastic bag on which 'God' has been stencilled over 'Checkers'. The universe of these creatures is littered with floating plastic debris. (Although there is a certain vulgarity to plastic, it can be very beautiful when it is transformed by the sea or sun and the surfaces become scratched and dull, I 'found' pieces.) Who knows where these squabbling figures will end up as they whirl inwards in a polluted world.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Described by the artist as, "an exploration of DNA as a code, a catalogue, and a library with volumes of information to be unlocked and stories to be written," Portrait of a Young Reader is a DNA portrait rendered on a vast scale. Covering the walls of the entrance to the new Bronx Library Center, the piece was created using the latest scientific technology to image the genetic expression of a single individual. The glass and steel wall relief sculpture is composed of approximately 3,000 three-inch diameter colored glass cylinders, which are cut in various lengths and mounted on perforated metal backing. The pattern and palette of the installation was determined by Microarray (DNA sampling method). The Microarray samples include seven colors: black, red, orange, yellow, dark green, green, and light green. The variation in the depth of the glass cylinders coupled with the random patterning of the Microarray presents the information as a topographical landscape, presenting the scientific information in an accurate, yet abstract manner. The scale and shape of the portrait were tailored to fit within the architect's design and is in fact an elemental part of the architecture, having been physically imbedded into the library's very foundation. In addition to the large scale piece that covers the library's main staircase and adjacent areas, Manglano-Ovalle also chose to display the original DNA sample of the anonymous young reader along with information about the project at the top of the stairs near the entrance. The artist hopes that, "as library patrons move down and through this space they will, in a sense, be moving through the portrait, momentarily merging with both the portrait and the architecture." (NYC Culture)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
