@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/richard-tuttle/44th-wire-piece-1972.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/rene-magritte/the-human-condition-1935(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">44th Wire Piece</h2>
+        <h2 class="artwork-name">The human condition</h2>
         <h3 class="artist">
-          Richard Tuttle
-                    ·  1972
+          Rene Magritte
+                    ·  1935
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">44th Wire Piece is part of a series of 48 wire works that reflects Richard Tuttle’s thinking about the relationships between drawing and sculpture. To install the work, Tuttle enters a meditative state in order to recall the length and width of the line necessary to create a given piece. After drawing that line in one fluid motion directly on the wall, he then unspools a filament of florist wire, anchoring one end to the drawn line’s point of origin with a small nail. Tuttle traces the line’s trajectory with the wire filament, fastening its other end to the wall at the end of the line. The final work is a line that exists in three dimensions, with the shadow cast by the wire making a third linear element.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Magritte painted two of these paintings with the same name, The Human Condition, the most well-known of which is the version painted in 1935. A recurring theme in Magritte’s works is illustrating an object that is covering up whatever is behind it. In this painting, the easel used to paint the seascape outside of the doorway is also hiding the doorway, as well as the seascape. The image painted on the canvas also merges with the actual image outside of the doorway, making a seamless transition between the two. Magritte recycled this theme recurrently throughout his painting career, making many variations on the theme of including a painting within a painting, hiding whatever lies behind. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
