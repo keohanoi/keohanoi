@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/suzanne-valadon/the-blue-room-1923.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/andre-derain/london-bridge-1906.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Blue Room</h2>
+        <h2 class="artwork-name">London Bridge</h2>
         <h3 class="artist">
-          Suzanne Valadon
-                    ·  1923
+          Andre Derain
+                    ·  1906
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The famous escapades of Suzanne Valadon (her lovers, her sensational breakups, her alcoholic son) have obscured the originality of her career. From modest origins, she worked young and carried out many activities before becoming familiar – she was then a model – with artists' studios, at a time when the space of women of her social condition was reduced to domestic interiors. His apprenticeship is made of sketches of everyday scenes, street workers, ordinary people, and his models are more often members of his entourage than professionals. The odalisque of The Blue Room takes up a pictorial cliché to reformulate it. The woman lying on the bed is not naked, but dressed, not in the oriental style like Matisse's odalisques, but like a modern woman. His shirt with suspenders, his striped pajamas not only evoke eroticism or sexual expectation but also the rest of a body in the comfort of loose and colorful clothes, which affirm a desire for modernity. The detail of the cigarette, ostensibly stuck in the mouth, then characterizes women of little virtue, like the gigolettes of Kupka or the women artists. This modernity is attached here to the representation of a mature woman, with thick hands, a weary and heavy body, with heavy breasts. According to Valadon, “you have to have the courage to look the model in the face if you want to reach the soul. Never bring me to paint a woman who is looking for the lovable or the pretty, I will disappoint her right away. The composition, which takes up the traditional scheme of the voluptuous nude framed by curtains, takes us into the bohemian intimacy of the studio saturated with intense blues. Lost in thought, the woman forgets the painter's intrusion: it's a stolen moment.<br><br><a target="_blank" href="https://www.centrepompidou.fr/en/ressources/oeuvre/cpg8rdy">centrepompidou</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1905, French painter André Derain was commissioned by his art dealer Ambroise Vollard to paint views of London. Derain set up his easel outdoors and went to work. The subject of this landscape, London Bridge, was one of several bridges built across the River Thames as part of a larger movement at the turn of the 19th century to modernize the city center with grand new architectural projects and public works. London Bridge is one of about 30 paintings Derain produced over his two-month stay, all depicting activity on or around the Thames.
+<br>
+<br>It’s not surprising that Derain’s art dealer was interested in views of London. Nineteenth-century London saw a huge growth in population (from 1 million in 1800 to over 6 million a century later) as mechanical industry, especially the building of railways, took hold. Derain saw the changes and created a portrait of London that was radically different from anything done by previous painters of the city. The artist later recalled: “Fauvism was our ordeal by fire. . . It was the era of photography. This may have influenced us and played a part in our reaction against anything resembling a snapshot of life. No matter how far we moved away from things, it was never far enough. Colors became charges of dynamite.”</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
