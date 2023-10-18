@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00281/images/sergio-illuminato/groundzero.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/water-1566(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">GROUNDZERO</h2>
+        <h2 class="artwork-name">Water</h2>
         <h3 class="artist">
-          Sergio Mario Illuminato
-                    ·  2019
+          Giuseppe Arcimboldo
+                    ·  1566
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Is it all over or hasn't it started? In this universe closed within itself, where the dawn of consciousness withdraws for an instant and the range of experiences is returned to silence, the mind becomes similar to a starless night. We have no traces and time and space appear suspended. The central nucleus of light - built from gold leaves - refuses to be pigeonholed in a dynamic movement. The monochrome Terra di Siena Bruciata, generously spatulated, frames the sudden gash to free one's self, so that our gaze can flow elsewhere.<br><br>È finito tutto oppure non è cominciato? In questo universo chiuso dentro di sé, in cui l’alba della coscienza si ritrae un istante e la gamma delle esperienze viene restituita al silenzio, la mente si fa simile a una notte senza stelle. Non abbiamo tracce e il tempo e lo spazio appaiono sospesi. Il nucleo centrale di luce - costruito da foglie d’oro – si rifiuta di lasciarsi incasellare in un movimento dinamico. Il monocromo Terra di Siena Bruciata, generosamente spatolato, fa da cornice allo squarcio improvviso per liberare il proprio io, così che il nostro sguardo possa fluire in un altrove. <br><br>Est-ce fini ou ça n'a pas commencé? Dans cet univers fermé, où l'aube de la conscience se retire un instant et l'éventail des expériences revient au silence, l'esprit devient semblable à une nuit sans étoiles. Nous n'avons aucune trace et le temps et l'espace semblent suspendus. Le noyau central de lumière - construit à partir de feuilles d'or - refuse d'être pris au piège dans un mouvement dynamique. La Terra di Siena Bruciata monochrome, généreusement spatulée, encadre l'entaille soudaine pour se libérer, afin que notre regard puisse couler ailleurs.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Employing the images of water creatures, this painting is more than jut a collection of fish. In the portrait, Arcimboldo ingeniously combines water creatures, coral, and shells into a depiction of an older woman. His use of pearls to form a necklace and earring is a smart way to include jewelry on his subject, at the same time as keeping with his water theme, as they are also products of the sea. This image was included on the album cover of the rock band Kansas for their album “Masque.” It is a fitting image for the title of the album, as Arcimboldo’s paintings were all subtle masks of images made up to be something else. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
