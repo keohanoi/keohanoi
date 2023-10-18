@@ -2,31 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00340/images/caravaggio/entombment.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00381/images/jacques-louis-david/3-the-intervention-of-the-sabine-women-jacques-louis-david.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Entombment of Christ</h2>
+        <h2 class="artwork-name">The Sabine Women</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1603
+          Jacques-Louis David
+                    ·  1799
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><a target="_blank" href="/en/caravaggio">Caravaggio</a> created one of his most admired altarpieces, The Entombment of Christ, in 1603–1604 for the second chapel on the right in Santa Maria in Vallicella (the Chiesa Nuova), a church built for the Oratory of Saint Philip Neri. A copy of the painting is now in the chapel, and the original is in the Vatican Pinacoteca. The painting has been copied by artists as diverse as <a target="_blank" href="/en/peter-paul-rubens">Rubens</a>, Fragonard, <a target="_blank" href="/en/theodore-gericault">Géricault</a> and <a target="_blank" href="/en/paul-cezanne">Cézanne</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Intervention of the Sabine Women is a 1799 painting by the French painter <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>, showing a legendary episode following the abduction of the Sabine women by the founding generation of Rome.
 <br>
-<br>On 11 July 1575, Pope Gregory XIII (1572-1585) issued a bull confirming the formation of a new society called the Oratory and granting it the church of Santa Maria in Vallicella. Two months after the bull, the rebuilding of the church commenced. Envisaged in the planned reconstruction of the Chiesa Nuova (new church), as it became known, was the dedication of all the altars to the mysteries of the Virgin. Starting in the left transept and continuing around the five chapels on either side of the nave to the right transept, the altars are dedicated to the Presentation of the Temple, the Annunciation, the Visitation, the Nativity, the Adoration of the Shepherds, the Circumcision, the Crucifixion, the Pietà, the Resurrection, the Ascension, the Descent of the Holy Ghost, the Assumption and the Coronation.
+<br>David began planning the work while he was imprisoned in the Luxembourg Palace in 1795. France was at war with other European nations after a period of civil conflict culminating in the Reign of Terror and the Thermidorian Reaction, during which David had been imprisoned as a supporter of Robespierre. David hesitated between representing either this subject or that of Homer reciting his verses to his fellow Greeks. He finally chose to make a canvas representing the Sabine women interposing themselves to separate the Romans and Sabines, as a 'sequel' to <a target="_blank" href="/en/nicolas-poussin">Poussin</a>'s The Rape of the Sabine Women.
 <br>
-<br>The Entombment was probably planned and begun in 1602/3. The chapel in which the Entombment was to be hung, was dedicated to the Pietà, and was founded by Pietro Vittrice, a friend of Pope Gregory XIII and close follower of Filippo Neri. The Capella della Pietà occupied a 'privileged' position in the Chiesa Nuova: Mass could be celebrated from it and it was granted special indulgences.
+<br>Work on the painting commenced in 1796, after his estranged wife visited him in jail. He conceived the idea of telling the story, to honour his wife, with the theme being love prevailing over conflict. The painting was also seen as a plea for the people to reunite after the bloodshed of the revolution. Its realization took him nearly four years.
 <br>
-<br>The chapel, placed in the right nave of the Chiesa Nuova, was conceded to Vittrice in June 1577, and the foundation of the chapel ratified in September 1580. Some time after his death in March 1600, a legacy of 1,000 scudi became available for the maintenance of the chapel, and it was built in 1602, which is then held to be the earliest date for the commission of Caravaggio's painting. Indeed, on 1 September 1604, it is described as 'new' in a document recording that it had been paid for by Girolamo Vittrice, Pietro's nephew and heir.
+<br>The painting depicts Romulus's wife Hersilia – the daughter of Titus Tatius, leader of the Sabines – rushing between her husband and her father and placing her babies between them. A vigorous Romulus prepares to strike a half-retreating Tatius with his spear, but hesitates.
 <br>
-<br>Girolamo Vittrice had a direct connection with Caravaggio: in August 1586 he married Orinzia di Lucio Orsi, the sister of Caravaggio's friend Prospero Orsi and the niece of the humanist Aurelio Orsi. Aurelio, in turn, was a one-time mentor to the young Maffeo Barberini, who became Pope Urban VIII in 1623. It is through these connections that Girolamo's son, Alessandro, became bishop of Alatri in 1632, and was able to bestow the gift of Caravaggio's Fortune Teller (now in the Louvre) on Pope Innocent X Pamphilij after being appointed governor of Rome in 1647.
+<br>The rocky outcrop in the background is the Tarpeian Rock, a reference to civil conflict, since the Roman punishment for treason was to be thrown from the rock. According to legend, when Tatius attacked Rome, he almost succeeded in capturing the city because of the treason of the Vestal Virgin Tarpeia, daughter of Spurius Tarpeius, governor of the citadel on the Capitoline Hill. She opened the city gates for the Sabines in return for 'what they bore on their arms.' She believed that she would receive their golden bracelets. Instead, the Sabines crushed her to death with their shields, and she was thrown from the rock which since bore her name.
 <br>
-<br>The painting was universally admired and written about by such critics as Giulio Mancini, Giovanni Baglione (1642), Gian Pietro Bellori (1672) and Francesco Scanelli (1657).
+<br>The genesis of Les Sabines and the work itself represented a significant departure for the day. Historical depictions had been typically commissioned. David however, conceived, produced and promoted his work for profit. He produced marketing material to accompany the first exhibition. Le Tableau des Sabines, Exposé Publiquement au Palais National des Sciences et des Arts "the Tableau of the Sabines, Public Exhibition at the National Palace of Arts and Science" contained his own account of the episode and anticipated the controversy over his use of nudity with an end-note explaining his rationale. Its 1799 exhibition attracted a large number of paying visitors for several years and in 1819 he sold Les Sabines and his Léonidas at Thermopylae to the Royal Museums for 10,000 francs.
 <br>
-<br>The painting was taken to Paris in 1797 for the Musée Napoléon, returned to Rome and installed in the Vatican in 1816.</span>
+<br>Starting in 1977, France issued a series of definitive stamps featuring the head of Hersilia based on David's painting.
+<br>
+<br>After the expulsion of artists including David from the Louvre, the picture could be found in the ancient church of Cluny, which he used as a workshop.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
