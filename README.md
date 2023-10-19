@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/george-romney/admiral-sir-charles-hardy-c-1716-1780-1780.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/pierre-auguste-renoir/dance-in-the-country-1883-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Admiral Sir Charles Hardy (c.1716–1780)</h2>
+        <h2 class="artwork-name">Dance in the Country</h2>
         <h3 class="artist">
-          George Romney
-                    ·  1780
+          Pierre-Auguste Renoir
+                    ·  1883
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A three-quarter-length portrait to left wearing flag officer's full-dress uniform, 1767–1783 and white wig.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dance in the Country (French: Danse à la campagne) is an 1883 oil painting by French artist <a target="_blank" href="/en/pierre-auguste-renoir">Pierre-Auguste Renoir</a>. It is currently kept at the Musée d'Orsay in Paris.
 <br>
-<br>In 1744 while a junior captain in the 'Jersey', 60 guns, Hardy was appointed Governor of Newfoundland and in 1755, while still a captain, he became Governor of New York. His promotion to flag-rank coincided with the outbreak of the Seven Years War in 1756 and he served as second-in-command to Admiral Holbourne in the abortive attempt to seize Louisbourg and Cape Breton from the French. By becoming Governor of Greenwich Hospital in 1771 and a Member of Parliament for Plymouth in 1774, he appeared to have ended his sea-going career. In the American Revolutionary War, however, Admiral Keppel's resignation during the crisis following the Battle of Ushant in 1778 left a vacancy for command of the Channel fleet. Hardy was brought out of retirement to fill the post and successively kept the fleet deployed, despite Franco-Spanish numerical superiority, until the threat of invasion had passed. Hardy sat for the portrait in February and March 1780 and died the same year, while still in command.
+<br>This painting was commissioned in 1882 by the merchant Paul Durand-Ruel who wanted works on the theme of the ball. He bought it in 1886, exhibited it for the first time in April 1883, and kept it until Renoir's death in 1919. A complementary painting on the same theme, named Dance in the City, was also painted by Renoir the same year.
 <br>
-<br>The artist was an important portrait painter of the late eighteenth century, generally ranked third after Joshua Reynolds and Thomas Gainsborough. In 1773 he moved to Italy for two years, where he became interested in history paintings in the elevated and élitist 'Grand Manner'. This developed into improving upon nature and the pursuit of perfect form. At its best his work demonstrated refinement, sensitivity and elegance, although it could also be repetitive and monotonous. As a society painter he typified late-eighteenth-century English artists who, compelled by the conditions of patronage to spend their time in producing portraits, could only aspire to imaginative and ideal painting. By 1780 Romney's portraits, according to Horace Walpole, were 'in great vogue' and he worked in an increasingly neo-classical style.</span>
+<br>The painting, influenced by the artist's trip in Italy in 1881 where he found inspiration from <a target="_blank" href="/en/raphael">Raphael</a>, marked an evolution of the painter who tried then to break away from <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionism</a>.
+<br>
+<br>The painting depicts a couple dancing under a chestnut tree: the man is Paul Lhôte, a friend of the painter, and the woman is Aline Charigot, who later became the wife of the painter. Both figures are painted life-size and occupy almost the entire painting. However, a table in the background on the right, and a hat on the ground, and a pair of faces below the level of the dance floor, can be seen. The woman who holds a fan in her right hand, displays a smiling face and looks towards the viewer. The scene is bathed in a bright and cheerful atmosphere, and the women's clothes use warm colors (yellow gloves, red hat).</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
