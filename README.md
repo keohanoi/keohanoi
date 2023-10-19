@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-53-1980.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00294/images/aztec-art/kneeling-female-figure.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Untitled Film Still #53</h2>
+        <h2 class="artwork-name">Kneeling Female Figure</h2>
         <h3 class="artist">
-          Cindy Sherman
-                    ·  1980
+          Aztec Art
+                    ·  1521
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Untitled Film Stills is a series of sixty-nine black-and-white photographs made between 1977 and 1980. In them Sherman appears as fictitious characters in scenarios resembling moments in a film. She used vintage clothing, wigs and makeup to create a range of female personae which she then photographed in apparently solitary, unguarded moments of reflection, undress, or in conversation with somebody off-set and outside of the frame. The ‘stills’ are set in a variety of interior locations as well as outside in urban and rural landscapes. They were begun shortly after Sherman moved to New York city with the artist Robert Longo (born 1953).</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Aztec sculptors used specific formal and aesthetic conventions to depict the human figure. Seated female figures are usually shown with their legs tucked under them, their feet turned inward so that in the back their toes are touching. Their hands rest on their knees. This sculpture depicts an elegant Aztec lady wearing a short, simple skirt fastened around the waist with a knotted belt worked in low relief. She wears no upper garment. Circular ornaments bedeck her ears. Her hair is wound about her head in two strands and held at the top. Her face has delicate rounded contours and is gently animated. The eyes and mouth are shown as recessed ovals which once contained inlays. Sculptures of females without any deity attributes are rare in Aztec art. It is possible that this figure was dressed on specific days of the ritual calendar in deity costumes made of cloth and/or other perishable materials.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
