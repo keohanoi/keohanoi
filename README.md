@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00142/images/anna-ancher/living-room-with-lilac-curtins-and-blue-clematis.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/james-brooks/ipswich-1967.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Living Room with Lilac Curtins and Blue Clematis</h2>
+        <h2 class="artwork-name">Ipswich</h2>
         <h3 class="artist">
-          Anna Ancher
-                    ·  1913
+          James Brooks
+                    ·  1967
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Anna Ancher has painted her own studio in Anchers Hus in this picture, but it looks more like a living room without any indications that this is an artist’s working space: There is no easel, no paintbrushes and most importantly, no paintings. Instead, she has chosen to focus on the table and the arrangement of clematis flowers on the table, and the window framed by the light blue curtains. In 1913, the architect Ulrik Plesner designed an extension to Anchers Hus with studios for both Anna Ancher and her husband Michael Ancher. Anna Ancher probably painted this picture shortly after the completion of the extension. The painting gets its title from the clematis in the vase on the table. The clematis is of the Jackmanii variety, which still grows in the gardens at Anchers Hus and Skagens Museum.<br><br><a target="_blank" href="https://skagenskunstmuseer.dk/en/works/interior-with-clematis/
-">skagenskunstmuseer</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the end of the sixties, in works such as Ipswich, the artist continued to reduce the formal components of his canvases, using very few colors, with minimal linear interventions to heighten the visual and emotional impact. Brooks' reserve and his controlled release-in the feathery passage of pink in the upper right-hand corner-for instance, which is balanced by the complementary moss green in the lower right-hand corner, testify to his constant striving to break free of his own artistic routines. This steady commitment to experimentation solidified his reputation as an artist who created works of refinement and quiet grandeur.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
