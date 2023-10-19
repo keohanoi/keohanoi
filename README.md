@@ -2,19 +2,39 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/jan-steen/winter-landscape.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00381/images/peter-paul-rubens/last-supper-peter-paul-rubens.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Winter Landscape</h2>
+        <h2 class="artwork-name">The Last Supper</h2>
         <h3 class="artist">
-          Jan Steen
-                    ·  1650
+          Peter Paul Rubens
+                    ·  1632
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although Jan Steen was not a <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/landscape#!#filterName:all-works,viewType:masonry">landscape</a> painter, he showed interest in the genre in the earlier stages of his career and produced a number well-known paintings, such as <i>Winter Landscape</i>. The painting depicts a busy winter day and people going about their daily activities on ice and land. In terms of composition, Steen broke up the ice with a patch of land, which gave a sense of depth to the landscape unfolding in the left half of the picture. <br><br>Unlike many Dutch painters who chose to specialize in <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/portrait#!#filterName:all-works,viewType:masonry">portraiture</a>, <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/genre-painting#!#filterName:all-works,viewType:masonry">genre painting</a>, <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/still-life#!#filterName:all-works,viewType:masonry">still life</a> or landscape, Steen experimented with a variety subjects throughout his career. Therefore, his period of landscape painting is a testament to his expertise and artistic range. According to Steen’s biographers, the artist studied under several painters. In Utrecht, he was a pupil of <a target="_blank" href="https://www.wikiart.org/en/nikolaus-knupfer">Nicolaes Knüpfer</a>, who was known for painting biblical and literary themes. His interest in landscape is likely related to his time with <a target="_blank" href="https://www.wikiart.org/en/adriaen-van-ostade">Adriaen van Ostade</a> in Haarlem, and <a target="_blank" href="https://www.wikiart.org/en/jan-van-goyen">Jan van Goyen</a> in The Hague, who later became his father in-law. <i>Winter Landscape</i> melds influences from different artists. Most evidently it draws inspiration from the art of <a target="_blank" href="https://www.wikiart.org/en/isaac-van-ostade">Isaak van Ostade</a>, who was the brother of Adriaen van Ostade and part of the same studio. The slightly earlier <a target="_blank" href="https://www.wikiart.org/en/isaac-van-ostade/winter-landscape"><i>Winter Landscape</i></a> (1645) by Isack van Ostade shares some important elements with Steen’s version. The two paintings have a diagonal composition and the silhouetted figures on the ice. There is also similar lighting defining the path to the bridge in each of the paintings.<br><br><i>Winter Landscape</i> is probably the most traditional landscape painting made by Steen. In his art, Steen had a tendency to emphasize the narrative aspect of the painting, and in other landscape paintings such as, <a target="_blank" href="https://www.wikiart.org/en/jan-steen/village-festival-with-the-ship-of-saint-rijn-uijt"><i>Village Festival with the Ship of Saint Rijn Uijt</i></a> (ca.1653) the figures are more dominant in the overall settings. In <i>Winter Landscape</i> there are some clearly defined figures, while others are merely silhouettes executed in a sketchy style. In the foreground left of the center, there is a well-dressed couple looking at the activities. They are a motif that appears in other paintings by Steen, like <a target="_blank" href="https://www.wikiart.org/en/jan-steen/village-fair-1651"><i>Village Fair</i></a> (ca. 1650-1651) and <a target="_blank" href="https://www.wikiart.org/en/jan-steen/peasant-wedding"><i>Peasant Wedding</i></a> (1672). In <i>Winter Landscape</i>, the pair wearing North Holland costumes in the left foreground is modeled after the work of <a target="_blank" href="https://www.wikiart.org/en/hendrick-avercamp">Hendrick Avercamp</a> in <a target="_blank" href="https://www.wikiart.org/en/hendrick-avercamp/winter-scene-on-a-frozen-canal-1620"><i>Winter Scene on a Frozen Canal</i></a> (ca. 1620), that features the same characters in the second row of figures.<br><br>Although the precise date of the painting is not confirmed, it is known that <i>Winter Landscape</i> was listed in a 1651 sale in The Hague. It was bought by Harald Appelboom, the agent of Karl Gustav Wrangel, the Swedish statesman and military commander. As a result it seems likely that Winter Landscape was painted with the intention of being sold at the open market. After Wrangler’s death in 1676, the painting was passed to his eldest daughter who followed her father’s wishes to preserve his estate, the Skokloster Castle in Sweden. The painting is on display at the castle to this day.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Last Supper (1630–1631) is an oil painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It was commissioned by Catherine Lescuyer as a commemorative piece for her father. Rubens created it as part of an altarpiece in the Church of St. Rombout (Rumbold) in Mechelen. The painting depicts Jesus and the Apostles during the Last Supper, with Judas dressed in blue turning back towards the viewer and away from the table. Other than Jesus, the most prominent figure is Judas. Judas holds his right hand to his mouth with his eyes avoiding direct contact with the other figures in the painting creating a nervous expression. Jesus is dressed in red and has a yellow halo surrounding his head with his face tilted upwards. Jesus is located centrally in the painting surrounded by his disciples with six on each side, and he holds a loaf of bread with a cup of wine in front of him. Out of all of the figures, he is the most in the light with the figures to the farthest left being the most in shadow. “The scene thus represents a perfect conflation of the theological significance of the Last Supper” meaning the conflation between the blessing of the bread and the wine while still being pivotal in the sense of revealing the betrayal.
+<br>
+<br>As in many other Northern European depictions, a dog with a bone can be seen in the scene, probably a simple pet. It may represent faith, dogs are traditionally symbols of and are representing faith. According to J. Richard Judson the dog near Judas perhaps represents greed or evil, as the companion of Judas, as in John 13:27.
+<br>
+<br>This painting followed the first unsuccessful attempt by Rubens to produce a Last Supper in 1611, when his patrons backed out the last minute, perhaps due to the high price of 4,000 Guilder asked by Rubens.
+<br>
+<br>Leonardo da Vinci's Last Supper fresco was a significant influence on Rubens who created an etching after the Davinci Last Supper, which was one of Rubens first attempts to express the full range of human emotion printed by Pieter Soutman. Rubens was also influenced by his humanist ideals from which he extracts biblical themes.
+<br>
+<br>Rubens often made engravings following the completion of his works. Other artists used these engravings to serve as a basis of their own works. These copies were even collected. The engravings and copies helped to lead to the popularity of Rubens’ works during his lifetime.
+<br>
+<br>Alpers, Svetlana. "Review by: Sveltana Alpers." Renaissance Quarterly 35, no. 1 (Spring 1982): 114.
+<br>
+<br>Freedberg, David. "The Last Supper." In Peter Paul Rubens: Oil Paintings and Oil Sketches. New York: Gagosian Gallery, 1995
+<br>
+<br>Judson, Lindsay. The Passion of Christ. Washington DC: Harvey Miller Publishers, 2000.
+<br>
+<br>Mulvihill, Maureen E. "Peter Paul Rubens: Impressions of a Master Exhibition." Seventeenth-Century News 70, no. 1-2 (Spring-Summer 2012): 76.
+<br>
+<br>Tummers, Anna. Art Market and Connoisseurship: A Closer Look at Paintings by Rembrandt, Rubens, and Their Contemporaries. Amsterdam: Amsterdam University Press, 2009.
+<br>
+<br>Viladesau, Richard. The Pathos of the Cross: The Passion of Christ in Theology and the Arts - The Baroque Era. Oxford: Oxford University Press, 2014.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
