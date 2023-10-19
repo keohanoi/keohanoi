@@ -2,23 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/stefan-luchian/chiajna-willows.jpg"
+        src="https://uploads4.wikiart.org/images/peter-paul-rubens/ildefonso-altar.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chiajna Willows</h2>
+        <h2 class="artwork-name">Ildefonso Altar</h2>
         <h3 class="artist">
-          Stefan Luchian
-                    ·  1905
+          Peter Paul Rubens
+                    ·  1630
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Willows at Chiajna (Romanian: Sălciile din Chiajna) is a landscape painting by the Romanian painter <a target="_blank" href="/en/stefan-luchian">Ştefan Luchian</a> from 1905.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ildefonso Altarpiece is a triptych painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, dating to between 1630 and 1631. It is now in the Kunsthistorisches Museum of Vienna.
 <br>
-<br>The painting has dimensions of 45.8 x 55 centimeters. It is in the collection of the Art Museum Cluj-Napoca.
-<br>
-<br>It depicts a group of willows by the Chiajna village outside Bucharest in the south-eastern Romania, and was painted in one day. The strong colors and thick layers of paint is typical for Luchian's works.</span>
+<br>It is named after the central panel, which shows Saint Ildefonsus's vision of the Virgin Mary, in which she gave him a casula. On the side panels are Isabella Clara Eugenia and Albert VII, regents of the Spanish Netherlands, with their patron saints Albert  and Elisabeth of Hungary. Albert had founded the Ildefonso Brotherhood in the church of Saint Jacques-sur-Coudenberg in Brussels, to encourage loyalty to the Habsburg dynasty - the altarpiece was commissioned for the Brotherhood by his widow shortly after his death.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
