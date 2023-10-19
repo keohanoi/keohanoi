@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/michelangelo/david-1504.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/petrus-christus/st-eligius-as-a-goldsmith-showing-a-ring-to-the-engaged-couple-1449.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">David</h2>
+        <h2 class="artwork-name">St. Eligius as a goldsmith showing a ring to the engaged couple</h2>
         <h3 class="artist">
-          Michelangelo
-                    ·  1504
+          Petrus Christus
+                    ·  1449
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">David is a masterpiece of Renaissance sculpture created between 1501 and 1504, by the Italian artist Michelangelo. It is a 5.17-metre (17.0 ft) marble statue of a standing male nude. The statue represents the Biblical hero David, a favoured subject in the art of Florence. It is possible that the David was conceived as a political statue before Michelangelo began to work on it. Certainly David the giant-killer had long been seen as a political figure in Florence, and images of the Biblical hero already carried political implications there.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Goldsmith in His Shop, Possibly Saint Eligius is a 1449 painting by <a target="_blank" href="/en/petrus-christus">Petrus Christus</a>, now in the Metropolitan Museum of Art.
+<br>
+<br>The main figure in the painting was long thought to be Saint Eligius, the patron saint of goldsmiths, due to the presence of a halo. In 1993 the halo was recognized as a later addition and removed. The Ducht art histocian Hugo van der Velden thinks the main figure may be the famous goldsmith Willem van Vleuten, who by then lived in Bruges.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
