@@ -2,21 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/petrus-christus/st-eligius-as-a-goldsmith-showing-a-ring-to-the-engaged-couple-1449.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00375/images/edgar-degas/main-image.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Eligius as a goldsmith showing a ring to the engaged couple</h2>
+        <h2 class="artwork-name">Main Image</h2>
         <h3 class="artist">
-          Petrus Christus
-                    ·  1449
+          Edgar Degas
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Goldsmith in His Shop, Possibly Saint Eligius is a 1449 painting by <a target="_blank" href="/en/petrus-christus">Petrus Christus</a>, now in the Metropolitan Museum of Art.
-<br>
-<br>The main figure in the painting was long thought to be Saint Eligius, the patron saint of goldsmiths, due to the presence of a halo. In 1993 the halo was recognized as a later addition and removed. The Ducht art histocian Hugo van der Velden thinks the main figure may be the famous goldsmith Willem van Vleuten, who by then lived in Bruges.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">There are three similar versions of this scene, and their precise relationship has bedeviled scholars for decades. The largest, painted in grisaille (Musée d’Orsay, Paris), appeared in the first Impressionist exhibition in 1874. The two others, tentatively dated the same year, are in the Metropolitan’s collection. This painting probably preceded the version in pastel (29.100.39), which is more freely handled. The importance that Degas attached to the composition is evident in the preparatory drawings that he made for almost every figure, from the dancer scratching her back in the foreground to the woman yawning next to the stage flat.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
