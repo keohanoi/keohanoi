@@ -2,33 +2,24 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/fra-angelico/san-domenico-altarpiece-1430.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00168/images/edgar-degas/edgar-degas-the-ballet-class.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">San Domenico Altarpiece</h2>
+        <h2 class="artwork-name">The Ballet Class</h2>
         <h3 class="artist">
-          Fra Angelico
-                    ·  1430
+          Edgar Degas
+                    ·  1874
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fiesole Altarpiece is a painting by the Italian early Renaissance master <a target="_blank" href="/en/fra-angelico">Fra Angelico</a>, executed around 1424–1425. It is housed in the Convent of San Domenico, Fiesole, central Italy. The background was repainted by Lorenzo di Credi in 1501.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Degas regularly went to the Paris opera house, not only as a member of the audience, but as a visitor backstage and in the dance studio, where he introduced by a friend who played in the orchestra. At that time, the opera was still housed in the rue Le Peletier and had not yet moved to the building designed by Garnier which was soon to replace it. From the 1870s until his death, Degas's favourite subjects were ballerinas at work, in rehearsal or at rest, and he tirelessly explored the theme with many variations in posture and gesture.
+<br>More than the stage performance and the limelight, it was the training and rehearsals that interested him. Here the class is coming to an end – the pupils are exhausted, they are stretching, twisting to scratch their backs, adjusting their hair or clothes, an earring, or a ribbon, paying little heed to the inflexible teacher, a portrait of Jules Perrot, a real-life ballet master.
 <br>
-<br>The altarpiece is among the earliest known works by Fra Angelico. It was originally commissioned for the high altar in the convent's church, but was later moved to a side altar where it is currently visible.
+<br>Degas closely observed the most spontaneous, natural, ordinary gestures, the pauses when concentration is relaxed and the body slumps after the exhausting effort of practising and the implacable rigour of the class.
 <br>
-<br>In 1501 Lorenzo di Credi repainted the background, which was probably gilded, with a more modern landscape featuring a throne with baldachin, trompe-l'oeil reliefs and two landscapes between pillars. The Gothic cusps were also eliminated in that occasion.
-<br>
-<br>The work is a Maestà, a Madonna enthroned, a theme particularly fashionable in Florentine art at the time. The central group with the Madonna and Child is surrounded by eight adoring angels depicted in smaller size. The saints Thomas of Aquino, Barnabas, Dominic and Peter of Verona are at the sides: these were three saints of the Dominican Order (the same owning the convent) and the namesake of Barnaba degli Agli, a Florentine man who had donated 6,000 florins for the convent's restoration and enlargement.
-<br>
-<br>The naked Child is shown while grasping two flowers: a white rose, symbol of purity, and a red one, a forecast of his future passion connected with the Eucharist: the panel was in fact painted for the church's high altar, where the celebration of this sacrament occurs.
-<br>
-<br>The composition resembles that of <a target="_blank" href="/en/masaccio">Masaccio</a>'s San Giovenale Triptych (1422). The scheme is also similar to the cartoon of the Assumption by Lorenzo Ghiberti for the windows in the façade of Florence Cathedral (1404–1405). It is also one of the most ancient polyptychs in which the figures are in the same painted surface, without being divided into different compartments.
-<br>
-<br>Elements such as the less evolved perspective and the tile pavements (also found in an anonymous Florentine triptych from 1419 and an altarpiece by Angelico himself at San Gimignano) led to the datation of some three years before his San Pietro Martire Triptych, which is documented from 1428.
-<br>
-<br>The work had a predella, now at the National Gallery, London and portraying Adoration of Saints, Prophets and Members of the Dominican Order. The latter also houses a tondo with St. Romulus, perhaps located above the polyptych. The side pillars were decorated by ten small panels with saints and blessed, four of which are known today: two are at the Musée Condé of Chantilly and two in private collections.</span>
+<br>The slightly raised viewpoint looking diagonally across the studio accentuates the vanishing perspective of floor boards. Paul Valéry wrote: "Degas is one of the very few painters who gave the ground its true importance. He has some admirable floors". This is all the more appropriate for dancers in that the parquet, which was moistened to prevent slipping, is their main work tool. And the ballet master beats time on the floor with his baton.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
