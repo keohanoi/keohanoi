@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00291/images/donato-bramante/1-2.JPG!Large.JPG"
+        src="https://uploads6.wikiart.org/images/gustave-caillebotte/the-parquet-planers-1875.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pavia Cathedral - general design</h2>
+        <h2 class="artwork-name">The Parquet Planers (The Floor Scrapers)</h2>
         <h3 class="artist">
-          Donato Bramante
-                    ·  1490
+          Gustave Caillebotte
+                    ·  1875
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pavia Cathedral (Italian: Duomo di Pavia) is a church in Pavia, Italy, the largest in the city and seat of the Diocese of Pavia. The construction was begun in the 15th century on the site of two pre-existing Romanesque, "twin" cathedrals (Santo Stefano and Santa Maria del Popolo). The cathedral houses the remains of St. Sirus, first Bishop of Pavia, and a thorn purported to be from the Crown of Thorns worn by Christ. The marble facing of the exterior was never completed.<br>
-<br>
-<br>Until recently, next to the cathedral stood the Civic Tower (Torre Civica), known in 1330 and enlarged in 1583. It collapsed on March 17, 1989.<br><br>
-<br>
-<br><br>
-<br>
-<br>The cathedral was begun in 1488, under architect Cristoforo Rocchi, who was soon replaced by Giovanni Antonio Amadeo and Gian Giacomo Dolcebuono. The original project, with a nave and two aisles flanked by semicircular niches and a large central dome, was influenced by <a target="_blank" href="/en/donato-bramante">Bramante</a>, some details of it later appearing in St. Peter's Basilica in Rome. <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> is also known to have contributed to the project.<br>
-<br>
-<br>In 1521, the altar area was completed by Gianpietrino Rizzi, a pupil of Da Vinci. By the 17th century, the presbytery had been completed but only in the following century was the tambour built, while the dome itself and the facade had to wait for the 19th century. The dome was designed by Carlo Maciachini and completed in 1885, but partially collapsed the same year. In 1930, construction continued with the two arms of the transept, for which the original plan was followed, although using reinforced concrete (in order to save the remains of the medieval Santa Maria del Popolo). The arms are still missing part of the internal marble decoration.<br>
-<br>
-<br>The church is on the Greek Cross plan: it therefore has the same length and width at the transept. At about 84&nbsp;m (276&nbsp;ft), it is one of the largest edifices with a central plan in northern Italy. The central dome, with an octagonal plan, is 97&nbsp;m (318&nbsp;ft) tall, with a total weight of some 20,000 tons. It is the fourth in Italy in size, after St. Peter's Basilica, the Pantheon and the Cathedral of Florence.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting is one of the first representations of the urban proletariat. Whereas peasants (<a target="_blank" href="https://www.wikiart.org/en/jean-francois-millet/the-gleaners-1857"><i>The Gleaners</i></a> (1857) by <a target="_blank" href="https://www.wikiart.org/en/jean-francois-millet">Millet</a>) or country workers (<a target="_blank" href="https://www.wikiart.org/en/gustave-courbet/the-stone-breakers-1849"><i>The Stone Breakers</i></a> (1849) by <a target="_blank" href="https://www.wikiart.org/en/gustave-courbet">Courbet</a>) had often been shown, city workers had seldom been painted. Unlike Courbet or Millet, Caillebotte does not incorporate any social, moralizing, or political message in his work. His thorough documentary study (gestures, tools, accessories) justifies his position among the most accomplished realists.<br><br>Caillebotte had undergone a completely academic training, studying with <a target="_blank" href="https://www.wikiart.org/en/leon-bonnat">Bonnat</a>. The perspective, accentuated by the high angle shot and the alignment of floorboards complies with tradition. The artist drew one by one all the parts of his painting, according to the academic method, before reporting them using the square method on the canvas. The nude torsos of the planers are those of heroes of Antiquity, it would be unimaginable for Parisian workers of those times. But far from closeting himself in academic exercises, Caillebotte exploited their rigor in order to explore the contemporary universe in a completely new way.<br><br>Caillebotte presented his painting at the 1875 Salon. The Jury, no doubt shocked by its crude realism, rejected it (some critics talked of "vulgar subject matter"). The young painter then decided to join the <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/impressionism">Impressionists</a> and presented his painting at the second exhibition of the group in 1876, where <a target="_blank" href="https://www.wikiart.org/en/edgar-degas">Degas</a> exhibited his <a target="_blank" href="https://www.wikiart.org/en/edgar-degas/woman-ironing-silhouette-1873"><i>Woman Ironing</i></a> (1873). Critics were struck by this great modern tableau, Zola, in particular, although he condemned this "painting that is so accurate that it makes it bourgeois".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
