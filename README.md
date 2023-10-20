@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00244/images/piero-della-francesca/resurrection.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/john-william-waterhouse/echo-and-narcissus-1903.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Resurrection</h2>
+        <h2 class="artwork-name">Echo and Narcissus</h2>
         <h3 class="artist">
-          Piero della Francesca
-                    ·  1460
+          John William Waterhouse
+                    ·  1903
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting now resides in Piero della Francesca’s hometown of San Sepolcro, at the Museo Civico. The painting depicts the figure of Christ standing over four sleeping soldiers. The artist included a self-portrait in the figure of the sleeping soldier who is dressed in brown. During World War II, the city of San Sepolcro was supposed to be bombed, which would have destroyed the painting. But, the pilot of the bomber plane, Captain Clarke, who had read Aldous Huxley’s reports that The Resurrection was the greatest painting in the world, remembered that the painting was held in San Sepolcro. He ordered his men to stop the bombing, this saving the painting and the town from annihilation. After the fighting was over, it was determined that the Nazi soldiers had already left the area, and so the bombing wasn’t necessary. Captain Clarke was regarded as a hero, and the city of San Sepolcro named a street after him as a symbol of their gratitude. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Echo and Narcissus is a painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>, dating from 1903. It illustrates the poem Echo and Narcissus from Ovid's Metamorphoses.
+<br>
+<br>John William Waterhouse (1847–1917) was an English painter who, because of his style and themes, has been classified as a Pre-Raphaelite, but is more accurately described as a <a target="_blank" href="/en/artists-by-art-movement/neoclassicism">Neo-Classical</a> painter. He painted over 200 works, mainly in the genres of classical mythology, and of historical or literary subjects. One of his common themes is the femme fatale, the woman who ensnares a man.
+<br>
+<br>Echo and Narcissus is in the genre of classical mythology. In Ovid's version of the myth, Narcissus was the son of the river god Cephissus and the nymph Liriope. His parents were told that he would live to an old age if he did not look at himself. He rejected all the nymphs and women who fell in love with him. One of these was the nymph Echo, who was so upset by her rejection that she withdrew from life and wasted away until all that was left was a whisper. Her prayers were heard by the goddess Nemesis who caused Narcissus to fall in love with his own reflection. He continued to look at his reflection until he died. A narcissus flower grew on the spot where he died.
+<br>
+<br>The painting is in <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on <a target="_blank" href="/en/paintings-by-media/canvas-0">canvas</a> and measures 109.2 centimetres (43&nbsp;in) by 189.2 centimetres (74&nbsp;in). It forms part of the Victorian collection in the Walker Art Gallery in Liverpool, Merseyside, England, having been purchased by the museum in 1903.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
