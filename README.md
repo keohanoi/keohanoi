@@ -2,29 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/fra-angelico/perugia-altarpiece-1448-1.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/jan-van-eyck/a-man-in-a-turban-1433.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Perugia Altarpiece</h2>
+        <h2 class="artwork-name">Portrait of a Man (Man in a Turban)</h2>
         <h3 class="artist">
-          Fra Angelico
-                    ·  1448
+          Jan van Eyck
+                    ·  1433
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Perugia Altarpiece (Italian: Pala di Perugia) is a painting by the Italian early Renaissance painter <a target="_blank" href="/en/fra-angelico">Fra Angelico</a>, housed in the Galleria Nazionale dell'Umbria of Perugia, Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Man (Self Portrait?) (also Portrait of a Man in a Turban or Portrait of a Man in a Red Turban) is an oil painting by the Early Netherlandish painter <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>, from 1433. The inscription at the top of the panel, Als Ich Can (intended as "as I/Eyck can") was a common autograph for van Eyck, but here is unusually large and prominent. This fact, along with the man's unusually direct and confrontational gaze, have been taken as an indication that the work is a self-portrait.<br>
 <br>
-<br>The painting was executed for the St. Nicholas Chapel in the Basilica of San Domenico, Perugia. In the early 19th century, it was split and partially dispersed, and some of the predella panels were acquired by the Pinacoteca Vaticana. In Perugia were executed copies of these panels, enclosed into a neo-Gothic frame. The polyptych also included some small depictions of saints, on the side piers, and two tondoes with the Annunciation Angel and the Annunciation, in the cusps.
+<br>Probably his Portrait of Margaret van Eyck was a pendant, although her only known portrait is both dated 1439 and larger. It has been proposed that van Eyck created the portrait to store in his workshop so that he could use it display his abilities (and social status, given the fine clothes evident in the portrait) to potential clients. However, his reputation was such in 1433 that he was already highly sought after for commissioned work.<br>
 <br>
-<br>The work includes a large central panel, depicting the Madonna Enthroned with Child and Angels, which was fully painted by Fra Angelico. The two side panels, each forming two arched sub-panels and including a figure of saint. On the left are St. Dominic and St. Nicholas, attributed to Angelico, while on the right are St. John the Baptist and St. Catherine of Alexandria, considered mostly by his workshop.
+<br>The panel has been in the National Gallery, London, since 1851, having been in England since Thomas Howard, 21st Earl of Arundel acquired it, probably during his exile in Antwerp from 1642–44.<br>
 <br>
-<br>The central Madonna is a Maestà depiction, and sits on a large throne painted using geometric perspective. In front of her is a step with vases housing three white and red roses (symbolizing of the Virgin's purity and a forecast of Christ's Passion, respectively). The panel resembles strictly that in the Cortona Triptych, especially for the Madonna, the throne's arch and the placement of the angels. The pavement is decorated with marble tarsia, already used by Fra Angelico in earlier works such as the San Pietro Martire Triptych (1428-1429).
+<br>The original frame survives (the vertical sides are in fact a single piece of wood with the central panel), and has the painted inscription "JOHES DE EYCK ME FECIT ANO MCCCC.33. 21. OCTOBRIS" ("Jan van Eyck Made Me on October 21, 1433") at the bottom, and at the top, the motto "AlC IXH XAN" ("As Well As I Can"), which appears on other van Eyck paintings, always written in Greek letters, and includes a pun on his name.  As on other van Eyck frames, the letters are painted to appear carved.<br>
 <br>
-<br>The saint's figures are less monumental than in the later Tabernacle of the Lanaioli (1433-1435). Behind them is a table, covered by a brocade drape decorated in gold, over which is St. Nicholas' mitre.
+<br>Autographing and dating panel paintings in the early 15th century was unusual. Even when dates were added they tended to be for the year only, whereas here van Eyck spells out the specific date, October 21st. As too few of his paintings survive (the extant works number somewhere in the low 20s) to judge his prolificacy, the degree of detail and skill indicates that they took months rather than days to complete. Thus the date may have served as a boast to potential commissioners rather than as a matter of fact.<br>
 <br>
-<br>The predella panels portray scenes of the Life of St. Nicholas</span>
+<br>Since the motto Als Ich Can appears in many of van Eyck's other works, it is believed that he is challenging other artists to do better than him. Although written in Greek letters, the phrase is originally Flemish. Having a Flemish phrase in Greek writing implies van Eyck saw himself in "competition with the ancients as well as with his contemporaries". Regardless of his reasoning behind including the motto in many of his works, it can be implied the phrase is a sign of van Eyck's self-consciousness about his work as a painter.<br>
+<br>
+<br>Like all van Eyck's portraits, it shows a sharp and detailed analysis of the subject. The painting is a third life-size with the sitter sitting in three-quarters profile. His stubbled face is heavily lined with the onset of middle age, and his eyes are semi-bloodshot. He look outwards with a piercing gaze, looking directly at the viewer—possibly being the first portrait in a millennium to do so. His weary facial expression is achieved through a combination of his strong nose, tightly pursed by wide mouth and the framing of his face by the headdress. The overall expression is of a man, whom one scholar says "see things – himself included – in close-up, but without losing track of the bigger picture."<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
