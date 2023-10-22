@@ -2,26 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/michael-bell/the-meadows-2010.jpg"
+        src="https://uploads8.wikiart.org/00263/images/kristoffer-zetterstrand/17.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Meadows</h2>
+        <h2 class="artwork-name">Skull On Fire</h2>
         <h3 class="artist">
-          Michael Bell
+          Kristoffer Zetterstrand
                     ·  2010
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
-<br>
-<br>"The Meadows" is the seventh of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
-<br>
-<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
-<br> 
-<br>Work 7 (The Meadows) takes us to the ominous marshes of the New Jersey Meadowlands. It’s there where we’re left with an unsettling landscape of an abandoned Taxi Cab, its trunk popped open in the marshes against the backdrop of the New York City skyline at daybreak.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"A Skull on pixelated fire; in the background, there is a moon in a clear night sky. This painting is based on a Minecraft screenshot." according to the Minecraft Wiki. <br><br>The "Skull on Fire" painting contains a Minecraft world in the background, "The Painting was placed in an early version of the game as an easter egg.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
