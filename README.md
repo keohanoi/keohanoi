@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/grandma-moses/a-beautiful-world-1948.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/salvador-dali/hitler-masturbating.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Beautiful World</h2>
+        <h2 class="artwork-name">Hitler Masturbating</h2>
         <h3 class="artist">
-          Grandma Moses
-                    ·  1948
+          Salvador Dali
+                    ·  1973
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A the title suggests, A Beautiful World represents Grandma Moses' view of ideal harmony between humankind and nature.
-<br>
-<br>"I like pretty things the best, Moses once told an interviewer. "What's the use of painting a picture if it isn't something nice? So I think real hard till I think of something real pretty, and then I paint it. I like to paint old-time) things, historical landmarks of long ago, bridges, mills, and hostelries, those old-time homes, there are a few left, and they are going fast. I do them all from memory, most of them are daydreams, as it were.
-<br>
-<br>So much twentieth-century painting has been difficult and pessimistic that some have a tendency to dismiss Moses vision as simplistic. In fact, though, there has been much art throughout history that is accessible and optimistic. All art is in some sense an affirmation of life—an offering of the human spirit, however downtrodden, as proof that our thoughts and feelings are ever precious and sometimes beautiful. This is the essence of Grandma Moses' genius.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"> The title and the content of the work suggest a sort of self-parody, which makes sense considering the late period in Dali’s life during which the painting created.  Though Dali generally worked in oil, Hitler Masturbating is a watercolor. Given the looser nature of the medium, it was likely executed more quickly than the majority of Dali’s canon.  It also represents a departure from the fabricated automatism of Dali’s meticulous photorealism.  The brushstrokes are looser and the landscape more impressionistic.  The painting depicts exactly what the title suggests; the dictator, in full Nazi uniform, sits in an armchair, his back to the viewer amidst a barren snowscape.  His chair appears to morph into a group of horses, the hooves of which still bear resemblance to the chair.  The image evokes Dali’s 1942 watercolor Sheep, in which a herd of sheep have their hooves inexplicably replaced by gilded furniture legs.  The transformation from chair to horse evokes the journey of the retired soldier, once on horseback, now on plaid.  It could be argued that the painting is an attempt on Dali’s part to humanize Hitler. By depicting him from behind, Dali renders him anonymous, simply a figure engaged in an intensely private yet ubiquitous act.  Given Dali’s sense of humor, however, the painting is more likely a dirty joke on Dali’s part.  As Hitler masturbates, he looks upon a barren wasteland, an emptiness that resembles the destruction of Europe by his own hand.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
