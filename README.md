@@ -2,31 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/diego-velazquez/juan-de-pareja-1650.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/domenico-ghirlandaio/the-visitation-1491.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Juan de Pareja</h2>
+        <h2 class="artwork-name">The Visitation</h2>
         <h3 class="artist">
-          Diego Velazquez
-                    ·  1650
+          Domenico Ghirlandaio
+                    ·  1491
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Juan de Pareja is a painting by Spanish artist <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> of his assistant Juan de Pareja, a notable painter in his own right, who was enslaved and owned by Velázquez at the time the painting was completed. Velázquez painted the portrait in Rome, while was traveling in Italy, in 1650. It is the earliest known portrait of a Spanish man of African descent.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Visitation is a painting by the Italian Renaissance painter <a target="_blank" href="/en/domenico-ghirlandaio">Domenico Ghirlandaio</a>, dating 1491. It is displayed in the Louvre Museum of Paris, France.
 <br>
-<br>It was the first painting to sell for more than £1,000,000. At the time of the painting's purchase by the Metropolitan Museum of Art in 1970 they considered it "among the most important acquisitions in the Museum's history". The painting is on display at the Metropolitan Museum of Art in New York City.
+<br>The work was commissioned by Lorenzo Tornabuoni for the church later known as Santa Maria Maddalena de' Pazzi.
 <br>
-<br>In 1648, as court painter to Philip IV of Spain, Diego Velázquez was sent to Rome to purchase works of art for the Alcázar in Madrid. Velázquez brought with him Juan de Pareja, a slave, who served as an assistant in the artist's workshop. During his stay in Rome, Velázquez executed an oil portrait of Juan de Pareja, which was displayed as part of a larger exhibition of paintings at the Pantheon on 19 March 1650. According to Antonio Palomino's biography of Velázquez, the painting "was generally applauded by all the painters from different countries, who said that the other pictures in the show were art but this one alone was 'truth'."
+<br>The Visitation episode refers to the meeting between Mary and St. Elizabeth. It was set by Ghirlandaio with a large classical arch in the background featuring a landscape in the center. Elizabeth, wearing a wide yellow vest, is paying homage to Mary and kneeling.
 <br>
-<br>Velázquez painted the portrait of Juan de Pareja, who was of Moorish descent, in his workshop, as an exercise in preparation for his official portrait of Pope Innocent X. The Pope, a ruddy-faced man who would be depicted in the bright pink and crimson robes of his office, presented a tricky study in both color and composition. Additionally, since he would be executing a portrait from life, Velázquez would be forced to work quickly while still capturing the essence of Innocent X's character. The Juan de Pareja reflects Velázquez's exploration of the difficulties he would encounter in the Pope's portrait. To compensate for a restricted palette of colors, Velázquez adopted a loose, almost impressionistic style of brushwork to bring an intense vitality to his subject.
+<br>The paintings features numerous details, including the refraction effects of the light, which Ghirlandaio studied from Flemish paintings at Florence. Others include: the frieze decorated with pearls and shells (allusions to Mary's purity), the light veil of the Madonna, the gilt brooch decorated with pearls and a ruby in the center (this a hint to Jesus' future Passion) which holds her cloak. The Gabinetto dei Disegni e delle Stampe of the Uffizi houses a preparatory drawing of Mary's cloak.
 <br>
-<br>Juan de Pareja (circa 1610 – 1670) became an artist in his own right, and in 1654 he was freed by Velázquez.
+<br>The two women at the sides are, as described by the inscriptions on the arch, Mary of Cleopas and Salome, whose presence hints to the crucifixion and resurrection of Jesus. Salome's dress is a citation of <a target="_blank" href="/en/filippo-lippi">Filippo Lippi</a>'s Bartolini Tondo, which was the inspiration for numerous similarly graceful figures in works by Ghirlandaio, <a target="_blank" href="/en/sandro-botticelli">Botticelli</a> and others.
 <br>
-<br>The painting's ownership between its first exhibition at the Pantheon in Rome in 1650 and the end of the eighteenth century is unknown. There is no record of the painting in Spain. The earliest record of the ownership of the painting was in essay written in 1765 by Francisco Preciado, Director of the Royal Spanish Academy in Rome. He stated that the painting owned by Cardinal Trajano D'Acquaviva (1694-1747) who lived in Rome.
-<br>
-<br>The painting then reappears in the record as part of the dukes of Baranello's collection in Naples sometime in the 1700s. It was recorded as part of the collection of Sir William Hamilton, the British Ambassador to the Kingdom of Naples from 1764 to 1798. The inventory of his residence in Naples, Palazzo Sessa, lists "a portrait of a Moresco slave by Velazquez." Hamilton sent the portrait and his other works of art to London for safekeeping, on board the ship HMS Fondroyant the flagship of Lord Nelson, when he left Naples. Hamilton returned to England heavily in debt and the portrait was auctioned at Christie's in 1801. The auction catalogue listed the painting as Velazquez's "Portrait of a Moorish Slave, that was in his service, and became a great Painter". It sold for 39 guineas and disappeared from the record again.</span>
+<br>Stylistic differences in the figures testifies the work of workshop assistants, perhaps Sebastiano Mainardi. On the lower right of the arch is the date MCCCCLXXXXI (1491). The city in the misty background could be a re-elaboration of Rome, as it includes a triumphal arch and the Pantheon.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
