@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01605-72-dpi.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/grandma-moses/a-beautiful-world-1948.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">I have the right to be forgotten</h2>
+        <h2 class="artwork-name">A Beautiful World</h2>
         <h3 class="artist">
-          Jarik Jongman
-                    ·  2019
+          Grandma Moses
+                    ·  1948
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A the title suggests, A Beautiful World represents Grandma Moses' view of ideal harmony between humankind and nature.
+<br>
+<br>"I like pretty things the best, Moses once told an interviewer. "What's the use of painting a picture if it isn't something nice? So I think real hard till I think of something real pretty, and then I paint it. I like to paint old-time) things, historical landmarks of long ago, bridges, mills, and hostelries, those old-time homes, there are a few left, and they are going fast. I do them all from memory, most of them are daydreams, as it were.
+<br>
+<br>So much twentieth-century painting has been difficult and pessimistic that some have a tendency to dismiss Moses vision as simplistic. In fact, though, there has been much art throughout history that is accessible and optimistic. All art is in some sense an affirmation of life—an offering of the human spirit, however downtrodden, as proof that our thoughts and feelings are ever precious and sometimes beautiful. This is the essence of Grandma Moses' genius.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
