@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00263/images/kristoffer-zetterstrand/17.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01605-72-dpi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Skull On Fire</h2>
+        <h2 class="artwork-name">I have the right to be forgotten</h2>
         <h3 class="artist">
-          Kristoffer Zetterstrand
-                    ·  2010
+          Jarik Jongman
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"A Skull on pixelated fire; in the background, there is a moon in a clear night sky. This painting is based on a Minecraft screenshot." according to the Minecraft Wiki. <br><br>The "Skull on Fire" painting contains a Minecraft world in the background, "The Painting was placed in an early version of the game as an easter egg.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
