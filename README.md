@@ -2,20 +2,24 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00327/images/alexei-harlamoff/alexei-harlamoff-1840-1925-portrait-of-the-children-of-paul-pavlovich-demidoff-1.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/john-lee/going-to-market-1860.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of the children of Paul Pavlovich Demidoff</h2>
+        <h2 class="artwork-name">Going to Market</h2>
         <h3 class="artist">
-          Alexei Harlamoff
-                    ·  1883
+          John Lee
+                    ·  1860
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of four children from the second marriage of Paul Pavlovich Demidoff, 2nd Prince of San Donato (1839-1885), Avrora (1873-1904), Anatoli (1874-1943), Maria (1876-1955) and Pavel (1879-1909).</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nothing is known about the genesis of this picture, exhibited in 1860 at the Liverpool Academy under the title 'The Young Carriers'. The fresh mountainous landscape and the children are possibly both intended to be Welsh.
+<br>
+<br>Lee used minute stippled strokes of pure colour on a white ground, and his strident greens, pinks and mauves recall the palette of Holman Hunt. 
+<br>
+<br>The proportions are odd and the perspective quirky - indicating inexperience - and the rather large heads are characteristic of the very few paintings now known from his short career.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
