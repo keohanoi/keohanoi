@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/francois-boucher/the-fountain-of-love-1748.jpg"
+        src="https://uploads7.wikiart.org/images/marcel-duchamp/l-h-o-o-q-mona-lisa-with-moustache-1919.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Fountain of Love</h2>
+        <h2 class="artwork-name">L.H.O.O.Q, Mona Lisa with moustache</h2>
         <h3 class="artist">
-          Francois Boucher
-                    ·  1748
+          Marcel Duchamp
+                    ·  1919
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Boucher was a master painter, and his most revered scenes are those of the quaint countryside, depicting idyllic pastoral scenes and classical themes. His depictions in the pastoral genre excluded the harsh realities of live, and brought the beauty of the countryside into the homes of aristocratic society. The Fountain of Love is such an image. It was first designed as an image for a tapestry in 1748, and was one in a set of six images depicting Noble Pastorales. Originally, tapestries were woven directly over the paintings, and later, they were cut up into sections to be sold separately. Fortunately this one was spared such a fate, and it is now in the collection of The Getty Center of Los Angeles. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">First conceived in 1919, the work is one of what Duchamp referred to as readymades, or more specifically an assisted ready-made. The readymade involves taking mundane, often utilitarian objects not generally considered to be art and transforming them, by adding to them, changing them, or (as in the case of his most famous work 'Fountain') simply renaming them and placing them in a gallery setting. In L.H.O.O.Q. the objet trouvé ("found object") is a cheap postcard reproduction of Leonardo da Vinci's Mona Lisa onto which Duchamp drew a moustache and beard in pencil and appended the title.  Although many say it was pioneered by him, in 1883 Eugène Bataille created a Mona Lisa smoking a pipe, titled Le rire.
+<br>
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
