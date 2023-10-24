@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/william-adolphe-bouguereau/the-young-shepherdess-1885.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/pieter-bruegel-the-elder/children-s-games-1560.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Young Shepherdess</h2>
+        <h2 class="artwork-name">Children's Games</h2>
         <h3 class="artist">
-          William-Adolphe Bouguereau
-                    ·  1885
+          Pieter Bruegel the Elder
+                    ·  1560
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bouguereau's painting The Young Shepherdess (1885) depicts a lone girl standing in a vast pasture, facing it with a sense of responsibility as the shepherdess of the flock of sheep within it. Though she looks back at the viewer with a friendly and curious gaze, she maintains an air of propriety. In his later years, Bouguereau painted numerous rustic genre scenes that appealed greatly to collectors, particularly those depicting young girls in pastoral settings. His sentimentalized portrayal of peasant life, which differed from the more realistic approach of artists like Courbet and Millet, nonetheless showcased his technical mastery of naturalistic figure painting.<br><br>Although Bouguereau's depictions of the peasantry have been criticized as pandering to market tastes, some art historians argue that he also celebrated their nobility and humility. While his genre scenes often idealize peasant women, treating them as if they were Raphael Madonnas, he also imbued certain individuals with unique personalities that complicated his general commercializing approach. However, Bouguereau never took a strong moral or sociological stance on the underclass like his contemporaries did, and his political views tended to lean towards conservatism when expressed. The Young Shepherdess, in particular, was based on one of the Italian immigrant girls whom Bouguereau employed as models during family vacations in La Rochelle. These girls received a monthly salary, performed household chores, and shared meals with his family.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artist's intention for this work is more serious than simply to compile an illustrated encyclopaedia of children's games, though some eighty particular games have been identified.See details below Bruegel shows the children absorbed in their games with the seriousness displayed by adults in their apparently more important pursuits. His moral is that in the mind of God children's games possess as much significance as the activities of their parents. This idea was a familiar one in contemporary literature: in an anonymous Flemish poem published in Antwerp in 1530 by Jan van Doesborch, mankind is compared to children who are entirely absorbed in their foolish games and concerns.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
