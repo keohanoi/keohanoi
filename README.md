@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/philip-guston/last-piece-1958.jpg"
+        src="https://uploads4.wikiart.org/images/richard-gerstl/ernst-diez-1907(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Last Piece</h2>
+        <h2 class="artwork-name">Ernst Diez I</h2>
         <h3 class="artist">
-          Philip Guston
-                    ·  1958
+          Richard Gerstl
+                    ·  1906
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Last Piece is not Guston's last Abstract Expressionist painting, but it represents a transition away from the shimmering forms of the early 1950s towards the recognizable motifs of his later, more figurative works. If Buddhism, and concepts of nothingness, had informed his earlier abstractions, this represents a move away from those inspirations.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diez, who was Schönberg’s student, wrote in a letter  that this was one of two portraits that Gerstl painted of him in 1906, almost certainly after Diez had returned that autumn from a summer placement in Rome . Diez claims that the portrait was originally intended to be a commission, organised by Schönberg, who had apparently decided to help Gerstl obtain work amongst his circle. Diez recalls that the work was painted in a temporary studio, whose description matches one above Café Sperl at Gumpendorferstraße 11, Vienna VI that may have been one that Gerstl occupied at the time.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
