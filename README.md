@@ -2,31 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/dirk-bouts/the-last-supper-from-the-winged-altar-in-st-peter-in-leuven.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/konstantin-makovsky/the-boyars-wedding.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last Supper - from the Winged Altarpiece in St. Peter in Leuven</h2>
+        <h2 class="artwork-name">The Boyars' Wedding</h2>
         <h3 class="artist">
-          Dirk Bouts
-                    ·  1465
+          Konstantin Makovsky
+                    ·  1883
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Altarpiece of the Holy Sacrament or Triptych of the Last Supper is a 1464–68 dated triptych attributed to <a target="_blank" href="/en/dirk-bouts">Dieric Bouts</a>, now reassembled and held at its location of origin at St. Peter's Church, Leuven.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Boyar Wedding Feast  was painted in 1883 by Russian artist <a target="_blank" href="/en/konstantin-makovsky">Konstantin Makovsky</a> (1839–1915). The painting shows a toast at a wedding feast following a boyar marriage, where the bride and the groom are expected to kiss each other. The bride looks sad and reluctant, while the elderly attendant standing behind her encourages the bride to kiss the groom. The work won a gold medal at the World’s Fair held in Antwerp, Belgium in 1885, and is considered to be one of Makovsky’s most popular works.
 <br>
-<br>The Last Supper is the theme of the central panel of the altarpiece, commissioned from Bouts by the Leuven Confraternity of the Holy Sacrament in 1464. All of the orthogonals in this composition display an understanding of linear perspective. The lines lead to a single vanishing point in the center of the mantelpiece above Christ's head, though outside the room, the small side room has its own vanishing point, and neither it nor the vanishing point of the main room falls on the horizon of the landscape seen through the windows.
+<br>Konstantin Makovsky was a Russian realist painter who opposed academic restrictions. His paintings venerate Russia's old world customs. A Boyar Wedding Feast is painted as a scene from the seventeenth-century – depicting the old way of Russian life, bringing back memories of the cherished past.
 <br>
-<br>Dieric Bouts was not a native of Leuven. He moved there from Haarlem and his Last Supper was the first Flemish panel painting of its kind. In this central panel, Bouts has introduced the idea of a group portrait around a table, a theme known to council members in Haarlem. Christ is depicted larger than life in the role of a priest performing the consecration of the Eucharistic host from the Catholic Mass. The men around him are shown a half-size smaller, and probably are accurate portraits of prominent members of the confraternity. Bouts was not the only artist traveling between Haarlem and Leuven. While he was working on this triptych, the church was still being built and the architect Antoon I Keldermans was the same man hired by the Haarlem parish.
+<br>A Boyar Wedding Feast is an oil on canvas painting measuring 93&nbsp;in ×&nbsp;154&nbsp;in (240&nbsp;cm ×&nbsp;390&nbsp;cm), set in either the 16th or 17th century, in which a room of guests are depicted toasting a newlywed couple. A traditionally offered boyar wedding toast is meant to encourage the first kiss to make the wine sweeter. The couple stands at the head of the table (right), where the groom presents his bride to the wedding guests and sees her without her veil for the first time. She appears timid and bashful as the men toast for the first kiss. To the right of the couple, the "Lady of Ceremony" gently urges on the bride.
 <br>
-<br>Bouts main contribution to Flemish painting was his introduction of everyday details in the main panel such as the houses on the other side of the market square that can be seen through the windows, and the servants dressed in modern clothing beyond the central scene around the table. Although once identified as the artist himself and his two sons, these servants are most likely more portraits of the confraternity's members responsible for commissioning the altarpiece. This painting was copied by Aelbrecht Bouts, who disregarded the architectural elements through the windows, because by that time the church and the town square had changed. Leuven had built a new town hall, for which Dieric also made a large panel as an allegory of justice.
+<br>Makovsky’s depiction of the wedding, an important social event of 16th and 17th century boyar life, is dramatically lit. The guests are depicted at the table with food and drink served on silverware in front of them. A roasted swan is being brought in on a large platter, the last dish served before the couple retire into the bedroom. Luxurious details such as silver cups, richly embroidered garments, and an ivory chest with a silver bowl in the foreground are depicted. The bride and the other women are wearing pearl-studded kokoshniki, a Russian woman’s headdress.
 <br>
-<br>The work was documented by Leuven archivist Edward van Even in 1870 and lent to his friend James Weale for his 1902 Exhibition of Flemish Primitives in Bruges.
+<br>Winning the 1885 medal of honor at the Exposition Universelle d'Anvers (2 May – 2 November 1885), A Boyar Wedding Feast was purchased by American jeweler and art collector Charles William Schumann in August 1885 for $15,000 (or £10,000). Schumann reportedly outbid Alexander III of Russia to obtain the work. The painting was auctioned as part of Schumann’s estate on 23 January 1936 and sold for $2,500. Sometime after the sale, A Boyar Wedding Feast entered the collection of Robert Ripley, creator of Ripley's Believe It or Not!. It was sold during his estate sale on 26 August 1949 for $2,200. The painting was again offered for sale on 18 December 1968. Between 1968 and 1973, the painting was acquired by Marjorie Merriweather Post. Upon her death in 1973, the Hillwood Estate, Museum &amp; Gardens was founded by Post's estate, and A Boyar Wedding Feast was donated to the collection.
 <br>
-<br>The Altarpiece of the Holy Sacrament has four additional panels, two on each side. Because these were taken to the museums in Berlin and Munich in the 19th century, the reconstruction of the original altarpiece has been difficult. Today it is thought that the panel with Abraham and Melchizedek is above the Passover Feast on the left wing, while the Gathering of the Manna is above Elijiah and the Angel on the right wing. All of these are typological precursors to the Last Supper in the central panel.
+<br>Notes
 <br>
-<br>The church has two paintings by Bouts on display, the Last Supper (1464-1468) and the Martyrdom of St Erasmus (1465). The Nazis seized The Last Supper in 1942. Panels from the painting had been sold legitimately to German museums in the 1800s, and Germany was forced to return all the panels as part of the required reparations of the Versailles Treaty after World War&nbsp;I. The chancel and ambulatory were turned into a museum in 1998, where visitors can view a collection of sculptures, paintings and metalwork.</span>
+<br>Citations
+<br>
+<br>Bibliography</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
