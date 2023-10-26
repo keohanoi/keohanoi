@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/piero-della-francesca/the-madonna-del-parto-1460(1).jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00324/images/danh-vo/2-2-1861-2009.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna del Parto</h2>
+        <h2 class="artwork-name">2.2.1861</h2>
         <h3 class="artist">
-          Piero della Francesca
-                    ·  1460
+          Danh Vō
+                    ·  2009
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna del Parto, a fresco in the Museo della Madonna del Parto in Tuscany, was completed in only seven days. Francesca used only the best pigments, including a lapis lazuli pigment imported by the Republic of Venice from Afghanistan. The fresco was originally completed in the Santa Maria di Momentana church in the town of Monterchi, Tuscany, but it was broken off in an earthquake in 1785. The fresco was relocated to its current location in 1992. In the 20th century, the painting has been a source of inspiration for books, poems, and even a feature film. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Danh Vo often employs deceptively simple objects and found texts to meld personal biographical narratives with global political histories. For <i>2.02.1861</i>, the artist asked his father Phung Vo to transcribe the last communication from the French Catholic Saint Théophane Vénard to his own father before he was decapitated in 1861 in Vo’s native Vietnam. Written in French, the letter was mailed to the Guggenheim by the artist’s father and archived in a ledger; although multiple copies of the transcribed letter exist, the total number will remain undefined until Phung Vo’s death. <i>2.02.1861</i> complicates traditional notions of authorship and demonstrates the centrality of familial relationships within Danh Vo’s work, especially the father-son relationship that is presented here as a tragic historical archetype.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
