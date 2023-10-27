@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/john-baldessari/the-cremation-project-1970.jpg"
+        src="https://uploads6.wikiart.org/00239/images/currier-and-ives/main-image.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Cremation Project</h2>
+        <h2 class="artwork-name">The great Bartholdi statue, liberty enlightening the world. The gift of France to the American people</h2>
         <h3 class="artist">
-          John Baldessari
-                    ·  1970
+          Currier and Ives
+                    ·  1885
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1970 Baldessari burnt all of the paintings he had created between 1953 and 1966 as part of a new piece, titled The Cremation Project. The ashes from these paintings were baked into cookies and placed into an urn, and the resulting art installation consists of a bronze plaque with the destroyed paintings' birth and death dates, as well as the recipe for making the cookies. Through the ritual of cremation Baldessari draws a connection between artistic practice and the human life cycle. Thus the act of disavowal becomes generative as with the work of auto-destructive artist Jean Tinguely.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Statue of Liberty is seen from an elevated point of view, to give a vista behind that includes Manhattan and parts of the shore of Brooklyn and New Jersey. New York harbor is filled with ships.<br><br>The New York firm of Currier &amp; Ives grew from a printing business established by Nathaniel Currier (1813–1888) in 1835. Expansion led, in 1857, to a partnership with brother-in-law James Merritt Ives (1824–1895). The firm operated until 1907, lithographing over 4,000 subjects for distribution across America and Europe with popular categories including landscape, marines, natural history, genre, caricatures, portraits, history and foreign views. Until the 1880s, images were printed in monochrome, then hand-colored by women who worked for the company at home.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
