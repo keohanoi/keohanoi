@@ -2,31 +2,45 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/frans-hals/the-rommel-pot-player.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/richard-dadd/the-fairy-feller-s-master-stroke-1864.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Rommel Pot Player</h2>
+        <h2 class="artwork-name">The Fairy Feller's Master-Stroke</h2>
         <h3 class="artist">
-          Frans Hals
-                    ·  1618
+          Richard Dadd
+                    ·  1864
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Rommelpot Player is a painting by the Dutch Golden Age painter <a target="_blank" href="/en/frans-hals">Frans Hals</a>, painted in 1618-1620 and now in the Kimbell Art Museum. It is considered the best of several versions of a Rommelpot player by Frans Hals.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fairy Feller's Master-Stroke is a painting by English artist <a target="_blank" href="/en/richard-dadd">Richard Dadd</a>. It was begun in 1855 and worked on until 1864. Dadd painted it while incarcerated in the State Criminal Lunatic Asylum of Bethlem Royal Hospital, where he was confined after he murdered his father in 1843. It was commissioned by George Henry Haydon, who was head steward at Bethlem Royal Hospital at the time.
 <br>
-<br>Fifteen versions of this painting were documented by Hofstede de Groot in 1910, who wrote: "The Rommelpot- Player. In the centre is a man turned three-quarters left. He faces the spectator and laughs heartily. He is in dark clothes with a broad brimmed felt hat. His left forearm encircles the rommelpot (or bagpipes)&nbsp;; in his right hand is a little stick with which he plays on it. Six laughing children surround him. The biggest boy, behind him to the right, claps his hands with delight. The other five children are to the left. Four of them are placed so that their heads make a diagonal line down to the left. The second boy from the top has a slouch hat. The fifth child, a girl, stands to the left behind this boy. In the background peasants look in at a door.
+<br>Dadd had begun his career as a painter of fairy paintings before the onset of his mental illness. After he was committed, he was encouraged to resume painting. G. H. Haydon was impressed by Dadd's artistic efforts and asked for a fairy painting of his own. Dadd worked on the painting for nine years, paying microscopic attention to detail and using a layering technique to produce 3D-like results. Although it is generally regarded as his most important work, Dadd himself considered the painting to be unfinished (the background of the lower left corner is only sketched in).
 <br>
-<br>Variants of this composition exist. Thus, the girl on the extreme left looks at the spectator and not up at the player in the picture of the Paul Giersberg sale. Another time, the girl is replaced by a boy who looks up at the player in the picture of the Paul Mersch sale while the second child from the bottom, a little girl, who usually looks up at the player, is facing the spectator.
+<br>He signed the back of the canvas with the inscription: "The Fairy-Feller's Master-Stroke, Painted for G. H. Haydon Esqre by Rd. Dadd quasi 1855–64". According to Patricia Allderidge, 'quasi' "may mean that it was set aside during that period or that it took a long time to start". The end date, 1864, coincides with Dadd's transfer to Broadmoor Hospital in Berkshire, the asylum where he spent the remaining 21 years of his life.
 <br>
-<br>A recognised original of this composition cannot now be traced. There are a number of replicas which at best date from the time of Frans Hals, while some perhaps come from his studio. As the figures are of life size in several replicas, it is to be inferred that the original was also of life size.
+<br>In order to give context to his work, Dadd subsequently wrote a long poem by the name of Elimination of a Picture &amp; its Subject—called The Fellers' Master Stroke in which each of the characters appearing in the picture is given a name and purpose—including myriad references to old English folklore and Shakespeare—in an apparent attempt to show that the painting's unique composition was not merely a product of random, wild inspiration.
 <br>
-<br>The rommelpot-player alone as a half-length figures in a picture in the Hamburg Kunsthalle&nbsp;; signed in Gothic letters, "Fhals"; panel, 10 inches by 9 inches; acquired with the Hudtwalker-Wesselhoeft collection, 1888; reproduced in Bode's work on the Wesselhoeft collection.
+<br>The painting is in the Tate Britain collection. It was presented to the Tate by the war poet Siegfried Sassoon in memory of his friend and fellow officer Julian Dadd, a great-nephew of the artist, and of his two brothers who gave their lives in the First World War.
 <br>
-<br>The chief replicas of the whole composition are&nbsp;:
+<br>The Queen song "The Fairy Feller's Master-Stroke" from the album Queen II was born of Freddie Mercury's appreciation of the work; it makes direct reference to the painting's characters as detailed in Dadd's poem.
 <br>
-<br>Besides this one, the other known versions of this painting are</span>
+<br>Terry Pratchett's novel The Wee Free Men contains a scene inspired by the painting.
+<br>
+<br>The painting, the art of the insane, and Dadd are mentioned in the novel, Mortal Love, by Elizabeth Hand.
+<br>
+<br>The work is a central plot element in the novel The Witches of Chiswick by Robert Rankin.
+<br>
+<br>Neil Gaiman wrote a tribute to the painting for Intelligent Life (July/August 2013)
+<br>
+<br>The painting appears in Alex Bledsoe's Tufa novels.
+<br>
+<br>The painting is an attributed plot element in Mike Shevdon's The Road to Bedlam, Book II of his The Courts of the Feyre series.
+<br>
+<br>Former Gorky's Zygotic Mynci singer Euros Childs included an instrumental song titled "The Fairy Feller's Master-Stroke" on his 2009 solo album, Son of Euro Child.
+<br>
+<br>Mark Chadbourn's "The Fairy Feller's Master Stroke", about a contemporary young man looking for meanings in the painting, won the British Fantasy Award for best short story in 2003.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
