@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00238/images/ancient-greek-pottery/cylix-of-apollo-470.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00454/images/robert-henri/img-1671.jpeg!Large.jpeg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cylix of Apollo</h2>
+        <h2 class="artwork-name">Robert Henri</h2>
         <h3 class="artist">
-          Ancient Greek Pottery
-                    ·  -470
+          Robert Henri
+                    ·  1893
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This Attic White Ground kylix of the early 5th century BC has a most distinctive depiction of the Apollo. The god wears a white sleeveless chiton, which is fastened with pins at the shoulders, and a red himation wrapped around the lower part of his body. He sits on a cross-legged stool. A myrtle wreath garnishes his carelessly bound hair. He performs a libation by pouring wine out of a bowl with his right hand, while holding a seven-stringed lyre, whose sound-box is made of a turtle-shell, in his left hand. A raven looks on. This scene could allude to the myth of King Phlegyas's daughter Koronida (from the Greek korone = raven), who was in love with Apollo, although some scholars believe it is simply a bird with prophetic powers. These colourful figures on a white background are typical of Attic vase-painting of the early 5th century BC. This kylix is the work of an unknown artist, which some scholars identify with the so-called Berlin painter.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">DESCRIPTION: Robert Henri (American, 1865-1929) Oil on canvas portrait painting, titled: 'Alice Mumford' signed and dated lower right, mounted in carved wood frame. <br>Labels at verso from: 'Christies' auction house, 'Delaware Art Museum' &amp; 'Ollendorff Fine Arts'.<br>Provenance:<br>Moore College of Art, Exhibition John Sloan/Robert Henri, Their Philidelphia Years.<br>Christies, Lot 94 (Nov 19, 2014)<br><br>Exhibited:<br>Moore College of Art, Exhibition John Sloan/Robert Henri, Their Philidelphia Years.<br><br>ROBERT HENRI RETROSPECTIVE<br>Delaware Art Museum: 5/4 - 6/24, 1981<br>Pennsylvania State University  Museum of Art: 7/10 - 9/9, 1984<br>Cincinnati Art Museum: 10/5 - 12/2, 1984<br>Phoenix Art Museum: 1/6 - 2/17, 1985<br>Corcoran Gallery of Art, Washington D.C.: 4/19 - 6/9, 1985<br><br>Date of Painting: ca. 1893 - 1903<br>ORIGIN: USA<br>DIMENSIONS: (Image) H: 16" x L: 14" (Framed) H: 24.5" x L: 20.5"<br><br>Oil portrait painting by Robert Henri (1865-1929) of his art student Alice Mumford (1875-1950).  <br>Robert Henri began his formal teaching career in the Fall of 1892 at the Pennsylvania Academy of Fine Arts, which was then known as “The Philadelphia School of Design for Women”, Henri having just returned from Paris and his first trip to Europe, where he had been a student at the Academie Julian in Paris from 1888 to 1891.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
