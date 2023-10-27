@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00146/images/marcos-zapata/marcos-zapata.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/john-baldessari/the-cremation-project-1970.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last Supper</h2>
+        <h2 class="artwork-name">The Cremation Project</h2>
         <h3 class="artist">
-          Marcos Zapata
-                    ·  1753
+          John Baldessari
+                    ·  1970
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Rather than eating a traditional Passover meal of lamb, Jesus and the disciples appear to be enjoying a plate of <i>cuy</i> (guinea pig, a common meat dish enjoyed to this day in Peru), shown in the center of the table. The inclusion of the cuy in this painting is due to the difference in cuisine, but also is an example of symbolism: lamb was a sacrificial animal in the Judeo-Christian tradition, but cuy was a sacrificial animal in traditional Inca ceremonies. By using a symbol of sacrifice that was more meaningful to the Peruvian people, the artist makes a statement about the sacrifice in the story of Easter. The spread on the table shows that Jesus and the disciples are enjoying <i>chicha</i>, a Peruvian drink, and native fruits and vegetables such as potatoes, peppers, and corn. It is believed that the artist painted Judas, the disciple who betrayed Jesus (shown at the bottom of the painting, holding the money bag, dressed in red and looking out at the viewer), to bear a resemblance to Francisco Pizarro, the Spanish conquistador responsible for the fall of the Inca empire.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1970 Baldessari burnt all of the paintings he had created between 1953 and 1966 as part of a new piece, titled The Cremation Project. The ashes from these paintings were baked into cookies and placed into an urn, and the resulting art installation consists of a bronze plaque with the destroyed paintings' birth and death dates, as well as the recipe for making the cookies. Through the ritual of cremation Baldessari draws a connection between artistic practice and the human life cycle. Thus the act of disavowal becomes generative as with the work of auto-destructive artist Jean Tinguely.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
