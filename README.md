@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/michael-bell/never-look-back-2009.jpg"
+        src="https://uploads0.wikiart.org/images/william-holman-hunt/the-scapegoat-1856.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Never Look Back</h2>
+        <h2 class="artwork-name">The Scapegoat</h2>
         <h3 class="artist">
-          Michael Bell
-                    ·  2009
+          William Holman Hunt
+                    ·  1856
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
-<br>
-<br>"Never Look Back" is the fourth of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
-<br>
-<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
-<br> 
-<br>In Never Look Back our Italian Femme Fetale contradicts the title by doing exactly what the title suggests she not do, as she glances back at a White Surveillance Van in the alley.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Scapegoat depicts the "scapegoat" described in the Book of Leviticus. On the Day of Atonement, a goat would have its horns wrapped with a red cloth - representing the sins of the community - and be driven off.
+<br>He started painting on the shore of the Dead Sea, and continued in his studio in London. The work exists in two versions, a small version in brighter colours with a dark-haired goat and a rainbow, held by Manchester Art Gallery, and a larger version in more muted tones with a light-haired goat held by the Lady Lever Art Gallery in Port Sunlight.
+<br>The painting was the only major work completed by Hunt during his first trip to the Holy Land, to which he had travelled after a crisis of religious faith. Hunt intended to experience the actual locations of the Biblical narratives as a means to confront the relationship between faith and truth. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
