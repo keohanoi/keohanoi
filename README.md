@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/allen-ruppersberg/still-life-1982(1).jpg"
+        src="https://uploads8.wikiart.org/images/katsushika-hokusai/fuji-mountains-in-clear-weather-1831.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Still Life</h2>
+        <h2 class="artwork-name">Fuji, Mountains in clear Weather  (Red Fuji)</h2>
         <h3 class="artist">
-          Allen Ruppersberg
-                    ·  1982
+          Katsushika Hokusai
+                    ·  1831
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Allen Ruppersberg creates paintings, prints, photographs, sculptures, installations, and books that explore ideas related to the intersection of art, written material, and life. The artist mines his own collection of 20th-century cultural ephemera, including calendars, snapshots, magazines, comic books, newspaper clippings, postcards, posters, and instructional films, for source material. For Still Life, Ruppersberg reproduced a newspaper article recounting the tale of a young man hired by a friend to kill his mother by copying it onto canvas, adding his own commentary (including the phrase "Translated by Allen Ruppersberg"), thus taking the story from life into art. (MOCA)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This was one of the prints published in Thirty-Six Views of Mount Fuji that helped secure Hokusai’s fame and popularity within Japan and overseas. It depicts Mount Fuji in a deep, saturated red; thin white lines of snow tracing lines down from the tip of the peak. Small clusters of clouds fill the sky, and tiny trees grow to the base of the mountain, indicating its massive size. Hokusai’s infatuation with Mount Fuji was much more than an admiration of its beauty. The Tale of the Bamboo Cutter told that a goddess placed an elixir of life at the top of the peak, and thus the mountain was a secret source of immortality, as well as a secret reason for Hokusai’ obsession with the mountain.  </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
