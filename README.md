@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00237/images/ancient-greek-painting/painted-limestone-funerary-slab-with-a-soldier-standing-at-ease-275.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00172/images/john-currin/2013-cks-01134-0012-000-john-currin-daughter-and-mother.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Painted Limestone Funerary Slab with a Soldier Standing at Ease</h2>
+        <h2 class="artwork-name">Daughter and Mother</h2>
         <h3 class="artist">
-          Ancient Greek Painting and Sculpture
-                    ·  -275
+          John Currin
+                    ·  1997
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A soldier wearing a long blue cloak stands alone, with a spear in his right hand and a tall ovoid shield at his left. Celtic groups from Europe migrated eastward in 279 B.C. and established independent kingdoms in Thrace and central Asia Minor. Known as Galatians, they were used extensively as mercenary soldiers. Inscriptions identifying at least three Galatian soldiers who must have served under the Ptolemies occur on loculus slabs in the rather simple tomb found in 1884.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247110">The MET</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The year 1996 marked a transitional moment in Currin's practice as he began to use multiple painterly techniques within a single work, conflating the glossy perfection found in contemporary visual culture with faces rendered in heavily applied impasto. <i>Daughter and Mother </i>is perhaps more chaste in subject matter, but continues in the artist's tradition of working with voluptuous curves and seductive women. Conflating iconic compositions from art history with the artificially rendered stock imagery of contemporary illustration, Currin creates images which are both banal and uncanny, that simultaneously seduce and repel.<br><br>In Daughter and Mother, Currin presents a classically centered, closely-cropped composition of two women of seemingly similar age, the only clue that they are related comes from the artist's title. Currin deliberately omits any further narrative elements, obfuscating the viewer's comprehension of the figures' apparent sentimentality. Rendering his figures in an almost academic realism that recalls the uncanny imagery of <a target="_blank" href="https://www.wikiart.org/en/rene-magritte">Magritte</a>, Currin's work operates in a similar fashion to the modern master by undermining the viewer's expectation of a readily discernible narrative.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
