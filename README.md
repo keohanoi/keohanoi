@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00233/images/bernardino-luini/n-3935-00-000035-wpu.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/wen-ying-tsai/living-fountain-1988.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Virgin and Child with Saint John</h2>
+        <h2 class="artwork-name">Living Fountain</h2>
         <h3 class="artist">
-          Bernardino Luini
+          Wen-Ying Tsai
+                    ·  1988
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is an early work, from about 1510. It reveals the influence of Leonardo's 'Virgin of the Rocks' in its solemn but smiling faces and its dark setting.<br><br>Another version is in the Fogg Art Museum (Cambridge, Mass.). The different flowers in the foreground (including lupin, dandelion, columbine, wheat and violet) probably have symbolic significance.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Living Fountain is a large water sculpture, incorporating a showerhead three feet in diameter, plus three concentric circles of water jets, all installed above a basin twelve by sixteen feet. Here the strobe is designed to respond to combinations of changes in audible music, random sensors, audio-feedback controls, and a computer program.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
