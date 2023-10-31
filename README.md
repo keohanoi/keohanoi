@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/claude-monet/zaandam-1.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/el-greco/the-disrobing-of-christ-1579(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Houses on the Achterzaan</h2>
+        <h2 class="artwork-name">The Disrobing of Christ</h2>
         <h3 class="artist">
-          Claude Monet
-                    ·  1871
+          El Greco
+                    ·  1579
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This light-filled, en plein air scene is one of twenty-four landscapes that Monet painted during his sojourn in the Netherlands in 1871. Painted near the village of Zaandam, the Achterzaan river occupies the foreground of the painting while windmills and industrial buildings can be seen in the distant background. The water reflects the multi-colored houses and willow trees that line the river bank as well as a white sail boat that floats along the water. A woman dressed in a white diaphanous gown stands beneath a willow tree on the left, gazing by the water. 
-<br>
-<br>Employing a distinctly blonde color palette reminiscent of that used by landscape painter Corot, Monet renders this scene with attention to atmospheric detail and palpable light. This painting also evokes a sense of leisure and pastoral beauty typical of Dutch seventeenth century paintings that Monet would have seen during his stay in Holland. The artist’s color palette, portrayal of leisurely pursuits, and increasing attention to the surface of the canvas—all practices that Monet explored during his stay in Holland—were significant and influential in the development of his increasingly modern approach to painting.
-<br>
-<br>Monet postdated this work, marking the canvas in his studio in the year after it was painted. The fact that Monet held on to the canvas for many years after he completed it contributes to the pristine condition of the unlined, unvarnished painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Disrobing of Christ, otherwise known as El Espolio, was commissioned for the High Altar of the sacristy of the Cathedral of Toledo, in which it still resides today. El Greco secured the commission due to his friendship with Luis, the son of the Dean of the Cathedral, Diego de Castilla, who also commissioned his other great religious work, the paintings for the church of Santo Domingo el Antiguo, in Toledo. El Greco worked on both paintings simultaneously. Upon delivery, the church officials did not agree with some of the elements of the painting, including the addition of the three Marys in the foreground and that fact that Christ’s executioners are above him in the composition. This led to a legal dispute over the price of the painting, for which El Greco only received 350 out of the 950 ducats he was promised. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
