@@ -2,21 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/georgy-yakulov/alisa-georgyevna-koonen-1920.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/gentile-da-fabriano/two-saints-from-the-quaratesi-polyptych-st-mary-magdalen-and-st-nicholas-1425.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Alisa Georgyevna Koonen</h2>
+        <h2 class="artwork-name">Two saints from the Quaratesi Polyptych: St. Mary Magdalen and St. Nicholas</h2>
         <h3 class="artist">
-          Georgy Yakulov
-                    ·  1920
+          Gentile da Fabriano
+                    ·  1425
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Alisa Georgyevna Koonen, also known as Alice Coonen, was a Russian and Soviet actress and the wife of the director Alexander Tairov.
-<br>Koonen was born in Moscow in a family of Belgian origin. At age 16 she joined the Moscow Art Theatre and studied with Stanislavski. She first appeared on the stage in Woe from Wit in 1906. At 19 she had her first major role, Mytyl in The Blue Bird (1908); she also performed Masha in Leo Tolstoy’s The Living Corpse and Anitra in Ibsen’s Peer Gynt.
-<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Quaratesi Polyptych is a painting by the Italian late medieval painter <a target="_blank" href="/en/gentile-da-fabriano">Gentile da Fabriano</a>, now divided between several museums.
+<br>
+<br>It was painted by the artist for the Quaratesi family's chapel in the Church of San Niccolò Oltrarno, perhaps not a long time after the Strozzi Altarpiece. Today four of the five original compartments (including the painted cusp) are known, as well as some parts of the predella (which has scenes of the Life of St. Nicholas):</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
