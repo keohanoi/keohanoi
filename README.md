@@ -2,29 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00105/images/louis-van-lint/vanlintgaudi.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/francisco-goya/antonia-zárate.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Tribute to Gaudi</h2>
+        <h2 class="artwork-name">Antonia Zárate</h2>
         <h3 class="artist">
-          Louis Van Lint
-                    ·  1973
+          Francisco Goya
+                    ·  1805
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Louis Van Lint (December 25, 1909 – December 27, 1986) was a Belgian painter, major figure of the Belgian post-war <a target="_blank" href="/en/artists-by-art-movement/abstract-art">abstraction</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Doña Antonia Zárate is a c.1805 portrait of the actress Antonia Zárate by the Spanish artist <a target="_blank" href="/en/francisco-goya">Francisco Goya</a>. It was probably produced by Goya in his studio, where an 1812 inventory mentions there were eight yellow damask chairs and an associated divan. She wears a black silk dress in the Empire style, then fashionable in Spain, with her arms covered by fingerless white gloves, her hands holding a closed fan and a mantilla on her head and shoulders. The painting may also have been the source for the 1810-11 portrait of her by Goya or his studio.
 <br>
-<br>Louis Van Lint studied painting at the Academy of Saint-Josse-ten-Noode (Brussels) under Henry Ottevaere and Jacques Maes until 1939. He studied sculpture and architecture as well. His early work reflects a traditional figurative painting style with a unique sense of color. In 1940 he founded the group "La Route Libre" with Gaston Bertrand and Anne Bonnet. His art was influenced to some degree by the animist movement, but he eventually broke away with the presentation of his painting, The Flayed Body (L'Ecorche, 1943), a shocking expression of his wish for more artistic freedom that consequently sounded a revolt against animism. As his style matured, he switched to <a target="_blank" href="/en/artists-by-art-movement/abstract-art">abstraction</a> in which he excelled as colorist and master of form. After World War II he co-founded The Young Belgian Painters (La Jeune Peinture Belge) with Gaston Bertrand, Anne Bonnet and some others. Van Lint experimented with geometric abstraction for a decade, and then, influenced by the French painter <a target="_blank" href="/en/jean-rene-bazaine">Bazaine</a>, he started his lyrical abstraction period. He participated in the demonstrations and exhibitions of the CoBrA group. In 1958, The Solomon R. Guggenheim Foundation gave him a prize and in 1960 he became a member of the Royal Academy of Belgium. In the 1960s, he introduced Hergé to abstract painting and provided him with private lessons for one year.
-<br>
-<br>He has long been represented in Belgian section in outstanding exhibitions of contemporary painting and his work is held by several museums all over the world such as the Royal Museums of Fine Arts of Belgium, the Uffizi Gallery of Florence, the Guggenheim and the Brooklyn museums in New York, the Carnegie Museum of Art in Pittsburgh, and the São Paulo Contemporary Art Museum in Brazil.
-<br>
-<br>All along his life, Van Lint collected antique tools chosen for their harmonious shapes. Part of the collection decorated a wall of his living room and aroused the curiosity and interest of many famous guests.
-<br>
-<br>Monographs
-<br>
-<br>Selected books</span>
+<br>The work remained in the Zárate family until at least 1900, when it was put on show in Madrid and stated to be owned by Doña Adelaida Gil y Zárate. It was bought in London by Sir Otto Beit, who exhibited it at Russborough House and bequeathed it to his son Sir Alfred Beit. It was stolen from Russborough House in 1974 and 1986. A year after the second robbery it was nominally donated by Beit to the National Gallery of Ireland, though it was only recovered from the thieves in 1993.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
