@@ -2,21 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00340/images/caravaggio/saint-catherine-of-alexandria.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/edvard-munch/vampire-1895.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Saint Catherine of Alexandria</h2>
+        <h2 class="artwork-name">Vampire</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1598
+          Edvard Munch
+                    ·  1895
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint Catherine of Alexandria (c. 1598) is an oil painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Caravaggio</a>. It is part of the Thyssen-Bornemisza Collection of Madrid.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Love and Pain is a painting by <a target="_blank" href="/en/edvard-munch">Edvard Munch</a>, It has also been called Vampire, though not by Munch. Munch painted six different versions of the subject in the period 1893–95; three versions are at the Munch Museum in Oslo, one is at the Gothenburg Museum of Art, one is owned by a private collector and the last one is unaccounted for. He also painted several versions and derivatives in his later career. 
 <br>
-<br>Saint Catherine of Alexandria was a popular figure in Catholic iconography. She was of noble origins, and dedicated herself as a Christian after having a vision. At the age of 18 she confronted the Roman Emperor Maximus (presumably this refers to Galerius Maximianus), debated his pagan philosophers, and succeeded in converting many of them to Christianity. Imprisoned by the emperor, she converted his empress and the leader of his armies. Maximus executed her converts (including the empress) and ordered that Catherine herself be put to death on a spiked wheel. The wheel reportedly shattered the moment Catherine touched it. Maximus then had her beheaded. She became patron saint of libraries and librarians, as well as teachers, archivists, and all those associated with wisdom and teaching, and all those whose livelihoods depended upon wheels. The year of her martyrdom was traditionally held to have been 305, (the year of a major persecution of Christians under Galerius), and her feastday was celebrated on 25 November. In 1969 the Church, persuaded by the overwhelming opinion of historians that Catherine had probably never existed, removed her from the calendar of saints; by 2002, while the majority of historians had not changed their minds, the Church had, and she was reinstated. Her qualities are supposed to be those of beauty, fearlessness, virginity, and intelligence.</span>
+<br>The painting shows a woman with long flame-red hair kissing a man on the neck, as the couple embrace. Although others have seen in it "a man locked in a vampire's tortured embrace – her molten-red hair running along his soft bare skin," Munch himself always claimed it showed nothing more than "just a woman kissing a man on the neck".
+<br>
+<br>The painting was first called "Vampire" by Munch's friend, the critic Stanisław Przybyszewski. Przybyszewski saw the painting on exhibition and described it as "a man who has become submissive, and on his neck a biting vampire's face."
+<br>
+<br>A version of the painting was stolen from the Munch Museum on 23 February 1988. It was recovered later the same year, when the thief contacted the police. 
+<br>
+<br>In 2008, at a Sotheby's auction, an 1894 version of the painting sold for 38.2 million dollars (24.3 million pounds) and set the world record for the auction of a Munch painting.
+<br>
+<br>In 1895, Munch created a woodcut with a very similar theme and composition, known as Vampyr II.
+<br>
+<br>In 1916–18, Munch reused the composition in a different setting for two paintings called Vampire in the Forest and Vampire, currently in the collection of the Munch Museum.
+<br>
+<br> Media related to Vampire by Edvard Munch at Wikimedia Commons</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
