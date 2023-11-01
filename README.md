@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pablo-picasso/science-and-charity-1897.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00142/images/thomas-eakins/arcadia.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Science and Charity</h2>
+        <h2 class="artwork-name">Arcadia</h2>
         <h3 class="artist">
-          Pablo Picasso
-                    ·  1897
+          Thomas Eakins
+                    ·  1883
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Science and Charity is one of the major works from Picasso’s early years of training. At just 15, Picasso felt mature enough to take on large ambitious compositions as the culmination of his academic studies in Barcelona School of Fine Arts that were led by his father Jose Ruiz Picasso, who was the model for the doctor in this painting. Science and Charity was awarded an Honorary Mention at the General Fine Arts Exhibition in Madrid in spring 1897 and the Gold Medal at the Provincial Exhibition in Malaga held afterwards. After that, Joaquin Martinez de la Vega – a painter and a friend of Picasso’s father – held a glass of champagne and, letting a few drops fall on Picasso’s head, baptized him a Painter. And Picasso’s uncle, impressed by this wonderful achievement, sent money so that his nephew could study further in Madrid. However, despite the success, this would be Picasso’s last great work in traditional academic style. He left behind the intention, fostered by his father, to shape a career based on prizes and awards, to seek his artistic path outside and beyond the academy. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Arcadia is a c.1883 painting by <a target="_blank" href="/en/thomas-eakins">Thomas Eakins</a>, Goodrich #196. It is part of the collection of the Metropolitan Museum of Art.
+<br>
+<br>In the early 1880s, Eakins, instructor in painting at the Pennsylvania Academy of the Fine Arts, began to photograph models dressed in classical garb or nude and posed in vaguely classical poses. He used his friends and students as models, although taking nude photographs of a student was contrary to PAFA policy. Some of the photographs were used as studies for subsequent works, including those of nude young men swimming and relaxing on the shore of Dove Lake for the painting The Swimming Hole (1884-85).
+<br>
+<br>Eakins's models for Arcadia were his former student and soon-to-be wife, Susan Macdowell, his teaching assistant at PAFA, J. Laurie Wallace, and his 6-year-old nephew Ben Crowell (son of his sister Fanny). He photographed them outdoors in a number of poses, and used the photographs as studies for Arcadia and several related works. The Arcadian works were very personal to Eakins—he even had himself photographed as the piper.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
