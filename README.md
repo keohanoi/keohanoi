@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/raphael/the-holy-family-with-saints-elizabeth-and-john.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/john-william-waterhouse/consulting-the-oracle.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Holy Family with Saints Elizabeth and John</h2>
+        <h2 class="artwork-name">Consulting the Oracle</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1506
+          John William Waterhouse
+                    ·  1884
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Canigiani Holy Family or Canigiani Madonna is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> artist <a target="_blank" href="/en/raphael">Raphael</a> from 1508. It is part of the permanent collection of the Alte Pinakothek in Munich, Germany.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Consulting the Oracle is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas</a> painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>. Waterhouse painted it in 1884; according to Anthony Hobson, "The Illustrated London News described it as one of the principal works of the year". Hobson describes the work as having a "keyhole composition" because a partial ring of women focus upon a single other (the priestess).
 <br>
-<br>It shows mainly Elisabeth with baby John the Baptist, Joseph and Mary with infant baby Jesus (l.t.r.). These figures of the New Testament maintain eye contact.
+<br>Hobson goes on to say that the painting helps "to establish Waterhouse as a classical painter" because of his use of "classical, geometrical structures...the vertical, the horizontal and the circle". When he adds the diagonal, as "in the inclined figure of the priestess" and the out-of-place rug, it is a deliberately added tension.
 <br>
-<br>The <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> was bought from the painter by the Canigiani family in Florence for their Home altar.</span>
+<br>Template:TRAVIS DAMIAN HOULE CROUSER &gt;&gt;S
+<br>
+<br>&gt;&gt;K</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
