@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/james-campbell/girl-with-a-jug-of-ale-and-pipes-1856.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/john-william-waterhouse/gather-ye-rosebuds-while-ye-may-1909.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Girl with a Jug of Ale and Pipes</h2>
+        <h2 class="artwork-name">Gather Ye Rosebuds While Ye May</h2>
         <h3 class="artist">
-          James Campbell
-                    ·  1856
+          John William Waterhouse
+                    ·  1909
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Here we see a young girl returning from a public house carefully carrying a gallon jug of beer and three clay pipes up a steep flight of steps. The background is possibly Liverpool but more likely Kirkdale, where Campbell lived, with a view on the left towards the hilltop parish church of Everton and on the right to the sun sinking over the Mersey and the Welsh coastline.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gather Ye Rosebuds While Ye May is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> on <a target="_blank" href="/en/paintings-by-media/canvas-0">canvas</a> created in 1909 by British Pre-Raphaelite artist, <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>. It was the second of two paintings inspired by the 17th century poem "To the Virgins, to Make Much of Time" by Robert Herrick which begins:
 <br>
-<br>Campbell regularly composed his pictures using a front-facing figure holding an object.</span>
+<br>The artwork was valued at $1.75-2.5 million by Sotheby's prior to auction in April 2007, although the painting went unsold.
+<br>
+<br>Lost for nearly a century, this painting was in an old Canadian farmhouse bought by a couple who requested the painting stay with the house because "It looked nice on the wall." They had no idea of its worth. When they took it to an art dealer to be appraised nearly 30 years later, he "nearly fell off his chair." Nobody knows how the painting ended up in the Canadian farmhouse</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
