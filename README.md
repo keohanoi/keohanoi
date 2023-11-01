@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/albrecht-durer/portrait-of-elector-frederick-the-wise-of-saxony-1496.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00280/images/shammout-self-port/ahlam-alghad.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Elector Frederick the Wise of Saxony</h2>
+        <h2 class="artwork-name">Dreams of tomorrow ..</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1496
+          Ismail Shammout
+                    ·  2000
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Frederick III of Saxony is a <a target="_blank" href="/en/paintings-by-media/tempera-on-gesso-pitch-and-mastic">tempera</a> on canvas painting by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed in 1496. It is housed in the Gemäldegalerie of Berlin, Germany.
-<br>
-<br>The painting was one of the first commissions received from Frederick III, Elector of Saxony, together with the Seven Sorrows Polyptych and the central panel of the Dresden Altarpiece. Dürer knew the elector during the latter's short stay in Nuremberg in April 1496.
-<br>
-<br>The German artist portrayed the Elector again in a burin etching in 1524.
-<br>
-<br>Dürer portrayed Frederick's bust from three-quarters, looking right, above a dark green background. Elements such as the parapet on which his arms lie, or the hands holding a roll, were typical of Flemish art of the period.
-<br>
-<br>Frederick's impervious personality, as well as his status, are emphasized by the large beret and by his determined glance</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Palestine: The Exodus and the Odyssey" is a collection of 19 large murals painted by Ismail and Tamam Shammout from 1997 to 2000. The paintings illustrate, in chronological sequence, the plight of the Palestinian people since the creation of Israel in 1948 - from exodus and destitution to reconstruction, struggle, and reassertion of their rights. It is the artists' impression as witnessed and personally experienced.<br>Shammout's final painting in the collection "Dreams of tomorrow .."features the corpse of a Palestinian woman, in the shape of the map of Palestine, with red needlework on her dress spelling the words "love, good, patience, tomorrow…" and names of Palestinian cities "Nablus, Jaffa, Jerusalem, Nazareth…"<br><br>These epic pieces of art are witnesses to Palestinian history, to the Palestinian attachment to their land, the heart-wrenching pain of loss and exile, the undying hope for future redemption.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
