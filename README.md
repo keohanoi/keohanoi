@@ -2,19 +2,37 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00450/images/paula-modersohn-becker/1907self-portrait-with-two-flowers-in-her-raised-left-hand.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00326/images/josef-kriehuber/karl-josef-lipinsky-litho.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self Portrait with Two Flowers in Her Raised Left Hand</h2>
+        <h2 class="artwork-name">Karl Josef Lipinsky,  Polish music composer and virtuoso violinist</h2>
         <h3 class="artist">
-          Paula Modersohn-Becker
-                    ·  1907
+          Josef Kriehuber
+                    ·  1837
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this emblematic self-portrait, the pregnant artist stares at viewers with a steady, compelling gaze. One hand is raised, holding two stylized flowers, while the other rests over her swelling belly. Born in Dresden, Modersohn-Becker studied in Berlin from 1896 to 1898, then moved to Worpswede, an artists’ community north of Bremen. There she met her husband, the artist Otto Modersohn, as well as the poet Rainer Maria Rilke, who became a close companion. Worpswede’s artists were known for their commitment to nature and to positive depictions of the local villagers, but Modersohn-Becker soon grew restless. Between 1900 and her death, in 1907, she made four trips to Paris, studying ancient sculpture and Egyptian mummy portraits at the Louvre and visiting other museums and galleries, all of which profoundly impacted her last great period of work. Best known for penetrating self-portraits, characterized by psychological introspection as well as material and stylistic experimentation, Modersohn-Becker is also thought to be the first woman to paint female nudes.<br><br>In this artwork, painted the year of her death, her masklike visage, combined with the areas of thick paint on her brow and right eyelid, the literal carving of a flower into her cheek (likely done with the end of a brush), and the vivid, expressionistic palette, all mark Modersohn-Becker as a pioneering contemporary of Henri Matisse and Pablo Picasso.<br><br><a target="_blank" href="https://www.moma.org/collection/works/216210">MoMA</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Karol Józef Lipiński (30 October 1790 – 16 December 1861) was a Polish music composer and virtuoso violinist active during the partitions of Poland. The Karol Lipiński University of Music in Wrocław, Poland is named after him.<br>
+<br>
+<br>Lipiński was born in Radzyń Podlaski. His father was Feliks Lipiński (1765–1847), and he had a younger brother of the same name Feliks (1815–1865). In 1810 he became the first violin and two years later the conductor of the opera orchestra at Lwów (now Lviv, Ukraine).  In 1817 he went to Italy in the hope of hearing Niccolò Paganini.  The two met in Milan, met daily to play, and even performed two concerts together in April 1818, which added immensely to Lipiński's reputation.  Paganini dedicated his Burlesque Variations on "La Carnaval de Venise", Op. 10 for unaccompanied violin to Lipiński.  Later, in 1827, Lipiński returned the honour by dedicating his "Three Caprices for Violin" to Paganini.<br>
+<br>
+<br>In 1818 on his return to Germany he stopped in Trieste to receive instruction from Dr Mazzurana, a very elderly former pupil of Giuseppe Tartini; Mazzurana was ninety years old, and could no longer play himself, but gave his criticism of Lipiński's performance of one of Tartini's sonatas. During that time, he also performed concerts together with the Polish pianist and composer Maria Agata Szymanowska.<br>
+<br>
+<br>In 1820 he travelled to Berlin where he met Louis Spohr, and to Russia. In 1829 he went to Warsaw, and played a series of concerts with Paganini that summer that were attended by the nineteen-year-old Frédéric Chopin.  However, a rivalry developed between Lipiński and Paganini which destroyed their friendship.  Thereafter, whenever Paganini was asked who the greatest violinist was, he would say "I don't know who the greatest is, but Lipiński is certainly the second greatest".<br>
+<br>
+<br>In 1835–36 he went on a long tour, during which he met Robert Schumann in Leipzig.  Schumann was so impressed that he dedicated Carnaval, Op. 9 to him.<br>
+<br>
+<br>In 1836 he visited England and played his Military Concerto with the Royal Philharmonic Orchestra.  In June 1839 he received a double appointment in Dresden, as concertmaster of the Royal Oratory and kapellmeister at the court chapel.  With his Dresden duties, he ceased touring as a virtuoso, but concentrated on chamber music, with a special devotion to the string quartets of Beethoven.  Here he also gave a joint recital with Liszt, performing Beethoven's Kreutzer Sonata.<br>
+<br>
+<br>He developed a great reputation as the only serious rival to Paganini. Henryk Wieniawski dedicated his Polonaise de concert, Op.4 to Lipiński, like Ignacy Feliks Dobrzyński his String Quartet No. 2, Op.40. He retired with a pension in 1861, and died in village Virliv (Ternopil region, Ukraine).<br>
+<br>
+<br>He was the owner of two violins, one made in 1715 by Antonio Stradivari and another by Giuseppe Guarneri del Gesù.  Both instruments are referred to as "ex-Lipinski".<br>
+<br>
+<br>The Karol Lipiński Academy of Music in Wrocław, Poland was named after him.<br>
+<br>
+<br>Early in his life, during his assignment at Lviv theatre, Lipiński composed 3 symphonies (Op. 2) and 3 operas: Kłótnia przez zakład, Terefere w Tarapacie, and Syrena Dniestru. The last one is an adaptation, with some of his own original music interpolated, of Ferdinand Kauer's Donauweibchen and was played every season at Lviv for nearly thirty years from 1814, but the music is now lost.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
