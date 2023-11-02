@@ -2,31 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00142/images/57726d99edc2cb3880b4b602/frans-hals-banket-van-de-officieren-van-de-sint-joris-doelen.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/johannes-vermeer/the-art-of-painting.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Banquet of the Officers of the St. George Militia Company</h2>
+        <h2 class="artwork-name">The Art of Painting</h2>
         <h3 class="artist">
-          Frans Hals
-                    ·  1616
+          Johannes Vermeer
+                    ·  1668
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Banquet of the Officers of the St George Militia Company in 1616 refers to the first of several large schutterstukken painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Art of Painting, also known as The Allegory of Painting, or Painter in his Studio, is a 17th-century <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas painting</a> by Dutch painter <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>. It is owned by the Austrian Republic and is on display in the Kunsthistorisches Museum in Vienna.
 <br>
-<br>Hals was in his thirties when he painted this piece, and was far from established as a portrait painter. To be safe, he based most of his design on the painting of his predecessor, Cornelis Cornelisz van Haarlem, who painted the same militia company in 1599.
+<br>This illusionistic painting is one of Vermeer's most famous. In 1868 Thoré-Bürger, known today for his rediscovery of the work of painter Johannes Vermeer, regarded this painting as his most interesting. Svetlana Alpers describes it as unique and ambitious; Walter Liedtke "as a virtuoso display of the artist's power of invention and execution, staged in an imaginary version of his studio ..." According to Albert Blankert "No other painting so flawlessly integrates naturalistic technique, brightly illuminated space, and a complexly integrated composition."
 <br>
-<br>Given a nearly impossible task, namely to complete his assignment but to add theatrical elements at the same time, Hals must have spent lots of time judging the politics of the group. He knew these men well as he served in the St. Joris militia himself from 1612-1615. In his painting, he indicates the political position of each man in the group as well as managing to give each a characteristic portrait. In Cornelis van Haarlem's piece the figures seem crammed into a tight space, and each face seems to have a similar expression. In Hals' group, an illusion of space and relaxed conversation is given.
+<br>Many art historians think that it is an allegory of painting, hence the alternative title of the painting. Its composition and iconography make it the most complex Vermeer work of all. After Vermeer's Christ in the House of Martha and Mary it is his largest work.
 <br>
-<br>Officers were selected by the council of Haarlem to serve for three years, and this group had just finished their tenure and celebrated their end of service with a portrait. The man with the orange sash heads the table and the second in command is on his right. The three ensigns stand and the servant is carrying a plate.
+<br>The painting depicts an artist painting a woman dressed in blue posing as a model in his studio. The subject is standing by a window and a large map of the Low Countries hangs on the wall behind. It is signed to the right of the girl "I [Oannes] Ver. Meer", but not dated. Most experts assume it was executed sometime between 1665/1668, but some suggest the work could have been created as late as 1670–1675.
 <br>
-<br>The men featured are from left to right Provost Johan van Napels, Colonel Hendrick van Berckenrode (wearing the orange sash), Captain Jacob Laurensz, Ensign Jacob Cornelisz Schout (holding the flag), Captain Vechter Jansz van Teffelen, Lieutenant Cornelis Jacobsz Schout, Lieutenant Hugo Mattheusz Steyn, a servant (standing in the back), Ensign Gerrit Cornelisz Vlasman, and Ensign Boudewijn van Offenberg. In the foreground seated in front of the table are Captain Nicolaes Woutersz van der Meer, and Lieutenant Pieter Adriaensz Verbeek.
+<br>In 1663 Vermeer had been visited by Balthasar de Monconys, but had no painting to show, so it was possibly done "in order to have an outstanding specimen of his art in his studio." Vermeer obviously liked the painting; he never sold it during his lifetime. According to Alpers "it stands as a kind of summary and assessment of what has been done."
 <br>
-<br>Besides portraying the men and the group dynamics, this painting shows off the Haarlem damast tablecloth, brocade pillows on the chairs and the halberds hanging on the wall. It also displays Hals' talents as a painter: Portraiture, Still life, and Landscape.
+<br>The painting has only two figures, the painter and his subject, a woman with downcast eyes. The painter was thought to be a self-portrait of the artist; Jean-Louis Vaudoyer suggested the young woman could be his daughter. The painter sits in front of the painting on the easel, where you can see the sketch of the crown. He is dressed in an elegant black garment with cuts on the sleeves and on the back that offers a glimpse of the shirt underneath. He has short puffy breeches and orange stockings, an expensive and fashionable garment that is also found in other works of the time, as in a well-known self-portrait by Rubens.
 <br>
-<br>The painting may have been painted on location, as Frans Hals lived in the Peuzelaarsteeg very close to the St. George militia headquarters (St. Jorisdoelen) who commissioned the painting, and managing a canvas of this size would have been a problem in Hals' studio. As an official art restorer employed by the city council, Hals had probably also already worked on paintings there. The premises had previously been the location of the women's convent call the St. Michielsklooster and after the old hall was refurbished in 1577 to house the St. Joris militia, a new hall in renaissance style was built at the north end in 1592. The paintings by Hals and Cornelis van Haarlem hung in the renaissance building at the corner of the Grote Houtstraat. Today a restaurant, the windows overlook the garden of the Proveniershuis, but in the 17th century this was an area used for target practise.</span>
+<br>The tapestry and the chair, both repoussoirs, lead the viewer into the painting. As in The Allegory of Faith the ceiling can be seen.
+<br>
+<br>Experts attribute symbols to various aspects of the painting. A number of the items, a plaster mask, perhaps representing the debate on paragone, the presence of a piece of cloth, a folio, and some leather on the table have been linked to the symbols of Liberal Arts. The representation of the marble tiled floor and the splendid golden chandelier are examples of Vermeer's craftsmanship and show his knowledge of perspective. Each object reflects or absorbs light differently, getting the most accurate rendering of material effects.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
