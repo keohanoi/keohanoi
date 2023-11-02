@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/georg-baselitz/model-for-a-sculpture-1980.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/ohara-koson/cat-and-bowl-of-goldfish-1933.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Model for a Sculpture</h2>
+        <h2 class="artwork-name">Cat and Bowl of Goldfish</h2>
         <h3 class="artist">
-          Georg Baselitz
-                    ·  1980
+          Ohara Koson
+                    ·  1931
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Model for a Sculpture, Baselitz's first sculpture, typifies his crude treatment of wood in this medium - a treatment analogous to his treatment of paint in his previous work. Similar in its primitivizing tendency to the work of artists such as Ludwig Kirchner, Baselitz found inspiration for the approach in African sculpture, believing it to offer a model for a more spontaneous expression of movement and human emotion. The work was first exhibited in the West German Pavilion of the Venice Biennale in 1980. Baselitz had originally intended to show paintings, but changed his mind at a late stage and sent only this sculpture. The work immediately sparked controversy, since the raised arm gesture of the figure is similar to the that of a Nazi salute; the red and black coloring of the figure has also been interpreted as a reference to the colors of the Third Reich. However, other sources for the sculpture suggest themselves: perhaps the Futurist bronze, Unique Forms of Continuity in Space, by Umberto Boccioni; and Baselitz has also said that the work was inspired by an edible souvenir available at a market in Dresden. The gesture of the figure - a figure bound to the ground by a block of wood - might simply communicate frustration.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ohara Koson (小原 古邨, Kanazawa 1877 – Tokyo 1945) was a Japanese painter and print designer of the late 19th and early 20th centuries, part of the  shin-hanga ("new prints") movement.<br>
+<br>
+<br>He was born Ohara Matao; it is thought that he started training in painting and design at the Ishikawa Prefecture Technical School in 1889–1893. He also studied painting with Suzuki Kason (1860–1919), although accounts differ on whether this happened during his school years or after he moved to Tokyo in the middle to late 1890s.<br>
+<br>
+<br>In Tokyo, he produced some ukiyo-e triptychs illustrating episodes of the Russo-Japanese War, but most of his production was prints of birds-and-flowers (kachō-e). He worked at first with publishers Akiyama Buemon (Kokkeidō) and Matsuki Heikichi (Daikokuya), signing his work Koson. Starting around 1926, he became associated with the publisher Watanabe Shōzaburō, and signed his work Shōson. He also worked with the publisher Kawaguchi, signing his works Hōson.<br>
+<br>
+<br>Through his association with Watanabe, Ohara's work was exhibited abroad, and his prints sold well, particularly in the United States. He was active designing prints until at least 1935, and died at his home in Tokyo in 1945.<br>
+<br>
+<br> Media related to Ohara Koson at Wikimedia Commons<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
