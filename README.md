@@ -2,23 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/james-tissot/the-shop-girl-1885.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00142/images/57726d99edc2cb3880b4b602/frans-hals-banket-van-de-officieren-van-de-sint-joris-doelen.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Shop Girl</h2>
+        <h2 class="artwork-name">A Banquet of the Officers of the St. George Militia Company</h2>
         <h3 class="artist">
-          James Tissot
-                    ·  1885
+          Frans Hals
+                    ·  1616
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Shop Girl (La Demoiselle de Magasin) is a painting by <a target="_blank" href="/en/james-tissot">James Tissot</a> in the collection of the Art Gallery of Ontario. The painting depicts a young woman standing inside a shop selling ribbons and dresses. In one hand she holds a wrapped package of newly purchased items. With the other she holds open the door to the store for the viewer to depart. The shop is filled with piles of ribbons. Outside a busy Parisian street scene is visible through the shop windows. A well dressed man stares in through the window and is greeted by the other girl in the shop.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Banquet of the Officers of the St George Militia Company in 1616 refers to the first of several large schutterstukken painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.
 <br>
-<br>The painting was created in the period 1883–1885 using Tissot's distinctive style of dry pigments and small brush strokes—not <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionism</a>, but still a major departure from the <a target="_blank" href="/en/artists-by-art-movement/academic-art">Academy style</a>. It also reflects some of Tissot's main interests, such as the materialistic world of objects and clothing of the late nineteenth century. The painting also employs Tissot's favourite technique of this period of placing the observer directly in the painting, with the shop girl holding the door open for us. It was first exhibited in 1885 at the Galerie Sedelmeyer. It was a part of an exhibit Tissot titled Quinze tableau sur la femme à Paris (fifteen paintings on the woman of Paris). It was his last major exhibition before Tissot embraced religious subjects and spent the rest of his life painting scenes from the Bible. The painting was purchased by the Art Gallery of Ontario in 1968.
+<br>Hals was in his thirties when he painted this piece, and was far from established as a portrait painter. To be safe, he based most of his design on the painting of his predecessor, Cornelis Cornelisz van Haarlem, who painted the same militia company in 1599.
 <br>
-<br>Regina Haggo sees this painting as a depiction of barely contained lust. On the floor a fallen ribbon makes a clear heart shape. To Haggo the position of the heart on the floor makes clear this is a baser form of desire. The women are modestly clothed, but Tissot emphasizes their figures, especially the breasts of the woman raising her arms. In this period a woman working outside the home was considered morally dubious. The leering man and the vantage of the viewer can suggest that more than just the clothing is for sale. The man outside may be flirting with the shop girl, but Haggo notes that Tissot emasculated him by having a women's torso overlap his own.</span>
+<br>Given a nearly impossible task, namely to complete his assignment but to add theatrical elements at the same time, Hals must have spent lots of time judging the politics of the group. He knew these men well as he served in the St. Joris militia himself from 1612-1615. In his painting, he indicates the political position of each man in the group as well as managing to give each a characteristic portrait. In Cornelis van Haarlem's piece the figures seem crammed into a tight space, and each face seems to have a similar expression. In Hals' group, an illusion of space and relaxed conversation is given.
+<br>
+<br>Officers were selected by the council of Haarlem to serve for three years, and this group had just finished their tenure and celebrated their end of service with a portrait. The man with the orange sash heads the table and the second in command is on his right. The three ensigns stand and the servant is carrying a plate.
+<br>
+<br>The men featured are from left to right Provost Johan van Napels, Colonel Hendrick van Berckenrode (wearing the orange sash), Captain Jacob Laurensz, Ensign Jacob Cornelisz Schout (holding the flag), Captain Vechter Jansz van Teffelen, Lieutenant Cornelis Jacobsz Schout, Lieutenant Hugo Mattheusz Steyn, a servant (standing in the back), Ensign Gerrit Cornelisz Vlasman, and Ensign Boudewijn van Offenberg. In the foreground seated in front of the table are Captain Nicolaes Woutersz van der Meer, and Lieutenant Pieter Adriaensz Verbeek.
+<br>
+<br>Besides portraying the men and the group dynamics, this painting shows off the Haarlem damast tablecloth, brocade pillows on the chairs and the halberds hanging on the wall. It also displays Hals' talents as a painter: Portraiture, Still life, and Landscape.
+<br>
+<br>The painting may have been painted on location, as Frans Hals lived in the Peuzelaarsteeg very close to the St. George militia headquarters (St. Jorisdoelen) who commissioned the painting, and managing a canvas of this size would have been a problem in Hals' studio. As an official art restorer employed by the city council, Hals had probably also already worked on paintings there. The premises had previously been the location of the women's convent call the St. Michielsklooster and after the old hall was refurbished in 1577 to house the St. Joris militia, a new hall in renaissance style was built at the north end in 1592. The paintings by Hals and Cornelis van Haarlem hung in the renaissance building at the corner of the Grote Houtstraat. Today a restaurant, the windows overlook the garden of the Proveniershuis, but in the 17th century this was an area used for target practise.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
