@@ -2,37 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00326/images/josef-kriehuber/karl-josef-lipinsky-litho.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00380/images/john-martin/belshazzars.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Karl Josef Lipinsky,  Polish music composer and virtuoso violinist</h2>
+        <h2 class="artwork-name">Belshazzar's Feast</h2>
         <h3 class="artist">
-          Josef Kriehuber
-                    ·  1837
+          John Martin
+                    ·  1820
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Karol Józef Lipiński (30 October 1790 – 16 December 1861) was a Polish music composer and virtuoso violinist active during the partitions of Poland. The Karol Lipiński University of Music in Wrocław, Poland is named after him.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Belshazzar's Feast is an oil painting by British artist John Martin. It was first exhibited at the British Institution in February 1821 and won a prize of £200 for the best picture. It was so popular that it needed to be protected from the crowds by a railing, and established Martin's fame. In the words of Martin's biographer William Feaver, he "turned literary references to visual reality". Martin published mezzotint engravings in 1826 and 1832.
 <br>
-<br>Lipiński was born in Radzyń Podlaski. His father was Feliks Lipiński (1765–1847), and he had a younger brother of the same name Feliks (1815–1865). In 1810 he became the first violin and two years later the conductor of the opera orchestra at Lwów (now Lviv, Ukraine).  In 1817 he went to Italy in the hope of hearing Niccolò Paganini.  The two met in Milan, met daily to play, and even performed two concerts together in April 1818, which added immensely to Lipiński's reputation.  Paganini dedicated his Burlesque Variations on "La Carnaval de Venise", Op. 10 for unaccompanied violin to Lipiński.  Later, in 1827, Lipiński returned the honour by dedicating his "Three Caprices for Violin" to Paganini.<br>
+<br>The Biblical episode depicted in the painting - Belshazzar's Feast - is described in the Book of Daniel. The Babylonian king Belshazzar is said to have defiled the sacred vessels of the enslaved Israelites by using them to serve wine at a banquet. The feast was then disturbed by the appearance of a divine hand which wrote a glowing inscription on a wall - the writing on the wall - which was interpreted by the prophet Daniel as portent of Belshazzar's doom. Belshazzar was killed that night and Darius the Mede succeeded to his kingdom.
 <br>
-<br>In 1818 on his return to Germany he stopped in Trieste to receive instruction from Dr Mazzurana, a very elderly former pupil of Giuseppe Tartini; Mazzurana was ninety years old, and could no longer play himself, but gave his criticism of Lipiński's performance of one of Tartini's sonatas. During that time, he also performed concerts together with the Polish pianist and composer Maria Agata Szymanowska.<br>
+<br>The painting is the second piece in a trilogy of paintings by Martin on Mesopotamian themes, starting with his The Fall of Babylon in 1819, and completed with his The Fall of Ninevah in 1828. It was inspired by a conversation with the American artist Washington Allston and perhaps also by a poem by Thomas Smart Hughes.
 <br>
-<br>In 1820 he travelled to Berlin where he met Louis Spohr, and to Russia. In 1829 he went to Warsaw, and played a series of concerts with Paganini that summer that were attended by the nineteen-year-old Frédéric Chopin.  However, a rivalry developed between Lipiński and Paganini which destroyed their friendship.  Thereafter, whenever Paganini was asked who the greatest violinist was, he would say "I don't know who the greatest is, but Lipiński is certainly the second greatest".<br>
+<br>It shows a panoramic view of a cavernous banqueting room with columns to either side decorated with signs of the zodiac. The hall is filled with crowds of feasting Babylonians, and open to the sky, with the Hanging Gardens of Babylon above, and the Tower of Babel and a ziggurat visible in the background, lit by the moon revealed by a break in dark swirling clouds. The architecture is inspired by Egyptian, Babylonian and Indian styles. Dressed in black, Daniel stands at the centre of the foreground, interpreting the supernatural writing on the wall of the hall. Belshazzar recoils in astonishment and dread to his right, and others look on in shock and horror.
 <br>
-<br>In 1835–36 he went on a long tour, during which he met Robert Schumann in Leipzig.  Schumann was so impressed that he dedicated Carnaval, Op. 9 to him.<br>
+<br>Martin published an accompanying pamphlet with a key to help viewers to interpret the painting and identify the figures and structures. Although popular with the public, Martin's painting was not a critical success. There was appreciation of the magnificent architecture and emotional content, of the scale and bold colours of the work, but criticism of his painterly technique and particularly the execution of the figures. Charles Lamb called it vulgar and bombastic.
 <br>
-<br>In 1836 he visited England and played his Military Concerto with the Royal Philharmonic Orchestra.  In June 1839 he received a double appointment in Dresden, as concertmaster of the Royal Oratory and kapellmeister at the court chapel.  With his Dresden duties, he ceased touring as a virtuoso, but concentrated on chamber music, with a special devotion to the string quartets of Beethoven.  Here he also gave a joint recital with Liszt, performing Beethoven's Kreutzer Sonata.<br>
+<br>Martin sold the painting to his former master, glass painter William Collins, for 1,000 guineas before the exhibition in 1821, and Collins made Martin agree not to reproduce the painting until Collins sold it. The Duke of Buckingham and Chandos offered Martin 800 guineas; disappointed, he commissioned Martin to paint The Destruction of Pompeii and Herculaneum instead. Collins sent the painting on an extensive tour of Britain, and it was wildly successful. By 1826, the accompanying pamphlet had reached its 45th edition. Martin was preparing to publish an engraved version in 1826 when Collins sued under the agreement not to reproduce the painting. Martin successfully claimed that he was reproducing his preliminary sketches, not the finished work, and versions of his engraving were published in 1826, in 1832, and for his Illustrations of the Bible project in 1835
 <br>
-<br>He developed a great reputation as the only serious rival to Paganini. Henryk Wieniawski dedicated his Polonaise de concert, Op.4 to Lipiński, like Ignacy Feliks Dobrzyński his String Quartet No. 2, Op.40. He retired with a pension in 1861, and died in village Virliv (Ternopil region, Ukraine).<br>
-<br>
-<br>He was the owner of two violins, one made in 1715 by Antonio Stradivari and another by Giuseppe Guarneri del Gesù.  Both instruments are referred to as "ex-Lipinski".<br>
-<br>
-<br>The Karol Lipiński Academy of Music in Wrocław, Poland was named after him.<br>
-<br>
-<br>Early in his life, during his assignment at Lviv theatre, Lipiński composed 3 symphonies (Op. 2) and 3 operas: Kłótnia przez zakład, Terefere w Tarapacie, and Syrena Dniestru. The last one is an adaptation, with some of his own original music interpolated, of Ferdinand Kauer's Donauweibchen and was played every season at Lviv for nearly thirty years from 1814, but the music is now lost.<br></span>
+<br>The painting was bought by Liverpool merchant John Naylor in 1848. It was damaged in 1854 on its journey to Naylor's gallery at Leighton Hall near Welshpool, when the cart transporting it was hit by a train, but the painting was quickly repaired. It was rejected by the National Gallery as being too large - 62.5 inches (159 cm) by 98 inches (250 cm) - and is now owned by the Yale Center for British Art.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
