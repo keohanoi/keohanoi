@@ -2,29 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/lorenzo-lotto/venus-and-cupid.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00115/images/diego-velazquez/5e532c61b3f1e7e34c6dc6646343ba0d.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Venus and Cupid</h2>
+        <h2 class="artwork-name">Portrait of the Infanta Margarita</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1525
+          Diego Velazquez
+                    ·  1660
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Venus and Cupid is a painting by <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a> in the collection of the Metropolitan Museum of Art. It probably dates to the mid-1520s, but has been dated as late as the 1540s.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Infanta Margarita Teresa in a Blue Dress is one of the best known portraits by Spanish painter <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a>. Executed in oil on canvas, it measures 127 cm high by 107 cm wide and was one of Velázquez's last paintings, produced in 1659, a year before his death. It shows Margaret Theresa of Spain who also appears in the artist's Las Meninas. Currently, the painting is in the Kunsthistorisches Museum.
 <br>
-<br>It is a wedding gift for a couple of Bergamo or Venice. Such paintings were inspired by the classical tradition of wedding poetry.
+<br>This is one of the several court portraits made by Velázquez on different occasions of Infanta Margaret Theresa who, at fifteen, married her uncle, Leopold I, Holy Roman Emperor. She's the little infanta who appears in Las Meninas (1656). These paintings show her in different stages of her childhood; they were sent to Vienna to inform Leopold of what his young fiancée looked like.
 <br>
-<br>Venus, lying on the ground and leaning on an elbow on a blue cloth, is accompanied by her son Cupid standing with his bow and quiver. He urinates on the bride through a crown of laurels of myrtle which she holds by a ribbon and below which is suspended a burning incense burner. This urine stream is symbolic act, the meaning of which is to bring fertility, and which would have seemed humorous to contemporary viewers.
+<br>The Kunsthistorisches Museum in Vienna has two other outstanding paintings by <a target="_blank" href="/en/diego-velazquez">Velázquez</a>: Infanta Maria Teresa and Prince Philip Prospero. However, this portrait of Infanta Margarita is possibly the best of the three.
 <br>
-<br>There is on a background of red hanging tied to a tree on which climbs ivy. Around them are scattered allegorical objects of marriage (garland of myrtle), femininity (rose, seashell, rose petals), eternal love (ivy). The headdress of Venus, with the tiara, the veil and the earring, is typical of the Venetian brides of the sixteenth century. The pendant earring with a pearl is a symbol of purity. The gesture of Cupid that urinates through the crown on the belly of Venus is an erotic allusion to fertility.
-<br>
-<br>The painting is Lotto's typically individual contribution to the emerging Venetian tradition of the recling nude, begun by the Dresden Venus by <a target="_blank" href="/en/giorgione">Giorgione</a> and <a target="_blank" href="/en/titian">Titian</a>. The goddess shows no discomfort with her nakedness and looks at the spectator in the eye. In front of her are a stick and a snake. The goddess seems to bless the marrying couple, wishing them fertility, and preserving them from hidden dangers like the serpent.
-<br>
-<br>This painting is not recorded until an image of it was published in the Directory of paintings of the Middle Ages and the Renaissance by Salomon Reinach in 1918, as being with a French dealer in 1912. In 1986 it was acquired by the Metropolitan Museum of Art. Before the purchase, the painting was cleaned at the Metropolitan, notably cleared of its repainting (at the level of the headdress of Venus, draped on her right thigh and bouquet held by Cupid).</span>
+<br>In this portrait, <a target="_blank" href="/en/diego-velazquez">Velázquez</a> used the technique of loose brushstrokes that fuse into coherence only when viewed from a certain distance. The infanta, here eight years old, is shown with a solemn expression. She wears a blue silk dress which is adorned with silver borders after the Spanish fashion of the era; the most striking characteristic is the huge expanse of the voluminous crinoline which is accentuated by the trimmed borders and the wide lace collar. In one of her hands she holds a brown fur muff, perhaps a present from Vienna. The young girl, who is presented as pretty and appealing, has a pale countenance which is enhanced by the blue and silver tones. In the background, there is a high console table with a round mirror behind it.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
