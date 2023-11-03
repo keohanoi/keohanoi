@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/water-1566(1).jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/john-hoyland/north-sound-1979.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water</h2>
+        <h2 class="artwork-name">North Sound</h2>
         <h3 class="artist">
-          Giuseppe Arcimboldo
-                    ·  1566
+          John Hoyland
+                    ·  1979
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Employing the images of water creatures, this painting is more than jut a collection of fish. In the portrait, Arcimboldo ingeniously combines water creatures, coral, and shells into a depiction of an older woman. His use of pearls to form a necklace and earring is a smart way to include jewelry on his subject, at the same time as keeping with his water theme, as they are also products of the sea. This image was included on the album cover of the rock band Kansas for their album “Masque.” It is a fitting image for the title of the album, as Arcimboldo’s paintings were all subtle masks of images made up to be something else. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Shortly before painting 'North Sound' Hoyland stated: 'Paintings are not to be understood, they are to be recognised. They are an equivalent to nature, not an illustration of it'. Since executing his first abstract works in 1958, Hoyland's paintings have proclaimed their self-sufficiency as visual facts or events. In the 1960s Hoyland was mainly involved with formal issues of scale, colour and the relation of shapes. In the 1970s he began to invest these elements with a greater emotive significance. Consequently, as 'North Sound' demonstrates, his handling of the forms in his paintings became looser and more expressive. He explained: 'The structure of form is meant to be a container for colour, a container of feeling'.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
