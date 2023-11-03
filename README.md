@@ -2,25 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/jan-van-eyck/the-arnolfini-wedding-the-portrait-of-giovanni-arnolfini-and-his-wife-giovanna-cenami-the-1434.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/william-holman-hunt/the-finding-of-the-saviour-in-the-temple-1862.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Arnolfini Wedding. Portrait of Giovanni Arnolfini and his Wife Giovanna Cenami (The Arnolfini Marriage)</h2>
+        <h2 class="artwork-name">The Finding of the Saviour in the Temple</h2>
         <h3 class="artist">
-          Jan van Eyck
-                    ·  1434
+          William Holman Hunt
+                    ·  1855
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Arnolfini Portrait (or The Arnolfini Wedding, The Arnolfini Marriage, the Portrait of Giovanni Arnolfini and his Wife, or other titles) is a 1434 oil painting on oak panel by the Early Netherlandish painter <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>. It forms a full-length double portrait, believed to depict the Italian merchant Giovanni di Nicolao Arnolfini and his wife, presumably in their home in the Flemish city of Bruges.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Finding of the Saviour in the Temple (1854–60) is a painting by <a target="_blank" href="/en/william-holman-hunt">William Holman Hunt</a> intended as an ethnographically accurate version of the subject traditionally known as "Christ Among the Doctors", an illustration of the child Jesus debating the interpretation of the scripture with learned rabbis. The passage illustrated is from the Gospel of Luke, 2:41, which states:
 <br>
-<br>It is considered one of the most original and complex paintings in Western art, because of its beauty, complex iconography, geometric orthogonal perspective, and expansion of the picture space with the use of a mirror. According to Ernst Gombrich "in its own way it was as new and revolutionary as <a target="_blank" href="/en/donatello">Donatello</a>'s or <a target="_blank" href="/en/masaccio">Masaccio</a>'s work in Italy. A simple corner of the real world had suddenly been fixed on to a panel as if by magic&nbsp;... For the first time in history the artist became the perfect eye-witness in the truest sense of the term". The portrait has been considered by Erwin Panofsky and some other art historians as a unique form of marriage contract, recorded as a painting. Signed and dated by van Eyck in 1434, it is, with the Ghent Altarpiece by the same artist and his brother Hubert, the oldest very famous panel painting to have been executed in oils rather than in tempera. The painting was bought by the National Gallery in London in 1842.
+<br>Hunt depicts the moment at which Mary and Joseph find Jesus, while the rabbis in the temple are reacting in various contrasting ways to his discourse, some intrigued, others angry or dismissive. This depiction of contrasting reactions is part of the tradition of the subject, as evidenced in <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>'s much earlier version. Hunt would also have known Bernardino Luini's version of the subject in the National Gallery. At the time this was ascribed to <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>.
 <br>
-<br>Van Eyck used the technique of applying layer after layer of thin translucent glazes to create a painting with an intensity of both tone and colour. The glowing colours also help to highlight the realism, and to show the material wealth and opulence of Arnolfini's world. Van Eyck took advantage of the longer drying time of oil paint, compared to tempera, to blend colours by painting <a target="_blank" href="/en/paintings-by-media/watercolor-on-paper">wet-in-wet</a> to achieve subtle variations in light and shade to heighten the illusion of three-dimensional forms. The medium of oil paint also permitted van Eyck to capture surface appearance and distinguish textures precisely. He also rendered the effects of both direct and diffuse light by showing the light from the window on the left reflected by various surfaces. It has been suggested that he used a magnifying glass in order to paint the minute details such as the individual highlights on each of the amber beads hanging beside the mirror.
-<br>
-<br>The illusionism of the painting was remarkable for its time, in part for the rendering of detail, but particularly for the use of light to evoke space in an interior, for "its utterly convincing depiction of a room, as well of the people who inhabit it". Whatever meaning is given to the scene and its details, and there has been much debate on this, according to Craig Harbison the painting "is the only fifteenth-century Northern panel to survive in which the artist's contemporaries are shown engaged in some sort of action in a contemporary interior. It is indeed tempting to call this the first <a target="_blank" href="/en/paintings-by-genre/genre-painting">genre painting</a> – a painting of everyday life – of modern times".</span>
+<br>Obsessed with the idea of revitalising religious art by emphasising ethnographical accuracy combined with detailed Biblical symbolism, Hunt had travelled to the Middle East to create the picture, using local people as models and studying ancient Judaic customs and rituals. Progress on the painting was delayed by difficulties with models, and eventually Hunt postponed it to work on another project, The Scapegoat. He eventually completed it in 1860, back in England. His friend Frederic George Stephens wrote a pamphlet containing a detailed explanation of the content and the characters. It was then shown in a series of popular travelling exhibitions at which visitors could buy the pamphlet and subscribe to an engraved reproduction. These were organised by the dealer Ernest Gambart, and proved a great financial success.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
