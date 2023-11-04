@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00380/images/jacques-louis-david/leonidas-at-thermopylae-1814-jacques-louis-david.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/antoine-watteau/not_detected_229434-1715.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Leonidas at Thermopylae</h2>
+        <h2 class="artwork-name">Nymph and Satyr, or Jupiter and Antiope</h2>
         <h3 class="artist">
-          Jacques-Louis David
-                    ·  1814
+          Antoine Watteau
+                    ·  1715
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Leonidas at Thermopylae is an oil on canvas painting by French artist <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>. The work currently hangs in the Louvre in Paris, France. The massive painting has the dimensions of about thirteen feet by seventeen and a half feet and was completed in 1814. The convoluted piece took David almost fifteen years to complete, with him separating his work into two periods from 1799 to 1803 and 1813-1814. Leonidas at Thermopylae was purchased, along with The Intervention of the Sabine Women, in November of 1819 for 100,000 francs by Louis XVIII, the king of France at the time. The piece shows the Spartan king Leonidas prior to the Battle of Thermopylae. David's pupil Georges Rouget collaborated on it.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jupiter and Antiope (French: Jupiter et Antiope) is an oil painting by the French artist <a target="_blank" href="/en/antoine-watteau">Antoine Watteau</a>. It is also known as the Satyr and the Sleeping Nymph and was probably painted between 1714 and 1719. Intended to be placed over a doorway, today it hangs in the Louvre in Paris.
 <br>
-<br>The crowded and theatrical scene that David depicts takes place in a time of war, seemingly in Greece from the Greek temple and temperate mountains in the background. The war we see is the Battle of Thermopylae, which took place in 480 B.C. Thermopylae, which is a Greek word that means “hot gates,” was chosen to be the perfect place for this battle because of its mountainous geography and narrow passageway. This helped the Greeks hold a better stand against the Persians who were invading the area. King Leonidas, the Spartan leader, “delayed the invasion of Darius I and the Persians…by sacrificing himself and his men to give the Greeks the time they needed to organize an ultimately victorious resistance” in the long run. While this act of bravery and sacrifice by King Leonidas and his three hundred soldiers proved to be a defeat at the time, it inspired David during France’s own internal war.
+<br>The painting is oval shaped, with a width of 107.5&nbsp;cm and a height of 73&nbsp;cm. In the foreground it depicts the naked, sleeping Antiope. She lies with her head on the left edge of the painting, twisted so that her front side faces the viewer. Her right arm is bent under her head while her left arm hangs down into the abyss in front of her. This arm covers the right breast, while the left remains free. Her legs are bent up towards the viewer, with the right continuing the line of her body at the knee while her left leg is only slightly bent to point back to the lower right of the painting. The whole body is painted in pale, warm colours and lights up the otherwise dark and earthy image. Under the sleeping woman there is a cloth, which hangs over the abyss near her breast, disappears under her arm near her head and is lifted by the satyr behind her.
 <br>
-<br>When David painted Leonidas at Thermopylae, France was experiencing the fall of the First French Empire under Napoleon Bonaparte. David felt that France needed a hero to sacrifice himself for the greater good of his country, and the story of Leonidas and the Battle of Thermopylae inspired him. This was all taking place during the French Revolution where enemy soldiers were closing in on the French borders; these events are similar to how the Spartans felt during the Battle at Thermopylae, the core theme of David’s painting.
+<br>The satyr, whose head is crowned with grape vines symbolising the presence of the god Bacchus. lies in the opposite direction behind the woman, with the front of his body also facing the viewer. With his left arm he lifts the cloth to the height of Antiope's shoulder and it is obvious that he has just uncovered the sleeping maiden. His left arm is bent on a tree root at the right edge of the image and props up his upper body. With his head and upper body, the satyr looms over the hips of the sleeper in order to gaze upon her - he licks his lips lustfully. His body is shadowy and cannot be made out below his hips. The satyr is depicted in brown tones. His suntanned skin and muscular body forms a clear contrast with the softly worked, shapely Antiope.
 <br>
-<br>When Napoleon Bonaparte saw the exhibit of David’s latest paintings in 1799, “he criticized the lack of action and the fixed poses of the warriors in The Sabine Women.” This critique by one of David’s heroes compelled David to return to what he thought of as the Academy’s primary principles, Greek classical art. This masterpiece is one in which fully features not only the principles, but also the Greek subjects to convey the heroic nature of this historical battle.
+<br>The lower edge of the image is taken up by an abyss, which is depicted in dark brown tones and is edged with bare soil. On either side, gnarled roots grow in the soil, which rise into indistinct trees. The ground continues above the trees into the background, where there is a hill with lone houses. Above that is the cloudy sky, discreetly lit by the glow of twilight.
 <br>
-<br>David made many sketches before the final oil on canvas composition was executed. A sketch dating back to 1814 is a compositional study that was completed in two separate parts, leaving the final result somewhat choppy and overworked. There are a few differences between this compositional study and the final painting, one of which being a more full view of the background which resulted from the removal of trees and branches from the earlier sketch. Classical male figures were included from the beginning of David's sketches for Leonidas at Thermopylae.</span>
+<br>The composition fits the oval shape of the image. The sleeping Antiope forms the central horizontal, with her hips and bent legs creating the central vertical. The arms of the satyr and the legs of the woman curve in parallel with the upper edge of the painting - in this way the two central characters repeat the oval within the image, which is broken only by dangling left arm of the woman. Spatial depth is created by the stooped posture of Jupiter and by the bent knees of Antiope.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
