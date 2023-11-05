@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00197/images/konstantin-ivanovich-gorbatov/181l13115-7676f.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/william-baziotes/the-room-1945.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boats in a harbour</h2>
+        <h2 class="artwork-name">The Room</h2>
         <h3 class="artist">
-          Konstantin Gorbatov
-                    ·  1928
+          William Baziotes
+                    ·  1945
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Charmed by Italy’s romantic aesthetics and inspired by its warmth and light, the Post-Impressionist artist Konstantin Gorbatov created some of his most accomplished paintings while living on the island of Capri in the early 1920s. Gorbatov and his wife emigrated to Berlin in 1926, but he returned annually to Italy until the beginning of World War II. The monumental Boats in a Harbour, dated 1928, is an exquisite example of Gorbatov’s strength as a colourist and his bold mastery of light and shadow. The work was first acquired by a distinguished American collector and art history professor during his travels through Germany in 1972, and the painting has hung in his carefully curated private collection in the United States for forty years.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Baziotes makes allusions in his paintings to the external world of objects, but these remain elusive and changeable. He usually added his titles after the compositions had emerged through intuitive decisions. Although the titles do not identify subject matter, they nevertheless guide interpretation. Thus, the title of the present work may encourage one to experience the mood of an interior space illuminated by diffused twilight. An atmosphere of nostalgic reverie is evoked by scumbled, weathered layers of gouache in which pastel colors predominate. Unlike Baziotes's most characteristic works, in which biomorphic shapes float freely on an indefinite background, The Room (1945) is constructed architectonically. The gridded structure derives from Piet Mondrian and the Cubists, models for Baziotes before his encounter with the Surrealists. (Lucy Flint)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
