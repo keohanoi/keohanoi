@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/jean-tinguely/frigo-duchamp-1960.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00332/images/leopoldo-metlicovitz/leopoldo-metlicovitz-wwi-poster.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Frigo Duchamp</h2>
+        <h2 class="artwork-name">At last! (a World War One poster)</h2>
         <h3 class="artist">
-          Jean Tinguely
-                    ·  1960
+          Leopoldo Metlicovitz
+                    ·  1918
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In contrast with many other works by Jean Tinguely, we have little information on “Frigo Duchamp”, knowing only that the refrigerator was a gift to him from Marcel Duchamp. The work was executed between autumn 1960 and September 1962, when it was on view in the New York gallery of Sidney Janis. According to the artist, the piece was thereafter stored for twenty years in a friend’s garden, where it presumably remained nearly unchanged over the years.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Poster shows a woman in a red gown (Trieste) and a woman in a green gown (Trento) kneeling before a woman in white gown and crown and holding a sword (Italy); in background soldiers march to battle and planes fly overhead."</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
