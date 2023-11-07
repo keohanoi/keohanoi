@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/naum-gabo/kinetic-construction-standing-wave-1920.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/rembrandt/self-portrait-as-the-apostle-paul-1661.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Kinetic Construction (Standing Wave)</h2>
+        <h2 class="artwork-name">Self-portrait as the Apostle Paul</h2>
         <h3 class="artist">
-          Naum Gabo
-                    ·  1920
+          Rembrandt
+                    ·  1661
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the aftermath of the Russian Revolution, when this work was made, materials were hard to come by. 'It was the height of civil war, hunger and disorder in Russia. To find any part of machinery was next to impossible', said Gabo. Originally made to demonstrate the principles of kinetics to his students, it reflects the artist's belief in a sculpture in which space and time were active components. A strip of metal is made to oscillate so that a standing wave is set up. This movement in real time creates the illusion of volumetric space. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self-portrait as the Apostle Paul (Dutch: Zelfportret als de apostel Paulus) is one of over 40 painted self-portraits by Rembrandt, painted in 1661 by the Dutch artist <a target="_blank" href="/en/rembrandt">Rembrandt</a>. It is now in the Rijksmuseum in Amsterdam.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
