@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/el-greco/christ-driving-the-traders-from-the-temple-1600.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/tintoretto/battle-of-asola.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ driving the Traders from the Temple</h2>
+        <h2 class="artwork-name">Battle of Asola</h2>
         <h3 class="artist">
-          El Greco
-                    ·  1600
+          Tintoretto
+                    ·  1544
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Driving the Money Changers from the Temple is a 1600 painting by <a target="_blank" href="/en/el-greco">El Greco</a>, now in the National Gallery in London, England. It depicts the Cleansing of the Temple, an event in the Life of Christ.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Siege of Asola is a painting by the Italian late Renaissance master <a target="_blank" href="/en/tintoretto">Tintoretto</a>, executed in 1544-1545. It is in a private collection.
 <br>
-<br>There exist four copies of the painting and also a faithful reproduction in the National Gallery in London, which has recently been considered as authentic by scholars in the field of visual arts. Two versions and that other on loan from Madrid are titled Purification of the Temple. The one at the National Gallery in Washington is called Christ Cleansing the Temple.</span>
+<br>The canvas portrays two scenes. From the left to the middle is, in the foreground, a clash of knights occurred during the siege of the Venetian town of Asola by the troops of the Austrian emperor Maximilian I in 1516. Among the clashing soldiers is the banner of Asola, the fortress itself being shown in the background.
+<br>
+<br>On the right is depicted to homage of the citizens of Asola to the Venetian provveditore (curator) Francesco Contarini, the nobleman who organized the city's defence and forced Maximilian's troop to withdraw.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
