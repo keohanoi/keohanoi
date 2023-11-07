@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00268/images/william-adolphe-bouguereau/young-girl-defending-herself-against-eros-1880.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/fernand-khnopff/portrait-of-jeanne-kefer-1885.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Young Girl Defending Herself Against Eros</h2>
+        <h2 class="artwork-name">Portrait of Jeanne Kefer</h2>
         <h3 class="artist">
-          William-Adolphe Bouguereau
-                    ·  1880
+          Fernand Khnopff
+                    ·  1885
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">One of Bouguereau's most famous works portrays a dark-haired maiden, based on one of his most popular models, pushing away a cherub attempting to pierce her breast with an arrow. The two engage in a playful tug-of-war, and the girl's resistance to Eros appears minimal. As her veil falls, her innocent appearance takes on a semi-unintentional sexual appeal, adding to the painting's voyeuristic allure.<br><br>This work exemplifies Bouguereau's classical and mythological scenes infused with sensuality. While they sold well with a new market of wealthy American buyers, they were often ridiculed by his Impressionist contemporaries. Some critics and artists even accused Bouguereau of being a lecherous painter preoccupied with female nudes and devaluing the legacy of his Renaissance predecessors, such as Raphael, by producing cheap, erotic imitations of their work.<br><br>However, stylistically and thematically, this painting is not as straightforwardly cliché as it may appear. The landscape depicted in the background is based on contemporary France, likely the rural south, where Bouguereau spent many of his formative years. Therefore, the work offers a superficially modernized approach to its subject matter. Furthermore, Bouguereau's skillful mastery of the human form and subtle tonal contrasts is evident in the painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Jeanne Kéfer is a portrait by <a target="_blank" href="/en/fernand-khnopff">Fernand Khnopff</a>, painted in 1885. Currently housed and exhibited in The J. Paul Getty Museum, Los Angeles.
+<br>
+<br>A five-year-old Jeanne Kéfer was a daughter of the artist's friend, pianist Gustave Kéfer. The painting had been scheduled to be showcased at Les XX, 1885, in Brussels, but Khnopff had not managed to finish it, and the exhibition took place in 1886. The painting received positive critic reviews.
+<br>
+<br>Jeanne Kéfer is depicted standing on a porch before a closed door with her thumb catching the edge of her bow as she reaches into her coat. The portrait symbolizes the child's vulnerability and uncertainty in facing the outside world. The message is emphasized by the composition itself as the Jeanne's body is framed against the adult-sized door.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
