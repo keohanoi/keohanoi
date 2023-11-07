@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/paula-rego/the-fitting-1989.jpg"
+        src="https://uploads3.wikiart.org/images/gwen-john/young-woman-holding-a-black-cat.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Fitting</h2>
+        <h2 class="artwork-name">Young Woman Holding a Black Cat</h2>
         <h3 class="artist">
-          Paula Rego
-                    ·  1989
+          Gwen John
+                    ·  1920
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Born in Portugal, Paula Rego’s work always has a sense of magical realism; quirky contemporary mythologies pointing to an underlying psychology and sexuality, through a feminine view point. The Fitting is a scene of fairytale romance turned nightmare. Reminiscent of Velasquez’ Las Meninas, Paula Rego uses loaded imagery and symbolism to create a surreal mystery for the unravelling.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gwen John made numerous versions of this painting, some nearly identical and others with differing poses or costumes. The sitter was a neighbour of John's in Meudon, near Paris. Although she was the artist's most frequently used model, she is rarely mentioned in John's correspondence, and her name is unknown. She is sometimes referred to as 'the Convalescent' after the series of paintings of that name for which she posed, one of which hangs nearby.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
