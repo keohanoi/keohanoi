@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00287/images/hieronymus-bosch/600px-jheronimus-bosch-the-pedlar-google-art-project.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00268/images/william-adolphe-bouguereau/young-girl-defending-herself-against-eros-1880.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The wayfarer</h2>
+        <h2 class="artwork-name">Young Girl Defending Herself Against Eros</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1500
+          William-Adolphe Bouguereau
+                    ·  1880
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Wayfarer (or The Pedlar) is a painting by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. It is currently in Museum Boijmans Van Beuningen in Rotterdam. This painting is round and 71.5&nbsp;cm (28.1&nbsp;in) in diameter. It is one of the fragments of a partially lost triptych or diptych, which also included the Allegory of Gluttony and Lust, the Ship of Fools and Death and the Miser.<br>
-<br>
-<br>The figure is similar to the man depicted in The Path of Life panel on the exterior of The Haywain Triptych. The character has been interpreted as choosing between the path of virtue at the gate on the right or debauchery in the house on the left, or as the prodigal son returning home from the world.<br>
-<br>
-<br>Tim Storrier's self-portrait The Histrionic Wayfarer (after Bosch) won the 2012 Archibald Prize.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">One of Bouguereau's most famous works portrays a dark-haired maiden, based on one of his most popular models, pushing away a cherub attempting to pierce her breast with an arrow. The two engage in a playful tug-of-war, and the girl's resistance to Eros appears minimal. As her veil falls, her innocent appearance takes on a semi-unintentional sexual appeal, adding to the painting's voyeuristic allure.<br><br>This work exemplifies Bouguereau's classical and mythological scenes infused with sensuality. While they sold well with a new market of wealthy American buyers, they were often ridiculed by his Impressionist contemporaries. Some critics and artists even accused Bouguereau of being a lecherous painter preoccupied with female nudes and devaluing the legacy of his Renaissance predecessors, such as Raphael, by producing cheap, erotic imitations of their work.<br><br>However, stylistically and thematically, this painting is not as straightforwardly cliché as it may appear. The landscape depicted in the background is based on contemporary France, likely the rural south, where Bouguereau spent many of his formative years. Therefore, the work offers a superficially modernized approach to its subject matter. Furthermore, Bouguereau's skillful mastery of the human form and subtle tonal contrasts is evident in the painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
