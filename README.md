@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/henri-rousseau/the-dream-1910.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00287/images/hieronymus-bosch/600px-jheronimus-bosch-the-pedlar-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Dream</h2>
+        <h2 class="artwork-name">The wayfarer</h2>
         <h3 class="artist">
-          Henri Rousseau
-                    ·  1910
+          Hieronymus Bosch
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Created in the same year as his death, The Dream was Rousseau’s last painting, which was debuted only a few months before his untimely death. Upon its debut, Guillaume Apollinaire, referencing the negative reviews of previous years, exclaimed that this year, there would be no ridicule, as the painting exuded sheer beauty. With this piece, Rousseau brought together the exotic and the ordinary, the jungle and the couch, and combined the two to form a juxtaposition of composition which engages and intrigues. It is perhaps fitting that this was his last painting before his death, as it was his masterpiece. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Wayfarer (or The Pedlar) is a painting by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. It is currently in Museum Boijmans Van Beuningen in Rotterdam. This painting is round and 71.5&nbsp;cm (28.1&nbsp;in) in diameter. It is one of the fragments of a partially lost triptych or diptych, which also included the Allegory of Gluttony and Lust, the Ship of Fools and Death and the Miser.<br>
+<br>
+<br>The figure is similar to the man depicted in The Path of Life panel on the exterior of The Haywain Triptych. The character has been interpreted as choosing between the path of virtue at the gate on the right or debauchery in the house on the left, or as the prodigal son returning home from the world.<br>
+<br>
+<br>Tim Storrier's self-portrait The Histrionic Wayfarer (after Bosch) won the 2012 Archibald Prize.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
