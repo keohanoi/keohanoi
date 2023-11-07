@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00443/images/judith-leyster/1630boy-playing-the-flute2-1630s.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/el-greco/christ-driving-the-traders-from-the-temple-1600.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boy Playing the Flute</h2>
+        <h2 class="artwork-name">Christ driving the Traders from the Temple</h2>
         <h3 class="artist">
-          Judith Leyster
-                    ·  1630
+          El Greco
+                    ·  1600
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this work, Leyster captures a solitary moment in which a young boy delicately plays a flute. He looks up and out of the frame, as if lost in concentration, or perhaps in the beautiful music itself. The precise placement of his fingers suggests a musician completely at ease with his instrument. At the same time, the composition of the painting is slightly unusual: against this plain interior, Leyster includes a violin and a recorder awkwardly displayed on the wall. The boy's posture is also slightly strange, as he leans back against what looks like a damaged chair. The boy's dreamy gaze suggests the power of music to transport the listener, a power not unlike the power of art.<br><br>There are many similarities between painting and music that run throughout Leyster's career. Art critic Peter Schjeldahl comments particularly on her virtuosic use of color here: "The work's finely modulated browns and grays are breathtaking. They affect like essences of the flute's sound - you practically hear them."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Driving the Money Changers from the Temple is a 1600 painting by <a target="_blank" href="/en/el-greco">El Greco</a>, now in the National Gallery in London, England. It depicts the Cleansing of the Temple, an event in the Life of Christ.
+<br>
+<br>There exist four copies of the painting and also a faithful reproduction in the National Gallery in London, which has recently been considered as authentic by scholars in the field of visual arts. Two versions and that other on loan from Madrid are titled Purification of the Temple. The one at the National Gallery in Washington is called Christ Cleansing the Temple.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
