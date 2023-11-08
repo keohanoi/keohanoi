@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/henri-rousseau/the-dream-1910.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/jean-honore-fragonard/the-blind-man-s-bluff-game.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Dream</h2>
+        <h2 class="artwork-name">Blind Man’s Bluff</h2>
         <h3 class="artist">
-          Henri Rousseau
-                    ·  1910
+          Jean-Honore Fragonard
+                    ·  1770
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Created in the same year as his death, The Dream was Rousseau’s last painting, which was debuted only a few months before his untimely death. Upon its debut, Guillaume Apollinaire, referencing the negative reviews of previous years, exclaimed that this year, there would be no ridicule, as the painting exuded sheer beauty. With this piece, Rousseau brought together the exotic and the ordinary, the jungle and the couch, and combined the two to form a juxtaposition of composition which engages and intrigues. It is perhaps fitting that this was his last painting before his death, as it was his masterpiece. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The amorous encounter in this colorful painting would surely have been understood as two lovers playing a sensual and exciting game, as the painting contains many symbolic elements. The game of Blind Man’s Bluff is the courtship of the young couple, and the female, although she is blindfolded, can surely see through her mask, and is in no danger of being mistaken. The entire scene speaks of sexual excitement, from the blushing color of the cheeks to the playful stance of the two figures. The painting also speaks not to sexual fulfillment, but the excitement of the game of courtship, just for the sheer satisfaction of playing the game. As such it is a perfect example of Fragonard’s ability to translate a sexual encounter into a coy and erotic gesture, a techniques which he had surely mastered.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
