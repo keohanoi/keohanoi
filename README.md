@@ -2,20 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/pieter-bruegel-the-elder/the-fair-on-st-george-s-day.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/peter-paul-rubens/portrait-of-helene-fourment-with-a-coach.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Fair on St. George's Day</h2>
+        <h2 class="artwork-name">Portrait of Helene Fourment with a Coach</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1561
+          Peter Paul Rubens
+                    ·  1639
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Printed by Johannes of Lucas van Doetechum after Pieter Bruegel the Elder, published by Hieronymus Cock.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Helena Fourment with a carriage is a 1639 painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, showing his second wife Helena Fourment, their son Frans and a carriage.
+<br>
+<br>It was given to John Churchill, 1st Duke of Marlborough in 1706, possibly by the city of Brussels. It entered the Paris collection of Alphonse de Rotschild in 1884 and remained with his heirs until it was transferred to the French state in 1977 in lieu of inheritance tax. It is now in the Louvre Museum.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
