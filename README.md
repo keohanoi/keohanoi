@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/jean-honore-fragonard/the-blind-man-s-bluff-game.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/gustave-courbet/the-stone-breakers-1849.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Blind Man’s Bluff</h2>
+        <h2 class="artwork-name">The Stone Breakers</h2>
         <h3 class="artist">
-          Jean-Honore Fragonard
-                    ·  1770
+          Gustave Courbet
+                    ·  1849
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The amorous encounter in this colorful painting would surely have been understood as two lovers playing a sensual and exciting game, as the painting contains many symbolic elements. The game of Blind Man’s Bluff is the courtship of the young couple, and the female, although she is blindfolded, can surely see through her mask, and is in no danger of being mistaken. The entire scene speaks of sexual excitement, from the blushing color of the cheeks to the playful stance of the two figures. The painting also speaks not to sexual fulfillment, but the excitement of the game of courtship, just for the sheer satisfaction of playing the game. As such it is a perfect example of Fragonard’s ability to translate a sexual encounter into a coy and erotic gesture, a techniques which he had surely mastered.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Stone Breakers (French: Les Casseurs de pierres) was an 1849 painting by the French painter <a target="_blank" href="/en/gustave-courbet">Gustave Courbet</a>. It was a work of <a target="_blank" href="/en/artists-by-art-movement/social-realism">social realism</a>, depicting two peasants, a young man and an old man, breaking rocks.
+<br>
+<br>The painting was first exhibited at the Paris Salon of 1850. It was destroyed during World War II, along with 154 other pictures, when a transport vehicle moving the pictures to the castle of Königstein, near Dresden, was bombed by Allied forces in February 1945.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
