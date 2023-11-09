@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/kazimir-malevich/the-running-man-1933.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/hieronymus-bosch/saint-john-the-evangelist-on-patmos-1485.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Running Man</h2>
+        <h2 class="artwork-name">Saint John the Evangelist on Patmos</h2>
         <h3 class="artist">
-          Kazimir Malevich
-                    ·  1933
+          Hieronymus Bosch
+                    ·  1485
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After pioneering a new form of artistic abstraction, Malevich turned to pioneering a new way of representing the human form, making a variety of new humanoid figures. This particular painting also has a very specific story. The running figure is said to be a representation of the Soviet government, running away after the persecution and murder of peasants. The humanoid figure runs through the canvas, evincing a mood of panic and fear. A bloodied sword of violence stands upright in the background. At this time in Malevich’s career, he was being persecuted by the Soviet government, and as such this painting is more than a representation of a social wrong, it was a personal condemnation of the violence that had been done to him. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St. John on Patmos is a painting by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. The painting is currently in the Gemäldegalerie, in Berlin, Germany. The reverse is also painted, the title of that picture is Scenes from the Passion of Christ and the Pelican with Her Young.
+<br>
+<br>St. John the Evangelist on Patmos forms a pair with St. John the Baptist in the Wilderness, which is in Madrid. It was noted in the 1940s that the two paintings may have been designed as wings of an altarpiece. Such an origin would explain the grisaille painting on the reverse, as it is characteristic of polyptychs to have both sides of folding panels decorated. It has since been suggested that the altarpiece in question was an artwork which is known to have been made for St. John's Cathedral, 's-Hertogenbosch.
+<br>
+<br>The painting is difficult to date. If the 's-Hertogenbosch hypothesis is correct, the date would be around 1489, although later dates have been proposed based on other criteria.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
