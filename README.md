@@ -2,29 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/john-everett-millais/autumn-leaves-1856.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00437/images/artemisia-gentileschi/1638self-portrait-as-the-allegory-of-painting-1638-1639.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Autumn Leaves</h2>
+        <h2 class="artwork-name">Self-portrait as the Allegory of Painting</h2>
         <h3 class="artist">
-          John Everett Millais
-                    ·  1856
+          Artemisia Gentileschi
+                    ·  1639
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Autumn Leaves (1856) is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> exhibited at the Royal Academy in 1856. It was described by the critic <a target="_blank" href="/en/john-ruskin">John Ruskin</a> as "the first instance of a perfectly painted twilight." Millais' wife Effie wrote that he had intended to create a picture that was "full of beauty and without a subject".
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self-Portrait as the Allegory of Painting, also known as Autoritratto in veste di Pittura or simply La Pittura, was painted by the Italian Baroque artist <a target="_blank" href="/en/artemisia-gentileschi">Artemisia Gentileschi</a>. The oil-on-canvas painting measures 96.5 by 73.7 centimetres (38.0&nbsp;in ×&nbsp;29.0&nbsp;in) and was probably produced during Gentileschi’s stay in England between 1638 and 1639. It was in the collection of Charles I and was returned to the Royal Collection at the Restoration (1660) and remains there. In 2015 it was put on display in the "Cumberland Gallery" in Hampton Court Palace.
 <br>
-<br>The picture depicts four girls in the twilight collecting and raking together fallen leaves in a garden. They are making a bonfire, but the fire itself is invisible, only smoke emerging from between the leaves. The two girls on the left, modelled on Millais' sisters-in-law Alice and Sophy Gray, are portrayed in middle-class clothing of the era; the two on the right are in rougher, working class clothing.
+<br>The scene depicts Gentileschi painting herself, who is in turn represented as the “Allegory of Painting” illustrated by Cesare Ripa. It is now in the British Royal Collection.
 <br>
-<br>The painting has been seen as one of the earliest influences on the development of the <a target="_blank" href="/en/artists-by-art-movement/aestheticism">aesthetic movement</a>. 
+<br>The painting demonstrates rare feminist themes from a time when women seldom held jobs, let alone were well known for them. Gentileschi’s portrayal of herself as the epitome of the arts was a bold statement to make for the period. Though the painting is today overshadowed by many of Gentileschi’s other, more dramatic and raw scenes reflecting the artist’s troubling younger years, Self-Portrait was very controversial in its time.
 <br>
-<br>The painting has typically been interpreted as a representation of the transience of youth and beauty, a common theme in Millais' art. Malcolm Warner argues that Millais was influenced by the poetry of Tennyson, at whose house he had once helped to rake together autumn leaves. Warner suggests that lines from Tennyson's song "Tears, Idle Tears" in The Princess (1847) may have influenced him:
+<br>That it is a self-portrait as well as an allegory was first proposed by Michael Levey in the 20th century, and is not universally accepted, as some art historians see the features of the figure here as too different from those in other portraits of the artist.
 <br>
-<br>The apple held by the youngest girl at the right may allude to the loss of childhood innocence implied by reference to original sin and the expulsion from the Garden of Eden.
+<br>Gentileschi was born in Rome in 1593, just at the start of Baroque painting. Gentileschi’s father, <a target="_blank" href="/en/orazio-gentileschi">Orazio</a>, was a well-known artist, and Artemisia trained in his workshop for a number of years before creating works herself. In the 1610s, Artemisia was raped by a somewhat older member of the workshop, Agostino Tassi, an event which coloured the rest of her life and is reflected in her art, which often shows subjects with a "Power of Women" themes such as Judith Slaying Holofernes and Salome with the Head of St. John the Baptist. The artist's focus on her work, away from the viewer, highlights the drama of the Baroque period, and the changing role of the artist from craftsperson to singular innovator.
 <br>
-<br>After a positive review from F.G. Stephens, Millais wrote to him that he had "intended the picture to awaken by its solemnity the deepest religious reflection. I chose the subject of burning leaves as most calculated to produce this feeling."</span>
+<br>Abstract concepts like "Painting" were traditionally represented by female allegorical figures, and therefore the painting was not one that any male painter could present in the same way, as both self-portrait and allegory. The Self-Portrait was also influenced by the works of Cesare Ripa, most notably his Iconologia, in which he suggests how virtues and abstract concepts should be depicted, with human qualities and appearances. Ripa said "Painting" should be shown as: “A beautiful woman, with full black hair, disheveled, and twisted in various ways, with arched eyebrows that show imaginative thought, the mouth covered with a cloth tied behind her ears, with a chain of gold at her throat from which hangs a mask, and has written in front "imitation." She holds in her hand a brush, and in the other the palette, with clothes of evanescently covered drapery.” Other than the cloth tied around the mouth, Gentileschi follows this prescription quite accurately.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
