@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/sam-gilliam/red-april-1970.jpg"
+        src="https://uploads8.wikiart.org/00313/images/andy-warhol/unnamed-1-1.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Red April</h2>
+        <h2 class="artwork-name">Absolut Warhol (Absolut Vodka)</h2>
         <h3 class="artist">
-          Sam Gilliam
-                    ·  1970
+          Andy Warhol
+                    ·  1986
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The title Red April references the assassination of Dr. Martin Luther King, Jr. (April 4, 1968), and the riots that followed in Washington, D.C., where Sam Gilliam resided.
-<br>
-<br>Gilliam painted Red April by pouring and splattering acrylic pigments (some thinned-out, some thick and intense) onto a raw canvas he placed on the floor. Gilliam folded the canvas like an accordion and let the paint dry for a while. He intended for some of the pigment to remain wet so that when he unfolded the canvas, it would pull off and adhere to the canvas on top of it. Gilliam then stretched the canvas on beveled stretchers, so it would appear to be coming out of the wall.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1985 Warhol became the first artist commissioned to create a portrait of the Absolut Vodka bottle in what would become one of the most successful advertising campaigns of the twentieth century. Following the triumph of the <i>Absolut Warhol</i> ads, the president of the company that owned Absolut, Michael Roux, encouraged Warhol to suggest other artists that could be used in the campaign. Over the years more than three hundred and fifty artists have been commissioned, including <a target="_blank" href="https://www.wikiart.org/en/keith-haring/absolut-haring-1986">Keith Haring</a> and <a target="_blank" href="https://www.wikiart.org/en/edward-ruscha/absolut-ruscha-1988">Ed Ruscha</a> - both suggested by Warhol. In 1988, alongside the famous names, Roux began selecting less well-known artists, viewing the commission as an opportunity to launch their career. Interestingly, although Warhol never usually drank alcohol, he did use Absolut as a perfume.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
