@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/diego-and-i-1949.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/paul-cezanne/mont-sainte-victoire-3.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Diego and I</h2>
+        <h2 class="artwork-name">Mont Sainte-Victoire</h2>
         <h3 class="artist">
-          Frida Kahlo
-                    ·  1949
+          Paul Cezanne
+                    ·  1895
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diego Rivera and Frida Kahlo’s marriage was tumultuous at best. Frida created this painting during a particularly low point in their marriage. Rivera was having an affair with the movie star Maria Felix, and he was rumored to ask her to marry hum. Although both of them had extramarital affairs, this one was particularly painful, as illustrated by this painting. Many times, Kahlo was able to laugh at Rivera’s indiscretions, but this painting shows real pain and suffering. She once referred to two accidents in her life; one of them being the streetcar accident, the other being Diego Rivera. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting is of the landscape from Cezanne’s home in Aix-en-Provence, where he spent many of his later years painting. He developed a special relationship with this landscape and painted many rendition of it, especially the mountain in the background. The painting clearly illustrates the way Cezanne sought to depict the nature of reality and our perception of it. The mountain gives way to simple forms and the building in the foreground have been devolved into their particular shapes, all the while keeping the entirety of the landscape intact. Cezanne’s use of light and color give the impression that it is not his rendering of the landscape that give it a fragmented quality, but that it is an inherent quality of the landscape itself.  </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
