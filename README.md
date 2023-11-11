@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00244/images/ancient-egyptian-painting/dt1534.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/shitao/10-000-ugly-inkblots.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Artist's Gridded Sketch of Senenmut</h2>
+        <h2 class="artwork-name">10,000 Ugly Inkblots</h2>
         <h3 class="artist">
-          Ancient Egypt
-                    ·  -1458
+          Shitao
+                    ·  1685
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This gridded sketch of a man wearing a short wig undoubtedly depicts Senenmut, one of Hatshepsut's most valued officials. His appointment to a large number of important offices, such as steward of the god Amun at Karnak, enabled him to afford the excavation of an elaborate funerary complex consisting of an offering chapel and a tomb not far from Hatshepsut's temple at Deir el-Bahri in western Thebes. He also created a tomb for his mother, Hatnefer, and other family members on the hillside below.<br><br>This limestone chip, called an <i>ostracon</i>, was found in debris on the hillside just below Senenmut's offering chapel on Sheikh abd el-Qurna hill. <br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/547684">The Met</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">10,000 Ugly Inkblots is a perfect example of Shi Tao's subversive and ironic aesthetic principles. This uniquely apperceptive work challenges accepted standards of beauty. As the carefully painted landscape degenerates into Pollock-esque splatters, the viewer is forced to recognize that the painting is not transparent (immediate, in the most literal sense meaning without media) in the way it initially purports to be. Solely because they are labeled "ugly," the ink dots begin to take on a sort of abstract beauty</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
