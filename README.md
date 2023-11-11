@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00266/images/frank-johnston/frank-johnston-1.JPG!Large.JPG"
+        src="https://uploads6.wikiart.org/images/james-ward/the-moment-1831.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Promise of Spring</h2>
+        <h2 class="artwork-name">The Moment</h2>
         <h3 class="artist">
-          Frank Johnston
-                    ·  1930
+          James Ward
+                    ·  1831
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This print is of a painting by the Group of Seven artist: Frank (Franz) Hans Johnston (1888-1949) ARCA, OSA. CSPWC. It is a Spring scene of a wood lot in front of a drift wood fence. The snow is melting revealing a stream with emerald colored water. The composition and colors are eye pleasing. The original painting is in the McMichael Canadian Art Collection in Kleinburg, Ontario.<br>Details:<br>Title: Promise of Spring<br>Medium: Print on artist board<br>Size: 20”x26” (image); (26”x31” framed)<br>Date: Was painted ~1930<br>Signature: Signed lower left. Titled on metal tag lower center<br>Condition: Very good. No fading<br>Framing: Carved dusty gold wooden frame. Good condition. No missing plaster. Minor missing gilding.<br>Value: $700-800. See link<br>https://maxsold.maxsold.com/auction/1184/item/111524<br>Asking Price: $180.00</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting of a huge snake about to attack a white horse was exhibited at the Royal Academy in 1833. In the past, the painting was thought to show Napoleon’s Arab charger, Marengo - hence the title Marengo and the Serpent on the frame. However, it is more likely to show George III’s horse, Adonis. Ward consistently used allegory in his paintings, so this work may be intended to show the power of the monarchy (the horse) being threatened by the government (the serpent) as it prepared to widen the franchise by passing the Great Reform Bill in 1832.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
