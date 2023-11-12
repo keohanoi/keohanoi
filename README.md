@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/raphael/portrait-of-elizabeth-gonzaga.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/john-constable/wivenhoe-park-1816.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Elizabeth Gonzaga</h2>
+        <h2 class="artwork-name">Wivenhoe Park</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1504
+          John Constable
+                    ·  1816
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Elisabetta Gonzaga is a painting from around 1504, attributed to the Italian Renaissance artist <a target="_blank" href="/en/raphael">Raphael</a> and housed in the Uffizi Gallery, Florence.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wivenhoe Park is a painting of an English landscape park, the estate of the Rebow family, by the English Romantic painter, <a target="_blank" href="/en/john-constable">John Constable</a> (1776–1837).
 <br>
-<br>Contemporary sources speak of a portrait of Elisabetta Gonzaga executed by Raphael.
+<br>John Constable was born in Suffolk, and is known principally for his landscape paintings, especially the landscapes of the countryside where he spent his childhood. His paintings are now considered among the most popular and valuable in British art.
 <br>
-<br>The painting was likely part of the Ducal collection of Urbino, brought to Florence in 1635 as Vittoria della Rovere's dowry. In is mentioned with certainty for the first time in 1773, when it was transferred from Palazzo Pitti to the Grand Ducal wardrobe of the Uffizi. In a 1784 inventory it was attributed to <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>'s school, while that of 1825 listed it as by <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>.
+<br>The National Gallery of Art holds this painting as one of its highlights:
 <br>
-<br>It was attributed to Raphael for the first time in 1905. Other artists to whom the portrait has been assigned include Francesco Francia, Giovan Francesco Caroto, Francesco Bonsignori and <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>.
+<br>The painting was commissioned by the owner of Wivenhoe Park, Major General Francis Slater-Rebow, who was among the artist's first patrons, being a close friend of the artist's father, Golding Constable. Wivenhoe Park is 200 acres (81&nbsp;ha) of parkland, purchased by the Rebow family before 1734. Slater-Rebow commissioned several paintings from Constable, including a portrait of the general's seven-year-old daughter in 1812. She also figures in this painting, in a donkey cart to the left. This painting, finished in September 1816, earned the artist enough money to allow him to marry his long-time love, Mary Bicknell. They married in October 1816.
 <br>
-<br>The woman portrayed is Elisabetta Gonzaga, wife of Duke Guidobaldo I of Urbino (the portrait is now exhibited at the Uffizi next to the latter's) and a woman of literary and artistic interests. Details include the black dress with applied trim in a patchwork pattern, and the scorpion-like diadem on the woman's forehead. Her hairdo includes the coazzone, a long plait which is present also in a medal of her now at the British Museum.</span>
+<br>Constable's art is always penetrated by longing, melancholy and a yearning for the simple, natural life, for a bucolic, pastoral idyll, to rural subjects and aspects of life in the countryside, a "golden age" when people lived together in harmony with nature, a world on its way of disappearing when he painted his landscapes thanks to the beginning of the Industrial Revolution. He was aware of the issue of urban growth, of urban life's unpleasantness- which he contrasted to life in the countryside. Constable's art was rather unconventional for his time, and he loved simple things, a natural landscape without the ruins, dramatic effects or exalted, often excessive feelings, like the ones displayed in the paintings of his contemporary, <a target="_blank" href="/en/william-turner">J. M. W. Turner</a>. His landscapes are flooded by a silvery brilliant light in the water and air and in the sky - and are characterised by a special intensity that is such an important feature of this artist's works.
+<br>
+<br>Citations
+<br>
+<br>Bibliography</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
