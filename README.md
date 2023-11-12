@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/dorothea-tanning/some-roses-and-their-phantoms-1952.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/yiannis-tsaroychis/the-thinker-1936.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Some Roses and Their Phantoms</h2>
+        <h2 class="artwork-name">The Thinker</h2>
         <h3 class="artist">
-          Dorothea Tanning
-                    ·  1952
+          Yiannis Tsaroychis
+                    ·  1936
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Some Roses and Their Phantoms represents a domestic world transformed by mysterious eruptions and inhabited by unnamable creatures. The table top setting, with its crisp white tablecloth and marks of ironed folds, suggests a safe world of bourgeois ritual. A recurrent motif, the white table cloth can also be found in other works of the same period, for example, Poached Trout, 1952 (private collection), and Portrait de famille, 1954 (Musée National d’Art Moderne, Centre Georges Pompidou, Paris), and later in Notes for an Apocalypse, 1974 (Mimi Johnson, New York). The theme of domesticity is continued in the suggestion in the foreground of a plain white plate, but this appears to lie under, or more strangely to merge into, the exquisitely painted cloth. (Jennifer Mundy)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'This work represents the distillation of the kind of art painters are aiming at when they avoid perspective. The title, The Thinker, which I gave this humble piece ironically, contrasts with the feeling of Rodin's Thinker, which belongs to a different world. As I progressed with this style, I began to see the rights and wrongs of those who agree and those who disagree. I realized only quite late that it is very difficult to combine the two styles: the style of drawing that takes account of chiaroscuro, and what may be called the oriental approach, which contains within it the quality of the colour scales. This work was painted in reaction to my academic studies and tradition.'
+<br>Yannis Tsarouchis
+<br> </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
