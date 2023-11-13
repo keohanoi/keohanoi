@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/sofonisba-anguissola/portrait-of-caterina-micaela-of-spain-1578.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00244/images/ancient-egyptian-painting/coffin-set-of-the-singer-of-amun-re-henettawy-ca-1000-945-b-c.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Caterina Micaela of Spain</h2>
+        <h2 class="artwork-name">Coffin Set of the Singer of Amun Re, Henettawy</h2>
         <h3 class="artist">
-          Sofonisba Anguissola
-                    ·  1578
+          Ancient Egypt
+                    ·  -945
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this strikingly modern portrait of the young Spanish princess, Catalina Micaela of Spain, the daughter of King Philip II and Anguissola's friend, Queen Elisabeth of Valois, the girl looks out at the viewer from a sea of white and black. Around her neck and spilling down her front is the collar of a cape made of ermine stomachs or lynx furs. While the overall image may seem subdued and unflashy, this monochromatic garment is an indication of royalty; the infanta is actually displaying her noble heritage, wealth and prestige. Catalina Micaela's pale hand, with its rings and gold lace cuff, and her necklaces peeping through the gauzy fabric around her head, are other indications of her great wealth. Similarly, her snow-white skin was seen as a sign of beauty and social rank. It is likely that this was shown to potential suitors in the hope of finding her a husband.<br><br>Her direct gaze engages the viewer confidently. When Catalina did marry, she was initially disliked by her husband's courtiers due to her confidence in her own intelligence, which was seen as arrogant. Later, though, she would be praised for her ability to rule. She would die at the age of 30, after the difficult birth of her last child in 1597.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Mistress of the House, Singer of Amun-Re, Henettawy died at the young age of twenty-one. She was buried in a plundered tomb, which had originally been the resting place of Minmose, an official of Hatshepsut. The burial was a modest one, including a set of coffins and personal jewelry. Henettawy's body was not embalmed but simply wrapped in layers of linen bandages.<br><br>Aside from her rather simple personal jewelry, Henettawy's main burial equipment consisted of two splendid coffins and a mummy board, fitting one into the other like parts of a Russian doll. Both coffins and the mummy board are shaped like wrapped mummies with elaborate masks fastened over the heads.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/590951">The Met</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
