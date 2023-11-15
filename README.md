@@ -2,25 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/el-greco/view-and-plan-of-toledo.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/albrecht-durer/portrait-of-bernhard-von-reesen-1521.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">View and plan of Toledo</h2>
+        <h2 class="artwork-name">Portrait of Bernhard von Reesen</h2>
         <h3 class="artist">
-          El Greco
-                    ·  1610
+          Albrecht Durer
+                    ·  1521
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">View and Plan of Toledo is a work of <a target="_blank" href="/en/el-greco">El Greco</a>, made in 1608 during his last period. It is preserved in the Museum of El Greco of Toledo.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Bernhart von Reesen is a painting by German Renaissance master <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, dating from 1521, now housed in the Gemäldegalerie Alte Meister of Dresden, Germany.
 <br>
-<br>This work moves away from the beautiful and stylized descriptions of Toledo; it shows a great meticulousness. This fostered the assumption that it was commissioned by the city council. The enormous detail that was made on the plane caused many scholars to guess that this is a work of Jorge Manuel, son of the painter and expert in architecture.
+<br>The painting was executed during the artist's trip to the Low Countries (1520–1521). On 16 March 1521, Dürer wrote that he had portrayed in Antwerp one Bernhart von Reesen, being paid eight florins and some small gifts for his wife and maid. The subject is unknown, although he could be one rich merchant from Danzig who was active in the cosmopolitan Flemish port. Other scholars identify him with Bernard van Orley, a painter from Brussels.
 <br>
-<br>At the top of the canvas is the Virgin Mary, accompanied by a court of angels carrying the chasuble of San Ildefonso. In this work it could be read as an anticipation of <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionism</a>, and even <a target="_blank" href="/en/paul-cezanne">Paul Cézanne</a>.
-<br>
-<br>The painting was probably commissioned by Pedro de Salazar y Mendoza. It appeared on an inventories of goods of El Greco in 1614, and Jorge Manuel in 1621. It entered the collection of the Museo del Greco in 1910.</span>
+<br>The man is portrayed with black garments, aside from the white shirt under the jacket. His hands, which, according to the Flemish painting tradition, are lying on the lower border, hold a cartouche where it is perhaps written his address.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
