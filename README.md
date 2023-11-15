@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/george-inness/early-moonrise-florida-1893.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/morris-louis/delta-theta-1961.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Early Moonrise, Florida</h2>
+        <h2 class="artwork-name">Delta Theta</h2>
         <h3 class="artist">
-          George Inness
-                    ·  1893
+          Morris Louis
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Early Moonrise, Florida is a subjectively painted landscape of Inness and his peers interpreted rather than recorded nature views, their rich palettes, loose brushwork, and inventive use of light evoking palpable atmospheric effects and, above all, a strong sense of mood. This approach set them apart from the Hudson River school artists’ detailed, tightly brushed transcriptions of nature.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Delta Theta is a classic work from the Unfurled series, which are the most recognizable of Louis' oeuvre. Louis folded the massive canvas(almost 20 feet wide) before pouring the thinned acrylic, which soaks into the weave of the fabric in rainbows of color. Louis' work challenged the notion of "completion," as he tended to leave large areas of the canvas untreated. Incorporating raw canvas into the final composition was a signature of the Color Field painters. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
