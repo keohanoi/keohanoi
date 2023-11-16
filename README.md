@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/francisco-goya/the-milkmaid-of-bordeaux-1827.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/rembrandt/landscape-with-the-good-smaritan.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Milkmaid of Bordeaux</h2>
+        <h2 class="artwork-name">Landscape with the Good Smaritan</h2>
         <h3 class="artist">
-          Francisco Goya
-                    ·  1827
+          Rembrandt
+                    ·  1638
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Milkmaid of Bordeaux (Spanish: La lechera de Burdeos) is an oil-on-canvas painting completed between 1825 and 1827, generally attributed to the Spanish artist <a target="_blank" href="/en/francisco-goya">Francisco Goya</a> (1746–1828).
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Landscape with the Good Samaritan is a 1638 oil on oak panel painting by <a target="_blank" href="/en/rembrandt">Rembrandt</a>. It is one of only six oil landscapes by the artist and with The Girl in a Picture Frame and The Scholar at the Lectern, it is also one of only three Rembrandt paintings in Polish collections. It shows the parable of the Good Samaritan from the Gospel of Luke.
 <br>
-<br>Although the picture is held in great esteem and widely admired by critics and the public, doubt has been cast by art historians as to whether it is an actual Goya. If authentic then it is likely a portrait of either Rosario Weiss, or more likely, her mother Leocadia Weiss—the artist's nurse during the last years of his life. Leocadia cared for Goya in exile in Bordeaux, where he settled to live among politically liberal friends.
-<br>
-<br>Following his death, the painting was willed to his last child, Javier (b. 1784). Financial difficulties a year later forced him to sell it to Juan Bautista de Muguiro, a distant relative. Muguiro's descendants donated the work to the Museo del Prado in 1946, where it remains a popular exhibit at the gallery, despite doubts as to its origin.
-<br>
-<br>Rosario was later a painter, and it is sometimes claimed that she may have been the creator of this work. However, when compared to the relatively amateur works of hers held in the Academia de San Fernando, it is generally considered highly unlikely.</span>
+<br>It was bought at a Paris auction by Jean-Pierre Norblin de La Gourdaine and therefore passed into the Polish noblewoman Izabela Czartoryska's collection at the Dom Gotycki at Puławy. That collection was later moved to Krakow and so it was one of several painting looted by the Germans in 1939. After World War Two, thanks to research by the art historian Karol Estreicher, it was returned to Krakow and is now in the city's Czartoryski Museum. That museum and its whole collection (including Landscape) were sold to the Polish state for 100 million Euros in December 2016.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
