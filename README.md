@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00142/images/caravaggio/martyrdom-of-saint-matthew.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/ivan-albright/the-picture-of-dorian-gray-1944.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Martyrdom of Saint Matthew</h2>
+        <h2 class="artwork-name">The Picture of Dorian Gray</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1600
+          Ivan Albright
+                    ·  1944
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Caravaggio completed both Martyrdom of Saint Matthew and The Calling of Saint Matthew, his first two publicly commissioned works, for the Contarelli Chapel in Rome in 1600. This painting marks the exact time when the orthodox Mannerism gave way to Baroque emotionality, and immediately catapulted Caravaggio into stardom. The scene was specifically requested by Cardinal Contarelli before his death, and that the painting should require three things: the saint being murdered by a soldier, onlookers showing emotions of shock and disgust, and architecture as the background element. The painting, upon being x-rayed, shows evidence that Caravaggio attempted two different compositions before completing the one we see today, eventually eliminating the architectural element entirely. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ivan Albright painted this lurid portrait for the Oscar-winning movie adaptation of Oscar Wilde's 1891 novel The Picture of Dorian Gray. In Wilde's tale, Dorian Gray commissions a portrait of himself as an attractive young man and later trades his soul for an ever-youthful appearance. As the still-handsome Gray leads an increasingly dissolute and evil life, his painted representation rots and decays, revealing the extent of his moral corruption. Albright's renown as a painter of the macabre made him the ideal choice of Albert Lewin, the director of the movie, to paint the horrific image of Gray. Although the movie was shot in black and white, Lewin filmed the painted portrait in color to emphasize Gray's shocking transformation.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
