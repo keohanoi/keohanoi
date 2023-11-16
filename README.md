@@ -2,18 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00437/images/jacob-macznik/sonia-crocheting-on-the-bed-1.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/paul-gauguin/two-tahitian-women-1899.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Sonia, Crocheting on the Bed</h2>
+        <h2 class="artwork-name">Two tahitian women</h2>
         <h3 class="artist">
-          Jacob Mącznik
+          Paul Gauguin
+                    ·  1899
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This large (almost life-size) superb painting by the École de Paris artist Jacob Macznik is of his wife Sonia (also known as Stella; née Miedzinska) seated slightly sideways on the side of their bed, crocheting.  Sonia was a seamstress by profession (working with both cloth and leather).  The mood evoked at the masterful hand of Macznik is tenderness, and perhaps even quiet admiration for the assiduous nature of his beloved.  She is a bit off-center in the canvas, which helps to reveal emptiness elsewhere in the room.  The bright blue of her dress, the orange-red of the crocheted item, and the thin red curvy lines within the bedspread are highlighted and stand out against the more muted colors elsewhere.  Despite the religiously observant (even orthodox) upbringings of all three, Sonia (born 1899) and her sister Fanny Miedzinska (born 1902) lived together with Jacob in Paris as a loving threesome.  None of the three survived the Holocaust.<br><br>This painting is privately held by the artist's nephew. Denotation of the copyright is embedded within this low resolution image of the painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Two Tahitian Women is an 1899 painting by <a target="_blank" href="/en/paul-gauguin">Paul Gauguin</a>. It depicts two topless women, one holding mango blossoms, on the Pacific Island of Tahiti. The painting is part of the permanent collection of the Metropolitan Museum of Art in New York City and was donated to the museum by William Church Osborn in 1949.
+<br>
+<br>Although Tahiti is depicted as an innocent paradise, the two women in the painting confront the viewer in a way similar to that in Manet's Le déjeuner sur l'herbe (1863) or Olympia (1863), and follow an artistic tradition of comparing woman's breasts to flowers or fruit. The women in the painting also appear in two other works by Gauguin, Faa Iheihe (Tahitian Pastoral) (1898) and Rupe, Rupe (1899).
+<br>
+<br>The painting was attacked April 1, 2011, while on loan to the National Gallery of Art in Washington D.C. A woman named Susan Burns banged on the painting's plastic cover. Due to the protection of the plexiglass, the painting was not harmed. The woman was “immediately restrained and detained” by the museum’s security guards who charged her with destruction of property and attempted theft.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
