@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/morris-louis/point-of-tranquility-1960.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/pierre-alechinsky/the-night-1952.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Point of Tranquility</h2>
+        <h2 class="artwork-name">The Night</h2>
         <h3 class="artist">
-          Morris Louis
-                    ·  1960
+          Pierre Alechinsky
+                    ·  1952
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Point of Tranquility is an example of Louis' Floral Veils, the last series he completed before embarking on the Unfurleds. Louis created the Florals by turning the canvas as he poured the paint, as opposed to working from a single vantage point. Louis layers the acrylic in a pattern that suggests a flower, the bleeding pigment creating a muddled, washy surface at the center of the canvas. The "veils" are apparent in the overlap of pigment, where washes both obscure and reveal layers of thinned color. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the upper part of Something of a World the artist transcribed his own poem in mirror-image with both hands simultaneously. The personal quality of hand-writing greatly appealed to CoBrA artists. ‘The important thing,’ Alechinsky wrote, ‘is to discover an inner script ... with which we can explore ourselves organically.’ Alechinsky said that he painted as if he was a spinning-top, unable to control his own movements. This is evident in The Night in which twists and twirls of white on a black ground evoke luminous night forms.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
