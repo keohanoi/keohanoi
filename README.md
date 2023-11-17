@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/hieronymus-bosch/st-liberata-triptych-1504.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/eileen-agar/angel-of-anarchy-1940.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Liberata Triptych</h2>
+        <h2 class="artwork-name">Angel of Anarchy</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1504
+          Eileen Agar
+                    ·  1940
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crucifixion of St Julia is a triptych by the Dutch painter <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. Like many Bosch paintings, the date of this work was long disputed, until dendochronologic analysis assigned it to around 1497. It is housed at the Palazzo Ducale in Venice.
-<br>
-<br>According to some historians, Bosch could have painted this work during a short trip to northern Italy, although it is more likely that it was a commission from an Italian trader or diplomat active in the Flanders.
-<br>
-<br>The earliest mention of the triptych comes from the 1771 treatise Della pittura veneziana, as located in the Palazzo Ducale's "Sala dell'Eccelso Tribunale". In 1893 it was moved by the Austrians to Vienna, where it remained until 1919 when it was returned to Venice. The work has been damaged by a fire, although its attribution to Bosch has never been disputed.
-<br>
-<br>The central panel depicts the crucifixion of a saint usually identified with Saint Julia of Corsica (sometimes with Saint Wilgefortis). In a depiction related to Christ's crucifixion, the centrally themed woman is in an elevated position against the sky, balanced by a large crowd gathered at the foot of the cross, including executioners and common people. A typical element is the fainting man supported by his neighbors.
-<br>
-<br>The sides show two cities: at right, a port characterized by fanciful domed buildings and several sunken ships; at left is city on fire, occupied by demons. At the bottom are several parapets, with, at left, a hermit with a dark hood (perhaps St. Anthony in Meditation), and, at right, a monk and a soldier who point at the central panel, traditionally identified as slave-dealers.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The blindfolded Angel of Anarchy is loosely based on an earlier painted plaster head. Agar stated that with this new work she wanted to create something ‘totally different, more astonishing, powerful ... more malign’. It suggests the foreboding and uncertainty that she felt about the future in the late 1930s. Believing that women are the true Surrealists, Agar wrote: ‘the importance of the unconscious in all forms of Literature and Art establishes the dominance of a feminine type of imagination over the classical and more masculine order.’</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
