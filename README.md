@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/atsuko-tanaka/electric-dress-1956.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/joshua-reynolds/self-portrait-1775.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Electric Dress</h2>
+        <h2 class="artwork-name">Self-Portrait</h2>
         <h3 class="artist">
-          Atsuko Tanaka
-                    ·  1956
+          Joshua Reynolds
+                    ·  1775
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1956 Atsuko Tanaka came forward with her best-known work, the Electric Dress. Composed entirely of light bulbs of all shapes, sizes and colours, and a plethora of connected electrical cords, the Electric Dress resembles a post-modern Christmas tree when not worn (as was often the case). Tanaka, by updating the kimono, sought to highlight the leap from traditional Japanese society to one representing the bright lights of the modern world. The aim of the Gutai group was to break with the past and blur the boundaries between art and life in post-war Japan, seeking a new beginning in order to put the horrors behind. Tanaka, in her twinkling dress was surely symbolic of this fresh and shiny start. The work was reconstructed in 1985.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is one of Reynolds's most explicit attempts to rival Rembrandt as a self-portraitist. By the time he painted this work, he was the most famous artist in Britain and President of the Royal Academy of Arts. In his lectures at the Academy, Reynolds elaborated a theory of art based around the need for modern British artists to copy the Old Masters. In this picture, his costume, his pose, and the dramatic contrasts of light and dark all refer to the work of Rembrandt. Even the shape of his face is made to resemble the Dutch artist's distinctive, jowly features.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
