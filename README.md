@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/morris-louis/where-1960.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00281/images/sergio-illuminato/lari.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Where</h2>
+        <h2 class="artwork-name">LARI</h2>
         <h3 class="artist">
-          Morris Louis
-                    ·  1960
+          Sergio Mario Illuminato
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An iconic work in Morris Louis' oeuvre, "Where" represents the culmination of a "theme" that started with the "Veil" series. The stripes of pure, flat color (like a reconfigured rainbow) were in his earlier paintings hidden by a "veil" of paint, most often black and at times semi-transparent, being revealed only at the top edge of the painting. In slightly later paintings, such as "Floral V", the "veil" beings to be eliminated, only to be completely suppressed in "Where". The artist's intentions and methods of pouring the magna paint on canvas are not entirely known (not even his wife has seen him painting, as he used to paint before her wife returned from work). However, as art critic Clement Greenberg has suggested, Morris Louis, rejecting the dense surfaces and chaotic compositions of "action painting" as well as the dark tones of Rothko and Clyfford Still, preferred "openness" and "clarity". In general, Color Field painters' performance was to make color the very subject of their paintings. However, while certain painters such as Frank Stella and Ellsworth Kelly favored hard edges and systemic compositions, Morris Louis, even in his last "column" and "stripe" paintings (which used unmixed color, a tactic that further decreased the involvement of the painter's hand), couldn't be considered completely impersonal, thanks to the playful ends of some "pillars" and, in general, the vibrant colors the artist has chosen. Greenberg once written about Louis: "He began to feel, think and conceive almost exclusively in terms of open color."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lari is the hominoid that should be able to look at the indefinable abyss that is generated between the content that each one tries to give to its existence and the reality that it will never succeed in bridging intentions. Steel and Titan white tell a timeless space, while the bordeaux of the profile recall the primitive colors extract by man. Finally, the style would like to be that of rock painting.<br><br>Lari è l’ominide che dovrebbe saper guardare l’indefinibile abisso che si genera tra il contenuto che ciascuno tenta di dare alla propria esistenza e la realtà che non riuscirà mai a colmare le intenzioni. L’acciaio e il bianco titano raccontano uno spazio senza tempo, mentre il bordeaux del profilo richiama i colori primitivi ricavati dall’uomo. Lo stile infine vorrebbe essere quello della pittura rupestre.<br><br>Lari est l'hominidé qui doit savoir regarder l'abîme indéfinissable généré entre le contenu que chacun tente de donner à son existence et la réalité qu'il ne réussira jamais à remplir ses intentions. L'acier et le blanc de titan révèlent un espace intemporel, tandis que le profil bordeaux rappelle les couleurs primitives obtenu par l'homme. Enfin, le style voudrait être celui de la peinture rupestre.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
