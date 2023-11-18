@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00366/images/johan-christian-dahl/egmg1hmxsaadhx.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00281/images/sergio-illuminato/clash.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stalheim</h2>
+        <h2 class="artwork-name">CLASH</h2>
         <h3 class="artist">
-          Johan Christian Dahl
-                    ·  1842
+          Sergio Mario Illuminato
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">View from Stalheim (Norwegian: Fra Stalheim) is an 1842 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/johan-christian-dahl">J. C. Dahl</a> of the mountainous view from Stalheim, Voss, Hordaland. It is a major work of Romantic nationalism and has become a national icon. It is regarded as one of Dahl's best works.
-<br>
-<br>The painting shows the view from the peak at Stalheim over the Nærøy Valley towards the sugar-loaf shaped peak of Jordalsnuten in late afternoon sunshine, framed by peaks and a rainbow. The sun shines on a small village near the centre. Dahl has clearly delineated figures and buildings even in the distance, creating "a world in miniature". One of his purposes was realism; the other was to capture the glory and magnificence of the mountains, and associated with that, of his country's culture. In this evocation of grandeur the painting prefigures later US landscapes, in particular <a target="_blank" href="/en/frederic-edwin-church">Church</a>'s Rainy Season in the Tropics (1866), which has a similar crowning rainbow. The rainbow itself, a symbol of reconciliation, peace, and in Christianity of God's grace, was also frequently used by <a target="_blank" href="/en/joseph-anton-koch">Joseph Anton Koch</a> and by Dahl's friend and associate <a target="_blank" href="/en/caspar-david-friedrich">Caspar David Friedrich</a>.
-<br>
-<br>Dahl began work on the painting in 1836 and completed it in 1842. It is based on two pencil and watercolour sketches he had made from the Gudvangen road in July 1826 during his first visit to the high mountain regions of Norway. The final version is close to the studies in both composition and details, including the sunlight highlighting the village; but Dahl has intensified the imagery by narrowing the valley, giving more prominence to the Jordalsnuten peak and less to the reappearance of the river from the shadows.
-<br>
-<br>Dahl had trouble with the painting and avoided similarly large works after its completion.
-<br>
-<br>The painting was made for Countess Wedel of Bogstad. Carl Gustav Wedel-Jarlsberg gave it to the National Gallery of Norway in 1914.
-<br>
-<br>The painting is regarded as one of Dahl's best, perhaps his most successful realisation of his aim of depicting the mountains both realistically and as national symbols. It has become a national icon. Other painters have also depicted the scene, and even more than his other Norwegian landscapes, this one drove tourists to visit the site: the luxury hotel built at Stalheim in 1885 is attributable to it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Here the body of painting backs away from reality to the world below. In fact, gashes of gauze flaps rarely reveal authentic tones and brush strokes. Sign and hues emptied, devoid of body, which affirm the presence through the veiling of what was previously full, illusorily canceled and of which a vague memory remains. With a finger you can still follow the poetic relief of what belonged to these geometric blocks of worlds, between warm and cold tones, which collided with each other. As if to say that everything is broken in the world above. We are all broken. The interior landscape familiar to us has been removed continuously. It takes an unfair thought to make art live here and at the same time reawaken us - as with a slap of truth - from this superficial and impalpable inertia of everyday action.<br><br>Qui il corpo della pittura indietreggia dal reale al mondo di sotto. Squarci di lembi di garza infatti lasciano scoperti di rado toni e pennellate autentiche. Segno e tonalità svuotati, privi di corposità, che affermano la presenza tramite la velatura di ciò che precedentemente era pieno, illusoriamente cancellato e di cui rimane una vaga memoria. Con un dito si può ancora seguire il rilievo poetico di ciò che è appartenuto a questi blocchi geometrici di mondi, tra toni caldi e freddi, che sono andati in collisione l’uno con l’altro. Quasi per dire che nel mondo di sopra è tutto rotto. Siamo tutti rotti. Medicati di continuo è stato rimosso il paesaggio interiore a noi familiare. Ci vuole un pensiero ingiusto per far vivere qui l’arte e al contempo ridestarci - come con uno schiaffo di verità - da questa inerzia superficiale e impalpabile del quotidiano agire.<br><br>Ici, le corps de la peinture recule de la réalité vers le monde d'en bas. En fait, les entailles de volets de gaze révèlent rarement des tons authentiques et des coups de pinceau. Signe et teintes vides, dépourvus de corps, qui affirment la présence à travers le voile de ce qui était auparavant plein, illusoirement annulé et dont il reste un vague souvenir. Avec un doigt, vous pouvez toujours suivre le relief poétique de ce qui appartenait à ces blocs géométriques de mondes, entre des tons chauds et froids, qui sont entrés en collision les uns avec les autres. Comme pour dire que tout est cassé dans le monde d'en haut. Nous sommes tous brisés. Le paysage intérieur qui nous est familier a été supprimé en permanence. Il faut une pensée injuste pour faire vivre l'art ici et en même temps nous réveiller - comme avec une gifle de vérité - de cette inertie superficielle et impalpable de l'action quotidienne.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
