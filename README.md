@@ -2,31 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/pieter-bruegel-the-elder/the-beggars-1568.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/annibale-carracci/venus-adonis-and-cupid-1590.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Beggars</h2>
+        <h2 class="artwork-name">Venus, Adonis, and Cupid</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1568
+          Annibale Carracci
+                    ·  1595
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Beggars or The Cripples is an oil-on-panel by the Netherlandish Renaissance artist <a target="_blank" href="/en/pieter-bruegel-the-elder">Pieter Bruegel the Elder</a>, painted in 1568. It is now in the Louvre in Paris.
-<br>
-<br>This work is the only painting by Bruegel in the Louvre, received as a gift in 1892.
-<br>
-<br>Attempts have been made to interpret the picture of six cripples and a beggar-woman as an allusion to a historical event: the badger's tails, or foxes' tails, on their clothes might refer to the Gueux, a rebel party formed against the government of Philip II of Spain and Granvelle; but these also occur in Bruegel's The Fight Between Carnival and Lent in Vienna, dated 1559. Still, the beggars are not quite ordinary beggars, as they wear carnival headgear representing various classes of society: a cardboard crown (the king), a paper shako (the soldier), a beret (the bourgeois), a cap (the peasant), and a mitre (the bishop). The work clearly has some satirical meaning, which has so far eluded interpretation. Perhaps physical imperfections are meant to symbolise moral decrepitude, which can affect all men irrespective of class.
-<br>
-<br>On the back of the painting are two inscriptions which seem to date from the 16th century. One is in Flemish, and in a very fragmentary state; the other is in Latin and records the admiration some humanist felt for Bruegel, whose art surpasses Nature itself.
-<br>
-<br>The painting dates from the end of Bruegel's career, when he showed a keener interest in the natural world. Tiny though it is, the landscape seen through the opening is bathed in a delicate light which simmers like dew on the foliage.
-<br>
-<br>On the back of the painting is written:
-<br>
-<br>Modern eyes may be inclined to conclude that Brugel intended to invoke sympathy for the plight of the crippled figures, but from a historical perspective this is unlikely. Europeans of Bruegel's time gave little regard to beggars, and the painting provides hints that Bruegel shared this denigration: the figures are outside the town walls and are posed in such ways as to provoke contempt and amusement. The foxtail on some of the figures was a symbol at the time of ridicule in political caricature and real life. The woman behind them bears an empty bowl and may appear to be ignoring the beggars.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting Venus, Adonis, and Cupid by Carracci portrays a story famously associated with the Roman poet Ovid. The artwork captures the moment before Cupid's arrow strikes Venus, causing her to fall in love with Adonis. Adonis is shown with hounds that will accompany him on a hunt with a wild boar, which ultimately leads to his demise. A pair of doves symbolizing love is depicted in the foreground, while an intricate landscape featuring ancient ruins and chaotic skies infuses the narrative with drama.<br><br>Carracci's painting showcases his diverse range of influences, drawing from Veronese, Titian, and Greco-Roman sculptures. Both Veronese and Titian also painted this fable, and similarities can be drawn between the compositional approach of all three artists. The interaction between Venus and Adonis takes place in front of a naturalistic landscape, displaying Carracci's skill as a naturalist painter. The sculptural formation of the figures' bodies, combined with the use of light to illuminate the smooth texture of their skin, creates a subtle realism that contrasts with the preferences of the Mannerists. Carracci's ability to play with light is further showcased in the cloth materials, particularly in the iridescent sheen of Adonis's robe.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
