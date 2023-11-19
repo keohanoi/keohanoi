@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/david-wilkie/the-penny-wedding(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00237/images/ancient-greek-painting/painted-limestone-funerary-slab-with-a-man-controlling-a-rearing-horse-275.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Penny Wedding</h2>
+        <h2 class="artwork-name">Painted Limestone Funerary Slab with a Man Controlling a Rearing Horse</h2>
         <h3 class="artist">
-          David Wilkie
-                    ·  1818
+          Ancient Greek Painting and Sculpture
+                    ·  -275
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wilkie chose to depict a type of marriage ceremony, common in Scotland, where the guests each paid a penny towards the expenses and anything left over went towards the couple’s new home. The subject was already known, having been treated by David Allen (1744-96) in a painting in Beaverbrook Art Gallery, Fredericton, New Brunswick. The idea of the subject would seem to be that no richer couple could be happier, more loving, gracious and handsome, and no father of the bride could offer hospitality more generous and convivial than this, laid on by the community as a whole. Money certainly couldn’t buy a better fiddler than Niel Gow (1727-1807), clearly recognisable here; Robert Burns’s description of his ‘kind open-heartedness, mixed with unmistrusting simplicity’ would probably sum up Wilkie’s intention in the scene as a whole.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">During the Ptolemaic period a distinctive type of subterranean tomb for multiple burials proliferated in the cemeteries around the city of Alexandria. Underground chambers cut into the living rock radiated from a central courtyard open to the sky. Most chambers contained a number of loculi, long narrow niches cut into the walls, which served as burial slots. Some loculi were sealed with painted limestone slabs in the form of small shrines. Here, a lively depiction of a man trying to bridle a horse, while a boy stands behind him, commemorates a man from Thessaly in Northern Greece, who must have been one of the many foreigners who congregated in the wealthy, cosmopolitan Ptolemaic capital.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247108">The MET</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
