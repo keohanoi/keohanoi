@@ -2,27 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/james-tissot/holyday-1876.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/sandro-botticelli/virgin-and-child-with-the-infant-st-john-the-baptistbetween-1500(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Holyday</h2>
+        <h2 class="artwork-name">Virgin and Child with the Infant St. John the Baptist</h2>
         <h3 class="artist">
-          James Tissot
-                    ·  1876
+          Sandro Botticelli
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Holyday, later also known as The Picnic, is an oil painting by French painter <a target="_blank" href="/en/james-tissot">James Tissot</a> (1836–1902), painted in 1876. Tissot moved to England in the year 1871, when he was thirty five years old and settled there. Before moving to London, Tissot was a successful painter of Paris society.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Virgin and Child with the Infant Saint John the Baptist is a tempera painting on wood executed by the Italian Renaissance master <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a> and his studio (Bartolomeo di Giovanni or Raffaelino di'Carli). The tondo, painted in Florence between the years of 1490 and 1500, addresses a central theme of the Italian Renaissance art: the divine motherhood. The work is currently housed in the São Paulo Museum of Art.
 <br>
-<br>It is 30 by 39 inches (76 by 99&nbsp;cm) in size. The painting shows a group of elegantly dressed men and women during a picnic at the pond in the painter's garden. The painting is characterized by the attention to detail and vivid colours. Holyday is held in London's Tate Gallery.
+<br>The iconography of the Madonna with the infant Jesus is one of the most recurrent themes throughout art history. Its origin goes back to the hieratic representations of the High Middle Ages where Mary, crowned, enthroned or standing, presents the divine infant in her arms. The painters of the Italian Renaissance contributed to the widespread representation of the "Virgin of Tenderness", characterized by a more emotional and humane representation of this theme, rather than the strictly sacred approach given by the <a target="_blank" href="/en/artists-by-art-movement/byzantine-art">Byzantine art</a>. In the words of Marcio Doctors, the Renaissance Madonnas mark "the Renaissance spirit which it characterizes: faith in mankind, as subjectivity, placing it in the center of the world. Both the Renaissance and the maternal love embrace the man in the same way when they make the world revolve around him".
 <br>
-<br>Holyday was painted in the back garden of Tissot's London home, near the Lord's Cricket Ground. Autumn is coming, the leaves of the large chestnut tree are changing color, but the rest of the vegetation is still green and luxurious. The low sun shines a bright afternoon light on the scene. On the right is the painter's wife, Kathleen Newton, who appears to avert her eyes from the scene. The men in the painting belong to the well-known I Zingari cricket club, judging by their yellow, red and black hats. The women are overdressed, one of Tissot's idiosyncrasies. The atmosphere is sensual and relaxed and demonstrates a British sense of superiority.
+<br><a target="_blank" href="/en/sandro-botticelli">Botticelli</a> produced a large number of Madonnas during the decades of 1480 and 1490. A considerable part consisted of tondi, in which the artist portrayed Mary, the Divine Child and the Infant Saint John the Baptist in worship. The tondi (tondo, singular) were works of art in circular shape (paintings or sculptures), mostly of sacred or historical themes. They were much appreciated in the 15th century and often ordered by patrons and guilds to decorate palaces or for use as objects of private devotion.
 <br>
-<br>Stylistically, Holyday is striking because of its crystal-clear representation. The work is hyperrealistic and greatly detailed, with sparkling colors. The focus on daily scenes comes from <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionism</a>, which was en vogue in the Paris of those days. The influence of Manet can be recognized, also in the choice of subject, reminiscent of his Le déjeuner sur l'herbe (The Luncheon on the Grass). However, Holyday does not provoke but is suffused with a British conservatism.
+<br>The MASP painting is unanimously dated in the last decade of the 15th century, based on similarities with other works from this period, in which one perceives a change in pictorial style of the author. We emphasize the beautiful structure of the composition, in which the figures of the Virgin and Child stand boldly inside the tondo, hereby freeing himself from the elegant symmetry of his youth. The same compositional clearance can be noted in the details of the angled seat, upon which rests the book Magnificat, supported on the frame of the painting in an almost illusionist fashion. It is equally noteworthy the remarkable intensification of the emotional bond that unites Mary and baby Jesus, unusual in Madonnas executed by the painter in his youth.
 <br>
-<br>Tissot's Holyday was shown in 1877 in London's Grosvenor Gallery as a pendant for A Convalescent, which was also painted by Tissot in his yard. He made studies for both paintings in a single sketchbook. He probably intended the two to be a diptych, though they were quickly separated when sold and never exhibited together afterward. A Convalescent is in the Manchester Art Gallery; Holyday was acquired by the Tate Gallery in 1928.</span>
+<br>The Italian art historian Roberto Longhi notes that the drawing of the scene is structured through "cross and radial lines" and not by "arching flexible lines", which places the work in the aforementioned context of freer composition that marks the maturing style of the painter in the late 15th century. Antonino Santangelo emits a similar opinion, noting that the "free and harmonious intertwining of hands and faces, mobility and precision recall the works of <a target="_blank" href="/en/sandro-botticelli">Botticelli</a> shortly before 1500".
+<br>
+<br>In fact, it is possible to list at least a dozen productions by <a target="_blank" href="/en/sandro-botticelli">Botticelli</a>, all of the last decade of the century, similar in composition to the work of MASP, the closest being the tondo that is conserved at the Sterling and Francine Clark Art Institute in Williamstown, Massachusetts, identical to the title of this work and also dated around 1490.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
