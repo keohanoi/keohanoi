@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00376/images/jean-honore-fragonard/2614276-1024x1024.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/gwen-john/chloe-boughton-leigh-1908.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Coresus at Callirhoe</h2>
+        <h2 class="artwork-name">Chloe Boughton Leigh</h2>
         <h3 class="artist">
-          Jean-Honore Fragonard
-                    ·  1765
+          Gwen John
+                    ·  1908
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting was one of the few in which Fragonard tackled the history painting. Its successful completion allowed Fragonard entrance into the Academy as a “history painter,” although he soon abandoned this style and began painting his frivolous hedonistic paintings for the wealthy. This painting was bought by the King, and reproduced at the Gobelins factory, a tapestry factory in Paris, France. Although it does not have Fragonard’s typical playful elements, such as blushing cheek and simple caresses, as it is a serious work, it does have an underlying current of love and eroticism, which continued to be a theme running throughout his paintings.  </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gwen John trained at the Slade School of Art in London, where her brother Augustus was also a student. She settled in Paris in 1904, working as a model, becoming Rodin's mistress and immersing herself in the artistic world of the metropolis. She lived in France for the rest of her life, exhibiting on both sides of the Channel. The portrait shown here is of a Paris friend, Chloë Boughton-Leigh. The subdued colouring, short foreground and self-absorption of the sitter create a deeply intense atmosphere. John showed it in London, at the New English Art Club.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
