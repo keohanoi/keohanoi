@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/raphael/portrait-of-maddalena-doni-1506.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/stuart-davis/egg-beater-no-4-1928.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Maddalena Doni</h2>
+        <h2 class="artwork-name">Egg Beater No. 4</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1506
+          Stuart Davis
+                    ·  1928
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Maddalena Doni is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by Italian Renaissance master <a target="_blank" href="/en/raphael">Raphael</a>, made in 1506. It is housed in the Pitti Palace in Florence.
-<br>
-<br>The portrait is one of a pair that depict a recently married merchant and his wife.
-<br>
-<br>Agnolo Doni married Maddalena Strozzi in 1503, but Raphael's portraits were probably executed in 1506, the period in which the painter studied the art of <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> most closely. The composition of the portraits resembles that of the Mona Lisa: the figures are presented in the same way in respect to the picture plane, and their hands, like those of the Mona Lisa, are placed on top of one another. But the low horizon of the landscape background permits a careful assessment of the human figure by providing a uniform light which defines surfaces and volumes. This relationship between landscape and figure presents a clear contrast to the striking settings of Leonardo, which communicate the threatening presence of nature.
-<br>
-<br>But the most notable characteristic that distinguishes these portraits from those of Leonardo is the overall sense of serenity which even the close attention to the materials of clothes and jewels (which draw one's attention to the couple's wealth) is unable to attenuate. Every element - even those of secondary importance - works together to create a precise balance.
-<br>
-<br>These works, linked not only by the kinship of the subjects, but also by their evident stylistic homogeneity, mark the beginning of Raphael's artistic maturity.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1927, Stuart Davis affixed an eggbeater, a rubber glove, and an electric fan to a table in his studio. This combination of modern appliances, reminiscent of Dada's appreciation for absurd pairings, became the focal point of his art for a year. Egg Beater, No. 4 is the last in a series of four highly distinctive compositions depicting the same still-life and is often regarded as his first truly abstract painting.<br><br>By choosing seemingly unrelated objects, Davis was able to disregard their utilitarian functions and instead concentrate on the relationships between color, shapes, and space. "My aim," Davis wrote, "was... to strip a subject down to the real physical source of its stimulus." In No. 4, objects are deconstructed and distilled into basic shapes and planes so that their forms become nearly unidentifiable. Overlapping planes and bold colors evoke the improvisation and rhythm of jazz music. While the previous works in the series suggested depth of space through the arrangement of shapes and planes, space in this final piece is ambiguous. Here, Davis offers a more intellectual approach to still-life painting, one that engages the mind rather than the senses.<br><br>Although the artist never considered himself a pure abstractionist, shortly after completing this series, he reintroduced signs, text, and recognizable urban landmarks into his work. Nonetheless, he maintained that the Egg Beater series represented a turning point in his artistic development. He later recalled that it "allowed me to understand certain structural principles that I have continued to use ever since."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
