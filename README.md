@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pablo-picasso/science-and-charity-1897.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/raphael/portrait-of-maddalena-doni-1506.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Science and Charity</h2>
+        <h2 class="artwork-name">Portrait of Maddalena Doni</h2>
         <h3 class="artist">
-          Pablo Picasso
-                    ·  1897
+          Raphael
+                    ·  1506
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Science and Charity is one of the major works from Picasso’s early years of training. At just 15, Picasso felt mature enough to take on large ambitious compositions as the culmination of his academic studies in Barcelona School of Fine Arts that were led by his father Jose Ruiz Picasso, who was the model for the doctor in this painting. Science and Charity was awarded an Honorary Mention at the General Fine Arts Exhibition in Madrid in spring 1897 and the Gold Medal at the Provincial Exhibition in Malaga held afterwards. After that, Joaquin Martinez de la Vega – a painter and a friend of Picasso’s father – held a glass of champagne and, letting a few drops fall on Picasso’s head, baptized him a Painter. And Picasso’s uncle, impressed by this wonderful achievement, sent money so that his nephew could study further in Madrid. However, despite the success, this would be Picasso’s last great work in traditional academic style. He left behind the intention, fostered by his father, to shape a career based on prizes and awards, to seek his artistic path outside and beyond the academy. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Maddalena Doni is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by Italian Renaissance master <a target="_blank" href="/en/raphael">Raphael</a>, made in 1506. It is housed in the Pitti Palace in Florence.
+<br>
+<br>The portrait is one of a pair that depict a recently married merchant and his wife.
+<br>
+<br>Agnolo Doni married Maddalena Strozzi in 1503, but Raphael's portraits were probably executed in 1506, the period in which the painter studied the art of <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> most closely. The composition of the portraits resembles that of the Mona Lisa: the figures are presented in the same way in respect to the picture plane, and their hands, like those of the Mona Lisa, are placed on top of one another. But the low horizon of the landscape background permits a careful assessment of the human figure by providing a uniform light which defines surfaces and volumes. This relationship between landscape and figure presents a clear contrast to the striking settings of Leonardo, which communicate the threatening presence of nature.
+<br>
+<br>But the most notable characteristic that distinguishes these portraits from those of Leonardo is the overall sense of serenity which even the close attention to the materials of clothes and jewels (which draw one's attention to the couple's wealth) is unable to attenuate. Every element - even those of secondary importance - works together to create a precise balance.
+<br>
+<br>These works, linked not only by the kinship of the subjects, but also by their evident stylistic homogeneity, mark the beginning of Raphael's artistic maturity.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
