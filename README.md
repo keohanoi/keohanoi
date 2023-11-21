@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00443/images/judith-leyster/1630boy-playing-the-flute2-1630s.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/jan-siberechts/view-of-a-house-and-its-estate-in-belsize-middlesex-1696.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boy Playing the Flute</h2>
+        <h2 class="artwork-name">View of a House and its Estate in Belsize, Middlesex</h2>
         <h3 class="artist">
-          Judith Leyster
-                    ·  1630
+          Jan Siberechts
+                    ·  1696
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this work, Leyster captures a solitary moment in which a young boy delicately plays a flute. He looks up and out of the frame, as if lost in concentration, or perhaps in the beautiful music itself. The precise placement of his fingers suggests a musician completely at ease with his instrument. At the same time, the composition of the painting is slightly unusual: against this plain interior, Leyster includes a violin and a recorder awkwardly displayed on the wall. The boy's posture is also slightly strange, as he leans back against what looks like a damaged chair. The boy's dreamy gaze suggests the power of music to transport the listener, a power not unlike the power of art.<br><br>There are many similarities between painting and music that run throughout Leyster's career. Art critic Peter Schjeldahl comments particularly on her virtuosic use of color here: "The work's finely modulated browns and grays are breathtaking. They affect like essences of the flute's sound - you practically hear them."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artist began specialising in pictures of country estates when he settled in Britain in the 1670s. The name of the estate's owner, and probable commissioner of the painting, is now lost. At one time thought to be The Grove in Highgate, the building has been identified by local historian Roy Allen as being in Belsize, Middlesex (what is now Belsize Park in northwest London). In 1696, when this picture was made, the whole of Belsize belonged to the Dean and Chapter of Westminster Abbey (the Abbey and other landmarks are visible on the horizon). The road in the foreground is what is now Rosslyn Hill. The coach is heading towards Hampstead.
+<br>The country house and estate portrait, of which Siberechts was the most accomplished practitioner, was a fashionable genre in Britain by the late seventeenth century. The typical bird's-eye view allows a maximum amount of detail to be depicted, including possibly the best recorded vegetable and fruit garden of the period.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
