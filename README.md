@@ -2,27 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/adolph-menzel/the-studio-wall-1872(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/albrecht-durer/portrait-of-jakob-fugger.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Studio Wall</h2>
+        <h2 class="artwork-name">Portrait of Jakob Fugger</h2>
         <h3 class="artist">
-          Adolph Menzel
-                    ·  1872
+          Albrecht Durer
+                    ·  1519
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Studio Wall (1872) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by the German artist <a target="_blank" href="/en/adolph-menzel">Adolph Menzel</a>, now in the collection of the Hamburger Kunsthalle. It is considered one of the "masterpieces of Menzel's maturity", and the artist deemed it his best painting.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Jakob Fugger is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed around 1520.
 <br>
-<br>The painting depicts a red colored wall of the artist's studio at night, upon which are hung a series of plaster casts illuminated from below. The casts include portrait busts, death masks and life masks of friends of the artist, children, classical personae such as Dante, Schiller, and possibly Goethe or Wagner, a dog, and male and female torsos; art historian Werner Hofmann saw this assemblage as a conscious blurring of "the dividing line between fame and anonymity." Numerous commentators have noted that the array of dramatically lit casts "convey an uncanny impression of quasi-animateness."
+<br>Jakob Fugger was one of the richest merchants of Augsburg. He was portrayed by Dürer in 1518, when he had been called to the city by emperor Maximilian I, in the course of the Diet of Augsburg. Here the artist was part of delegation of his home city, Nuremberg, and met numerous personalities, including the Fugger with whom he was in good relationships since his second trip to Venice (1506–1507). The artist, however, executed the portrait later, around 1520.
 <br>
-<br>Studio Wall was preceded by a work of the same title painted in 1852, an oil on paper now in the Alte Nationalgalerie in Berlin. That painting features casts of two arms and a separate hand, the arms arranged so as to suggest a relationship to a body from which they have been removed.
-<br>
-<br>Studio Wall is also seen as related to Menzel's larger painting Iron Rolling Mill (1872–1875), for which it may have served as a study in dramatic lighting, yet it has greater import than that of a merely preparatory exercise, and may have functioned as a kind of memorial: the central death mask is that of the artist's friend Friedrich Eggers, the first critic sympathetic to Menzel's work. Eggers died in August 1872, and the painting is dated from October of that year. A contemplation on the transience of life, Studio Wall is also a bravura piece of alla prima painting.
-<br>
-<br>Interpretations of the work vary greatly. For art historian Julius Meier-Graefe, Studio Wall was a harmonious example of pictorial unity; to the contrary, Hofmann saw the painting as a "coded manifesto", a rejection by Menzel of academic canons in favor of an aesthetic that celebrated the fragmentary and disjointed, and symbolic of the triumph of painting over sculpture. Fried rejects Hofman's view of fragmentariness and anti-academicism, seeing the picture as a structured composition of objects arranged in successive rows. For Fried the likeliest allegorical meaning would be the sublimation of tangible existence to that of "phantasmagorias", a world inhabited by ghosts in the form of plaster casts.</span>
+<br>Dürer portrayed Fugger's bust from three-quarters, looking to the left, above a blue background. The man wears a finely embroidered hat on his head, and a wide coat with fur-lining, as a show of his upper social status.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
