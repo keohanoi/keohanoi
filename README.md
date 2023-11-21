@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/paula-rego/snow-white-playing-with-her-father-s-trophies-1995.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/piero-di-cosimo/perseus-rescuing-andromeda-1510.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Snow White Playing with her Father's Trophies</h2>
+        <h2 class="artwork-name">Perseus Rescuing Andromeda</h2>
         <h3 class="artist">
-          Paula Rego
-                    ·  1995
+          Piero di Cosimo
+                    ·  1510
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Drawing from her own childhood memories, Paula Rego’s work illustrates corrupted folklore, where fairytale and horror converge to portray feminine experience. Recalling childhood visits to the movies with her father, Rego’s Snow White series appropriates the Disney story with unnerving fictional and autobiographical twists. In Snow White Playing With Her Father’s Trophies, Rego uses the allegory of female vanity to underlie a familial politic. The heroine, pictured in a white dress symbolising virginity and innocence, seems wryly aware of her own sexuality. Sat unladylike with legs spread, she prizes the head of a young buck between her knees, representing sexual awakening and insinuating improper affection towards her father. In the background, her stepmother kneels as aging witch, looking on with scorn and envy.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perseus Freeing Andromeda is a painting by the Italian Renaissance painter <a target="_blank" href="/en/piero-di-cosimo">Piero di Cosimo</a>, c. executed in 1510 or 1513 It is housed in the Uffizi Gallery of Florence, Italy.
+<br>
+<br>The painting is mentioned in 1568 by <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>, who states that it was commissioned by Filippo Strozzi the Elder, and gifted by Giovanni Battista Strozzi to a member of Cosimo I de' Medici's personnel.
+<br>
+<br>The work shows the mythological hero Perseus killing the monster who had entrapped Andromeda. Piero gave a great deal of attention to the background, perhaps inspired to the contemporary Flemish school: details include the two characters with a turban on the left, the very detailed painting of the water on the shore, and the fantastic musical instruments.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
