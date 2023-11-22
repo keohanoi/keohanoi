@@ -2,20 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/salvador-dali/lazarus-come-forth-lazare-veni-foras-1964.jpg"
+        src="https://uploads7.wikiart.org/images/roy-lichtenstein/nurse-1964.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lazarus, come forth - Lazare, veni foras (John 11:44)</h2>
+        <h2 class="artwork-name">Nurse</h2>
         <h3 class="artist">
-          Salvador Dali
+          Roy Lichtenstein
                     ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">As with all of Dali's work, there is a dream-like quality here. His image of Lazarus appeals to the fear of death and decay within all living creatures, but has an energy that speaks of life as well. Dali is known for his use of symbolism, but there is not much that is symbolic in this picture. It is more impressionistic, suggesting as it does both death and life in a single image.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nurse, is a quintessential Lichtenstein heroine. His signature Ben-Day dots, her strong features and flawless skin mark her out as a striking woman. Her imposing uniform, the striped fabric of her dress, the stiff white collar and her starched white hat, clearly indicate that she is a member of the nursing profession. Yet her piercing blue eyes, bottle blond hair, and luscious red lips also lend the work a frisson of latent sexuality — less heavenly angel and more femme fatale.
+<br></span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
