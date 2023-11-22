@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/wayne-thiebaud/dressing-wells-1961.jpg"
+        src="https://uploads3.wikiart.org/00454/images/norman-rockwell/newkidsintheneighborhood.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dressing Wells</h2>
+        <h2 class="artwork-name">New Kids in the Neighborhood</h2>
         <h3 class="artist">
-          Wayne Thiebaud
-                    ·  1961
+          Norman Rockwell
+                    ·  1967
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The earliest of use of ketchup by a so-called pop artist may be Wayne Thiebaud’s 1961 Dressing Wells. Text- and label-free, it presents dishes of mustard, mayonnaise, and ketchup in aggressive perspective. The condiments read as paint, and that was the point. Thiebaud was struggling to reconcile painterly abstraction with his premonition of a low-brow, figurative future. Dressing Wells was a breakthrough piece, its slathered pigment prefiguring the frostings and meringues that made Thiebaud famous.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At 73, Rockwell had lost the energy to develop his work in the painstaking way of the previous half-century. Now he would often omit the intermediary step of preparing a detailed charcoal drawing before proceeding to paint in oil. In addition, his color perception was diminishing due to cataracts. Still, his work continued to reach an appreciative audience.<br><br>In his illustration of suburban integration in Chicago's Park Forest community, Rockwell was secure in expressing his philosophy of tolerance. We can see the children will soon be playing with each other, but the face peering from behind a window curtain makes us wonder how the adults will fare.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
