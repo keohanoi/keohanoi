@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/raphael/the-esterhazy-madonna-1508.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/wayne-thiebaud/dressing-wells-1961.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Esterhazy Madonna</h2>
+        <h2 class="artwork-name">Dressing Wells</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1508
+          Wayne Thiebaud
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Esterhazy Madonna is a 1508 painting by <a target="_blank" href="/en/raphael">Raphael</a>, held at the Museum of Fine Arts in Budapest, in Hungary. It was stolen on the night of 5 November 1983, along with other works by Raphael, <a target="_blank" href="/en/giorgione">Giorgione</a>, <a target="_blank" href="/en/tintoretto">Tintoretto</a> and <a target="_blank" href="/en/giovanni-battista-tiepolo">Tiepolo</a> - all the works, including this one, were recovered by the Italian Carabinieri in an abandoned Greek convent near Aigio.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The earliest of use of ketchup by a so-called pop artist may be Wayne Thiebaud’s 1961 Dressing Wells. Text- and label-free, it presents dishes of mustard, mayonnaise, and ketchup in aggressive perspective. The condiments read as paint, and that was the point. Thiebaud was struggling to reconcile painterly abstraction with his premonition of a low-brow, figurative future. Dressing Wells was a breakthrough piece, its slathered pigment prefiguring the frostings and meringues that made Thiebaud famous.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
