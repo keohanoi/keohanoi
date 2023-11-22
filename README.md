@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/raphael/the-transfiguration-1520.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/salvador-dali/lazarus-come-forth-lazare-veni-foras-1964.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Transfiguration</h2>
+        <h2 class="artwork-name">Lazarus, come forth - Lazare, veni foras (John 11:44)</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1520
+          Salvador Dali
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Considered the last painting by Raphael, The Transfiguration was incomplete at the time of his death. It is generally thought that Raphael’s pupil, Giulio Romano, completed the rest of the painting in 1520. Raphael began the high altarpiece in 1516, which was commissioned by Cardinal Giulio de Medici, who later became Pope Clement VII. At the time it was commissioned, Raphael was busy with many other works, so de Medici commissioned another work, The Raising of Lazarus, to make him work faster. After Raphael’s death, de Medici kept the painting, which later taken by French troops to Paris in 1797. It was retuned in 1815, however, and it has been safe at the Vatican, its present location, ever since. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">As with all of Dali's work, there is a dream-like quality here. His image of Lazarus appeals to the fear of death and decay within all living creatures, but has an energy that speaks of life as well. Dali is known for his use of symbolism, but there is not much that is symbolic in this picture. It is more impressionistic, suggesting as it does both death and life in a single image.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
