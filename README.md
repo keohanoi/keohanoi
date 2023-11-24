@@ -2,19 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00288/images/sonia-delaunay/f549a8310acd027c2d82b5b26a7f5ddb.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/raphael/the-madonna-of-foligno-1512.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Simultaneous Dresses (Three Women, Forms, Colours)</h2>
+        <h2 class="artwork-name">The Madonna of Foligno</h2>
         <h3 class="artist">
-          Sonia Delaunay
-                    ·  1925
+          Raphael
+                    ·  1512
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting was originally called <i>Trois femmes, forms, couleurs</i> (Three Women, Forms, Colours), as stated on the label affixed to the back of the painting for the exhibition held at the Grand Palais in Paris in 1926. However, the painter changed this title to <i>Simultaneous Dresses</i> in her personal inventory.<br><br>Sonia Delaunay had been interested in clothing from a very early age, but it was not until 1917, when the revolution cut off her money supply from Russia, that she devoted herself to fashion design as a means of subsistence. After the Delaunays settled in Madrid, Sonia began designing costumes for Diaghilev’s <i>Ballets Russes</i>, which had also taken refuge in the Spanish capital, and to work for the fashion industry. In 1919, encouraged by a string of successes in this field, Sonia opened her first shop in Madrid — <i>Casa Sonia</i> — setting a precedent for the <i>Boutique Simultané</i> established in Paris in 1924.<br><br>Sonia’s first <a target="_blank" href="https://www.wikiart.org/en/sonia-delaunay/simultaneous-dress-1913"><i>Simultaneous dress</i></a>, created in 1913 to dance the tango at the Bal Bullier, was an original piece defined by Apollinaire as “a living painting” and “a sculpture of living forms.” Sonia designed her dresses by joining together small pieces of fabrics in different forms and textures; she combined her simultaneous colors with prints and paired luxury fabrics with coarser textiles, shortened hemlines and sleeves, and lightened shapes, thereby achieving a totally modern image.<br><br><i>Simultaneous Dresses</i> from the Thyssen-Bornemisza collection belongs to a group of paintings in which the painter transfers to canvas the result of her experiments on paper as a fashion designer. Of the three dresses featured in this work, that worn by the central figure reproduces Sonia’s design for the film actress Gloria Swanson. The painting was created for the exhibition held at the Grand Palais in Paris, in 1926.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna of Foligno is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/raphael">Raphael</a>. First painted on wood panel, it was later <a target="_blank" href="/en/paintings-by-media/transferred-to-linen">transferred to canvas</a>.
+<br>
+<br>The painting was executed for Sigismondo de' Conti, chamberlain to Pope Julius II, in 1511. It was placed on a high altar of the church of Santa Maria in Aracoeli on Capitoline Hill (Italian: Campidoglio) in Rome, where Sigismondo was buried in 1512.
+<br>
+<br>It was moved by Anna Conti, a descendant of Sigismondi Conti, to the monastery of St. Anne in Foligno in 1565 and remained there for more than two centuries, hence the name.
+<br>
+<br>In 1799 it was carried to Paris, France by Napoleon. There, in 1802, the painting was transferred from panel to canvas by Hacquin and restored by Roser of Heidelberg. A note was made by the restorer: "Rapporto dei cittadini Guijon Vincent Tannay e Berthollet sul ristauro dei quadri di Raffaello conosciuto sotto il nome di Madonna di Foligno." 
+<br>
+<br>In 1815, after the Battle of Waterloo, it was returned to Italy, where it was placed in the room with the Transfiguration in the Pinacoteca Vaticana of the Vatican Museum in the Vatican City.
+<br>
+<br>The painting is a sacra conversazione, where holy figures seem to be in conversation and draw the audience into their discussion. Rather than sitting under a canopy, of the Umbrian or Florentine style, the Virgin is seated on clouds, embracing Jesus, while surrounded by angels. They look down upon Sigismonde de' Conti, kneeling in a red, fur lined cape. Conti is presented by St. Jerome on the right with his lion, appealing for the Virgin's protection. On the left are the kneeling St. Francis of Assisi and St. John the Baptist, who is standing and wearing a tunic of skins. As St. John points to Jesus, he clearly looks out to us, pulling us in, while St. Francis points to us and looks at the Christ Child. Between the men is an angel, linking the saints of earth to the seraph host of heaven. Behind them are the towers of Foligno.
+<br>
+<br>Painted during Raphael's Roman period, it is a testament to his artistic maturity, evidenced in the paintings composition, coloring and form.
+<br>
+<br>Conti commissioned the painting to commemorate his survival of a shell that exploded near him during the Siege of Foligno, his home town. He credited his safety to heavenly intervention.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
