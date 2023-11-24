@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/sandro-botticelli/virgin-and-child-with-the-infant-st-john-the-baptistbetween-1500(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00362/images/ernest-hebert/les-fienaroles-de-san-germano92974.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Virgin and Child with the Infant St. John the Baptist</h2>
+        <h2 class="artwork-name">Girl selling hay in San Germano</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1500
+          Ernest Hébert
+                    ·  1857
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Virgin and Child with the Infant Saint John the Baptist is a tempera painting on wood executed by the Italian Renaissance master <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a> and his studio (Bartolomeo di Giovanni or Raffaelino di'Carli). The tondo, painted in Florence between the years of 1490 and 1500, addresses a central theme of the Italian Renaissance art: the divine motherhood. The work is currently housed in the São Paulo Museum of Art.
-<br>
-<br>The iconography of the Madonna with the infant Jesus is one of the most recurrent themes throughout art history. Its origin goes back to the hieratic representations of the High Middle Ages where Mary, crowned, enthroned or standing, presents the divine infant in her arms. The painters of the Italian Renaissance contributed to the widespread representation of the "Virgin of Tenderness", characterized by a more emotional and humane representation of this theme, rather than the strictly sacred approach given by the <a target="_blank" href="/en/artists-by-art-movement/byzantine-art">Byzantine art</a>. In the words of Marcio Doctors, the Renaissance Madonnas mark "the Renaissance spirit which it characterizes: faith in mankind, as subjectivity, placing it in the center of the world. Both the Renaissance and the maternal love embrace the man in the same way when they make the world revolve around him".
-<br>
-<br><a target="_blank" href="/en/sandro-botticelli">Botticelli</a> produced a large number of Madonnas during the decades of 1480 and 1490. A considerable part consisted of tondi, in which the artist portrayed Mary, the Divine Child and the Infant Saint John the Baptist in worship. The tondi (tondo, singular) were works of art in circular shape (paintings or sculptures), mostly of sacred or historical themes. They were much appreciated in the 15th century and often ordered by patrons and guilds to decorate palaces or for use as objects of private devotion.
-<br>
-<br>The MASP painting is unanimously dated in the last decade of the 15th century, based on similarities with other works from this period, in which one perceives a change in pictorial style of the author. We emphasize the beautiful structure of the composition, in which the figures of the Virgin and Child stand boldly inside the tondo, hereby freeing himself from the elegant symmetry of his youth. The same compositional clearance can be noted in the details of the angled seat, upon which rests the book Magnificat, supported on the frame of the painting in an almost illusionist fashion. It is equally noteworthy the remarkable intensification of the emotional bond that unites Mary and baby Jesus, unusual in Madonnas executed by the painter in his youth.
-<br>
-<br>The Italian art historian Roberto Longhi notes that the drawing of the scene is structured through "cross and radial lines" and not by "arching flexible lines", which places the work in the aforementioned context of freer composition that marks the maturing style of the painter in the late 15th century. Antonino Santangelo emits a similar opinion, noting that the "free and harmonious intertwining of hands and faces, mobility and precision recall the works of <a target="_blank" href="/en/sandro-botticelli">Botticelli</a> shortly before 1500".
-<br>
-<br>In fact, it is possible to list at least a dozen productions by <a target="_blank" href="/en/sandro-botticelli">Botticelli</a>, all of the last decade of the century, similar in composition to the work of MASP, the closest being the tondo that is conserved at the Sterling and Francine Clark Art Institute in Williamstown, Massachusetts, identical to the title of this work and also dated around 1490.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After obtaining the First Grand Prix de Rome for painting in 1839, Ernest Hébert moved to Italy and was quickly fascinated by the country he discovered. Returning to France at the end of 1847, he obtained his first success at the Salon of 1850-1851 with La mal'aria (Musée d'Orsay), a painting representing peasants from the Pontine marshes. He traveled again to Italy in 1853-1855 and arrived in San Germano, in the north of the country, on the morning of October 28, 1853. From the window of the room he rented, he discovered the spectacle of young girls selling hay - les fienaroles - and decides to stay to make a table. He immediately looked for models, transformed his room into a workshop and remained there until January 7, 1854.<br>The finished work is presented in Paris at the Salon of 1857. It is because he is tired of history painting and workshop conventions that Hébert turns to subjects of everyday life, drawn from the Italian countryside. His preference goes towards young girls with pensive and smoky eyes. This approach is not without analogy with the realism of time, despite a certain sentimentalism. In a letter to the landscape designer Jules Dupré, written from San Germano, Hébert explains his new orientation: "I want to talk about what led me to come and do a painting in a bad inn in the Apennines [... ]. I have resolved not to paint more than the thing or the fact that will have moved me. I believe that it is the best way to remain truly an artist and to walk in the path of originality ".<br><br>(Info from the site: translated, and added )</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
