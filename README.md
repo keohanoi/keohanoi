@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00197/images/stuart-davis/142246-primary-0-440x400.jpg"
+        src="https://uploads8.wikiart.org/00442/images/andre-derain/1951-379-560px-0.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Multiple Views</h2>
+        <h2 class="artwork-name">Landscape</h2>
         <h3 class="artist">
-          Stuart Davis
+          Andre Derain
+                    ·  1906
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In February 1918 Stuart Davis was invited to participate in the Exhibition of Indigenous Painting at Gertrude Vanderbilt Whitney’s Whitney Studio Club at 8 West Eighth Street in New York. The participating artists were asked to draw lots for canvases, and then to spend three days painting them on-site. Davis’s contribution to the event was Multiple Views, an unusual composite of paintings and sketches that he had made while working in the historic fishing town of Gloucester, Massachusetts, and that he apparently managed to recall or consult while working on the painting. The images include a car at a gas pump, a garage, a churchyard, and bits of seascape, all anchored by two women in green, one standing and one seated, looking into the distance.<br><br>In 1953 Davis recalled that Multiple Views was “made out of things I had been painting recently and had in my mind. . . . I had done that kind of composition before that time . . . composing things that you don’t usually see at one time. I have drawings done in that manner.” Combining vignettes to create a single image was a common practice in cartooning, and Davis had employed it in ink drawings the previous year. It is also possible that Davis used Multiple Views to explore cubist ideas about simultaneity, discontinuous space, and shifting viewpoints, while retaining naturalistic imagery. However problematic and complex, Multiple Views is an important early work whose insistent two-dimensionality and prominent use of words and signage (in the garage at right) make it a harbinger of Davis’s mature work.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"André Derain (French, 1880–1954), Landscape. Oil on canvas, about 1906. 21 in. by 31 ¾ in. Purchased with funds from the Libbey Endowment, Gift of Edward Drummond Libbey, 1951.379. Gallery 3<br>“I am aware that the realist period in painting is over. We are about to embark on a new phase… I believe that lines and colors are intimately related and enjoy a parallel existence from the very start, and allow us to embark on a great independent and unbounded existence.” — André Derain, 1905<br><br>André Derain here transforms the traditional subject of the landscape with thick black outlines, strong brushstrokes, and bold layers of color. The inspiration of nature remains important, but the work is just as much a world of the artist’s own creation as Derain takes liberties of creativity and self-expression.<br><br>Studying engineering in Paris as a young man, Derain befriended painters Georges Rouault and Henri Matisse and began to pursue his own artistic desires. A 1901 Van Gogh exhibition was hugely influential and Derain and his peers, spurring interest in expressive color and abstracted form. Reviewing an exhibition of Derain, Matisse, and other artists in 1905, a critic pronounced them fauves, or wild beasts, for the boldness of their color and line (the artists’ brash style became known as Fauvism)."<br>Toledo Museum of Art</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
