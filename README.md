@@ -2,41 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00142/images/titian/polyptych-of-the-resurrection.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00281/images/sergio-illuminato/optical-perceptions.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Polyptych of the Resurrection</h2>
+        <h2 class="artwork-name">OPTICAL PERCEPTIONS QUES</h2>
         <h3 class="artist">
-          Titian
-                    ·  1522
+          Sergio Mario Illuminato
+                    ·  2020
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Averoldi Polyptych is a painting by the Italian late Renaissance painter <a target="_blank" href="/en/titian">Titian</a>, dating to 1520–1522 and in the basilica church of Santi Nazaro e Celso in Brescia, northern Italy.
-<br>
-<br>It is signed "Ticianus Faciebat / MDXXII" on the column of the panel with St. Sebastian.
-<br>
-<br>The work was commissioned by Altobello Averoldi, papal legate in Venice, to Titian at the time he was the official painter of the Republic of Venice. The work was delivered in 1522, as testified by Titian's signature in the lower right panel. The large polyptych was placed at the high altar of the church of Santi Nazaro e Celso of Brescia, then part of the Venetian mainland possessions, replacing another altarpiece by Vincenzo Foppa (of which now a Nativity of Jesus remains in the church of Santa Maria Assunta at Chiesanuova, as well as two side panels in the Pinacoteca Tosio Martinengo).
-<br>
-<br>A first version of the St. Sebastian panel was offered to Alfonso d'Este of Ferrara as a compensation for his late in the realization of the Bacchanalia. The Duke declined the offer, and the early St. Sebastian was perhaps sent to Mantua, where one such painting is mentioned among the artworks sold by the Gonzaga to Charles I of England, although it is no more known afterwards.
-<br>
-<br>Averoldi subsequently also started to complain about the lateness of delivery.
-<br>
-<br>The use of compartment-divided polyptych, a solution rather old fashioned for the time, was surely an explicit demand of Averoldi. Titian obtained anyway a certain degree of unity, although not a spatial or architectural one as in the 15th century polyptychs: the Veneto painter adopted instead a chromatic-dynamic and light convergence towards the central scene.
-<br>
-<br>The panels are:
-<br>
-<br>The work inspired several Brescian Renaissance painters, including Savoldo and Moretto
-<br>
-<br>The central scene depicts a triumphant and blazing Christ above a dawn dark yellow and grey sky, who holds the Crusader banner as an emblem of the Christian Catholic church. Under him is a group of soldiers with armors.
-<br>
-<br>The work shows the influence of <a target="_blank" href="/en/raphael">Raphael</a>'s works such as the Transfiguration (the centripetal position of Christ) and the fresco of the Deliverance of Saint Peter for the quasi-night atmosphere Another possible influence is that of Danube school, in details such as the landscape illumination and the northern European fashion of the ideal Jerusalem in the background.
-<br>
-<br>The left panel show the saints Nazarius and Celsus, to which the church housing the altar was dedicated, on a gloomy background. Nazarius wear a shining armor, while his disciple, Celsus, is behind him. The kneeling donoris averoldi the then papal legate to venice is portrayed from profile, and is stylistically reminiscent of the depiction of Sigismondo de' Conti in Raphael's Madonna of Foligno. The influence of Titian's master, <a target="_blank" href="/en/giorgione">Giorgione</a>, is also visible in the calm atmosphere and the dull colors.
-<br>
-<br>The right panel shows the traditional Martyrdom of Saint Sebastian, although in this case the saint is depicted in a rather contorted position which likely derived from <a target="_blank" href="/en/michelangelo">Michelangelo</a>'s Punishment of Aman in the Sistine Chapel ceiling, or from Raphael's Fire of Borgo also in the Vatican. The arms are tied to a trunk at different heights, while the legs are also differently articulated due to the presence of a column section.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is largely composed of a single shade of indigo, known as the color of the night, mixed with various shades of white. Two main blue-white presences float on the canvas which - one in front of the other - appear just beyond the limits of materiality and concrete representation. These 2 images move between liquid and gaseous states with respect to the figure placed in the foreground, thanks to a less misty and apparently solid brush stroke. The painting seems to suggest that the artist has two eyes, one to look at reality and the other to see hidden things. The reflection on the movements of the psyche out of focus must be able to turn the gaze in its priorities to change the perception of the facts and sometimes get rid of the cages.<br><br>Questo lavoro è in gran parte composto da un’unica sfumatura di indaco, conosciuto come il colore della notte, mescolato a varie gradazioni di bianco. Sulla tela fluttuano due presenze principali di colore blu-bianco che - uno di fronte all’altra - appaiono appena oltre i limiti della materialità e della rappresentazione concreta. Queste 2 immagini si muovono tra stati liquidi e gassosi rispetto alla figura posta di spalle in primo piano, grazie ad una pennellata meno nebbiosa e apparentemente solida. Il dipinto sembra suggerire che l’artista ha due occhi, uno per guardare la realtà e l’altro per vedere le cose nascoste. La riflessione sui movimenti della psiche fuori fuoco devono poter capovolgere lo sguardo nelle sue priorità per cambiare la percezione dei fatti e talvolta liberarci delle gabbie.<br><br>Ce travail est en grande partie composé d'une seule nuance d'indigo, connue comme la couleur de la nuit, mélangée à diverses nuances de blanc. Deux principales présences bleu-blanc flottent sur la toile qui, l'une devant l'autre, apparaissent juste au-delà des limites de la matérialité et de la représentation concrète. Ces 2 images se déplacent entre les états liquide et gazeux par rapport à la figure placée au premier plan, grâce à un coup de pinceau moins brumeux et apparemment solide. La peinture semble suggérer que l'artiste a deux yeux, l'un pour regarder la réalité et l'autre pour voir les choses cachées. La réflexion sur les mouvements de la psyché floue doit pouvoir tourner le regard dans ses priorités pour changer la perception des faits et parfois se débarrasser des cages.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
