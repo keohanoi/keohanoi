@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/joan-miro/not_detected_227933.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00250/images/57726d80edc2cb3880b482a5/apollo-and-diana-attacking-the-children-of-niobe-by-jacques-louis-david.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Beautiful Bird Revealing the Unknown to a Pair of Lovers (from the Constellation series)</h2>
+        <h2 class="artwork-name">Diana and Apollo piercing with their arrows the children of Niobe</h2>
         <h3 class="artist">
-          Joan Miro
-                    ·  1941
+          Jacques-Louis David
+                    ·  1772
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In his Constellations series of 1940-1, Miró set about to create new challenges in composition and then to solve them. One from this series of ten multi-media works on paper, The Beautiful Bird Revealing the Unknown to a Pair of Lovers, features a reducedpalette, including a solid background that emphasizes the simplified forms and lines that together mimic the appearance of a complex constellation in the night sky. In the midst of producing this series, Miró was forced to flee with his family from France to Mallorca to escape advancing German troops. Evidently the family took little else with them aside from these paintings. The crowded, chaotic feeling of these compositions in some ways echo Miró'sfeelings regarding the violent upheaval in Europe at the time.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana and Apollo Killing Niobe's Children is a 1772 painting by <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>, now in the Dallas Museum of Art. He produced it to compete for the Prix de Rome. In the <a target="_blank" href="/en/artists-by-art-movement/rococo">Rococo</a> style which marked his early period, it was emblematic of the conflict between David and the Académie royale de peinture et de sculpture jury, which refused him the prize followed a pre-arranged vote.<br></span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
