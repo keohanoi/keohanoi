@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00164/images/kano-eitoku/1280px-kano-eitoku-cypress-trees.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00108/images/francis-bacon/study-of-a-dog-1952.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cypress Trees</h2>
+        <h2 class="artwork-name">Dog</h2>
         <h3 class="artist">
-          Kanō Eitoku
-                    ·  1590
+          Francis Bacon
+                    ·  1952
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Cypress Trees (檜図 hinoki-zu) is a Kanō-school byōbu or folding screen attributed to the Japanese painter Kanō Eitoku (1543–1590), one of the most prominent patriarchs of the Kanō school of Japanese painting. The painting dates to the Azuchi–Momoyama period (1573–1615). Now in Tokyo National Museum, it has been designated a National Treasure</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bacon used a variety of strategies to represent what one commentator described as 'the anguish of contemporary life'. Here we see his use of animals to evoke aggression, vulnerability or both. The image of the dog derived from Eadward Muybridge's time-lapse photographs of animals in motion. Bacon smeared the paint to suggest what seems to be demented movement. In contrast the setting, depicted with an economy of means, was based on the sea front in Monte Carlo, where he had lived from 1946 to 1950.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
