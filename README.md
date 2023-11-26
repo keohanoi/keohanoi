@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00105/images/louis-van-lint/vlwildautumn1960.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00103/images/pieter-bruegel-the-elder/1280px-bruegelsanmartin.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Wild Autumn</h2>
+        <h2 class="artwork-name">The Wine of Saint Martin's Day</h2>
         <h3 class="artist">
-          Louis Van Lint
-                    ·  1960
+          Pieter Bruegel the Elder
+                    ·  1568
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Louis Van Lint (December 25, 1909 – December 27, 1986) was a Belgian painter, major figure of the Belgian post-war <a target="_blank" href="/en/artists-by-art-movement/abstract-art">abstraction</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Wine of Saint Martin's Day is the largest painting by <a target="_blank" href="/en/pieter-bruegel-the-elder">Pieter Bruegel the Elder</a>. It is currently held in the Museo del Prado, Madrid, where it was identified as a Breugel original in 2010. Like much of Bruegel's work it depicts peasant life, in this case a festival known as St. Martin's Day, which involves drinking the first wine of the season.
 <br>
-<br>Louis Van Lint studied painting at the Academy of Saint-Josse-ten-Noode (Brussels) under Henry Ottevaere and Jacques Maes until 1939. He studied sculpture and architecture as well. His early work reflects a traditional figurative painting style with a unique sense of color. In 1940 he founded the group "La Route Libre" with Gaston Bertrand and Anne Bonnet. His art was influenced to some degree by the animist movement, but he eventually broke away with the presentation of his painting, The Flayed Body (L'Ecorche, 1943), a shocking expression of his wish for more artistic freedom that consequently sounded a revolt against animism. As his style matured, he switched to <a target="_blank" href="/en/artists-by-art-movement/abstract-art">abstraction</a> in which he excelled as colorist and master of form. After World War II he co-founded The Young Belgian Painters (La Jeune Peinture Belge) with Gaston Bertrand, Anne Bonnet and some others. Van Lint experimented with geometric abstraction for a decade, and then, influenced by the French painter <a target="_blank" href="/en/jean-rene-bazaine">Bazaine</a>, he started his lyrical abstraction period. He participated in the demonstrations and exhibitions of the CoBrA group. In 1958, The Solomon R. Guggenheim Foundation gave him a prize and in 1960 he became a member of the Royal Academy of Belgium. In the 1960s, he introduced Hergé to abstract painting and provided him with private lessons for one year.
+<br>The picture depicts a popular festival celebrated on 11 November. Although it is not a religious painting as such, it contains references to Christianity. There is a roadside cross, which the peasants seemingly ignore, and among the many figures is a group which alludes to the legend of St Martin of Tours dividing his cloak to share it with a beggar. This idea of having an important theme relegated to the side of the painting is paralleled in, for example, Landscape with the Fall of Icarus, which also highlights ordinary events.
 <br>
-<br>He has long been represented in Belgian section in outstanding exhibitions of contemporary painting and his work is held by several museums all over the world such as the Royal Museums of Fine Arts of Belgium, the Uffizi Gallery of Florence, the Guggenheim and the Brooklyn museums in New York, the Carnegie Museum of Art in Pittsburgh, and the São Paulo Contemporary Art Museum in Brazil.
+<br>The picture has been dated on stylistic grounds to the 1560s. It is one of several surviving works by this artist executed in glue-size on linen (Tüchlein). By the early twenty-first century, when its owners took it to the Prado for restoration, the painting was not in a good state of conservation . This is not surprising as the fragile medium tends to cause conservation problems. (On the other hand, The Blind Leading the Blind, one of the other Bruegels in this medium, is in relatively good condition). After restoration, the painting was put on public display in the Prado.
 <br>
-<br>All along his life, Van Lint collected antique tools chosen for their harmonious shapes. Part of the collection decorated a wall of his living room and aroused the curiosity and interest of many famous guests.
+<br>The work was identified as a Bruegel in 2010 at the Museo del Prado in Madrid. A study of the surface using X-rays revealed fragments of Bruegel's signature, thereby confirming his authorship. It was subsequently acquired by the Prado for less than its value on the open market.
 <br>
-<br>Monographs
-<br>
-<br>Selected books</span>
+<br>The Wine of Saint Martin's Day matches the description of a painting which was inventoried in the collection of the Gonzaga dukes of Mantua in the early seventeenth century. However, there is some doubt as to whether the painting in Mantua was the painting now in the Prado. It might, for example, have been a related painting now in Vienna's Kunsthistorisches Museum, which shows the group around St Martin. The earliest documentary evidence which definitely relates to the work now in the Prado Museum is an inventory of the collection of a Spanish aristocrat, Luis Francisco de la Cerda, the ninth duke of Medinaceli. The inventory was drawn up after the duke's death in the early eighteenth century: he is assumed to have acquired the painting in Italy around the end of the seventeenth century.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
