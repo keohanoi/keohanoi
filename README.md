@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/grant-wood/american-gothic-1930.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/gilbert-stuart/horatio-gates-1794.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">American Gothic</h2>
+        <h2 class="artwork-name">Horatio Gates</h2>
         <h3 class="artist">
-          Grant Wood
-                    ·  1930
+          Gilbert Stuart
+                    ·  1794
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Grant Wood adopted the precise realism of 15th-century northern European artists, but his native Iowa provided the artist with his subject matter. American Gothic depicts a farmer and his spinster daughter posing before their house, whose gabled window and tracery, in the American gothic style, inspired the painting's title. In fact, the models were the painter's sister and their dentist. Wood was accused of creating in this work a satire on the intolerance and rigidity that the insular nature of rural life can produce; he denied the accusation. American Gothic is an image that epitomizes the Puritan ethic and virtues that he believed dignified the Midwestern character.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This portrait, representing Revolutionary War hero General Horatio Gates (1728–1806), was painted long after he led his troops to victory at the Battle of Saratoga in 1777. Although his military career was turbulent, the English-born Gates is represented in the uniform of a brigadier general, decorated with the medal that Congress ordered struck to commemorate his triumph at Saratoga. In his hand is a copy of the Saratoga Convention. The painting descended in the family of Gates' good friend, Colonel Ebenezer Stevens. The work is a blend of Stuart's more painterly English style and the Copleyesque forthrightness that defined American high style.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
