@@ -2,25 +2,24 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/tintoretto/the-last-supper-1594.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00381/images/ernest-meissonier/meissonier-ernest-1815-1891-napoleon-everett.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last Supper</h2>
+        <h2 class="artwork-name">1814. Campagne de France (Napoleon and his staff returning from Soissons after the Battle of Laon)</h2>
         <h3 class="artist">
-          Tintoretto
-                    ·  1594
+          Ernest Meissonier
+                    ·  1864
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Last Supper is a painting by the Italian Renaissance artist <a target="_blank" href="/en/tintoretto">Jacopo Tintoretto</a>. An oil painting on canvas executed in 1592–94, it is housed in the Basilica di San Giorgio Maggiore in Venice, northern Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting—in a small format rather unusual for a painter of military history—indicates Meissonier's taste for seventeenth-century Flemish and Dutch painting and demonstrates his nimble, polished style. Despite its smallness, the vast expanse of desolate plain and leaden sky give breadth to the scene as does the dilated perspective around the central figure of the Emperor magnified by a slightly low angle.
+<br>The least details are minutely recorded: Napoleon's sprouting beard, the veins on the horse's legs, the snow dirtied by the marching troops... the Director of the Ecole des Beaux Arts, Charles Blanc, said that Meissonier "painted grandly in a small size". The artist applied the same meticulous approach, but as a historian this time, to his preparatory research: he collected abundant documentation, questioned many eyewitnesses and tried unsuccessfully to borrow the Emperor's grey coat.
 <br>
-<br>Tintoretto depicted the Last Supper several times during his artistic career. His earlier paintings for the Chiesa di San Marcuola (1547) and for the Chiesa di San Felice (1559) depict the scene from a frontal perspective, with the figures seated at a table placed parallel to the picture plane. This follows a convention observed in most paintings of the Last Supper, of which Leonardo da Vinci's late 1490s mural painting in Milan, Italy, is perhaps the best-known example.
+<br>Meissonier's approach was part of the historical realism movement which invaded painting and sculpture under the Second Empire. The episode he has chosen, although it occurred after several victories, announces forthcoming defeats. There is no action or event, just an atmosphere of loneliness and despondency. The doubts and resignation felt by the officers and the troops are palpable and are opposed to the determination that emanates from the isolated figure of Napoleon. These feelings are accentuated by the colour range: the whole scene uses brown and grey tones, subdued, deadened registers. The protagonists are not trampling virgin snow, but muddy ground.
 <br>
-<br>Tintoretto's painting of 1592–94, a work of his final years, departs drastically from this compositional formula. The centre of the scene is occupied not by the apostles but instead by secondary characters, such as a woman carrying a dish and the servants taking the dishes from the table. The table at which the apostles sit recedes into space on a steep diagonal. Also personal is Tintoretto's use of light, which appears to come into obscurity from both the light on the ceiling and from Jesus' aureola. A host of angels hover above the scene.
-<br>
-<br>Tintoretto's Last Supper makes use of <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> devices, notably its complex and radically asymmetrical composition. In its dynamism and emphasis on the quotidian—the setting is similar to a Venetian inn—the painting points the way to the <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a>. "The ability of this dramatic scene to engage viewers was well in keeping with Counter-Reformation ideals and the Catholic Church's belief in the didactic nature of religious art."</span>
+<br>Campaign of France, 1814 is in fact the first painting of an unfinished cycle of Napoleon's conquests, which brought Meissonier great acclaim.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
