@@ -2,20 +2,24 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/peter-paul-rubens/helene-fourment-with-her-children-1637.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/francesco-hayez/sicilian-evenings-painting-series-scene-3-1846.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Helene Fourment with her Children</h2>
+        <h2 class="artwork-name">The Sicilian Vespers (Version III)</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1637
+          Francesco Hayez
+                    ·  1846
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Helena Fourment with Children is a c.1636 painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, showing his second wife Helena Fourment with their son Frans (born 12 July 1633) in her arms and their daughter Clara Johanna (born 18 January 1632) standing to their left. It was acquired by Louis XVI of France in 1784 and is now in the Louvre Museum in Paris.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Sicilian Vespers is the title of three works by the Italian artist <a target="_blank" href="/en/francesco-hayez">Francesco Hayez</a>, all showing the outbreak of the Sicilian Vespers.<br>
+<br>
+<br>Measuring 150×200&nbsp;cm, the first version was commissioned by marchioness Visconti d'Aragona. Hayez produced it in the Brera studio in Milan in 1822.. The second version measures 91×114&nbsp;cm and was commissioned in 1826-1827 by count Arese, recently released from prison. Both these versions are now in private collections, whilst the third version (225×300&nbsp;cm) produced in 1846 is now in the Galleria nazionale d'arte moderna e contemporanea in Rome - this version was produced for Vincenzo Ruffo, principe di Sant'Antimo, Hayez's main patron - it and a portrait of Ruffo's wife Sarah Louise Strachan Ruffo were two of several produced for him while Hayez was staying in the Ruffo family home in Naples. .<br>
+<br>
+<br><br></span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
