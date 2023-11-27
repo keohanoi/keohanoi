@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/img-8517.jpg"
+        src="https://uploads7.wikiart.org/images/john-william-waterhouse/the-crystal-ball-1902.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seven Seasons of the Spirit. 4. Coming back home</h2>
+        <h2 class="artwork-name">The Crystal Ball</h2>
         <h3 class="artist">
-          Gian Maria Tosatti
-                    ·  2015
+          John William Waterhouse
+                    ·  1902
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Coming back home</i> reflects on salvation and the strength you need to hold it. It is an installation made by a sequence of defining moments, almost a decomposition of human life in linked scenes, inside a computable perimeter, which is suspended in a large vacuum of time, in a desperate solitude.<br>Here we are in the aftermath of a catastrophe, of a season in hell, walking the border of the abyss between a new fall and the beginning of a rise.<br><br>(ex Ospedale Militare, Napoli)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crystal Ball is a painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a> completed in 1902. Waterhouse displayed both it and The Missal in the Royal Academy of 1902. The painting shows the influence of the Italian Renaissance with vertical and horizontal lines, along with circles "rather than the pointed arches of the Gothic".
+<br>
+<br>Part of a private collection, the painting has been restored to show the skull which had been covered by a previous owner.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
