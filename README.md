@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/pavel-filonov/the-family.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/ben-nicholson/sept-8-54-torcello-1954.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Peasant Family (The Holy Family)</h2>
+        <h2 class="artwork-name">Sept 8-54 (Torcello)</h2>
         <h3 class="artist">
-          Pavel Filonov
-                    ·  1914
+          Ben Nicholson
+                    ·  1954
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Peasant Family, otherwise known as The Holy Family, is an earlier work by Filonov, but it still illustrates the artistic concepts that the artist would make explicit in his later teachings. One of the tenets of his “Ideology of Analytical Art,” the text that he wrote to teach analytical art to his students, states that the each time the brush makes contact with canvas, it records the inner psychical processes taking place in the artist. Therefore, the entire work is the full recording of the mind of the person who completed the painting. As such, this painting is more than a representation of a family, it expresses Filonov’s intellectual understanding and emotional awareness of the subject. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nicholson spent June 1954 in Venice. Here he had a much-admired display of his work in that year's Biennale. This picture is apparently a memory of Torcello, the small island across the Lagoon from Venice famous for its Byzantine mosaics in the Cathedral. However, it is also well known for its fine restaurants, and Nicholson's picture appears to show some goblets and a caraffe on a table top. Still life occupied him throughout his career, just as it had his father. 'Torcello' was painted in St Ives after Nicholson's return from Italy.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
