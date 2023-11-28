@@ -2,19 +2,35 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00129/images/john-william-waterhouse/the-siren.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/john-everett-millais/ophelia.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Siren</h2>
+        <h2 class="artwork-name">Ophelia</h2>
         <h3 class="artist">
-          John William Waterhouse
-                    ·  1900
+          John Everett Millais
+                    ·  1852
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In <i>The Siren </i> (c.1900), John William Waterhouse depicts an exhausted shipwreck survivor clinging to a rock. He sees above him a beautiful young girl sitting on a rock playing harp. The female figure is the siren, a magical creature that inhabits the ocean and lures sailors to their doom with her beautiful song. In the painting, she holds an abalone shell harp and wears a pearl decoration in her hair. She is in the process of transforming into a mermaid, the lower parts of her legs are turning into fish scales and fins. Her auburn hair color is also significant, as it became an attribute of the femme fatale in the 19th century. The siren’s facial expression is passive and enigmatic, so it is unclear whether she intends to help or harm the sailor.<br><br>Waterhouse created a series of oil sketches and pencil drawings of sirens and mermaids. They were used for several paintings such as <a target="_blank" href="https://www.wikiart.org/en/john-william-waterhouse/a-mermaid-1900"><i>A Mermaid</i></a> (1900), which was probably inspired by Alfred Tennyson’s poem <i>The Mermaid</i> (1830 ). In <i>A Mermaid</i>, the artist portrays a mermaid alone on a rocky beach: she is combing her long hair and singing the song of the sirens. <i>The Siren</i> was also inspired by the same series of sketches, and the initial idea for the composition came from <i>Poetic Works</i> of Percy Bysshe Shelley. However, unlike the painting, the sketch depicts a trio of mermaids. A possible inspiration for <i>The Siren</i> was <a target="_blank" href="https://www.wikiart.org/en/edward-burne-jones/the-depths-of-the-sea"><i>The Depths of the Sea</i></a> (1887) by <a target="_blank" href="https://www.wikiart.org/en/edward-burne-jones">Edward Burne-Jones</a> that shows a mermaid dragging a sailor to the bottom of her watery grotto. In both paintings, the sirens seem like serene creatures that are unaware of the deadly effect of their song.<br><br>Waterhouse was attracted to the character of the siren for the same reason he was fond of subjects like Circe, Medea, and Lamia – all they are female characters whose beauty and power symbolize the dangers of femininity. In <i>The Siren</i>, Waterhouse focused on the intense encounter between the sailor and the siren without referencing a specific legend, myth, or literary narrative. This greatly differs from his earlier depiction of sirens in the painting <a target="_blank" href="https://www.wikiart.org/en/john-william-waterhouse/ulysses-and-the-sirens-1891"><i>Odysseus and the Sirens</i></a> (1891), in which the sirens, half woman-half-bird launch a fierce attack on Odysseus’s ship. In <i>Odysseus and the Sirens</i>, the scene suggests a noisy and chaotic environment in which the sirens viciously attack the sailors.  In contrast, <i>The Siren</i> captures an eerie, quiet atmosphere that emphasizes the tension between the seductress and the sailor, who is potentially her prey. The intimate connection between the siren and the sailor is similar to that between the male and female sitters in Waterhouse’s painting <a target="_blank" href="https://www.wikiart.org/en/john-william-waterhouse/nymphs-finding-the-head-of-orpheus-1900"><i>Nymphs Finding the Head of Orpheus</i></a> (1900). In this instance, the young nymphs seemed hypnotized by the musician’s head floating in the water. Like <i>The Siren</i>, <i>Nymphs Finding the Head of Orpheus</i> was probably inspired by the same series of oil sketches and pencil drawings.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ophelia is a painting by British artist Sir <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a>, completed between 1851 and 1852. It is held in the Tate Britain in London. It depicts Ophelia, a character from William Shakespeare's play Hamlet, singing before she drowns in a river in Denmark.
+<br>
+<br>The work was not highly regarded when first exhibited at the Royal Academy, but has since come to be admired for its beauty and its accurate depiction of a natural landscape.
+<br>
+<br>The painting depicts Ophelia singing while floating in a river just before she drowns. The scene is described in Act IV, Scene VII of Hamlet in a speech by Queen Gertrude.
+<br>
+<br>The episode depicted is not seen onstage, but exists only in Gertrude's description. Ophelia has fallen into the river from a tree overhanging it, while gathering flowers. She lies in the water singing songs, as if unaware of her danger ("incapable of her own distress"). Her clothes, trapping air, have allowed her to temporarily stay afloat ("Her clothes spread wide, / And, mermaid-like, awhile they bore her up."). But eventually, "her garments, heavy with their drink, / Pull'd the poor wretch from her melodious lay" down "to muddy death".
+<br>
+<br>Ophelia's death has been praised as one of the most poetically written death scenes in literature.
+<br>
+<br>Ophelia's pose—her open arms and upwards gaze—also resembles traditional portrayals of saints or martyrs, but has also been interpreted as erotic.
+<br>
+<br>The painting is known for its depiction of the detailed flora of the river and the riverbank, stressing the patterns of growth and decay in a natural ecosystem. Despite its nominal Danish setting, the landscape has come to be seen as quintessentially English. Ophelia was painted along the banks of the Hogsmill River in Surrey, near Tolworth, Greater London. Barbara Webb, a resident of nearby Old Malden, devoted much time to finding the exact placement of the picture, and according to her research, the scene is located at Six Acre Meadow, alongside Church Road, Old Malden. Millais Road is now nearby. Millais' close colleague <a target="_blank" href="/en/william-holman-hunt">William Holman Hunt</a> was at the time working on his The Hireling Shepherd nearby.
+<br>
+<br>The flowers shown floating on the river were chosen to correspond with Shakespeare's description of Ophelia's garland. They also reflect the Victorian interest in the "language of flowers", according to which each flower carries a symbolic meaning. The prominent red poppy—not mentioned by Shakespeare's description of the scene—represents sleep and death.
+<br>
+<br>At an early stage in the painting's creation, Millais painted a water vole—which an assistant had fished out of the Hogsmill—paddling next to Ophelia. In December 1851, he showed the unfinished painting to Holman Hunt's relatives. He recorded in his diary, "Hunt's uncle and aunt came, both of whom understood most gratifyingly every object except my water rat. The male relation, when invited to guess at it, eagerly pronounced it to be a hare. Perceiving by our smiles that he had made a mistake, a rabbit was then hazarded. After which I have a faint recollection of a dog or a cat being mentioned." Millais painted the water vole out of the final picture, although a rough sketch of it still exists in an upper corner of the canvas hidden by its frame.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
