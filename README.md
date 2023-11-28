@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00129/images/caravaggio/judith-beheading-holofernes.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/karel-appel/hip-hip-hoorah-1949.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Judith Beheading Holofernes</h2>
+        <h2 class="artwork-name">Hip, Hip, Hoorah!</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1599
+          Karel Appel
+                    ·  1949
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting tells the story Biblical story of Judith, who saved her people by seducing and beheading the Assyrian general Holofernes, which was a common theme in the 16th century. The same story has also been painted by artists such as Sandro Botticelli, Donatello, Artemesia Gentileshi, Giorgione, and Andrea Mantegna. In typical Caravaggio style, the painting depicts the moment of greatest impact, when Judith, whose emotions ring clear on her distraught face, physically beheads the Assyrian king. X-rays have revealed that Caravaggio changed the position of Holofernes’ head as he was painting, separating it farther from the body.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The title of Hip, Hip, Hoorah! was intended to celebrate the artistic freedom from tradition achieved by the CoBrA group. The figures are hybrid creatures, combining human attributes with animal or bird-like features. Appel thought of them as ‘people of the night’, and so gave them a dark background. The bright colours and child-like imagery are typical of CoBrA. Appel often took inspiration from children's drawings, believing that ‘the child in man is all that's strongest, most receptive, most open and unpredictable’.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
