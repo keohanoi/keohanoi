@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/john-roddam-spencer-stanhope/the-waters-of-lethe-by-the-plains-of-elysium-1880(1).jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00166/images/olowe-of-ise/nmafa-d20060294-000002.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Waters of Lethe by the Plains of Elysium</h2>
+        <h2 class="artwork-name">Bowl</h2>
         <h3 class="artist">
-          John Roddam Spencer Stanhope
-                    ·  1880
+          Olowe of Ise
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Scene depicting world weary pilgrims making their way to the river of forgetfulness. The tempera in which the work is painted gives a matt, chalky appearance. A procession of exhausted stooping figures, some young, some old, two carrying children, one man carriying a young sleeping woman, cross a barren, rocky plain in the foreground towards the river of forgetfulness on the right. They wear a variety of coloured classical-style draped garments, but although they are brightly coloured, they are dull compared to the people on the far side of the river. On the right, a trail of naked figures swim across the river, climbing out into a wooded area on the right of the far bank, where other naked figures lie and sit, sleepily adjusting their hair and stretching. On the far side of the river is a grassy landscape peopled with figures in bright robes, who dance and wander among flowering shrubs and trees. A bright cityscape that looks like the skyline of Florence is overhung by craggy blue mountains and lit by a lurid sunset in the distance behind the figures. More people prepare to cross the river from rocks on the left.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This bowl is attributed to Olowe of Ise because of its unique cantilevered bowl within a bowl design and because of the vigorous style of the geometric relief carvings. In particular the "X in a rectangular panel" motif is found on other Olowe sculptures, notably the figures with bowls in this museum's collection. The form of this design has been compared to that of the Yoruba divination board. The function of this bowl is not known, however scholars have suggested that it could have been used by a diviner.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
