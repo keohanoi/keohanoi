@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/elt-3838.jpg"
+        src="https://uploads6.wikiart.org/00129/images/katsushika-hokusai/the-great-wave-off-kanagawa.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Spazi. Spazio #06</h2>
+        <h2 class="artwork-name">The Great Wave off Kanagawa</h2>
         <h3 class="artist">
-          Gian Maria Tosatti
-                    ·  2012
+          Katsushika Hokusai
+                    ·  1831
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work reproduced a familiar livingroom, spatialized on a marble platform of 2.370sq/ft. The furniture is burnt until the limit of its structural strength. The reflection of this work starts from the idea that what you gained in the past can’t be taken away from you. The truth is that each time you try to take your past back, it reveals itself as a fragile shape. If you touch it, it will become ash into your own hands.<br><br>(Tenuta dello Scompiglio, Lucca)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the most famous print created by Katsushika Hokusai, and it continues to grow in popularity and recognition worldwide. The image is of two boats, full of Japanese sailors, coming up against the namesake of the print, the Great Wave. The wave looks as if it will swallow the boats whole, and that the boat men are sure to be devoured in the wave. Although it is such a strong image, it is simplistically beautiful, with curling blue waves and white frothy tips, which menacingly curl down into points, like claws ready to scoop the sailors out of the sea. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
