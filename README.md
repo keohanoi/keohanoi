@@ -2,19 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00446/images/andy-warhol/magazine-and-history-fs-ii-304a-awa-36-1486650949-500-77e.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/winslow-homer/nebelwarnung-the-fog-warning.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Magazine and History</h2>
+        <h2 class="artwork-name">The Fog Warning</h2>
         <h3 class="artist">
-          Andy Warhol
-                    ·  1983
+          Winslow Homer
+                    ·  1885
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Magazine and History is a 4.3-meter-high painting by Andy Warhol completed in 1983 and part of the Hubert Burda Media collection.[1][2]<br><br>It represent 25 covers of Bunte Magazine, a German weekly magazine that covers celebrity, gossip, news, and lifestyle matters.<br><br>Hubert Burda, owner of Bunte and Hubert Burda Media commissioned Warhol to create the artwork for the inauguration of the new offices of Bunte in Munich Arabellapark. The inauguration took place on December 4th, 1983 in presence of Andy Warhol.[3]<br><br>Hubert Burda had visited Warhol in New York City and commissioned him with several portraits.[4] He was impressed by his approach and his magazine Interview founded in 1969. It inspired him to modernize the format of Bunte magazine.[5][6]<br><br>In this print, each magazine cover is represented in a different color, acting as individual tesserae forming a different sort of multi-colored mosaic.<br><br>The painting was exhibited at the Museum of Urban and Contemporary Art (MUCA) of Munich in Die BUNTE Art exhibition in June 2018. Along Andy Warhol artwork, the exhibition included contemporary artists and photographers : Mirko Borsche, Carsten Fock, Roger Fritz, Hell Gette, Michael von Hassel , Olaf Nicolai, Anselm Reyle, Benjamin Roeder, Stefan Strumbel, Laurence de Valmy [fr], Mia Florentine Weiss and Wolfgang Wilde [7][8]</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fog Warning is one of several paintings on marine subjects by the late-19th-century American painter <a target="_blank" href="/en/winslow-homer">Winslow Homer</a> (1836–1910). Together with The Herring Net and Breezing Up, painted the same year and also depicting the hard lives of fishermen in Maine, it is considered among his best works on such topics.
+<br>
+<br>After initially making his reputation with paintings on themes related to the Civil War, in the late 1860s and through the 1870s Winslow Homer turned instead to painting people relaxing and at play: children, young women, <a target="_blank" href="/en/paintings-by-genre/genre-painting">genre paintings</a> of farm and sea scenes. In 1881–82 he spent time in Cullercoats, in northeast England, and on his return to the US, settled for good in Prout's Neck, Maine, where his father and brother had recently purchased a large amount of land. His brother had spent his honeymoon in Prout's Neck in 1875, and Winslow had visited him then. In both these locations he returned to painting the sea with more serious themes, the hard and dangerous lives of the fishermen and their families, and "humankind’s life-and-death struggles against the sea and the elemental power of nature" throughout the rest of his career.
+<br>
+<br>He had a studio built for him in Prout's Neck, which was completed in 1884. Here he painted The Fog Warning, one of his three best paintings he completed there in 1885 depicting the lives of the local fishermen. These are considered among his best; the others are Lost on the Grand Banks, and The Herring Net. Many of his late paintings, like The Fog Warning, depict a single figure at sea. Another theme in many of his paintings of the fisherman's life was the bounty of the sea, which also provides the people's livelihood; the two are combined in this painting, which was originally exhibited under the title Halibut Fishing.
+<br>
+<br>The painting depicts a lone fisherman in a dory who has caught several halibut but now sees fog blowing up, threatening to cut him off as he rows back to his ship. His face is turned in profile to the viewer as he looks over his shoulder at the streamers of fog in the background. The Boston Fine Art Museum gives this description:
+<br>
+<br>The scene is psychologically tense; the risk of being lost at sea as a result of a sudden fog was all too real at the time, and the viewer does not know whether this man will reach his ship in time. The picture has been used in elementary-school education to teach about interpretation of art and fishermen's lives.
+<br>
+<br>Several studies for the painting survive, among them a more intimate, less monumental version called Halibut Fishing. Homer's handyman Henry Lee posed for the painting in a dory supported on a pile of sand.
+<br>
+<br>In addition to Herring Nets and Breezing Up, which share the focus on Maine fishermen, Homer's Lost on the Grand Banks (also 1885) and After the Hurricane, Bahamas 1899 depict tragedy at sea: the former another fisherman in mortal danger at sea, the latter one thrown up on shore dead. In contrast, in Summer Night (1890) the sea is raging in the background while in the middle ground people silhouetted against the waves watch, but in the foreground two girls are dancing, unconcerned.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
