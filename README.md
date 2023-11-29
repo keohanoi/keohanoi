@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/barnett-newman/canto-vii-1963.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/ivan-aivazovsky/battle-of-chesma-1886.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Canto VII</h2>
+        <h2 class="artwork-name">Battle of Chesma</h2>
         <h3 class="artist">
-          Barnett Newman
-                    ·  1963
+          Ivan Aivazovsky
+                    ·  1886
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In addition to paintings, Newman also created etchings and lithographs, such as the series 18 Cantos (1963-64). The Cantos are his only print series executed in color, and Newman spoke of them using musical analogies: "their symphonic mass lends additional clarity to each individual canto," he wrote in an introduction to the series, "and at the same time, each canto adds its song to the full chorus." In 18 Cantos, Newman employs a wide, off-set band, a variation on the thinner zips, and allows the colors to bleed out into the margins, testing the idea of spatial boundaries. He has written that each canto has its own "personal margins." </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts an intensely beautiful and dark scene, and typifies the artist’s talented technique. Aivazovsky was especially revered for his ability to realistically portray the shimmer of light upon water, and in this piece he does so by contrasting the moonlit waves in the foreground with the violently red water in the background, where the boats are being devoured by flames. The shimmer of the flames upon the water’s surface almost gives the painting a surreal quality by pulling the viewer into the inferno. This painting is also typical of the artist’s ability to romanticize the dramatic reality of the burning ships by contrasting them with the soft clouds, complete with full moon peeking gently from the tops.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
