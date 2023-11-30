@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00332/images/orthodox-icons/6054963eedc2c935782fe4eb.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00243/images/francis-a-willey/the-romance-of-dante-and-beatrice-francisawilley.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Theotokos of Tolga I (Big Theotokos)</h2>
+        <h2 class="artwork-name">The romance of Dante and Beatrice</h2>
         <h3 class="artist">
-          Orthodox Icons
-                    ·  1300
+          Francis A. Willey
+                    ·  2006
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Theotokos of Tolga (Russian: Толгская икона Божией Матери) is a Russian Orthodox icon representing the Virgin Mary (Theotokos) with the infant Jesus Christ. The Theotokos of Tolga, named after the Tolga river in Yaroslavl, is known in three copies created between the end of the 13th and the beginning of the 14th-century. They were drawn in Eleusa type. One of them, traditionally called a "Manifested" icon, was manifested to Prokhor, the Bishop of Rostov in 1314.<br>
-<br>
-<br>The icon version of the end of 13th-century (Throne icon or Tolgskaya I) is held in the Tretyakov Gallery, while the Manifested one (also known as Tolgskaya II) is in the Tolga Monastery. Tolgskaya III was created circa 1327. It is currently held in the Russian Museum.<br>
-<br>
-<br>Theotokos of Tolga is referred to as the patroness of the Yaroslavl land.<br>
-<br>
-<br><br>
-<br>
-<br><br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the tender age of nine, Dante Alighieri (1265–1321) met Beatrice Portinari (1266–1290), declaring to his soul, “Now is your bliss made manifest,” to which it replied, “Alas! How often henceforth shall we be troubled.”<br><br>Restricted by the dictates of courtly love, Beatrice ignored Dante, yet she came to embody the divine incarnation of love that inspired him throughout his life.<br><br>In The Divine Comedy, a literary masterpiece, Beatrice is Dante's guide on his pilgrimage through Paradise, leading him finally into the presence of the divine.<br><br>This image represents Beatrice flying in a dream. Dante's love is so great for Beatrice he enters her dream and rests his head on her shoulder. At this moment, he takes flight with Beatrice <br>while she rises to the rose in Paradise.<br><br>An angelic throng that makes a ring and the beginning of a premonition.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
