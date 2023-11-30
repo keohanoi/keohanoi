@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/giovanni-bellini/head-of-st-john-the-baptist-1468.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00339/images/leonardo-da-vinci/the-virgin-and-child-with-st-anne.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Head of St John the Baptist</h2>
+        <h2 class="artwork-name">The Virgin and Child with St. Anne</h2>
         <h3 class="artist">
-          Giovanni Bellini
-                    ·  1468
+          Leonardo da Vinci
+                    ·  1519
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The head of St. John the Baptist is a tondo painting by the Italian Renaissance master <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>. It is now housed in the Civic Museum of Pesaro.
-<br>
-<br>The painting depicts the head of the St. John the Baptist just after his decapitation, with blood still dripping from the neck. The perspective from below show the influence of the treatises about perspective representation of the human figure which were being published at the time, such as <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a>'s De prospectiva pingendi.
-<br>
-<br>Stylistically, the brilliant colors and the dramatic painting are similar to those of St. Vincent Ferrer Polyptych, the first mature work by Bellini, dated to after 1464.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Like with many of Leonardo da Vinci’s masterpieces, there are many unknown facts about his painting <i>The Virgin and Child with St. Anne</i> (ca. 1503-1519). It has been suggested that the painting was commissioned by the King of France, Louis XII to celebrate the birth of his only daughter Claude in 1499. The choice of subject would be adequate for such an occasion: Anne was the name of the King’s wife and St Anne is the patron saint of pregnant women and women trying to get pregnant. For unknown reasons the painting was not delivered to Louis XII, and observers noted that it was still in Leonardo’s workshop in 1517. The painting eventually ended up in the French royal collection: the first known record of <i>The Virgin and Child with St. Anne</i> is the 1683 inventory of the Palace of Fontainebleau. While it is not definitive, it is most likely that King Francis I acquired the painting from Leonardo’s assistant, Salai.<br><br>The scene depicts three generations, St Anne, her daughter, the Virgin Mary and Jesus as an infant. From several preparatory works, it is evident that Leonardo devoted a lot of thought to the painting’s composition. <i>The Virgin and Child with St. Anne</i> is closely tied to the large preparatory study, <a target="_blank" href="https://www.wikiart.org/en/leonardo-da-vinci/study-for-the-burlington-house-cartoon-the-virgin-and-child-with-st-anne-and-st-john-the-1"><i>The Burlington House Cartoon</i></a> (ca. 1499-1500): unlike the study that depicts the young figure of Saint John the Baptist, the painting shows young Jesus playing with a lamb. The inclusion of the lamb, a symbol associated with the Passion, hints to Christ’s destiny. Leonardo gave particular significance to the figure of St Anne by making her the axis of the triangular composition. The religious scene is set in a fantastical mountainous landscape. Leonardo used atmospheric perspective to create the illusion of the distant mountains. He also employed the <i>sfumato</i> technique, that softened the transition between colors, and gave the overall composition a delicate haziness.<br><br><i>The Virgin and Child with St. Anne</i> holds an important place in art history, influencing Leonardo’s contemporaries as well as subsequent generations of artists. Paintings such as Raphael’s <a target="_blank" href="https://www.wikiart.org/en/raphael/the-virgin-and-child-with-saint-john-the-baptist-1507"><i>Madonna and Child with Saint John the Baptist</i></a> (1507) and Andrea del Sarto’s <a target="_blank" href="https://www.wikiart.org/en/andrea-del-sarto/charity"><i>Charity</i></a> (1518) are examples of Leonardo’s profound influence on Renaissance artists. In the mid-19th century, the painting was hung in the Salon Carré at the Louvre, and was copied by many leading artists of the period like <a target="_blank" href="https://www.wikiart.org/en/eugene-delacroix">Eugène Delacroix</a>, <a target="_blank" href="https://www.wikiart.org/en/edouard-manet">Édouard Manet</a> and <a target="_blank" href="https://www.wikiart.org/en/jean-baptiste-carpeaux">Jean-Baptiste Carpeaux</a>. The founder of psychoanalysis, Sigmund Freud also analyzed the painting in his essay <i>Leonardo da Vinci, A Memory of His Childhood</i>. Freud’s interpretation inspired <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/surrealism#!#resultType:masonry">Surrealist</a> artists such as <a target="_blank" href="https://www.wikiart.org/en/max-ernst">Max Ernst</a>. Ernst’s painting <a target="_blank" href="https://www.wikiart.org/en/max-ernst/the-kiss-1927"><i>The Kiss</i></a> (1927), an homage to <i>The Virgin and Child with St. Anne</i>, emulated the pyramidal grouping, the embracing gesture and triangular composition of Leonardo’s painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
