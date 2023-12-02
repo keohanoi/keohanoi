@@ -1,43 +1,29 @@
-const path = require('path');
-const axios = require('axios');
-const cheerio = require('cheerio');
+const path = require("path");
+const cheerio = require("cheerio");
 
-const puppeteer = require('puppeteer');
-const fs = require('fs');
+const puppeteer = require("puppeteer");
+const fs = require("fs");
 
 // variable declaration
-const url = 'https://www.wikiart.org';
 const filePath = `../`;
-
-const instance = axios.create({
-  baseURL: url,
-  headers: {
-    'Host': 'wikiart.org',
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36',
-    'Accept': '*/*',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Cache-Control': 'no-cache',
-    'Connection': 'keep-alive',
-  },
-});
 
 const getData = async () => {
   return (async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    await page.goto('https://www.wikiart.org/');
+    await page.goto("https://www.wikiart.org/");
 
     const textContent = await page.evaluate(() => {
-      return document.querySelector('div.artwork-of-the-day').innerHTML;
+      return document.querySelector("div.artwork-of-the-day").innerHTML;
     });
 
     const $ = cheerio.load(textContent);
 
-    const img = $('aside > div.wiki-layout-artist-image-wrapper > img').last().attr('src');
-    const artwork = $('article > h3').text();
-    const artist = $('article > h5').text();
-    const des = $('li.artwork-description').html();
+    const img = $("aside > div.wiki-layout-artist-image-wrapper > img").last().attr("src");
+    const artwork = $("article > h3").text();
+    const artist = $("article > h5").text();
+    const des = $("li.artwork-description").html();
 
     browser.close();
     return {
@@ -51,7 +37,7 @@ const getData = async () => {
 
 const saveFile = async (template) => {
   // remove existing readme file
-  const readmePath = path.join(__dirname, filePath, 'README.md');
+  const readmePath = path.join(__dirname, filePath, "README.md");
   if (fs.existsSync(readmePath)) {
     fs.unlinkSync(readmePath);
   }
@@ -61,18 +47,18 @@ const saveFile = async (template) => {
     if (err) {
       return console.log(err);
     }
-    console.log('The file was saved!');
+    console.log("The file was saved!");
   });
 };
 
 (async () => {
   let data = await getData();
-  let template = fs.readFileSync(path.join(__dirname, 'template/daily-artwork-template.md'), 'utf8');
+  let template = fs.readFileSync(path.join(__dirname, "template/daily-artwork-template.md"), "utf8");
 
-  template = template.replace('{{img}}', data.img.trim());
-  template = template.replace('{{artwork}}', data.artwork.trim());
-  template = template.replace('{{artist}}', data.artist.trim());
-  template = template.replace('{{des}}', data.des.trim());
+  template = template.replace("{{img}}", data.img.trim());
+  template = template.replace("{{artwork}}", data.artwork.trim());
+  template = template.replace("{{artist}}", data.artist.trim());
+  template = template.replace("{{des}}", data.des.trim());
 
   await saveFile(template);
 })();
