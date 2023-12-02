@@ -2,23 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/edouard-manet/boy-with-a-sword-1861.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/albrecht-durer/portrait-of-elector-frederick-the-wise-of-saxony-1496.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boy with a sword</h2>
+        <h2 class="artwork-name">Portrait of Elector Frederick the Wise of Saxony</h2>
         <h3 class="artist">
-          Edouard Manet
-                    ·  1861
+          Albrecht Durer
+                    ·  1496
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Boy Carrying a Sword is an 1861 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by the French artist <a target="_blank" href="/en/edouard-manet">Édouard Manet</a> and is now displayed at the Metropolitan Museum of Art in New York. The work depicts a small boy costumed as a page of the Spanish court of the seventeenth century; he is holding a full-sized sword and sword belt. The work was later reproduced as an engraving under the direction of Dijon painter and etcher Alphonse Legros who collaborated in the work.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Frederick III of Saxony is a <a target="_blank" href="/en/paintings-by-media/tempera-on-gesso-pitch-and-mastic">tempera</a> on canvas painting by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed in 1496. It is housed in the Gemäldegalerie of Berlin, Germany.
 <br>
-<br>According to Émile Zola, the work is typical of the influence of Spanish painters and shows the strong influence <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> and <a target="_blank" href="/en/frans-hals">Frans Hals</a> had on Manet at the time.
+<br>The painting was one of the first commissions received from Frederick III, Elector of Saxony, together with the Seven Sorrows Polyptych and the central panel of the Dresden Altarpiece. Dürer knew the elector during the latter's short stay in Nuremberg in April 1496.
 <br>
-<br>The artist's model was Leon Leenhoff, the stepson of the artist after his marriage to Suzanne in 1862.</span>
+<br>The German artist portrayed the Elector again in a burin etching in 1524.
+<br>
+<br>Dürer portrayed Frederick's bust from three-quarters, looking right, above a dark green background. Elements such as the parapet on which his arms lie, or the hands holding a roll, were typical of Flemish art of the period.
+<br>
+<br>Frederick's impervious personality, as well as his status, are emphasized by the large beret and by his determined glance</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
