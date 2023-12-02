@@ -2,27 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/hugo-van-der-goes/the-trinity-altar-panels-1478.jpg"
+        src="https://uploads7.wikiart.org/00382/images/jean-leon-gerome/pollice-verso-with-a-turned-thumb-jean-leon-gerome-1.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Trinity Altar Panels</h2>
+        <h2 class="artwork-name">Pollice Verso</h2>
         <h3 class="artist">
-          Hugo van der Goes
-                    ·  1478
+          Jean-Leon Gerome
+                    ·  1872
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Trinity Altarpiece, also known as the Trinity Altar Panels, is a set of four paintings in oil on wood thought to have been commissioned for the Trinity College Kirk in Edinburgh, Scotland, in the late fifteenth century.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pollice Verso (from Latin: with a turned thumb) is a painting by French artist <a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a>, featuring the eponymous Roman gesture directed to the winning gladiators.
 <br>
-<br>The work is attributed to the Flemish artist <a target="_blank" href="/en/hugo-van-der-goes">Hugo van der Goes</a> and probably represents the inner and outer panels of the wings of a triptych. The presumed central panel is lost. The painting in the church was described as a "burd" on 17 May 1516 when John Stewart, Duke of Albany made an offering at the high altar on Trinity Sunday.
+<br>The gesture on the painting is given by the Vestals to the victorious murmillo, awaiting the decision on the beaten retiarius at the Colosseum. The painting inspired the 2000 film Gladiator, where Commodus holds out a raised thumb to spare Maximus.
 <br>
-<br>The work represents a rare example of Scots religious art to have survived the iconoclasm of the Reformation.
+<br>Apart from the gladiators and Vestals, the picture shows the emperor in his box. Gérôme deliberately used the light and perspective to depict some features. The blend of voyeurism and a sense of moral superiority is a specific 19th-century feature.
 <br>
-<br>The panels are part of the British Royal Art Collection and are displayed at the National Gallery of Scotland.
+<br>Alexander Turney Stewart purchased the painting from Gérôme and exhibited it in New York City. He published a pamphlet about the work, proving to the satisfaction of his contemporaries that pollice verso was a matter of turning the thumb up or down.
 <br>
-<br>The four panels depict the following subjects:</span>
+<br>Gérôme's depiction of Colosseum's architecture is based on accurate drawings and the armour of gladiators follows the design of those found in Pompeii. Gérôme also checked the written sources for archaeological reference. Some Latin textbooks used Pollice Verso to illustrate Roman customs.
+<br>
+<br>The producers of Gladiator showed Ridley Scott a reproduction of Pollice Verso before he read the film script. "That image spoke to me of the Roman Empire in all its glory and wickedness. I knew right then and there I was hooked", said Scott. However it was found that the secutor's armour is not properly assembled.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
