@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/eugene-von-guerard/mount-kosciusko-seen-from-the-victorian-border-mount-hope-ranges-1866.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/john-everett-millais/the-return-of-the-dove-to-the-ark.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mount Kosciusko, seen from the Victorian border (Mount Hope Ranges)</h2>
+        <h2 class="artwork-name">The Return of the Dove to the Ark</h2>
         <h3 class="artist">
-          Eugene von Guerard
-                    ·  1866
+          John Everett Millais
+                    ·  1851
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mount Kosciuszko, seen from the Victorian border (Mount Hope Ranges) 1866 is based on drawings made by Eugene von Guérard in 1862 during a scientific expedition to Mount Kosciuszko led by the German scientist Professor Georg Balthasar von Neumayer.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Return of the Dove to the Ark is a painting by Sir <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a>, completed in 1851. It is now displayed in the Ashmolean Museum, Oxford. 
 <br>
-<br>While this view is serene, journals written during the expedition reveal that the party endured incredible hardships. The dark, eerie, primeval bush and the elevated, light-drenched Mount Kosciuszko form two contrasting regions within the composition of the painting. These two areas are visually linked by tall majestic gum trees and a flock of cockatoos. High above, in the distance, hawks glide on alpine currents. The skeletal remains of the towering tree trunks frame a section of the centre foreground where we see Von Neumayer riding his white horse towards his dog, Hector. Several other horses graze quietly in the bush while Von Neumayer’s travelling companions set up camp for the night. The figures are small details in a scene of sweeping natural grandeur.
+<br>The painting portrays a scene from the Bible. Two of Noah's daughters-in-law nurture the dove that has returned to the Ark bearing an olive branch.
 <br>
-<br>While von Guérard’s interest in scientific enquiry is evident in the accurately observed details in the landscape, the dramatic contrasts of scale and light reflect Romantic allusions to the divine and poetic in nature.</span>
+<br>The Return of the Dove to the Ark was first put on public display at the Royal Academy in 1851. It was praised by <a target="_blank" href="/en/john-ruskin">John Ruskin</a> and Théophile Gautier, among others. Ruskin was so taken with it that he wished to buy it when he first saw it, but it had already been sold to the collector Thomas Combe, superintendent of the Clarendon Press, who owned many other Pre-Raphaelite works of art. It passed to the Ashmolean as part of the Combe Bequest in 1893.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
