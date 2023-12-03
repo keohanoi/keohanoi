@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/philip-guston/gladiators-1940.jpg"
+        src="https://uploads5.wikiart.org/00142/images/diego-velazquez/philip-iv-in-armor.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Gladiators</h2>
+        <h2 class="artwork-name">Philip IV in Armor</h2>
         <h3 class="artist">
-          Philip Guston
-                    ·  1940
+          Diego Velazquez
+                    ·  1628
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Guston painted Gladiators in a social-realist style favored by many left-leaning artists in the 1930s, a style that reflected in part the political and aesthetic influence of the Mexican muralist movement led by Diego Rivera, José Clemente Orozco, and David Alfaro Siqueiros. At the time he painted Gladiators, Guston was painting murals in New York as part of a Works Progress Administration (WPA) program. Hooded Klansmen first appeared in his work of the 1930s, in response to a Ku Klux Klan attack on one of his Los Angeles murals. Of these figures, Guston said, “They are self-portraits. I perceive myself as being behind the hood. … I almost tried to imagine that I was living with the Klan. What would it be like to be evil?”</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Philip IV in Armour is a portrait of Philip IV of Spain by <a target="_blank" href="/en/diego-velazquez">Velázquez</a> now in the Museo del Prado in Madrid. It is one of the artist's most realistic portraits of Philip IV and was one of the first he produced after being made painter to the king in 1623. Its style corresponds to the artist's beginnings in Seville and shows its subject in a sculptural style like a portrait bust, with abrupt colour contrasts.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
