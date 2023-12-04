@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00238/images/ancient-greek-pottery/hirschfeld-krater-735.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/wassily-kandinsky/on-white-ii-1923.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Hirschfeld Krater</h2>
+        <h2 class="artwork-name">On White II</h2>
         <h3 class="artist">
-          Ancient Greek Pottery
-                    ·  -735
+          Wassily Kandinsky
+                    ·  1923
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Monumental grave markers were first introduced during the Geometric period. They were large vases, often decorated with funerary representations. It was only in the Archaic period that stone sculptures were used as funerary monuments. On this magnificent krater, the main scene occupies the widest portion of the vase and shows the deceased laid upon a bier surrounded by members of his household and, at either side, mourners. For optimal clarity, the dead man is shown on his side, and the checkered shroud that would normally cover the body has been raised and regularized into a long rectangle with two projections. The zone below shows a procession of chariots and foot soldiers. The figures may refer to the military exploits of the deceased. Because hourglass shields and chariots played a more limited role at this time than in the earlier Bronze Age, the scene more likely evokes the glorious ancestry and traditions to which the dead man belonged.<br><br>Attributed to the Hirschfeld Workshop<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/248904">The Met</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Kandinsky’s On White II expresses an intelligent combination of the two main colors in the painting: black and white. Kandinsky used color to represent more than just shapes and figures in his paintings. In this painting the many dimensions of the color white is used to represent the many possibilities and opportunities available in life. The color black, on the other hand, represents non-existence and death. Kandinsky expressed the color black as the silence of death, and in this painting, the black cuts through the white background with a riotous effect, shattering the peace of the colorful combination of colors, or as it were, opportunities in life.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
