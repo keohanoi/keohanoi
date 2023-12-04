@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/grandma-moses/so-long-till-next-year-1960.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/frans-hals/laughing-boy.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">So Long Till Next Year</h2>
+        <h2 class="artwork-name">Laughing boy</h2>
         <h3 class="artist">
-          Grandma Moses
-                    ·  1960
+          Frans Hals
+                    ·  1625
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although Grandma Moses was always open to new challenges, she resisted attempts by outsiders to dictate to her in terms of style or subject matter. "Someone has asked me to paint Biblical pictures," she once noted, "and I say no, I'll not paint something that we know nothing about; might just as well paint something that will happen a thousand years hence."
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Laughing Boy (Dutch: Lachende jongen) is a circular oil-on-panel painting by the Dutch artist <a target="_blank" href="/en/frans-hals">Frans Hals</a>. It belongs to the tronie genre and was painted around 1625. It is in the collection of the Mauritshuis.
 <br>
-<br>Nevertheless, despite her staunch adherence to the factual and true, less than two years before she died Moses acceded to a request to illustrate a children's book, Clement C. Moore's famous poem, "The Night Before Christmas." Just as she rose to and ultimately mastered the challenge of painting interiors, Moses—even at the age of nearly 100—was ready to risk something completely untried. Unfortunately, she did not live to see the publication of The Night Before Christmas, which appeared in 1962 and remained more or less continuously in print for the next three decades.
+<br>Another circular portrait with a laughing boy is in the collection of the Los Angeles County Museum of Art and shows a soap bubble on the right. A third version exists where the boy is grasping a whistle or flute. Several other circular portraits of laughing boys, all painted around the same period, with or without a bubble or a whistle, have been attributed to Hals in the past. Of the twenty or so paintings identified in 1974 by the Hals expert Seymour Slive, he considered only three to be authentic.
 <br>
-<br>While many of the Night Before Christmas illustrations dutifully follow the text of the poem, So Long Till Next Year is pure fantasy on Moses' part. Not actually published in the original edition of the book, it is nonetheless in many ways the quintessential Christmas painting by an artist who was famous for such subjects. Unlike most of Moses' snowscapes, which are clearly grounded in nature, the blue background of So Long Till Next Year immediately informs us that we are in the realm of the imagination. The scenery is etched on this background in a frosty filigree, like icicles on a window pane. Above all, So Long Till Next Year demonstrates Moses' exceptional flexibility and versatility.</span>
+<br>The Hals expert Claus Grimm rejected the other two and claims only this one is authentic. In his own time, Hals' works were copied by art students. In the late 19th century young artists in the impressionist movement were impressed by the loose brush strokes and wet-in-wet painting technique of these small tondos, and it is possible that a few of the many copies on the art market today date from this later period.
+<br>
+<br>Other boys painted by Hals in round tondos:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
