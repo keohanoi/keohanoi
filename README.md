@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/giotto/adoration-of-the-magi-1306.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00294/images/aztec-art/head-of-a-water-deity-chalchiuhtlicue.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Adoration of the Magi</h2>
+        <h2 class="artwork-name">Head of a Water Deity (Chalchiuhtlicue)</h2>
         <h3 class="artist">
-          Giotto
-                    ·  1306
+          Aztec Art
+                    ·  1521
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a portion of the cycle of frescoes in the Arena Chapel, which is one of Giotto’s most renowned works. The scene depicts adorers greeting the baby Jesus, employing Giotto’s techniques such as the draping of cloth and the emotion on the faces of the figures in the scene, as well as the use of three-dimensional techniques, helping the viewers place themselves in the scene. One of the most interesting components of this fresco is the Star of Bethelehem in the form of a comet shooting through the sky. It is thought that Giotto was inspired to paint this Star in this form due to a 1301 viewing of Halley’s Comet. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Aztecs carved thousands of images of their gods in stones ranging from much-valued greenstones to ordinary volcanic rock. Sculptures like the present example were probably set up in household shrines where they were worshipped in family settings rather than in public ceremonies. Frequently portrayed Aztec deities are fertility goddesses, which include the water goddess <i>Chalchiuhtlicue</i> ("she of the jade skirt") depicted here. Identifying elements of the water goddess are the distinctive headdress consisting of multiple (in life probably cotton) bands wound about the head, the thick tassels attached to each side of the head, and the pleated (in life bark paper) ornament (amacuexpalli) in back of the head. Male counterparts of the water goddess, including the rain god Tlaloc, are often shown wearing the pleated bow at the neck. Shell and/or obsidian inlays in the eyes would once have lent the face a lifelike expression.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
