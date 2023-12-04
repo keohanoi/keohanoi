@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/wassily-kandinsky/on-white-ii-1923.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/anthony-van-dyck/crowning-with-thorns-1620.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">On White II</h2>
+        <h2 class="artwork-name">Crowning with Thorns</h2>
         <h3 class="artist">
-          Wassily Kandinsky
-                    ·  1923
+          Anthony van Dyck
+                    ·  1620
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Kandinsky’s On White II expresses an intelligent combination of the two main colors in the painting: black and white. Kandinsky used color to represent more than just shapes and figures in his paintings. In this painting the many dimensions of the color white is used to represent the many possibilities and opportunities available in life. The color black, on the other hand, represents non-existence and death. Kandinsky expressed the color black as the silence of death, and in this painting, the black cuts through the white background with a riotous effect, shattering the peace of the colorful combination of colors, or as it were, opportunities in life.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Crowned with Thorns is a 1619-20 painting by <a target="_blank" href="/en/anthony-van-dyck">Anthony van Dyck</a>. He produced it aged 20 during his first Antwerp period, when he was the main studio assistant and pupil of <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It shows Rubens' influence in its relatively sombre palette, chiaroscuro and highly realistic portrayal of musculature. He seems to have completed it early during his stay in Italy, since it also shows the influence of <a target="_blank" href="/en/titian">Titian</a> and other Venetian painters in Jesus' face.
+<br>
+<br>Once it was complete, van Dyck offered the painting to Rubens, who declined it. It was then bought by Philip IV of Spain, who held it in the Escorial before it entered the Prado Museum in 1839.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
