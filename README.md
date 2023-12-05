@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/paul-klee/death-for-the-idea-1915.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/ohara-koson/cat-and-bowl-of-goldfish-1933.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Death for the Idea</h2>
+        <h2 class="artwork-name">Cat and Bowl of Goldfish</h2>
         <h3 class="artist">
-          Paul Klee
-                    ·  1915
+          Ohara Koson
+                    ·  1931
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the beginning of World War I, Klee felt distanced from the event and it affected him very little. However, after his two friends Marc and Macke both died in the conflict, the effects of the war began to take hold on his consciousness. He used art as an outlet for his distress, creating a series of lithographs of war scenes. In Death for the Idea, we see a body lying at the bottom of a series of lines and shapes, building up above him like a cityscape. Klee joined the war effort, but was spared battle, as he was employed instead as a clerk, as well as to paint camouflage on airplanes. He was also able to paint throughout the war and his work was included in many exhibits. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ohara Koson (小原 古邨, Kanazawa 1877 – Tokyo 1945) was a Japanese painter and print designer of the late 19th and early 20th centuries, part of the  shin-hanga ("new prints") movement.<br>
+<br>
+<br>He was born Ohara Matao; it is thought that he started training in painting and design at the Ishikawa Prefecture Technical School in 1889–1893. He also studied painting with Suzuki Kason (1860–1919), although accounts differ on whether this happened during his school years or after he moved to Tokyo in the middle to late 1890s.<br>
+<br>
+<br>In Tokyo, he produced some ukiyo-e triptychs illustrating episodes of the Russo-Japanese War, but most of his production was prints of birds-and-flowers (kachō-e). He worked at first with publishers Akiyama Buemon (Kokkeidō) and Matsuki Heikichi (Daikokuya), signing his work Koson. Starting around 1926, he became associated with the publisher Watanabe Shōzaburō, and signed his work Shōson. He also worked with the publisher Kawaguchi, signing his works Hōson.<br>
+<br>
+<br>Through his association with Watanabe, Ohara's work was exhibited abroad, and his prints sold well, particularly in the United States. He was active designing prints until at least 1935, and died at his home in Tokyo in 1945.<br>
+<br>
+<br> Media related to Ohara Koson at Wikimedia Commons<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
