@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/maerten-van-heemskerck/man-of-sorrows.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/george-harvey/quitting-the-manse-1847.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Man of Sorrows</h2>
+        <h2 class="artwork-name">Quitting the Manse</h2>
         <h3 class="artist">
-          Maerten van Heemskerck
-                    ·  1532
+          George Harvey
+                    ·  1847
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Man of Sorrows is a 1532 painting by the Dutch Golden Age painter <a target="_blank" href="/en/maerten-van-heemskerck">Maarten van Heemskerck</a> in the collection of the Museum of Fine Arts, Ghent.
-<br>
-<br>The subject depicts Christ after the crucifixion attended by angels, with wounds prominently displayed, wearing the crown of thorns and a loincloth. The loincloth is claimed to be wrapped around an erection, visible to some art historians but not others. Van Heemskerck is not the only Renaissance artist to depict Christ with an erection (ostentatio genitalium), which some scholars interpret as a symbol of his resurrection and continuing power.
-<br>
-<br>Other versions of Christ crowned with thorns by Heemskerck are:</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting is significant as one of the only large Scottish history paintings to commemorate a contemporary religious event. It shows a minister and his family leaving the church house (manse) following the Disruption of 1843, when 450 ministers left their parishes over disputes about the sovereignty of the Church of Scotland. They went on to form the Free Church of Scotland. Harvey put aside the controversial political aspect of the Disruption, and focused on the human problems as the parishioners bid farewell to their much-loved minister and his family. The pose of the minister, hat in hand, reveals his personal loss, despite his belief that his actions are for the greater good. The painting is rarely on display due to bad bitumen damage caused by Harvey’s experiments with varnish.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
