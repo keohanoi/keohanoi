@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/tracey-emin/everyone-i-have-ever-slept-with-1963-1995-1995.jpg"
+        src="https://uploads3.wikiart.org/images/rene-magritte/son-of-man-1964(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Everyone I Have Ever Slept With 1963–1995</h2>
+        <h2 class="artwork-name">The Son of Man</h2>
         <h3 class="artist">
-          Tracey Emin
-                    ·  1995
+          Rene Magritte
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Everyone I Have Ever Slept With 1963–1995 (1995), also known as "The Tent", was an artwork created by Tracey Emin RA (born 3 July 1963), an English artist and a leading member of the group known as Britartists or YBAs (Young British Artists). The work was a tent with the appliquéd names of, literally, everyone she had ever slept with, but not necessarily in the sexual sense. It achieved iconic status, was owned by Charles Saatchi, and was destroyed in the 2004 Momart London warehouse fire. She has refused to recreate it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Magritte created two versions of this painting, of the same name, which both portray a large green apple in the middle of a room. This painting illustrates the many themes running through Magritte’s work. The first is the apple, which he uses to great lengths in many of his works, the most famous of which is The Son of Man, depicting a man wearing a bowling hat, with a green apple covering his face. The other theme is that of placing objects together in an unusual context. Unlike other surrealist artists, who mixed dreamlike images with abstract shapes, Magritte’s works included normal images, placed in surreal contextual situations. The Listening Room is one such painting, portraying a regular green apple, which just so happens to be large enough to fill and entire room.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
