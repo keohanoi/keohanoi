@@ -2,27 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/pieter-bruegel-the-elder/conversion-of-st-paul-1567.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00294/images/aztec-art/tripod-vessel-with-date-glyph.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Conversion of St. Paul</h2>
+        <h2 class="artwork-name">Tripod Vessel with Date Glyph</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
-                    ·  1567
+          Aztec Art
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Conversion of Paul is an oil-on-panel by the Netherlandish Renaissance artist <a target="_blank" href="/en/pieter-bruegel-the-elder">Pieter Bruegel the Elder</a>, painted in 1567. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.
-<br>
-<br>Bruegel shows Paul's army on its way to Damascus in contemporary dress and with 16th century armour and weapons. The saint himself is in a blue doublet and hose of the painter's day. Bruegel, having lived in Italy, was not unfamiliar with classical dress: his intention in representing biblical scenes in contemporary dress was to stress their relevance to his own time. In view of the persecution and counter-persecution of the Reformation and Counter-Reformation, the story of Paul's conversion had special significance. The events are described in The Acts of the Apostles 9, 3-7:
-<br>
-<br>Bruegel is not only illustrating the biblical text; he is also stressing the need for faith and condemning the sin of pride.
-<br>
-<br>This work was acquired by Archduke Ernest of Austria in 1594, subsequently passing into the imperial collections with Rudolf II, Holy Roman Emperor. Some critics have suggested that the scene depicted by Bruegel refers to contemporaneous events, especially the crossing of the Alps by Don Fernando Álvarez de Toledo y Pimentel, 3rd Duke of Alba in 1567, as he was marching into the Netherlands at the head of an army of 10,000 men to sedate the Dutch revolts.
-<br>
-<br>More probably, Bruegel's depiction of Paul's conversion taking place high up on a pine-clad mountain pass may have been suggested by an engraving of 1509 by Lucas van Leyden. As in The Procession to Calvary and the Preaching of John the Baptist, Bruegel places the principal figures in the middle distance, almost lost amongst a mass of small figures and behind the eye-catching foreground soldiers and horsemen, who are incidental to the telling of the story. This is a familiar <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">mannerist</a> device which is intended to tease the spectator and draw his eye deep into the picture space in search of the principal subject.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The hourglass shape of this sizable vessel is reminiscent of the form of ceremonial braziers that were closely linked to the religious architecture in the Aztec capital Tenochtitlan. The thick-walled, heavy vessel is supported by three hollow, bulbous feet containing clappers, which produced sounds when the vessel was moved. The middle of the vessel is encircled by a broad band decorated with interlocked scrolls framed by circles. On the front is a cartouche containing the date glyph "4 Reed," which possibly refers to the year 1431 A.D., during which the third enlargement of the Main Temple at Tenochtitlan was celebrated. The band and cartouche were made in molds, as evidenced by multiple seams, and have the natural clay color in which the rest of the vessel is covered, with reddish-brown burnished slip.<br><br>Ceramic braziers, often bearing deity images, some reaching three feet in height, were placed outside temples or in front of altars. Offerings of human and animal remains as well as aromatic incense of balls of latex, were burnt in them. The rising smoke was believed to carry the offerings to the gods.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
