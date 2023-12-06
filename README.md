@@ -2,33 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hieronymus-bosch/last-judgement.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00329/images/richard-parkes-bonington/068n10608-bkvy4-03-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Last Judgement</h2>
+        <h2 class="artwork-name">The Count of Palatino in the costume of a Palikar</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1486
+          Richard Parkes Bonington
+                    ·  1826
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Last Judgment is a triptych of disputed authorship, either by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>, his workshop, or a collaboration between artist and workshop. It was created after 1486.
-<br>
-<br>The triptych currently resides at the Groeningemuseum in Bruges, Belgium. The outside of the shutters are painted in grisaille, while the inside shutters and center are oil on panel.
-<br>
-<br>The work belonged to E. Gravet's collection, and then to that of Seligman, in Paris. In 1907 it was acquired by A. Bernaert, who donated it to the city of Bruges. In 1936 it was cleaned and was restored again in 1959. In that occasion, the grisaille painting of the external shutters were discovered, although damaged. The painting above the internal frames is lost.
-<br>
-<br>The attribution of the work is dubious, due to its mediocre quality. Dendrochronologic analysis dated it from not before 1486.
-<br>
-<br>The painting's composition has similarities to The Last Judgment triptych in Vienna and the Garden of Earthly Delights: both show the Garden of Eden in the left panel and the Hell at right.
-<br>
-<br>Like in other contemporary Flemish triptychs, the shutters are externally painted in grisaille with an Coronation with Thorns.
-<br>
-<br>In the central panel is Christ as a judge within a celestial sphere, flanked by angels who are playing the Trumpets of Last Judgement, and by the apostles. Below him is the punishment of sinners which, like the Last Judgement of Vienna, continues in the Hell depiction at right. At left is the Paradise, where the blessed souls are being shipped to Eden on a boat with a pink tent. The tower is a symbol of the Fountain of Eternal Youth, a more articulate version of which appears in the Garden of Delights.
-<br>
-<br>The central panel is mostly occupied by insect-like demons who torture the men, punishments including burning, eating impure food (the gluttonous) etc., all inspired by Netherlandish Proverbs. The infernal city at right is under siege by demons, while a fire is visible in the far background.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Demetrius de Palatiano (1794–1849), a member of a prominent family from Corfu, was according to the family tradition an <i>enfant terrible</i>. He is described in family records as unstable and flighty, said to have narrowly escaped being beheaded while in the service of the tyrant Ali Pasha, the local Ottoman ruler.<br><br>He traveled widely throughout Europe, Albania, the Ionian islands, Italy, Germany, and England. Always the <i>grand seigneur</i>, he claimed in a letter to his sister that Maximilian, King of Bavaria, with whom he is said to have been on friendly terms, invested him with the title of Count. Though research in the Commonwealth and Bavaria archives has not been able to confirm this, Demetrius used the title freely in official documents, styling himself as the ‘Honourable Count Demetrius de Palatiano’. In late 1825, on his way to Corfu from England, he passed through Paris, where he posed for <a target="_blank" href="https://www.wikiart.org/en/eugene-delacroix">Delacroix</a>’s <a target="_blank" href="https://www.wikiart.org/en/eugene-delacroix/count-demetrius-de-palatiano-in-suliot-costume-1827"><i>Count Demetrius de Palatiano in Suliot Costume</i></a> (c.1825-1827). <br><br>In the winter of 1825-1816, Bonington worked in Delacroix’s studio, and, influenced by him,  turned to the genre and history painting. Artists worked closely together, manifesting a strong coloristic emphasis, sharing models and compositions. The most complete evidence of common subject matter and a very similar approach is to be found in the sketches that Delacroix and Bonington made for their portraits of Count Demetrius Palatiano in the costume of a Palikar.<br><br>Demetius is portrayed wearing the uniform of a Suliot, consisting of a long, white skirt, or <i>foustanella,</i> gold-worked cloak, crimson velvet gold-laced jacket, and a waist-coat, silver-mounted pistols and daggers. The Suliots were Greek/Albanian Christians who had fled from the repression of Ali Pasha when he became governor of Jannina in 1822, and who later fought courageously during the Greek War of Independence. This war was a source of great interest for the rest of Europe and the exotic costumes of Greek soldiers, also known as Suliots or Palikari, became a popular subject matter amongst artists. If from a pictorial point of view, it may have been the costume that most attracted Delacroix and Bonington to Count de Palatiano, his colorful and extravagant personality must have also had a strong appeal at a period when the memory of Byron deeply influenced French <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/romanticism">Romantic Art</a>. Byron posed in the habit of a Palikar for his famous portrait by Thomas Philips and recruited a number of them to form his private guard prior to his arrival in Missolonghi in 1824. Portrayed as fearsome and independent in <i>Childe Harold’s Pilgrimage</i>, Suliots were seen by Romantic artists as modern primitives, embodiments of natural purity unspoiled by civilization. In the present work, Palatiano stands with his back to the viewer. The bright golden hues of his dress, painted with spontaneous loose brushstrokes, stand in strong contrast against the muted background, accentuating the Count’s flamboyant and distinctly Byronic cast.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
