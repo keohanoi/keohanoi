@@ -2,27 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/caspar-david-friedrich/chalk-cliffs-on-r-gen.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/titian/christ-carrying-the-cross-1507.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chalk Cliffs on Rügen</h2>
+        <h2 class="artwork-name">Christ Carrying the Cross</h2>
         <h3 class="artist">
-          Caspar David Friedrich
-                    ·  1819
+          Titian
+                    ·  1507
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Chalk Cliffs on Rügen (German: Kreidefelsen auf Rügen) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> of circa 1818 by German Romantic artist <a target="_blank" href="/en/caspar-david-friedrich">Caspar David Friedrich</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Carrying the Cross (also Ecce Homo) is a 1505 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> attributed to either the Italian Renaissance master <a target="_blank" href="/en/titian">Titian</a> or <a target="_blank" href="/en/giorgione">Giorgione</a>. It is located in the Scuola Grande di San Rocco in Venice, Italy.
 <br>
-<br>In January 1818, Caspar David Friedrich married Christiane Caroline Bommer, who was about 20 years his junior. On their honeymoon in July and August 1818, they visited relatives in Neubrandenburg and Greifswald. From there, the couple undertook an excursion to the island of Rügen with Friedrich's brother Christian. The painting appears as a celebration of the couple's union.
+<br>The painting is mentioned in several historical documents, since it has been the subject of veneration and devotion, due to its alleged miraculous properties. It was originally located in the church of San Rocco, annexed to the eponymuous Scuola where it is now, although it is unknown if it was on a pillar near the high altar or in a side chapel.
 <br>
-<br>The painting depicts the view from the chalk cliffs of the Stubbenkammer, at that time one of the most famous lookout points on the island. It is frequently but incorrectly believed that the Wissower Klinken outcrops in particular were a model for the painting; however, these did not exist at the time of the painting's creation, but appeared later because of erosion. Friedrich often composed his landscapes from carefully chosen elements of different sketches, so that a specific location is not necessarily discernible.
+<br>The attribution of the work has been disputed since the very 16th century: <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a> in both the first (1550) and second (1658) edition of his Lives assigns it to Giorgione and Titian at the same time. Further, both Titian and Giorgione had relationships with the guild which held the church and the Scuola; Giorgione was a friend of painter Vincenzo Catena, a member of the guild.
 <br>
-<br>Two trees, whose leaves cover the upper third of the painting, frame the scenery. Two men and a woman in town clothes gaze in wonder at the view. The thin figure in the middle is usually interpreted as Caspar David Friedrich himself. His hat lies beside him as a sign of humility. He seeks for a foothold in the grass as a symbol of the transience of life and looks into the abyss opening before him—the abyss of death. On the right, the man with crossed arms leans against the trunk of a dying tree and looks far out to the sea. The two tiny sailboats stand as symbols for the soul which opens to eternal life and correspond to the figures of the two men. On the left, the woman in a red dress (who is usually identified as Friedrich's wife Caroline) sits beside an almost dried-up shrub: only the twigs around her face are leafing out. With her right hand she points either at the abyss or at the flowers bordering it. In contrast to the men, who gaze either at the abyss or into the distance, she communicates with the other figures—whether she feels threatened by the abyss or compelled by the natural beauty is unclear.
+<br>The work's composition inspired numerous painters in Veneto and Lombardy, such as <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a> and <a target="_blank" href="/en/andrea-solario">Andrea Solario</a>.
 <br>
-<br>The colors of the figure's clothes are also symbolic. The middle figure is blue, the color of faith; the left figure is red, that of love; and the right figure is green, that of hope. Thus they can be interpreted as embodiments of the three Christian theological virtues: faith, hope and love. The art historian Helmut Börsch-Supan sees in the picture a representation of Friedrich's relation to death, and the threat to life by death: "clear [...] as almost never before, but at the same time also in an unusually serene mood".</span>
+<br>Jesus is portrayed with a cross on his shoulder, on a dark background, while an executioner is holding a noose on his neck. At the side are two secondary figures. Jesus, with a doleful expression, is looking towards the seer. The profile of the executioner and of the side figures were perhaps inspired by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>'s drawings, which would be part of Venetian collections at the time. Although the subject of Christ Carrying the Cross had long been a standard one in Italian art, Titian was following a type of "close-up" composition that had only recently been introduced to Northern Italy, from German or northern European examples.
+<br>
+<br>The painting features elements which were typical of both Titian and Giorgione: the sfumato contour of the figures and the inhomogeneous colors were common in the latter's works, while the robustness of the characters and their active participation to the event (differently than the quasi-dreaming contemplation of Giorgione) are a Titian feature.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
