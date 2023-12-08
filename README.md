@@ -2,20 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/henri-fantin-latour/around-the-piano-1885.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Starry Night</h2>
+        <h2 class="artwork-name">Around the piano</h2>
         <h3 class="artist">
-          Vincent van Gogh
-                    ·  1889
+          Henri Fantin-Latour
+                    ·  1885
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Van Gogh's night sky is a field of roiling energy. Below the exploding stars, the village is a place of quiet order. Connecting earth and sky is the flamelike cypress, a tree traditionally associated with graveyards and mourning. But death was not ominous for van Gogh. "Looking at the stars always makes me dream," he said, "Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star."
-<br>The artist wrote of his experience to his brother Theo: "This morning I saw the country from my window a long time before sunrise, with nothing but the morning star, which looked very big." This morning star, or Venus, may be the large white star just left of center in The Starry Night. The hamlet, on the other hand, is invented, and the church spire evokes van Gogh's native land, the Netherlands. The painting, like its daytime companion, The Olive Trees, is rooted in imagination and memory. Leaving behind the Impressionist doctrine of truth to nature in favor of restless feeling and intense color, as in this highly charged picture, van Gogh made his work a touchstone for all subsequent Expressionist painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Around the Piano (French: Autour du piano) is an 1885 painting by French artist <a target="_blank" href="/en/henri-fantin-latour">Henri Fantin-Latour</a>. It was exhibited at the Paris Salon the same year, then was bought by Adolphe Jullien. In 1915, it was given to the Musée du Luxembourg, then was at the Musée du Louvre until 1986. It is currently kept at the Musée d'Orsay in Paris.
+<br>
+<br>The painting was the last of the four portraits of groups that Fantin-Latour devoted to his friends and celebrities in the arts world. He referred here to the concerts given by the group known as "Le Petit Bayreuth" initiated by Antoine Lascoux. Despite three previous paintings and numerous <a target="_blank" href="/en/paintings-by-genre/still-life">still lifes</a>, the painter had not received the critical acclaim which he expected. He finally reached it through Around the Piano. The painting, however, remains the least known of series of four ones, perhaps because the people depicted are less famous.
+<br>
+<br>Exhibited at the Salon of 1885, the painting was called The Wagnerists by visitors, as the person seated at the piano was thought to be Camille Saint-Saëns, a composer who was an early supporter of Wagner. Adolphe Jullien, a close friend of Latour, rejected this name, saying that Fantin did not want to paint an artistic manifesto, but simply a gathering of friends, and that the score on the piano, although indistinct, was a piece by Brahms.
+<br>
+<br>Eight men are depicted around a piano, from left to right:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
