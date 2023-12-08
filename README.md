@@ -2,25 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/giovanni-bellini/portrait-of-a-condottiere.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00155/images/andrzej-nowacki/pastel-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a condottiere</h2>
+        <h2 class="artwork-name">03.11.16-11</h2>
         <h3 class="artist">
-          Giovanni Bellini
-                    ·  1485
+          Andrzej Nowacki
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of a Condottiere is an oil on panel painting by Italian Renaissance artist <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, executed around 1495-1500. It is housed in the National Gallery of Art at Washington, DC, United States.
-<br>
-<br>The portrait is one of Bellini's more evolved in this field, an activity he had started around 1474. The provenance of the work is unknown, as it is known only from 1786 when the Venetian doctor Pellegrini sold to Sir Abraham Hume. The latter's heirs sold it on the London market 1923 and again in 1936, when it was bought by the Samuel H. Kress Foundation. It was donated to the current American museum in 1939.
-<br>
-<br>The painting portrays an unknown, aged Italian condottiero's bust, seen from three-quarters above a dark background. The basic influence is still that of <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a>. The subject was once identified as Jacopo Marcello, capitano general of the Republic of Venice, which led to an early dating around 1482-1485; Bellini had executed a portrait for Marcello in his family house. Other identifications include Bartolomeo d'Alviano (basing on a statement by later Renaissance art historian <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>) and Giovanni Emo, implying that it could have been executed around in 1475-1500.
-<br>
-<br>The condottiere wears a precious brocade blouse and a blue beret. His features are deep, and has a fierce expression.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Each drawing is created like a note in a diary. It is a language without concepts and words, which uses abstract forms and employs​ the unconscious. It brings to the surface the hidden, incomprehensible elements of the inner world, transposing them into the soft voices of lines, forms, and colors. I give up the conceptual narration, in an attempt to return to the childlike directness of the message.<br>The square makes up a sort of framework, providing me with a sense of safety. Its external frame does not mean limitation but balances the tension of the plane, and thus the apparent chaos gravitates toward the earth, brings about peace and order, and stimulates the pulsating rhythm of the interplay of forms.<br>Drawings are a dialogue between my innermost self and inner feelings, which are self- generated. The most important objective is to reach the moment when owing to the melody of this geometric world, both experiences become for me identical."<br><br>Andrzej Nowacki, May 2003</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
