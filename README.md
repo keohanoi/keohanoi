@@ -2,19 +2,35 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/john-william-waterhouse/the-lady-of-shalott-1888.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/gerard-sekoto/prayer-in-church-1947.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Lady of Shalott</h2>
+        <h2 class="artwork-name">Prayer in Church</h2>
         <h3 class="artist">
-          John William Waterhouse
-                    ·  1888
+          Gerard Sekoto
+                    ·  1947
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The Lady of Shalott</i> (1888), one of John William Waterhouse's best-known paintings, illustrates the tragic conclusion of Alfred Tennyson’s 1832 poem <i>The Lady of Shallot</i>. Tennyson’s poem retells a medieval Arthurian legend about Elaine of Astolat, who died of unrequited love for Sir Lancelot. According to the legend, she was cursed in a tower near King Arthur’s Camelot. In Tennyson’s poem, the Lady of Shalott’s suffers from a curse that forbids her from leaving her tower: she sits in the tower and weaves, only allowed to look upon reality through a mirror. Defying her curse, she looks out the window and heads in a small boat to Camelot. Punished for breaking the curse, she dies before reaching her destination. Waterhouse depicts the Lady of Shalott in her final moments, as she lets go of the boat’s chain: her mouth is parted as she sings ‘her last song’. The tapestry she wove during her confinement is draped over the boat. The artist hints at her near demise: in front of her is a crucifix and next to her are three candles, two of them blown-out. Candles were often used to symbolized life, and the two blown-out candles signify that her life will end soon.<br><br>Tennyson’s poem was very popular among Pre-Raphaelite painters and poets, inspiring many works, such as <a target="_blank" href="https://www.wikiart.org/en/john-atkinson-grimshaw/the-lady-of-shalott-1878"><i>The Lady of Shalott</i></a> (1878) by <a target="_blank" href="https://www.wikiart.org/en/john-atkinson-grimshaw">John Atkinson Grimshaw</a>,  <a target="_blank" href="https://www.wikiart.org/en/dante-gabriel-rossetti/the-lady-of-shalott-moxon-tennyson-1857"><i>The Lady of Shalott</i></a> (1857) by <a target="_blank" href="https://www.wikiart.org/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a> and <a target="_blank" href="https://www.wikiart.org/en/william-holman-hunt/the-lady-of-shalott"><i>The Lady of Shalott</i></a> (1905) by <a target="_blank" href="https://www.wikiart.org/en/william-holman-hunt">William Holman Hunt</a>. Waterhouse, who was influenced by the <a target="_blank" href="https://www.wikiart.org/en/artists-by-painting-school/pre-raphaelite-brotherhood">Pre-Raphaelites</a> in both style and subject matter, was also very fond of the poem. <i>The Lady of Shalott</i> became one of the artist’s best-known subjects, and he painted the character in two additional versions, <a target="_blank" href="https://www.wikiart.org/en/john-william-waterhouse/the-lady-of-shalott-1894"><i>The Lady of Shalott Looking at Lancelot</i> </a>(1894) and <a target="_blank" href="https://www.wikiart.org/en/john-william-waterhouse/i-am-half-sick-of-shadows-said-the-lady-of-shalott-1915"><i>I am Half-Sick of Shadows, said the Lady of Shalott</i></a> (1915).<br><br><i>The Lady of Shalott</i> was created during a brief period in which Waterhouse painted <i>en plein air</i> – a French term for painting outdoors. This likely contributed to the naturalistic depiction of the landscape. Even though the setting of the painting is unknown, it was likely painted during one of the artist’s visits to Devon or Somerset. The model was probably the artist’s wife, Esther Kenworthy Waterhouse. Some have suggested that the painting was a tribute to the painting <a target="_blank" href="https://www.wikiart.org/en/john-everett-millais/ophelia"><i>Ophelia</i></a> (1851-1852) by Pre-Raphaelite <a target="_blank" href="https://www.wikiart.org/en/john-everett-millais">John Everett Millais</a>. The broad impressionist brushstrokes seen in both paintings replaced the precise treatment characteristic of the earlier Pre-Raphaelite work. In Waterhouse’s sketchbook, there were many pencil sketches and studies for this painting, as well as for the later work <i>I am Half-Sick of Shadows, said the Lady of Shalott</i>. <i>The Lady of Shalott</i> was donated to the public in 1894 by Sir Henry Tate and was one of the original paintings gifted by Tate. Today it is displayed at the Tate Britain Museum in London.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jan Gerard Sekoto, like his parents, Andreas and Anna, was born at the Lutheran Mission Station, Botshabelo, on the Transvaal Highveld. Andreas later moved his family to the farm, Wonderhoek, about 30 kilometers from the Mission Station, where he worked as a teacher and evangelist. Sekoto’s formative years were therefore spent in a much regulated religious milieu - during his formal schooling at Botshabelo College, his well regimented days started and ended with prayers, and attending church on Sundays was customary.
+<br>
+<br>‘Prayer in Church’ is a testament to Sekoto’s love of observing people and portraying their expressions and moods in his sketches and paintings. Here he accurately captures the devotion of the young girls in prayer, the respectful posture of the men in jackets, the comfort of the old lady wrapped in her blanket and even the mischievous antics of the toddlers in the pews.
+<br>
+<br>This painting is a prime example of Sekoto’s technical ability and skill displayed during the Eastwood period of 1946 - 1947. His understanding of the principles of composition, form and colour, and his masterly treatment of light and shadow in this side-lit interior scene speaks of a confidence found only with an artist who is in control of his medium and technique. Both the artist, and the director of the Gainsborough Galleries, must have rated this painting very highly when it was exhibited on his 1947 solo exhibition there, as it was the second most expensive painting in the catalogue at 35 Gns.
+<br>
+<br>Sekoto’s strict Christian upbringing did not result in a life devoted to the church or its beliefs, but rather in a philosophy which Manganyi describes as having turned his pursuit of art into a kind of personal worldly religion. Sekoto wrote: "Art is a human virtue and I have given my whole self to it, for it promotes understanding among races rather than destroys it."
+<br>
+<br>Provenance:
+<br>Gainsborough Galleries, Catalogue of Exhibition of Paintings by Gerard Sekoto, Johannesburg, July 22 - August 4, 1947
+<br>
+<br>Illustrated:
+<br>Sotheby Parke Bernet SA, Auction Catalogue of The Selig Gordon Collection and other important South African Paintings, Watercolours and Sculpture, Johannesburg, 6 March 1979, p 55, Lot 99
+<br>
+<br>Bibliography:
+<br>Lesley Spiro, Gerard Sekoto: Unsevered Ties, Johannesburg Art Gallery, 1989, pp 41 and 68
+<br>N Chabani Manganyi, Gerard Sekoto: ‘I am an African’, Johannesburg, 2004, p 105</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
