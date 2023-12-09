@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/george-romney/charlotte-bettesworth-c-1755-1841-mrs-john-sargent-1778.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/victor-pasmore/lamplight-1941(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Charlotte Bettesworth (c.1755–1841), Mrs John Sargent</h2>
+        <h2 class="artwork-name">Lamplight</h2>
         <h3 class="artist">
-          George Romney
-                    ·  1778
+          Victor Pasmore
+                    ·  1941
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mrs Sargent was about to get married when she sat for Romney for this portrait. On the table is a marble relief of a wedding scene, The Marriage of Cupid and Psyche. The other objects on the table demonstrate her character and interests. The statuette of Minerva, Goddess of Wisdom, suggests she is wise; the drawing instrument tells us she is artistic and the book shows her learning.
-<br>
-<br>Romney painted the picture not long after his return from Rome, where he had studied classical sculpture. His works became very fashionable again in the late 19th century.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This intimate interior painted during the wartime blackout shows Pasmore and his wife. In the 1940s Pasmore painted many pure still lifes in which the painted marks are true both to observation and to his love of exploring form itself. This can be seen here in the treatment of the lamp, jug and book. Of the founders of the Euston Road School, Pasmore was the most strongly drawn to the sensuous qualities of paint and colour, not least those found in French art of the nineteenth century.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
