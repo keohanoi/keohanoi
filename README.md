@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/shitao/reminiscences-of-qin-huai.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/rembrandt/danae-1643.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Reminiscences of Qin-Huai</h2>
+        <h2 class="artwork-name">Danae</h2>
         <h3 class="artist">
-          Shitao
+          Rembrandt
+                    ·  1643
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Reminiscences of Qin-Huai is another of Shi Tao's unique paintings. Like many of the paintings from the late Ming Dynasty and early Qing Dynasty it deals with man's place in nature. Upon a first viewing, however, the craggy peak in this painting seems somewhat distorted. What makes this painting so unique is that it appears to depict the mountain bowing. A monk stands placidly on a boat that floats along the Qin-Huai river, staring up in admiration at the genuflecting stone giant. The economy of respect that circulates between man and nature is explored here in a sophisticated style reminiscent of surrealism or magical realism, and bordering on the absurd. Shi Tao himself had visited the river and the surrounding region in the 1680s, but it is unknown whether the album that contains this painting depicts specific places. Re-presentation itself is the only way the feeling of mutual respect that Shi Tao depicts in this painting could be communicated; the subject of a personified mountain simply defies anything simpler.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts the mythical character of Danae, welcoming Zeus into her bed, and who later bore his son, Perseus. Rembrandt originally used his first wife, Saskia, as the model in the painting, but later replaced her face with the face of his mistress Geertje Dircx. In 1985, a man threw acid on the painting as it hung on display at the Hermitage Museum. He also cut the canvas twice with a knife. The most badly damaged parts of the painting were to the face and hair of Danae, her right arm, and her legs. The entire middle section of the painting was also dripping with a conglomeration of paint spots. Restoration of the painting began the same day, and was finished twelve years later. Then man who threw the acid was later declared insane. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
