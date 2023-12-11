@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/helen-frankenthaler/mountains-and-sea-1962.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/katsushika-hokusai/the-dragon-of-smoke-escaping-from-mount-fuji.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mountains and Sea</h2>
+        <h2 class="artwork-name">The Dragon of Smoke Escaping from Mount Fuji</h2>
         <h3 class="artist">
-          Helen Frankenthaler
-                    ·  1952
+          Katsushika Hokusai
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Initially associated with abstract expressionism, her career was launched in 1952 with the exhibition of Mountains and Sea. This painting (inspired by inspired by a trip to Nova Scotia) is large - measuring seven feet by ten feet - and has the effect of a watercolor, though it is painted in oils. In it, she introduced the technique of painting directly onto an unprepared canvas so that the material absorbs the colors. She heavily diluted the oil paint with turpentine so that the color would soak into the canvas. This technique, known as "soak stain" was used by Jackson Pollock (1912–1956), and others; and was adopted by other artists notably Morris Louis (1912–1962), and Kenneth Noland (1924–2010), and launched the second generation of the Color Field school of painting. This method would sometimes leave the canvas with a halo effect around each area to which the paint was applied but has a disadvantage in that the oil in the paints will eventually cause the canvas to discolor and rot away.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A dragon emerges from the thick black smoke circling Mount Fuji. The smoke and the dragon are one and the same, the smoke being the path through which the dragon has traveled to escape. In contrast, Mount Fuji stands pristinely white, covered in snow. Mountains in the foreground and a small puff of trees indicate the extent of the size of the mountain, which is unaffected by the escape of the dragon. Hokusai was a master at evincing an almost religious reverence for the majesty of the mountain, which stands like a fortress in the middle of the painting, allowing the dragon of smoke to escape.  </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
