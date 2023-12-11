@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/paul-gauguin/van-gogh-painting-sunflowers-1888.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/pierre-auguste-renoir/the-luncheon-of-the-boating-party-1881-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Van Gogh Painting Sunflowers</h2>
+        <h2 class="artwork-name">The Luncheon of the Boating Party</h2>
         <h3 class="artist">
-          Paul Gauguin
-                    ·  1888
+          Pierre-Auguste Renoir
+                    ·  1881
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Paul Gauguin and Vincent van Gogh had an early friendship, which blossomed into an invitation to Arles, France, where van Gogh wanted Gauguin to stay with him and create an art colony. This painting was completed during Gauguin’s stay in Arles, depicting van Gogh painting his famous work Sunflowers. Unfortunately, Gaugin and Van Gogh were unable to create their art colony, as Gauguin only stayed for two months. The pair quarreled, and in December of 1888, Gauguin confronted van Gogh with a razor blade. Van Gogh, panicking, fled to a brothel, where he cut off his lower left ear lobe. Gauguin later left and the two never saw each other again. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Renoir sold this painting to the art dealer Paul Durand-Ruel, who supported the impressionists, after its completion. The painting, arguably one of Renoir’s most famous works, contains many of Renoir’s close friends, including his future wife, relaxing at the Maison Fournaise along the Seine River. Renoir often included his friends and acquaintances in his paintings, and this one is no different. At the bottom left of the composition, a woman holding a dog (monkey pincher), is seamstress Aline Charigot, whom later became Renoir’s wife. The painting also includes other close friends, actors, the proprietors of the establishment, and prominent social figures of his day. As such, it can be seen as a snapshot of the social times, as well as a depiction of a relaxing day on the river. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
