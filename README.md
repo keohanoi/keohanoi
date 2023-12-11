@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/francois-boucher/venus-and-cupid-1752.jpg"
+        src="https://uploads4.wikiart.org/images/helen-frankenthaler/mountains-and-sea-1962.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Venus and Cupid</h2>
+        <h2 class="artwork-name">Mountains and Sea</h2>
         <h3 class="artist">
-          Francois Boucher
-                    ·  1752
+          Helen Frankenthaler
+                    ·  1952
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In addition to creating paintings on canvas, Boucher also worked in chalk pastels, such as this piece. Throughout his prolific career, he sometimes made two or three of these quick chalk drawings a day, producing well over 10,000 drawing and paintings in his lifetime, ranging from quick sketches to completed chalk compositions, such as Venus and Cupid. Although it was only a drawing, Boucher intended this piece to be hung like a painting, completed the illustration of Venus and Cupid with his sensuous chalk outlines and voluptuous female nude. Until the 18th century, many artists had not made much use of chalks, but in this portrait Boucher uses them to their utmost capacity, creating billowing green shrubbery and soft fleshy bodies. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Initially associated with abstract expressionism, her career was launched in 1952 with the exhibition of Mountains and Sea. This painting (inspired by inspired by a trip to Nova Scotia) is large - measuring seven feet by ten feet - and has the effect of a watercolor, though it is painted in oils. In it, she introduced the technique of painting directly onto an unprepared canvas so that the material absorbs the colors. She heavily diluted the oil paint with turpentine so that the color would soak into the canvas. This technique, known as "soak stain" was used by Jackson Pollock (1912–1956), and others; and was adopted by other artists notably Morris Louis (1912–1962), and Kenneth Noland (1924–2010), and launched the second generation of the Color Field school of painting. This method would sometimes leave the canvas with a halo effect around each area to which the paint was applied but has a disadvantage in that the oil in the paints will eventually cause the canvas to discolor and rot away.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
