@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/pavel-filonov/the-narva-gates-1929.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/grant-wood/unknown-tree-1907(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Narva Gates</h2>
+        <h2 class="artwork-name">Currants</h2>
         <h3 class="artist">
-          Pavel Filonov
-                    ·  1929
+          Grant Wood
+                    ·  1907
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1916, Filonov enlisted in the army and fought on the Romanian front of World War I, and returned to St. Petersburg (now Petrograd), after the Russian Revolution of 1917. Optimistic that the revolutionary changes in society would help him spread his artistic ideas, he taught at the Free Workshops of 1918-1922 and founded the group Masters of Analytical Art in 1925. Filonov completed dozens of works during this period, including The Narva Gates, hopeful of their critical reception. Unfortunately, the new Soviet regime, which controlled almost all aspects of social life, was disapproving of Filonov’s analytical style, and forbade the exhibition of his works. The artist was thus left isolated and without means, and starves to death under Soviet rule. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is cited in: "Grant Wood scrapbook 15: Photographs of paintings, 1958 and known fakes", page 5/124. Iowa University Libraries/Iowa Digital Library.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
