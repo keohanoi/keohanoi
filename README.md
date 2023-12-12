@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/kuzma-petrov-vodkin/chaos-1906.jpg"
+        src="https://uploads7.wikiart.org/00306/images/lothar-baumgarten/mg-1111-large.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chaos</h2>
+        <h2 class="artwork-name">The ship is going under, the ice is breaking through</h2>
         <h3 class="artist">
-          Kuzma Petrov-Vodkin
-                    ·  1906
+          Lothar Baumgarten
+                    ·  2016
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Chaos was one of the first paintings created by Petrov-Vodkin upon his arrival in Paris in 1906. Between the two years he spent in Paris, Petrov-Vodkin produced prolific amounts of work, completing over 900 paintings and drawings. In the Academy Colarossi, he vigorously studied the human form, frenetically sketching in his books, perfecting his depiction of the human body. While in Paris, Petrov-Vodkin was deeply influenced by the painter Puvis de Chavannes, and imitated the artist’s stark palette and simplified composition. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lothar Baumgarten concentrates here on the fragility of the domed glass structure of the Palacio de Cristal to create a sound sculpture from a series of audio recordings of ice thawing of the Hudson River in upstate New York. Within the transparent architectural presence of its glass corpus, the deafening sound of the ice becomes a tonal analogy for the crashing stocks and assets of financial markets; it concerns greedy speculation about unlimited economic growth and the resulting impact on the dramatically changing global climate.<br><br> <a target="_blank" href="https://vimeo.com/191140557">Video fragment</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
