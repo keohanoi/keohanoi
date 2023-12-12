@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00380/images/francisco-de-zurbaran/still-life-with-lemons-oranges-and-a-rose-francisco-de-zurbaran.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/pisanello/portrait-of-a-princess-of-the-house-of-este-1449.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Still Life</h2>
+        <h2 class="artwork-name">Portrait of a Princess of the House of Este</h2>
         <h3 class="artist">
-          Francisco de Zurbaran
-                    ·  1633
+          Pisanello
+                    ·  1449
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Still Life with Lemons, Oranges and a Rose is an oil-on-canvas painting by <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> Spanish artist Francisco de Zurbarán completed in 1633. It is currently displayed at the Norton Simon Museum in Pasadena, California as part of its permanent collection. It is the only <a target="_blank" href="/en/paintings-by-genre/still-life">still life</a> signed and dated by him and is considered a masterwork of the genre.
-<br>
-<br>The painting shows three groups of objects (a saucer of four citrons, a basket of oranges, and a saucer holding both a cup of water and a rose) resting on a table against a dark background. Each group of objects are placed equidistant from one another and form a spatial and geometrical balance due to their pyramidal organization. As described by Andreas Prater:
-<br>
-<br>Norman Bryson writes:
-<br>
-<br>Many of Zurbaran's works contained Christian themes, and the objects in the painting are often interpreted as having symbolic meaning as alluding to the Holy Trinity or as an homage to the Virgin Mary.
-<br>
-<br>Morten Lauridsen wrote in the Wall Street Journal:</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Princess is a tempera painting on panel attributed to the Italian Late-Gothic master Pisanello. It was probably executed between 1435 and 1449 and is also known as Portrait of a Princess of the House of Este. It is firmly attributed to Pisanello on stylistic grounds and because he stayed in Ferrara in the period, where he also finished a portrait and a celebrative medal of Marquis Leonello d'Este. The princess is shown in profile against a background of numerous butterflies and columbine flowers. The butterfly near the princess' brow is a symbol of the soul. The painting is currently housed and exhibited in the Musée du Louvre in Paris, France.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
