@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/michael-bell/the-ring-2008.jpg"
+        src="https://uploads2.wikiart.org/00372/images/edward-poynter/the-ides-of-march-edward-john-poynter-1836-1919.jpeg!Large.jpeg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Ring</h2>
+        <h2 class="artwork-name">The Ides of March</h2>
         <h3 class="artist">
-          Michael Bell
-                    ·  2008
+          Edward Poynter
+                    ·  1883
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
-<br>
-<br>"The Ring" is the third of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
-<br>
-<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
-<br> 
-<br>In Scene 3, "The Ring" the subway station is flooding with an avalanche of water symbolic of an extreme emotional outpour as an emergency phone dangles off the hook.
-<br>
-<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An illustration of Act II, scene 2 of Shakespeare's 'Julius Caesar'. Calphurnia, Caesar's wife, is seen imploring him not to go to the senate-house, where he will be murdered. It is a view from inside an elaborate Roman home, with a highly polished floor and marble columns. Two figures stand in the centre of the picture, their backs to the viewer. On the right is Caesar who is looking across to his wife, Calpurnia. She looks up at her husband, her face lit in contrast to Caesar's which is in shadow. She gestures with her right hand towards a comet which has crossed the sky and is moving out of view. Just to the left of the comet's trail is the silhouette of a statue of a soldier, armed with a shield and spear, atop a pediment. The comet's trail passes through a section of clear sky which contrasts with the surrounding heavy clouds.On the left, within Caesar's home, a bust of the leader is lit from beneath by a lamp, throwing an eerie shadow onto the wall behind. A standard leans against the wall next to the bust. A trophy of Celtic arms and shields hangs between the two columns, symbols of Caesar's victories.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
