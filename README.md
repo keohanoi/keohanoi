@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/francesco-hayez/melancholic-thoughts-1842.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/cy-twombly/leda-and-the-swan.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Melancholic Thoughts</h2>
+        <h2 class="artwork-name">Leda and the Swan</h2>
         <h3 class="artist">
-          Francesco Hayez
-                    ·  1841
+          Cy Twombly
+                    ·  1962
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The work, executed between 1840 and 1842, is full of erudite references to the Italian and European pictorial tradition: from reflections on the 16th-century painting of the Veneto exemplified by the treatment of the clothing, which echoes the textural effects of Savoldo and Titian, to the citation of Flemish still lifes.<br>Painted for Marquis Filippo Ala Ponzoni, a patron of the arts, patriot and follower of Giuseppe Mazzini, this picture owed its popularity both to its outstanding quality and to its emblematic value, making it a symbol of the restlessness of Romanticism. The subject belongs to the half-figure category inspired by the 17th century Emilian school’s Sibyllas and Cleopatras which Hayez revisited with a greater focus on the figures’ moods. The wilting flowers also remind us of the transcience of human affairs.<br>The painting was bequeathed to Brera in 1889 by Marchese Ala Ponzoni.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Leda and the Swan, one of Twombly's most accomplished works, illustrates his career-long attraction to the stories, literature and events of classical antiquity, an interest that expanded further after moving to Rome in 1957. The title, which Twombly scrawled in the lower right corner, refers to the Roman myth in which Jupiter, transformed into a swan, seduces Leda, who would later give birth to Helen of Troy. Rather than the conventional imagery of a graceful nude languidly entangled with a swan, Twombly merged diverse media, resulting in violent and forceful swirls, scratches and zig-zags flying out in all directions. Amidst the colliding, graffiti-like elements, he included recognizable hearts, a phallus, and a window-like rectangle, the latter read as a more stabilizing aspect of this otherwise explosive painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
