@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/lorenzo-lotto/venus-and-cupid.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00244/images/arne-quinze/arnequinze-thevisitor-beirut5.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Venus and Cupid</h2>
+        <h2 class="artwork-name">The Visitor</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1525
+          Arne Quinze
+                    ·  2010
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Venus and Cupid is a painting by <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a> in the collection of the Metropolitan Museum of Art. It probably dates to the mid-1520s, but has been dated as late as the 1540s.
-<br>
-<br>It is a wedding gift for a couple of Bergamo or Venice. Such paintings were inspired by the classical tradition of wedding poetry.
-<br>
-<br>Venus, lying on the ground and leaning on an elbow on a blue cloth, is accompanied by her son Cupid standing with his bow and quiver. He urinates on the bride through a crown of laurels of myrtle which she holds by a ribbon and below which is suspended a burning incense burner. This urine stream is symbolic act, the meaning of which is to bring fertility, and which would have seemed humorous to contemporary viewers.
-<br>
-<br>There is on a background of red hanging tied to a tree on which climbs ivy. Around them are scattered allegorical objects of marriage (garland of myrtle), femininity (rose, seashell, rose petals), eternal love (ivy). The headdress of Venus, with the tiara, the veil and the earring, is typical of the Venetian brides of the sixteenth century. The pendant earring with a pearl is a symbol of purity. The gesture of Cupid that urinates through the crown on the belly of Venus is an erotic allusion to fertility.
-<br>
-<br>The painting is Lotto's typically individual contribution to the emerging Venetian tradition of the recling nude, begun by the Dresden Venus by <a target="_blank" href="/en/giorgione">Giorgione</a> and <a target="_blank" href="/en/titian">Titian</a>. The goddess shows no discomfort with her nakedness and looks at the spectator in the eye. In front of her are a stick and a snake. The goddess seems to bless the marrying couple, wishing them fertility, and preserving them from hidden dangers like the serpent.
-<br>
-<br>This painting is not recorded until an image of it was published in the Directory of paintings of the Middle Ages and the Renaissance by Salomon Reinach in 1918, as being with a French dealer in 1912. In 1986 it was acquired by the Metropolitan Museum of Art. Before the purchase, the painting was cleaned at the Metropolitan, notably cleared of its repainting (at the level of the headdress of Venus, draped on her right thigh and bouquet held by Cupid).</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Visitor’ is a 16-meter-high Stilt House, hidden in the midst of the renewed Souk buildings in the centre of Beirut. This large Stilt House has the same features as its smaller editions. (The artist makes smaller sculptures and paintings in which Stilt Houses are incorporated.) Stilt Houses have the appearance of fragile, vulnerable people, who keep on standing and surviving in every context, despite their thin legs. They are proof of man’s incredible flexibility.<br><br>During the construction of the ‘The Visitor’, Arne Quinze was influenced by the reflection of the bright sunlight on the buildings, built in white<br>natural stone. As a result of this reflexion, in the evening, the Stilt House radiates a warm orange glow, which attracts people from near and far to this part of the town to discover where this glow comes from. You have to be prepared to get lost in the narrow streets of the Souk to discover this stranger in the city. Once they have got in touch with this strange visitor, Arne Quinze hopes that people will be stimulated to continue with an open mind and rediscover the city, starting from a whole new perspective. This is what his patrons, Solidere, also wanted to achieve. A renewed Beirut, which leaves its past behind and moves towards the future with an open mind: a modern city in the Middle East.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
