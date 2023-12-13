@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/pietro-perugino/the-vision-of-st-bernard.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00287/images/norman-rockwell/homecoming.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The vision of St. Bernard</h2>
+        <h2 class="artwork-name">The homecoming</h2>
         <h3 class="artist">
-          Pietro Perugino
-                    ·  1493
+          Norman Rockwell
+                    ·  1945
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Virgin appearing to St. Bernard is a painting by the Italian artist <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, the main painter of the Umbrian school that was based in Perugia. The panel was executed as an altarpiece for the church of Santa Maria Maddalena dei Pazzi in Florence. It was later acquired in 1829/30 for King Ludwig I of Bavaria from the Capponi in Florence, and eventually made it to the Alte Pinakothek in Munich. The work has been called "one of the high points of European painting in the late 15th century."
-<br>
-<br>The painting shows St Bernard of Clairvaux, deep in his studies, being interrupted by a fully corporeal vision of the Virgin Mary, who appears to him in the clear light of day. Four saints surround them. There is a seemingly effortless, perfect symmetry about the composition, yet there is nothing static or artificial about it in any way. The position of the Virgin and St. Bernard's prie-dieu are both slightly off balance, but not enough to ruin the serene harmony of the picture. The faces of the various figures contribute to this quiet beauty, without showing much individualism or realism. Likewise, the colours are bright and radiant, without being flashy.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The homecoming</i> (1945) appeared on the cover of the <i>Saturday Evening Post</i>. Rockwell created an image of American life after the Second World War. It was a story about heroes and their families, about friendly people united by doing simple good things. <br><br>The subject of the painting is clear: a young boy, military, returns home, unleashing the joy of his family in full force. The relatives throw themself to embrace him, the neighbors look out the windows, the boys of the neighborhood greet him from the trees, and a mysterious girl, perhaps the girlfriend left at home, shudders, hidden behind the corner of the house. On the doorstep, now open, the star emblem, a symbol of family pride,  of the soldier sent to defend the Homeland. Rockwell chooses to show everyone's face, even the neighbor climbing on the fence to watch or the worker adjusting the roof, but not the boy's. His face is the joy of those who welcome him. His face is the uniform he wears, his erect posture, his bag clutched in his hand. He is at home, having served well. <br><br>The artist had a passion for red color. All the protagonists have red hair, and the mother with her arms wide open wears a red sweater, above the apron. The father, who takes his pipe from his mouth to open his face in an expression of amazement, has the face of Rockwell. As if the artist wanted to take part in this joy, to say that it is the joy of everyone and each one: see the children return, at the end of the war on the other side of the ocean.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
