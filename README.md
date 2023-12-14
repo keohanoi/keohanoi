@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/james-rosenquist/f-111-1965.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/roni-horn/water-selected-2007.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">F-111</h2>
+        <h2 class="artwork-name">Water, Selected</h2>
         <h3 class="artist">
-          James Rosenquist
-                    ·  1965
+          Roni Horn
+                    ·  2007
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">James Rosenquist began to paint the 86-foot-long F-111 in 1964, in the middle of one of this country’s most turbulent decades. Inspired by advertising billboards and by earlier mural-scaled paintings, such as Claude Monet’s Water Lilies, he designed its 23 panels to wrap around the four walls of the Leo Castelli Gallery at 4 East 77th Street in Manhattan, where it would be displayed the following year. Rosenquist took as his subject the F-111 fighter bomber plane, the newest, most technologically advanced weapon in development at the time, and positioned it, as he later explained, “flying through the flak of consumer society to question the collusion between the Vietnam death machine, consumerism, the media, and advertising.” Its jumps of scale, collage-like juxtaposition of fragments of imagery, and gloriously vivid palette exemplify the style that defines Rosenquist’s singular contribution to Pop art in the United States.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Water, Selected is a print of a detailed, physical map of Iceland. Imposed onto its contoured and annotated landscape are twenty-four orange-coloured labels marking Iceland’s glacial sources of water. It is related to a larger project of Roni Horn’s: Vatnasafn/Library of Water, a permanent installation in the small town of Sykkishólmur in Iceland. The project was commissioned by Artangel, and was the first international project of this London-based organisation. It opened in May 2007.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
