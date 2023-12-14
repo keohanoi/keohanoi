@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/pierre-bonnard/view-from-the-artist-s-studio-le-cannet-1945.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/william-holman-hunt/the-scapegoat.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">View from the Artist's Studio, Le Cannet</h2>
+        <h2 class="artwork-name">The Scapegoat</h2>
         <h3 class="artist">
-          Pierre Bonnard
-                    ·  1945
+          William Holman Hunt
+                    ·  1854
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Similar to his fellow Nabis artists, Bonnard preferred the use of color and decorative elements to the academic technicalities in art. He became devoted to flattening out his representations into two dimensions, and exploring the many properties of color. After he settled in Le Cannet, in Southern France, he became entranced with the seductive properties of the light there, and painted over 300 hundred works which portrayed the vibrant energy of the Southern French region. View from the Artist’s Studio was created only two years before his death, and with the nondescript pathway and colorful background displays more of an abstraction of form that his earlier works.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Scapegoat depicts the "scapegoat" described in the Book of Leviticus. On the Day of Atonement, a goat would have its horns wrapped with a red cloth - representing the sins of the community - and be driven off.
+<br>He started painting on the shore of the Dead Sea, and continued in his studio in London. The work exists in two versions, a small version in brighter colours with a dark-haired goat and a rainbow, held by Manchester Art Gallery, and a larger version in more muted tones with a light-haired goat held by the Lady Lever Art Gallery in Port Sunlight.
+<br>The painting was the only major work completed by Hunt during his first trip to the Holy Land, to which he had travelled after a crisis of religious faith. Hunt intended to experience the actual locations of the Biblical narratives as a means to confront the relationship between faith and truth. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
