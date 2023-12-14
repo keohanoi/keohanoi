@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/nicholas-of-verdun/gem-with-dancer-1st-cent-before-christ.jpg"
+        src="https://uploads6.wikiart.org/images/fra-angelico/presentation-of-jesus-in-the-temple-1442.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Gem with Dancer, 1st Cent. before Christ</h2>
+        <h2 class="artwork-name">Presentation of Jesus in the Temple</h2>
         <h3 class="artist">
-          Nicholas of Verdun
-                    ·  1200
+          Fra Angelico
+                    ·  1442
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The cameo of a dancer in billowing robes is situated right at the centre of the front of the shrine just above the removable trapezoidal central panel. The billowing robes and the plastic shape of the body are similar to those of the prophets depicted on the sides of the shrine, which were created by Nicholas of Verdun. It is known that the goldsmiths in Nicholas of Verdun’s workshop learned from ancient works, so it is possible that this cameo was used as a template for the body shape and robe design of other figures on the shrine.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Presentazione di Gesù al Tempio is a fresco by <a target="_blank" href="/en/fra-angelico">Fra Angelico</a> made for a monastery. This is one of a limited number of paintings whose composition and brightness suggest that the monk Fra Angelico was involved in their creation. However some of the painting indicated that less skilled hands also assisted. The painting dates from 1450 to 1452 when Angelico was the Prior of San Domenico in Fiesole. Today the work can be seen at the National Museum of San Marco in Florence.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
