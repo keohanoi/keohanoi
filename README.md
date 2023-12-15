@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00443/images/lee-krasner/75-1-cropped.jpeg"
+        src="https://uploads5.wikiart.org/images/kenzo-okada/footsteps-1954.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">White Squares</h2>
+        <h2 class="artwork-name">Footsteps</h2>
         <h3 class="artist">
-          Lee Krasner
-                    ·  1948
+          Kenzo Okada
+                    ·  1954
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">From 1946 to 1949, Lee Krasner made a series of small-scale works she called the Little Image paintings, in which she sought “a merging of the organic with the abstract.” She described some of these paintings, including White Squares, as “hieroglyphic.” Krasner was fascinated by ancient languages. Raised as an Orthodox Jew, she learned to copy (though not to read) Hebrew letters, which fostered a lifelong interest in the abstract character of writing dissociated from meaning, and ultimately led to the marks of her “hieroglyphic” works. White Squares is covered in a dense, white lattice of open squares, with an evenness that recalls a page of text. Yet the traces of yellow, blue, and green visible beneath the black ground give the painting a sense of depth. The concentric rectilinear forms may evoke another of Krasner’s fascinations, foraminifera—spirally arranged marine organisms. Indeed, Krasner had a collection of crystals, shells, and foraminifera, which perhaps explains why the painting was originally titled by a friend (and inscribed on the stretcher) “Passion for Collecting.”</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Footsteps, painted in 1954, represents one of Okada's early forays into abstract expressionism. In keeping with the ideas of his fellow abstract expressionists, Okada drew imagery from his subconscious, allowing it to dictate his creative hand. He had no preconceived imagery for a picture, but preferred working in the spirit of Zen Buddhism, which emphasizes meditation. Occasionally he was known to work out the ideas for a composition using natural elements such as sticks, stones, and paper. This process helped him to develop the image before actually beginning his painting.
+<br>
+<br>In Footsteps, the tiny daubs of gray and black paint that lead the viewer's eye into the composition, the broken, black horizontal line in the upper right, and the porous brown triangular shape in the bottom left are evocative of pebbles, rocks, and sticks. Okada's tendency to suggest landscape arises in the faint horizontal shape on the right resembling a mountain or hill, the white amorphous shapes evoking clouds, and the touches of gray in the center resembling footprints in the snow—a fleeting suggestion for the title of this painting. The geometric shapes clustered on the left of the canvas, suggest houses, windows, and roofs, implying human presence in harmony with nature. Okada revealed his Asian heritage through the calm simplicity of the composition, the soft, muted palette, and the subtle allusions to nature. By balancing void against condensed weight, he realized the oriental pictorial tradition of implying vast and ambiguous space.
+<br>
+<br>Okada achieved texture in Footsteps by scraping back paint, painting wet-into-wet, splattering paint onto a dry surface, and using a dry brush. Drips of paint run in different directions on the composition, suggesting that Okada rotated the canvas as he worked. The painting is built up with thin oil washes; bare ground is exposed in some areas between forms, but most of the canvas is covered with thin glazes. The geometric shapes and the interweaving of lush textures and tones suggest aspects of nature.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
