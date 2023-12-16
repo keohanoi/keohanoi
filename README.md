@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00238/images/ancient-greek-pottery/terracotta-oinochoe-jug-300.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/doug-wheeler/infinity-room-sa-mi-75-dz-ny-12-2012.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Terracotta Oinochoe (jug)</h2>
+        <h2 class="artwork-name">Infinity Room (SA MI 75 DZ NY 12)</h2>
         <h3 class="artist">
-          Ancient Greek Pottery
-                    ·  -300
+          Doug Wheeler
+                    ·  2012
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nike driving a chariot preceded by Eros with a situla (bucket). The <i>oinochoai</i> are open at the bottom, indicating that they were made for funerary use. The opening rendered them useless as containers but permitted liquid offerings to flow into the ground.<br><br>Attributed to the Stuttgart Group<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247372">The Met</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Infinity Room</i> is an "infinity environment" created by Doug Wheeler. It consists of an all-white room with round corners, using saturated light and space in a way that removes visual reference points for the viewer. The lightning is programmed to have a 32 minutes cycle switching from dark blue to intense white and vice versa, evoking a day-into-night-into-day cycle. It was hosted in David Zwirner Gallery, New York.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
