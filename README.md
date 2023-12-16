@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/claude-monet/rough-sea-at-etretat-1883.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/dsc-0429.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Rough Sea at Etretat</h2>
+        <h2 class="artwork-name">Seven Seasons of the Spirit. 6. Miracle</h2>
         <h3 class="artist">
-          Claude Monet
-                    ·  1883
+          Gian Maria Tosatti
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Stormy Sea in Étretat is an 1883 painting by founder of French <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionist</a> <a target="_blank" href="/en/claude-monet">Claude Monet</a>, now preserved at the Musée des Beaux-Arts de Lyon.
-<br>
-<br>The painting depicts a stormy sea on a winter day. The cliff that can be seen is that of Étretat (Seine Maritime), as Monet stayed in the city many times from the winter 1864-1865, and wrote: "I spend my time outdoors on the stone when it's big time [...] and of course I work all the time." Monet composed the painting in February 1883 from the window of the hotel he lived then. Subsequently, the painting was bought by the Parisian dealer Paul Durand-Ruel, then became the property of the Museum of Fine Arts in Lyon in 1902. The museum thus became a precursor gaining early in the twentieth century Impressionist paintings.
-<br>
-<br>The painting is composed of four major elements, each painted in a different way. The central part is invaded by the pearlized surfs painted in forms of commas. In the foreground, a small beach on which there are old boats filled with thatch on the left, and two fishermen with their boats in poor condition that ran aground on the shore. On the left, in the background, the cliff of Étretat can be seen and the rock strata are evoked by horizontal lines of brush. Finally, the upper part of the painting shows the sky, painted in a way that expresses a curtain of rain.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Heaven does not exist if it is not a place to build every day. Its existence itself becomes the space of doing, and the artwork sacrifices the image to become practice. In this sense <i>Miracle</i> represents a change in the narrative of <i>Seven Seasons of the Spirit</i> series. The opening, on October the 17th of a door riddled by firearm shots as the access of hypothetical heaven has been the beginning of a collective performance made by simple daily actions. These actions in the space get a symbolic charge and then when they come back to daily life, to the houses, they keep that high and positive charge.<br><br>Taking care of a place, healing it as if it was a sick person, cleaning it, taking the bullets out of the walls like they were arrows in the body of a wounded animal, closing with one’s own hands the cracks that reveal the fragility of the shells that we live, becomes a training, a (spiritual?) exercise to read the everyday present in a larger perspective, a vertical perspective.<br><br>(Via delle Zite 40, Napoli)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
