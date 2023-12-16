@@ -2,31 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/jacob-isaakszoon-van-ruisdael/tower-mill-at-wijk-bij-duurstede-netherlands-1670.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00108/images/francis-bacon/6.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Tower Mill at Wijk bij Duurstede, Netherlands</h2>
+        <h2 class="artwork-name">Three Figures in a Room</h2>
         <h3 class="artist">
-          Jacob van Ruisdael
-                    ·  1670
+          Francis Bacon
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Windmill of Wijk bij Duurstede (c. 1670) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch painter Jacob van Ruisdael. It is an example of Dutch Golden Age painting and is now in the collection of the Amsterdam Museum, on loan to the Rijksmuseum.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Three Figures in a Room is a 1964 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil-on-canvas</a> triptych painting by British artist <a target="_blank" href="/en/francis-bacon">Francis Bacon</a>. Each panel measures 198&nbsp;×&nbsp;147 centimetres (78&nbsp;×&nbsp;58&nbsp;in) and shows a separate view of his lover <a target="_blank" href="/en/francis-bacon">George Dyer</a>, whom Bacon first met in 1963. It is the first of Bacon's works to feature Dyer, a model to whom he returned to repeatedly in his paintings. The work has been described as Bacon's first secular triptych.
 <br>
-<br>The painting shows Wijk bij Duurstede, a riverside town about 20 kilometers from Utrecht, with a dominating cylindrical windmill, harmonised by the lines of river bank and sails, and the contrasts between light and shadow working together with the intensified concentration of mass and space.  The attention to detail is remarkable. Art historian Seymour Slive reports that both from an aeronautical engineering and a hydrological viewpoint the finest levels of details are correct, in the windmill's sails and the river's waves respectively.
+<br>Bacon had been painting triptychs since his in 1944 break-through Three Studies for Figures at the Base of a Crucifixion. Three Figures continues the theme of Bacon studying a single subject from different angles. Although painted on three separate canvases, each image occupies the same space, marked by a brown elliptical floor and yellowish walls which continue across the panels. The presence of a single model three times in the same space defies narrative explanation.
 <br>
-<br>It is not known for certain when Ruisdael painted the Windmill. The painting is not dated, as very few of his works are after 1653. Dating subsequent work has therefore been largely detective work and speculation. It is assumed that it was painted in 1670.
+<br>Dyer is depicted in three different positions, all twisted and contorted. Bacon uses large and vigorous brushstrokes to create distinctive splashes of colour. In the left panel, a naked Dyer sits on a toilet facing away from the viewer; he rests on a massive black bed or chair in the centre panel; and he is sitting contorted on a pedestal chair in the right panel. The creased back of the left figure may be inspired by <a target="_blank" href="/en/edgar-degas">Edgar Degas</a>'s drawing After the Bath, Woman drying herself, and also possibly by the Belvedere Torso. Art critic David Sylvester has suggested that the centre and right figures may be inspired by <a target="_blank" href="/en/michelangelo">Michelangelo</a>'s sculptures in the Medici Chapel, and draws parallels with the three figures in <a target="_blank" href="/en/henri-matisse">Henri Matisse</a>'s Bathers with a Turtle.
 <br>
-<br>Unlike many other Ruisdaels the Windmill seems to have remained in Dutch hands. It was acquired by Adriaan van der Hoop at an unknown date, and bequeathed by him to the young Amsterdam Museum in 1854. Since 30 June 1885 it has been lent to the Rijksmuseum in Amsterdam. Its enduring popularity is evidenced by card sales in the Rijksmuseum, with the Windmill ranking third after <a target="_blank" href="/en/rembrandt">Rembrandt</a>'s Night Watch and <a target="_blank" href="/en/johannes-vermeer">Vermeer</a>'s View of Delft.
-<br>
-<br>Ruisdael's windmill no longer stands, although its foundations can still be seen. Another windmill located a few hundred meters further is often confused with Ruisdael's. This confusion was created when Hofstede de Groot in 1911 wrote about the painting:
-<br>
-<br>This scene is very similar to other panorama paintings Ruisdael made of other (unidentified) windmills and these often served as inspiration for later painters of landscape, such as <a target="_blank" href="/en/john-constable">John Constable</a>.
-<br>
-<br>51°58′18″N 5°21′04″E﻿ / ﻿51.971585°N 5.351157°E﻿ / 51.971585; 5.351157Coordinates: 51°58′18″N 5°21′04″E﻿ / ﻿51.971585°N 5.351157°E﻿ / 51.971585; 5.351157</span>
+<br>The work was bought by the French state in 1968 and has been part of the collection of the Centre Georges Pompidou since 1976.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
