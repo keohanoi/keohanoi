@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/dsc-0429.jpg"
+        src="https://uploads2.wikiart.org/00318/images/gian-maria-tosatti/dsc1270.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seven Seasons of the Spirit. 6. Miracle</h2>
+        <h2 class="artwork-name">Seven Seasons of the Spirit. 7. Land of the last heaven</h2>
         <h3 class="artist">
           Gian Maria Tosatti
-                    ·  2015
+                    ·  2016
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Heaven does not exist if it is not a place to build every day. Its existence itself becomes the space of doing, and the artwork sacrifices the image to become practice. In this sense <i>Miracle</i> represents a change in the narrative of <i>Seven Seasons of the Spirit</i> series. The opening, on October the 17th of a door riddled by firearm shots as the access of hypothetical heaven has been the beginning of a collective performance made by simple daily actions. These actions in the space get a symbolic charge and then when they come back to daily life, to the houses, they keep that high and positive charge.<br><br>Taking care of a place, healing it as if it was a sick person, cleaning it, taking the bullets out of the walls like they were arrows in the body of a wounded animal, closing with one’s own hands the cracks that reveal the fragility of the shells that we live, becomes a training, a (spiritual?) exercise to read the everyday present in a larger perspective, a vertical perspective.<br><br>(Via delle Zite 40, Napoli)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">According to Dante’s cosmology, this last chapter of the project <i>Seven Seasons of the Spirit</i> is the vertigo of the poet, a literary figure who is no longer able to tell what is beyond a certain height of heaven. Hence, in this work that can be considered the most visionary of the cycle, Gian Maria Tosatti attempts to give a hypothesis of it. Here, it becomes clear, that the task of man is to elevate himself towards a full awareness of the incredible height of the human spirit. Here it is a land to walk, the land of the last heaven, which is not a place for a beatitude that has to be relished, but a point of departure. Who reaches this place understands that their mission is to come back to testify the existence of that region of the spirit and to show the way.<br><br>(ex convento della Trinità delle Monache, Naples)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
