@@ -2,29 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00129/images/titian/diana-and-actaeon.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/jean-auguste-dominique-ingres/portrait-of-mademoiselle-rivière-1805.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Diana and Actaeon</h2>
+        <h2 class="artwork-name">Portrait of Mademoiselle Rivière</h2>
         <h3 class="artist">
-          Titian
-                    ·  1559
+          Jean Auguste Dominique Ingres
+                    ·  1805
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana and Actaeon is a painting by the Italian Renaissance master <a target="_blank" href="/en/titian">Titian</a>, finished in 1556–1559, and is considered amongst Titian's greatest works. It portrays the moment in which the hunter Actaeon bursts in where the goddess Diana and her nymphs are bathing. Diana is furious, and will turn Actaeon into a stag, who is then pursued and killed by his own hounds, a scene Titian later painted in his The Death of Actaeon (National Gallery).
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The portrait of Mademoiselle Caroline Rivière was painted in 1806 by the French <a target="_blank" href="/en/artists-by-art-movement/neoclassicism">Neoclassical</a> artist <a target="_blank" href="/en/jean-auguste-dominique-ingres">Jean Auguste Dominique Ingres</a>, and today hangs in the Louvre.
 <br>
-<br>Diana is the woman on the right side of the painting. She is wearing a crown with a crescent moon on it and is being covered by the dark skinned woman who may be her servant. The nymphs display a variety of reactions, and a variety of nude poses.
+<br>It is the third of three portraits of the Rivière family the artist painted that year. Caroline's father, Philibert Rivière, was a successful court official under Napoleon's empire, and sought to commemorate himself, his wife and daughter through a commission with the then young and rising artist—his portraits of Philibert and his wife are also still extant. Although Ingres favoured subject matter drawn from history or Greek legend, at this early stage in his career he earned his living mainly through commissions from wealthy patrons.
 <br>
-<br>In 2008–2009, the National Gallery, London and National Gallery of Scotland successfully campaigned to acquire the painting from the Bridgewater Collection for £50&nbsp;million. As a result, Diana and Actaeon will remain on display in the UK, and will alternate between the two galleries on five-year terms.
+<br>The family lived outside Paris, at St. Germain-en-Laye, and Mademoiselle Caroline Rivière would have been between 13 and 15 at the time she was portrayed; Ingres described her as the "ravishing daughter".
 <br>
-<br>Diana and Actaeon is part of a series of seven famous canvases, the "poesies", depicting mythological scenes from Ovid's Metamorphoses painted for Philip II of Spain (after Maximilian II, Holy Roman Emperor had declined Titian's offer to paint them for him). The work remained in the Spanish royal collection until 1704, when King Philip V gave it to the French ambassador. It was soon acquired by Philippe II, Duke of Orléans, nephew of Louis XIV, and Regent of France during the minority of Louis XV, for his collection, one of the finest ever assembled. After the French Revolution, the Orleans collection was sold to a Brussels dealer by Louis Philippe II, Duke of Orléans in 1791, two years before he was guillotined. This dealer then exhibited many pictures from the collection (including the Titians) in London.
+<br>The Rivière's portrait describes slightly built and youthful femininity and hints at a hesitant openness. The painting is rendered in bright hues and set against a serene white-blue early spring landscape, the freshness of which was intended to reflect the youth of the sitter. The background is not deeply portrayed; the perspective is shallow and rises—according to the art historian Robert Rosenblum—in "flattened horizontal tiers against which the figure seems crisply silhouetted as if in low relief."
 <br>
-<br>The largest share of the collection was thus bought in 1798 by the coal-magnate Francis Egerton, 3rd Duke of Bridgewater, including this painting, Titian's Diana and Callisto (from the same mythological series of seven paintings), eight paintings by <a target="_blank" href="/en/nicolas-poussin">Poussin</a>, three <a target="_blank" href="/en/raphael">Raphaels</a> and <a target="_blank" href="/en/rembrandt">Rembrandt</a>'s Self-Portrait, aged 51.
+<br>Typical of contemporary portraits by Ingres, Caroline lacks anatomical accuracy. Her neck is overly elongated, and the bridge of her nose extends too far. Rivière is portrayed with a stiffness and awkwardness typical of her age, and shown in a manner which was intended to emphasise a sense of the nascent purity and simplicity of her youth. Yet the painting is generally seen in the light of pathos and tragedy, as the sitter died within a year of the work being completed.
 <br>
-<br>The third Duke of Bridgewater was probably inspired to buy the paintings by his nephew, Earl Gower, the ancestor of the Dukes of Sutherland. Certainly, on Bridgewater's death five years after the purchase, he bequeathed the Titians and the rest of the collection to Gower, who put it on display to the public in his London house – it has been on public display ever since. On first seeing the collection there, William Hazlitt wrote "I was staggered when I saw the works&nbsp;... A new sense came upon me, a new heaven and a new Earth stood before me.". On the outbreak of the Second World War in September 1939, the collection was moved from London to Scotland. Between 1945–2009, the Diana and Actaeon and Diana and Callisto (with other paintings from the collection, known collectively as "the Bridgewater loan" or "the Sutherland Loan") were on long-term display at the National Gallery of Scotland, in Edinburgh. As well as Hazlitt, during their time on public display they have inspired artists such as <a target="_blank" href="/en/william-turner">JMW Turner</a> and <a target="_blank" href="/en/lucian-freud">Lucian Freud</a> — Freud described the pair as "simply the most beautiful pictures in the world".</span>
+<br>It was, along with Ingres's two other portrayals of the family, exhibited in the 1806 Salon, but was poorly received for its perceived "<a target="_blank" href="/en/artists-by-art-movement/gothic-art">Gothicness</a>" (due to its precision of line and enamel finish) and its similarity to <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a> and other artists of Early Netherlandish painting (in French "Les Primitifs Flamands") who at the time were only just being rediscovered. Further, the manner in which the whiteness of the sitter's dress contrasts with the curve of her boa offended some viewers. Today the painting is typically seen as a peak in Ingres's artistic career, and in this work Ingres introduces an emotional link between figurative and landscape art, and the watery scape behind the sitter evokes rhythms with many of the visual themes presented in the rich imagery of the foreground.
+<br>
+<br>In 2003, the art critic Jonathan Jones remarked of the painting,
+<br>
+<br>Mademoiselle Caroline Rivière was bequeathed to the Louvre in 1870 by Caroline Rivière's sister-in-law.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
