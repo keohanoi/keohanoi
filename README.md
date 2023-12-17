@@ -2,19 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00283/images/simon-hantai/img-8845.JPG!Large.JPG"
+        src="https://uploads4.wikiart.org/00380/images/francisco-de-zurbaran/lamb-of-god-agnus-dei-francisco-de-zurbaran.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Femelle-Miroir II</h2>
+        <h2 class="artwork-name">Agnus Dei</h2>
         <h3 class="artist">
-          Simon Hantai
-                    ·  1953
+          Francisco de Zurbaran
+                    ·  1640
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Simon Hantaï's solo exhibition was held in January-February 1953, shortly after the Hungarian, who had settled in France in 1949, deposited one of his works on Breton's landing. Hantaï presented sixteen large paintings in the exhibition, including Femelle-miroir II, presented here. In his preface, Breton hailed the artist "for whom corteges of fabulous beings line up. endowed with life by the artist's breath and moving like nothing else in unprecedented light in these first days of 1953".</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This votive image was wide-spread in seventeenth-century Spain. It represents an Agnus Dei or “Lamb of God”, in allusion to Christ's sacrificial death to save humanity. The straightforward composition consists exclusively of an image of the young animal with its legs bound, lying on a windowsill and brightly light by a single light source. 
+<br>
+<br>Zurbarán made six versions of this subject with small iconographic variations, which indicates that it was relatively successful with his private clients. This is the finest version and it corresponds to his mature period. 
+<br>This work was acquired by the Spanish State in 1986. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
