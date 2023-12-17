@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/patrick-caulfield/after-lunch-1975.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/john-mccracken/the-absolutely-naked-fragrance-1967.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">After Lunch</h2>
+        <h2 class="artwork-name">The Absolutely Naked Fragrance</h2>
         <h3 class="artist">
-          Patrick Caulfield
-                    ·  1975
+          John McCracken
+                    ·  1967
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Caulfield's paintings explore alternative ways of picturing the world. After Lunch was one of his earliest works to combine different styles of representation. In this case, what appears to be a photomural of the Château de Chillon hanging in a restaurant is depicted with high-focus realism, contrasting with the cartoon-like black-outlined imagery and fields of saturated colour of its surroundings. Caulfield deliberately makes the relationship between these varying representational methods uneasy and ambiguous, so that the picture appears more real than the everyday world around it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">McCracken began producing his vibrant monochrome “planks” in 1966. While the polished resin surface captures the aesthetic of surfing and car culture unique to Southern California in the 1960s, the title was drawn from advertising slogans in fashion magazines. The work’s interaction with both the floor and wall is meant to call attention to the space occupied in the gallery by both viewer and object. “I see the plank as existing between two worlds,” McCracken has said, “the floor representing the physical world of standing objects, trees, cars, buildings, human bodies, and everything, and the wall representing the world of the imagination, illusionistic painting space, human mental space, and all that.”</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
