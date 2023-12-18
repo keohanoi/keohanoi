@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/pierre-auguste-renoir/ball-at-the-moulin-de-la-galette-1876(1).jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/jean-michel-basquiat/head.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dance at Moulin de la Galette</h2>
+        <h2 class="artwork-name">Skull</h2>
         <h3 class="artist">
-          Pierre-Auguste Renoir
-                    ·  1876
+          Jean-Michel Basquiat
+                    ·  1981
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dance at Moulin de la Galette  is one of Impressionism’s most highly revered masterpieces. The scene is of a Sunday afternoon at Moulin de la Galette, where Parisians would typically dress up and spend all day dancing, drinking, and eating galettes, or flat cakes. The painting was in the collection of Gustave Caillebotte, but it was claimed by the French government upon his death due to the non payment of death duties. It was later transferred from the Luxembourg Museum, to the Louvre, and then later to the Musee d’Orsay. Its sale price at auction in 2009 was the fifth highest price ever paid for a painting at auction. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Basquiat was a precocious child, and at the age of seven, his mother gave him a copy of Gray’s Anatomy, which he later used as a reference to create his masterful and deconstructed figures. In this painting, Basquiat presents us with a face in the shape of a skull. Although complete with eyes, a nose, and teeth, the painting gives us the illusion that the face is incomplete, and the bones from underneath the surface are coming through just as plainly as the colors in the background. The head is filled with Basquiat’s illusory graffiti, giving the impression there are forms and figures within the face, but upon closer inspection, the face is a shambles of abstract lines and shapes.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
