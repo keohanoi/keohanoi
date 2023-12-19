@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/nicholas-of-verdun/the-shrine-of-the-three-kings-front-side-1200.jpg"
+        src="https://uploads0.wikiart.org/00475/images/pieter-bruegel-the-elder/childen-s-game-1560.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Shrine of the Three Kings, Front Side</h2>
+        <h2 class="artwork-name">Children's Games</h2>
         <h3 class="artist">
-          Nicholas of Verdun
-                    ·  1200
+          Pieter Bruegel the Elder
+                    ·  1560
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The front end of the shrine, the only one to be fashioned out of pure gold, was donated by King Otto IV around the year 1200. It features the largest and most precious of the antique intaglios and cameos. The trapezoidal panel between the upper and the lower sections of the shrine can be removed to reveal a grille through which the skulls of the Magi can be seen. This structure allowed the relics to be shown to pilgrims. Tongs were also used to touch the relics with small pieces of paper or material, on which prayers were written and which were often decorated with an image of the Magi. These third-class relics would then be given to the pilgrims as proof that they had made the pilgrimage to Cologne.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artist's intention for this work is more serious than simply to compile an illustrated encyclopaedia of children's games, though some eighty particular games have been identified.See details below Bruegel shows the children absorbed in their games with the seriousness displayed by adults in their apparently more important pursuits. His moral is that in the mind of God children's games possess as much significance as the activities of their parents. This idea was a familiar one in contemporary literature: in an anonymous Flemish poem published in Antwerp in 1530 by Jan van Doesborch, mankind is compared to children who are entirely absorbed in their foolish games and concerns.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
