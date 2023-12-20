@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00329/images/achille-beltrame2/achille-beltrame-duce-duce-duce-meisterdrucke-405333.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00139/images/joseph-anton-koch/joseph-anton-koch-landschaft-mit-bileam.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Duce, Duce, Duce! (4 February 1934)</h2>
+        <h2 class="artwork-name">Landschaft Mit Bileam</h2>
         <h3 class="artist">
-          Achille Beltrame
-                    ·  1934
+          Joseph Anton Koch
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The article has a extensive description of the event that follows the title, and it is written (there in italian, here translated):<br><br>Duce Duce Duce! - In the municipal theater of Modena, under a large image of Mussolini. <br>Tracking the names of the Modenesi fallen for the fascist cause, the party secretary, Deputy Starace gathered the leaders of the province to report, among unforgettable manifestations of devotion and enthusiasm for the Duce.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This etching depicts the scene from Numbers 22:22 in which the Angel of the Lord is dispatched to Bileam (Balaam), his donkey and the princes of Moab to prevent the party from continuing on their journey. However, only the donkey is able to see so and halts due to the angels presence. Balaam begins to beat the donkey for refusing to move. The animal is granted the power of speech and complains to Balaam about its punishment, present and historical. At which point the angel reveals itself to the travellers and tells Balaam that the donkeys refusal to continue saved all from an ordained slaying.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
