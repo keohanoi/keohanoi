@@ -2,25 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00129/images/caravaggio/flagellation-of-christ.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/dirk-bouts/the-last-supper-from-the-winged-altar-in-st-peter-in-leuven.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Flagellation of Christ</h2>
+        <h2 class="artwork-name">The Last Supper - from the Winged Altarpiece in St. Peter in Leuven</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1607
+          Dirk Bouts
+                    ·  1465
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Flagellation of Christ is a painting by the Italian Baroque painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>, now in the Museo Nazionale di Capodimonte, Naples. It is dated to 1607, and may have been reworked by the artist in 1610. It is not to be confused with Christ at the Column, another Flagellation by Caravaggio of the same period.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Altarpiece of the Holy Sacrament or Triptych of the Last Supper is a 1464–68 dated triptych attributed to <a target="_blank" href="/en/dirk-bouts">Dieric Bouts</a>, now reassembled and held at its location of origin at St. Peter's Church, Leuven.
 <br>
-<br>According to art biographer Gian Pietro Bellori (1672), this work was commissioned by the di Franco (or de Franchis) family for a chapel in the church of San Domenico Maggiore in Naples. The family were connected with the Confraternity of the Pio Monte della Misericordia, for whose church Caravaggio had already painted The Seven Works of Mercy. It was moved to the museum at Capodimonte in 1972.
+<br>The Last Supper is the theme of the central panel of the altarpiece, commissioned from Bouts by the Leuven Confraternity of the Holy Sacrament in 1464. All of the orthogonals in this composition display an understanding of linear perspective. The lines lead to a single vanishing point in the center of the mantelpiece above Christ's head, though outside the room, the small side room has its own vanishing point, and neither it nor the vanishing point of the main room falls on the horizon of the landscape seen through the windows.
 <br>
-<br>The Flagellation of Christ had long been a popular subject in religious art—and in contemporary religious practice, where the church encouraged self-flagellation as a means by which the faithful might enter into the suffering of Christ. Caravaggio would have had in mind the famous fresco by Sebastiano del Piombo in the church of San Pietro in Montorio in Rome. Caravaggio has reworked Piombo's composition by drastically reducing the picture space so that the sculptural figures seem presented on a shallow stage. He has, however, retained Piombo's sense of the flagellation as a kind of sadistic ballet, with the figures arranged rhythmically across the canvas. Caravaggio's painting introduces an acutely observed reality into the scene: Christ is in this drooping pose, not because it might seem graceful, but because the torturer on the right is kicking the back of his knee while the figure on the left holds his hair tightly in his fist.
+<br>Dieric Bouts was not a native of Leuven. He moved there from Haarlem and his Last Supper was the first Flemish panel painting of its kind. In this central panel, Bouts has introduced the idea of a group portrait around a table, a theme known to council members in Haarlem. Christ is depicted larger than life in the role of a priest performing the consecration of the Eucharistic host from the Catholic Mass. The men around him are shown a half-size smaller, and probably are accurate portraits of prominent members of the confraternity. Bouts was not the only artist traveling between Haarlem and Leuven. While he was working on this triptych, the church was still being built and the architect Antoon I Keldermans was the same man hired by the Haarlem parish.
 <br>
-<br>This series of highly dramatic and innovative Neapolitan altarpieces — the Seven Works of Mercy, this Flagellation, and a close companion piece, Christ at the Column, all done within a few months of his arrival in the city — instantly made Caravaggio the most talked-about artist in Naples, and the church of Sant'Anna dei Lombardi (Saint Anna of the Lombards — Caravaggio was originally from Lombardy) became a centre of the <a target="_blank" href="/en/artists-by-painting-school/caravaggisti">Caravaggisti</a>, artists painting in the style of Caravaggio. These were not only native Neapolitans like Carlo Sellitto and Battistello Caracciolo, but included Flemish artists like Louis Finson and Abraham Vink who would later help spread Caravaggism to northern Europe.</span>
+<br>Bouts main contribution to Flemish painting was his introduction of everyday details in the main panel such as the houses on the other side of the market square that can be seen through the windows, and the servants dressed in modern clothing beyond the central scene around the table. Although once identified as the artist himself and his two sons, these servants are most likely more portraits of the confraternity's members responsible for commissioning the altarpiece. This painting was copied by Aelbrecht Bouts, who disregarded the architectural elements through the windows, because by that time the church and the town square had changed. Leuven had built a new town hall, for which Dieric also made a large panel as an allegory of justice.
+<br>
+<br>The work was documented by Leuven archivist Edward van Even in 1870 and lent to his friend James Weale for his 1902 Exhibition of Flemish Primitives in Bruges.
+<br>
+<br>The Altarpiece of the Holy Sacrament has four additional panels, two on each side. Because these were taken to the museums in Berlin and Munich in the 19th century, the reconstruction of the original altarpiece has been difficult. Today it is thought that the panel with Abraham and Melchizedek is above the Passover Feast on the left wing, while the Gathering of the Manna is above Elijiah and the Angel on the right wing. All of these are typological precursors to the Last Supper in the central panel.
+<br>
+<br>The church has two paintings by Bouts on display, the Last Supper (1464-1468) and the Martyrdom of St Erasmus (1465). The Nazis seized The Last Supper in 1942. Panels from the painting had been sold legitimately to German museums in the 1800s, and Germany was forced to return all the panels as part of the required reparations of the Versailles Treaty after World War&nbsp;I. The chancel and ambulatory were turned into a museum in 1998, where visitors can view a collection of sculptures, paintings and metalwork.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
