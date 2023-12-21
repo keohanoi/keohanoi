@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00475/images/gustav-klimt/hope-1-1903.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/edouard-manet/the-reading-1869.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Hope I</h2>
+        <h2 class="artwork-name">The reading</h2>
         <h3 class="artist">
-          Gustav Klimt
-                    ·  1903
+          Edouard Manet
+                    ·  1869
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hope I is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> created by <a target="_blank" href="/en/gustav-klimt">Gustav Klimt</a> in 1903. It is 189&nbsp;cm x 67&nbsp;cm and currently located in the National Gallery of Canada, Ottawa. The main subject of this work is a pregnant, nude female. She is holding her hands together above her stomach and close to her chest. She gazes directly at the viewer and has a great mass of hair with a crown of forget-me-not flowers placed on her head. The scene is beautiful upon first glance but once the viewer’s eyes move to the background, deathlike figures become noticeably present.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Reading is an oil painting by French painter <a target="_blank" href="/en/edouard-manet">Édouard Manet</a>, circa 1865 - 1873.
 <br>
-<br>In the years before this painting was made, it was uncommon to show pregnancy in art in Western art and <a target="_blank" href="/en/gustav-klimt">Gustav Klimt</a> was one of the first artists who blatantly portrayed a nude pregnant female in a powerful manner. Klimt did not show this work to the public until the Second Vienna Kunstschau in 1909. The themes present in this painting are contradictory, such as birth and death. The dark figures in the background swirl around the nude female seeming to blend the idea of life, death, and rebirth.
+<br>The painting was first exhibited in 1880 in one of the regular solo exhibitions mounted by Manet in his workshop. The picture was also part of the great posthumous exhibition of Manet's work in 1884, a year after his death.
 <br>
-<br>Not only does this painting show deathly figures in the background, but there also is a sea monster standing towards the left. The viewer can notice the monster’s teeth along with its claw like hand that is located directly across from the woman’s stomach and pelvic region. The sea monster has a large tail that wraps around the feet of the woman as if trying to capture her and continues out of the frame. Also, among the three sickly looking figures in the background, there is a skull located directly above the woman’s head. This skull is attached to a blue body with varying shapes, lines, and colors. The skull represents death and decay while the three figures in the background symbolise disease, old age, and madness.
+<br>The work first belonged to the private collection of Winnaretta Singer, Princess Edmond de Polignac, where it remained until 1944, after the death of the Princess. It was offered as a gift to the French State and deposited in the Musée du Louvre. In 1947, it was transferred to the Galerie nationale du Jeu de Paume, a showroom located in the Jardin des Tuileries and which belongs to the Louvre. It remained there until 1986, when, with the creation of the Musée d'Orsay, it was brought to this museum, like the rest of the collection of Impressionist paintings in the Louvre. It can currently be seen in the Musée d'Orsay, in room 31 of level 5.
 <br>
-<br>The skull behind the woman could be a reference to the art historical tradition of memento mori, which serves as a reminder that death is unavoidable. This tradition focuses on the idea that you can be thriving with life (such as the nude woman is) but tomorrow could bring the possibility of death. In Hope I the theme of life, death, and rebirth relate to the similar themes behind the tradition of memento mori. In art, memento mori is often represented by a skull, which we see present in the background of Hope I.
+<br>The painting depicts the artist's wife, Suzanne Manet (born Suzanne Leenhoff), seated, and their son, Leon, standing and reading a book. Leon was a recurrent model for Manet who portrayed him in several pictures, such as The Lunch, The Boy Carrying a Sword and The Bubbles of Soap.
 <br>
-<br>The model for this painting was Herma, one of <a target="_blank" href="/en/gustav-klimt">Gustav Klimt</a>’s favorite models. Klimt described Herma as “having a backside more beautiful and more intelligent than the faces of many other models.”  Hope I was created unexpectedly; one day Herma was supposed to model for Klimt and did not show up. He became concerned and eventually sent someone to see if she was sick. The response that Klimt received was that Herma was not sick, but pregnant. Klimt demanded she come into work regardless of her being pregnant and upon seeing her he decided to make her the model for Hope I. It is believed that Klimt had sexual relations with nearly all his models. However, it is not known whether or not any of the pregnancies depicted in his paintings, such as Herma’s, were his offspring.</span>
+<br>In this work the white woman's dress dominates, and the sofa and curtains are treated with broad strokes of high brightness, in counterpoint to the dark tone of the belt and collar. According to Peter H. Feist, in this painting "Manet reacts more sensitive than usual, and looks especially to shades of white that are offered to his eyes".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
