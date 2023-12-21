@@ -2,18 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00232/images/lady-frieda-harris/atu-iv-the-emperor-thoth-tarot.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/eugene-von-guerard/mount-kosciusko-seen-from-the-victorian-border-mount-hope-ranges-1866.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Atu IV - The Emperor - Thoth Tarot - Aleister Crowley</h2>
+        <h2 class="artwork-name">Mount Kosciusko, seen from the Victorian border (Mount Hope Ranges)</h2>
         <h3 class="artist">
-          Lady Frieda Harris
+          Eugene von Guerard
+                    ·  1866
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This card is attributed to the letter Tzaddi, and it refers to the sign of Aries in the Zodiac. This sign is ruled by Mars, and therein the Sun is exalted. The sign is thus a combination of energy in its most material form with the idea of authority. The sign TZ or TS implies this in the original, onomatopoetic form of language. It is derived from Sanskrit roots meaning Head and Age, and is found to-day in words like Cæsar, Tsar, Sirdar, Senate, Senior, Signor, Sefior, Seigneur.<br><br>The card represents a crowned male figure, with imperial vestments and regalia. He is seated upon the throne whose capitals are the heads of the Himalayan wild ram, since Aries means a Ram. At his feet, couchant, is the Lamb and Flag, to confirm this attribution on the lower plane; for the ram, by nature, is a wild and courageous animal, lonely in lonely places, whereas when tamed and made to lie down in green pastures, nothing is left but the docile, cowardly, gregarious and succulent beast. This is the theory of government.<br><br>The Emperor is also one of the more important alchemical cards; with Atu II and III, he makes up the triad: Sulphur, Mercury, Salt. His arms and head form an upright triangle; below, crossed legs represent the Cross. This figure is the alchemical symbol of Sulphur (see Atu X). Sulphur is the male fiery energy of the Universe, the Rajas of Hindu philosophy. This is the swift creative energy, the initiative of all Being. The power of the Emperor is a generalization of the paternal power; hence such symbols as the Bee and the Fleur-de-lys, which are shown on this card. With regard to the quality of this power, it must be noted that it represents sudden, violent, but impermanent activity. If it persists too long, it burns and destroys. Distinguish from the Creative Energy of Aleph and Beth: this card is below the Abyss.<br><br>The Emperor bears a sceptre (surmounted by a ram’s head for the reasons given above) and an orb surmounted by a Maltese cross, which signifies that his energy has reached a successful issue, that his government has been established. <br>There is one further symbol of importance. His shield represents the two-headed eagle crowned with a crimson disk. This represents the red tincture of the alchemist, of the nature of gold, as the white eagle shown in Atu III pertains to his consort, the Empress, and is lunar, of silver.<br><br>It is finally to be observed that the white light which descends upon him indicates the position of this card in the Tree of Life. His authority is derived from Chokmah, the creative Wisdom, the Word, and is exerted upon Tiphareth, the organized man.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mount Kosciuszko, seen from the Victorian border (Mount Hope Ranges) 1866 is based on drawings made by Eugene von Guérard in 1862 during a scientific expedition to Mount Kosciuszko led by the German scientist Professor Georg Balthasar von Neumayer.
+<br>
+<br>While this view is serene, journals written during the expedition reveal that the party endured incredible hardships. The dark, eerie, primeval bush and the elevated, light-drenched Mount Kosciuszko form two contrasting regions within the composition of the painting. These two areas are visually linked by tall majestic gum trees and a flock of cockatoos. High above, in the distance, hawks glide on alpine currents. The skeletal remains of the towering tree trunks frame a section of the centre foreground where we see Von Neumayer riding his white horse towards his dog, Hector. Several other horses graze quietly in the bush while Von Neumayer’s travelling companions set up camp for the night. The figures are small details in a scene of sweeping natural grandeur.
+<br>
+<br>While von Guérard’s interest in scientific enquiry is evident in the accurately observed details in the landscape, the dramatic contrasts of scale and light reflect Romantic allusions to the divine and poetic in nature.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
