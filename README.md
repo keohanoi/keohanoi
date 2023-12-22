@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/jacques-louis-david/paris-and-helen-1788.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/edgar-degas/place-de-la-concorde-1875.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris and Helen</h2>
+        <h2 class="artwork-name">Place de la Concorde</h2>
         <h3 class="artist">
-          Jacques-Louis David
-                    ·  1788
+          Edgar Degas
+                    ·  1875
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Loves of Paris and Helen is a 1788 painting by <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>, showing Helen of Troy and Paris from Homer's Iliad. It is now in the Louvre Museum.
-<br>
-<br>It was the result of a commission from the comte d'Artois. It shows David in his 'galante' phase and was interpreted as a satire on the manners of the comte d'Artois. The caryatids in the background are copies of those by Jean Goujon in the Louvre.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts the Viscount Ludovic-Napoleon Lepic and his two daughters, strolling through the Place de la Concorde in Paris, France. For four decades after World War II, this painting was considered lost. It was found when it was put on display at the Hermitage Museum in Russia, where it still remains. It was later discovered that the Russians had seized the painting from the collections of Otto Gerstenberg during the Soviet occupation of Germany following World War II. The composition, with a large amount of negative space, is thought by art historians to be based off of a photograph, which was an interest of Degas’ in his later life. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
