@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/josef-albers/impossibles-1931.jpg"
+        src="https://uploads6.wikiart.org/images/john-william-waterhouse/boreas-1903.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Impossibles</h2>
+        <h2 class="artwork-name">Boreas</h2>
         <h3 class="artist">
-          Josef Albers
-                    ·  1931
+          John William Waterhouse
+                    ·  1903
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Impossibles</i> (1931) was created while Josef Albers was a professor at the <a target="_blank" href="https://www.wikiart.org/en/artists-by-painting-school/bauhaus">Bauhaus</a>, the influential German school of design, architecture, and applied arts. The Bauhaus embodied the spirit of experimentation, and this was reflected in artworks like <i>Impossibles</i>. Born out of the <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/arts-and-crafts">Arts and Crafts</a> movement, the Bauhaus advocated for the synthesis of fine art and craftsmanship. Albers enrolled in the school in 1920, and during this period created examples of glasswork, furniture design, metalwork, and typography. He joined the school faculty in 1922 and was promoted to professor in 1925, the same year the Bauhaus school moved from Weimar to Dessau.<br><br>His works in Dessau included furniture design and working with glass. <i>Impossibles</i>, a sandblasted flashed glass painting represents Albers’s experimentation with non-traditional materials and techniques. Albers had a background in glasswork even before his time in the Bauhaus, his first public commission in 1918 was a stained-glass window for a church in Essen. Although he was a painter, he joined the Bauhaus faculty as a stained-glass maker. Like many of his contemporaries, Albers made the transition from figurative to abstract art. The mechanical method involved in making the glass piece suited Albers, he found that it provided discipline and detachment which were necessary for creating non-representational forms.<br><br><i>Impossibles</i> depicts two cylinders, that have the same circumference at the bottom, but a different circumference at the top. At the same time, the cylinders appear to be straight, which is impossible. Additionally, the cylinders appear to rise upwards and sink downwards simultaneously – another impossible reality. Therefore, like the title indicates the work depicts an image that appears real, but upon closer examination, one realizes that these cylinders cannot exist in the real world. The same year Albers also created <a target="_blank" href="https://www.wikiart.org/en/josef-albers/rolled-wrongly-1931"><i>Rolled Wrongly</i></a> (1931), another sandblasted glasswork that depicts two scroll-like forms that are seen simultaneously from the inside and outside. These artworks reflect Albers’s affinity for imagery that juxtaposes two opposites or that represent something contradictory. <br><br><i>Impossibles</i> is also connected to the European tradition of <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/constructivism">Constructivism</a>, an artistic and architectural philosophy that originated in Russia in 1913. Constructivism influenced the Bauhaus school, and Albers himself was close with proponents of the constructivist art movement like <a target="_blank" href="https://www.wikiart.org/en/el-lissitzky">El Lissitzky</a>. <i>Impossibles</i> reflected a phase of Albers’s career in which he explored abstract linear geometric patterns. It also, along with other works, represents the legacy of the Bauhaus. Despite its short 14-year existence, the Bauhaus was one of the most influential art schools, that had a major impact on art and architecture in Western Europe, North America, and Israel. After the Nazi government closed the Bauhaus school in 1933, Albers and his wife Anni immigrated to the United States. There, Albers continued his career as an art educator, first at the <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-institution/black-mountain#!#resultType:masonry">Black Mountain College</a> in North Carolina and later at <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-institution/yale-school-of-art-yale-university-new-haven-ct-us#!#resultType:masonry">Yale University</a> in Connecticut.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Boreas is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> in the Pre-Raphaelite style created in 1903 by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>.
+<br>
+<br>The painting is titled Boreas, after the Greek god of the north wind and it shows a young girl buffeted by the wind. The 1904 Royal Academy notes described the subject of the painting as:
+<br>
+<br>Boreas was put up for sale in the mid-1990s after having been lost for 90 years - causing quite a sensation in the art community. The painting achieved a record price for Waterhouse at that time, achieving a price £848,500 ($1,293,962USD).</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
