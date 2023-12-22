@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00473/images/agnes-goodsir/1925girl-with-cigarette-rachel-dunn.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00103/images/pieter-bruegel-the-elder/1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Girl with Cigarette</h2>
+        <h2 class="artwork-name">Landscape with the Flight into Egypt</h2>
         <h3 class="artist">
-          Agnes Goodsir
+          Pieter Bruegel the Elder
+                    ·  1563
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a portrait of Rachel Dunn, the artist's long-term companion and the subject of numerous works from Goodsir's second Paris period. Wearing a boldly patterned shawl over a pullover, her outfit accessorized by a hat and fan, and with a cigarette in her hand, Cherry, as she was referred to by Goodsir, typifies the 1920s flapper - confident and independent in demeanour, relaxed and comfortable within the cafe environment.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The story of the Holy Family fleeing persecution in Bethlehem is transposed to an imaginary Northern European landscape, above a river valley bordered by craggy peaks. The dramatic setting enhances the religious narrative. The idol tumbling from its shrine in a pollarded willow (to the right of Mary) symbolises the defeat of paganism at the birth of Christ. Bruegel painted this for a major patron, Cardinal Perronot de Granvelle. It was later owned by the artist Peter Paul Rubens.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
