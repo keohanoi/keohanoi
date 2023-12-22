@@ -2,29 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/ivan-albright/the-door-1941.jpg"
+        src="https://uploads3.wikiart.org/00293/images/aztec-art/earth-monster-tlaltecuhtli.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Door</h2>
+        <h2 class="artwork-name">Earth Monster (Tlaltecuhtli)</h2>
         <h3 class="artist">
-          Ivan Albright
-                    ·  1941
+          Aztec Art
+                    ·  1521
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Albright was interviewed by Vermont Public Radio in 1978. He says that to make That Which I Should Have Done I Did Not Do, which is 8 feet tall and three feet wide, he cut a hole in the floor of his studio and rested it four feet below the floor, raising and lowering it as he painted. He says he painted about he painted about ½ square inch a day, and never changed anything as he went.
-<br>
-<br>Here’s what he says about his titles:
-<br>
-<br>I will tell you why. When I was a boy I met all of these artists and they would have titles like Boys Sitting by a Stream, The Sunshine on the Girl’s Hat, Girl Holding a Daisy, Boy Eating an Apple. I got pretty tired of them. I heard them from 1903 until 1920. I probably was the first one who decided not to have those titles; I was going to have something that the painting said.
-<br>
-<br>If you know art and like art, you will see so much in it. I thought, to help people along, I would take a title with a little other, you might say, dimension. If, for instance, I bring a picture of Ida into the world, it becomes Into the World There Came a Soul Called Ida. She was a 20-year-old married woman, and I knew they were going to call her a prostitute and ugly, so I called her a soul. Not everybody can call a soul a prostitute.
-<br>
-<br>I like to get a little bit of my philosophy in the title, and I like That Which I Should Have Done. It happens to almost everybody, almost every day."
-<br>
-<br>Source- http://my.firedoglake.com/masaccio/2011/01/22/saturday-art-that-which-i-should-have-done-i-did-not-do-the-door-by-ivan-albright/</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Many ancient American peoples conceived the earth to be a giant crocodile, turtle, or toadlike monster floating on the sea. The rough, scaly skins of these creatures displaying geometric designs were likened to the furrowed, uneven surface of the earth and the regular patterns of tilled fields. Because of their capability of moving on land and underwater, all three animals were metaphors for both earth and water. They also had fertility connotations.<br><br>In art, the earth monster is often depicted as an anthropomorphic being with splayed arms and legs. Its posture of parturition was that assumed by Aztec women, a reference to the concept of fertility. Here the figure's hands and feet appear to be clawed. Its oversized head, shown flung back and up, has bulbous eyes and a wide-open mouth with a split tongue. A sacrificial knife is held between the teeth. Sacrificial victims were devoured by the earth monster. The sun too was believed to be swallowed by its gaping jaws at dusk. A common motif found on the torso of earth monsters is the Aztec symbol for jade and other prized green stones. It is shown here as a circle with a pendant element. Metaphorically the motif meant "preciousness" and was used as a symbol for water. Earth monster depictions are often carved on the underside of important Aztec sculptures.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
