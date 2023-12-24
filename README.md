@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/sol-lewitt/buried-cube-containing-an-object-of-importance-but-little-value-1968.jpg"
+        src="https://uploads8.wikiart.org/images/graham-bell/dover-front-1938.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Buried Cube Containing an Object of Importance but Little Value</h2>
+        <h2 class="artwork-name">Dover Front</h2>
         <h3 class="artist">
-          Sol LeWitt
-                    ·  1968
+          Graham Bell
+                    ·  1938
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The burial of the cube reportedly took place in a local garden, but these photographs, referring again to the notion of the series or process, are the only proof that LeWitt's actions actually took place. Without seeing the event taking place, or knowing what is held within the cube, Buried Cube relies on the idea, as opposed to a finished object. A conceptual piece, this work was produced shortly following the publication of LeWitt's 1968 manifesto describing the new Conceptual art movement. In the manifesto, he declares, "The execution is a perfunctory affair. The idea becomes a machine that makes the art." Likewise, by emptying this "burial"-like an actual interment, an extremely important, emotional, and personal affair-of content, value, gesture and expression, LeWitt disengages himself from the work and takes a strong "death of the author" stance. In his own words: "Once it is out of his hand the artist has no control over the way a viewer will perceive the work. Different people will understand the same thing in a different way."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bell painted this picture on a trip to Dover in 1938 to fulfill a commission for the International Business Machines Corporation. The finely-observed detail of the hotel on the left, the chalk white cliffs and castle ramparts is typical of the realism of the Euston Road School, with which Bell was closely involved.
+<br>
+<br>Although the artist painted on the spot, he may have used the photograph shown to the left to work on the details in his studio. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
