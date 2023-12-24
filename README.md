@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/caravaggio/portrait-of-maffeo-barberini(1).jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00303/images/thomas-hart-benton/city-activities-with-dance-hall.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Maffeo Barberini</h2>
+        <h2 class="artwork-name">City Activities with Dance Hall</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1598
+          Thomas Hart Benton
+                    ·  1931
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Maffeo Barberini (c. 1598) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>.
-<br>
-<br>It is held in a private collection in Florence.
-<br>
-<br>Barberini, 30 years old and from the eminent Florentine Barberini family, was a rapidly rising Church prelate, a friend of Caravaggio's patron Cardinal Francesco Maria Del Monte, and himself a poet and patron of the arts.
-<br>
-<br>Barberini's support would continue into later years – in 1603 he commissioned a Sacrifice of Isaac from Caravaggio. In 1623 he became Pope as Urban VIII.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">One of the most famous works by Thomas Hart Benton is the mural <a target="_blank" href="https://www.wikiart.org/en/thomas-hart-benton/all-works#!#filterName:Series_america-today,resultType:masonry"><i>America Today</i></a> (1930-1931), that was commissioned in 1930 by the New School of Social Research in New York. The mural, comprised of ten canvas panels, surveys the broad scope of American life throughout the 1920s. Eight of the ten panels depict life in different geographical regions of the United States: the South, the Midwest, the West, and New York. These dense compositions show the contemporary life of the masses, and especially labor. The panels demonstrate the diversity of labor in America: cotton pickers (Georgia and Louisiana); farmers in wheat fields (Kansas, Missouri, and Oklahoma); coal miners (Alabama, Pennsylvania, and West Virginia); workers in steel plants (Maryland) and construction workers (New York). Even when depicting recreational activities in the panel <i>City Activities with Dance Hall</i>, Benton paints “taxi dancers”, women who dance with their male partners for ten cents a ticket. <br><br>During the 1920s, Benton traveled throughout these areas of the country, creating an extensive number of sketches, which were the basis for America Today: “Every head is a real person, drawn from life. Every detail is a thing I have seen and known.” In the next phase, Benton created a clay model of the mural to establish the rhythm and flow of the composition. This practice was common among old masters like <a target="_blank" href="https://www.wikiart.org/en/tintoretto">Tintoretto</a>, and Benton adopted it as early as 1919. The artist’s dynamic figurative style derived from his admiration for Tintoretto and other 16th-century <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> painters. At the same time, he was influenced by more contemporary sources such as early 20th-century film sets, and his depictions of architecture are reminiscent of the works of Italian painter <a target="_blank" href="https://www.wikiart.org/en/giorgio-de-chirico">Giorgio de Chirico</a>.<br><br>In <i>America today</i>, Benton explores the idea of progress by tracing the emergence of industrialization and its impact on American life. The largest panel, <a target="_blank" href="https://www.wikiart.org/en/thomas-hart-benton/instruments-of-power-1931"><i>Instruments of Power</i></a> displays the power of modern machinery, symbolizing the process of industrialization and modern progress. For Benton, the idea of progress is tied to the development of modern technology, which in turn is dependent on manual and industrial labor. He expresses this in the strong bodies of heroic workers that appear throughout the mural. Although the concept of progress is celebrated in America today the artist also included the negative impacts of industrialization in the mural. The clearest examples of these can be found in the two panels that depict urban life. In <a target="_blank" href="https://www.wikiart.org/en/thomas-hart-benton/city-activities-with-subway-1931"><i>City Activities with Subway</i></a>, behind the Salvation Army band, storefronts display signs of closing businesses and bargain sales. Similarly, in <i>City Activities with Dance Hall</i>, there is a worried stockbroker that watches the market returns on a ticker tape machine. Benton painted the mural at a time of great economic despair and inequity of the Great Depression, that began in 1929. The smallest panel, <a target="_blank" href="https://www.wikiart.org/en/thomas-hart-benton/outreaching-hands-1931"><i>Outreaching Hands</i></a> alludes to the breadlines of the Great Depression by showing only hands reaching for bread and other hands holding money.<br><br>In 1984, the mural was acquired by the insurance company AXA, and after restoration, it was displayed at the company headquarters in New York City. In 2012, the mural was renovated, and subsequently, the company decided to donate the work to the Metropolitan Museum in New York City.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
