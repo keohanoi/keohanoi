@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/francis-picabia/love-parade-1917.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/hans-haacke/moma-poll-1970.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Love Parade</h2>
+        <h2 class="artwork-name">MoMA Poll</h2>
         <h3 class="artist">
-          Francis Picabia
-                    ·  1917
+          Hans Haacke
+                    ·  1970
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Picabia's mechanomorphic pictures suggest analogies between machines and the human form. To contemporary viewers they were scandalous in their rejection of the idea of the human soul and their emphasis instead on instincts and compulsions - both often erotic. In this work, Picabia blended male and female; the upper part in red might be considered female and the lower part in blue, male. The viewer can imagine the sound of hammering and the idea of a "sonorous sculpture," or a musical instrument. - See more at: http://www.theartstory.org/artist-picabia-francis.htm#sthash.xchIYynP.dpuf</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1970 Hans Haacke proposed a work for the exhibition entitled Information to be held at the Museum of Modern Art in New York (an exhibition meant to be an overview of current younger artists), according to which the visitors would be asked to vote on a current socio-political issue. The proposal was accepted, and Haacke prepared his installation, entitled MoMA Poll, but did not hand in the specific question until right before the opening of the show. His query asked, "Would the fact that Governor Rockefeller has not denounced President Nixon's Indochina Policy be a reason for your not voting for him in November?" Visitors were asked to deposit their answers in the appropriate one of two transparent Plexiglas ballot boxes. At the end of the exhibition, there were approximately twice as many Yes ballots as No ballots. Haacke's question commented directly on the involvements of a major donor and board member at MOMA, Nelson Rockefeller. This installation is an early example of what in the art world came to be known as institutional critique.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
