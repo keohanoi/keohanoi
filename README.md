@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/salvador-dali/assuerus-falls-in-love-with-esther-assueres-adamavit-esther-1967(2).jpg"
+        src="https://uploads4.wikiart.org/images/caravaggio/portrait-of-maffeo-barberini(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Assuerus Falls in Love with Esther - Assueres adamavit Esther (Esther 2:17)</h2>
+        <h2 class="artwork-name">Portrait of Maffeo Barberini</h2>
         <h3 class="artist">
-          Salvador Dali
-                    ·  1967
+          Caravaggio
+                    ·  1598
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dali was profoundly influenced by two things that shaped his art and his approach to life: Freud's theory of the Unconscious, and the unconscious dream imagery of Surrealism. His paintings (and lithographs) appear as dreamlike fantasies - as this image clearly shows. At the same time, the technique he used was precise, realistic and highly skilled. In this lithograph a dream-like Esther has taken up residence in the mind of Ahasuerus, floating there, occupying all his thoughts - and in a sense trapped there.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Maffeo Barberini (c. 1598) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>.
+<br>
+<br>It is held in a private collection in Florence.
+<br>
+<br>Barberini, 30 years old and from the eminent Florentine Barberini family, was a rapidly rising Church prelate, a friend of Caravaggio's patron Cardinal Francesco Maria Del Monte, and himself a poet and patron of the arts.
+<br>
+<br>Barberini's support would continue into later years – in 1603 he commissioned a Sacrifice of Isaac from Caravaggio. In 1623 he became Pope as Urban VIII.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
