@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/gwen-john/dorelia-in-a-black-dres.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/albrecht-durer/adam-and-eve-1507.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dorelia in a Black Dress</h2>
+        <h2 class="artwork-name">Adam and Eve (two panels)</h2>
         <h3 class="artist">
-          Gwen John
-                    ·  1904
+          Albrecht Durer
+                    ·  1507
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">John trained at the Slade School of Art, where the paintings of James McNeill Whistler were hugely influential. In her work, as in Whistler’s, the atmosphere of a portrait is just as important as the display of personality or the narration of biography. Wishing to be free of family expectations and, perhaps, of her brother Augustus' fame, John moved to Paris in 1904. En route John made three paintings of her travelling companion Dorelia McNeil. This is one of them.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Adam and Eve is a pair of oil-on-panel paintings by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>.
+<br>
+<br>Completed in 1507, the work followed a 1504 copper engraving by Dürer on the same subject, one which offered Dürer the opportunity to depict the ideal human figure. Painted in Nuremberg soon after his return from Venice, the panels were influenced by Italian art. Dürer's observations on his second trip to Italy provided him with new approaches to portraying the human form. Here, he depicts Adam and Eve at human scale—the first full-scale nude subjects in German painting.
+<br>
+<br>Adam and Eve's first home was the Prague Castle, the property of collector Rudolf II. During the Thirty Years' War, armies plundered the castle and the panels came to be owned by Gustavus Adolphus of Sweden. His daughter, Christina, gave the work to Philip IV of Spain in 1654. Later King Charles III ordered in 1777 that the painting be hidden in the <a target="_blank" href="/en/artists-by-art-institution/real-academia-de">Real Academia de Bellas Artes de San Fernando</a>. It arrived at its current home, Madrid's Museo del Prado, in 1827, but was not publicly displayed until 1833.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
