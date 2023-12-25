@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01596-72-dpi.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/jean-tinguely/baluba-1961.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The conversation</h2>
+        <h2 class="artwork-name">Baluba</h2>
         <h3 class="artist">
-          Jarik Jongman
-                    ·  2019
+          Jean Tinguely
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">‘The conversation’ refers to a (hypothetical) conversation between the cynical American politician Karl Rove and quantum physicist Werner Heisenberg, discussing reality. Heisenberg famously said: <br>“The reality of which we can speak is never reality itself but a reality designed by us” and Rove was the first who postulated, (in what is almost a megalomaniac artist statement):  <br>“That's not the way the world really works anymore. We're an empire now, and when we act, we create our own reality. And while you're studying that reality—judiciously, as you will—we'll act again, creating other new realities, which you can study too, and that's how things will sort out. We're history's actors and you, all of you, will be left to just study what we do”.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In his “Balubas”, executed from autumn 1961 to spring 1963, Tinguely lets a vast abundance of the detritus of civilisation and consumer rubbish perform a wild and provocative dance. Alongside pieces of iron and wire, there are plastic fragments, brightly coloured feathers, rubber bands, furs, toys - banal everyday objects that Tinguely puts together into fragile assemblages. The juxtaposition of numerous individual pieces that were never meant to go together generates a bizarre and irritating effect.
+<br>
+<br>Starting in October 1960, Jean Tinguely lived with artist Niki de Saint Phalle in his studio on Impasse Ronsin. Inspired by her work, he integrated coloured feathers into the “Balubas” that give them an exuberant, high-spirited air. The improvisational look of the structure of iron wire, which is twisted together in only a few places and is hastily taped in others, gives the impression of a rapid and intuitive work process. Some “Balubas” possess a fragile equilibrium and look as though Tinguely had quickly sketched them in space. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
