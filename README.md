@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/andrea-mantegna/the-holy-family-with-saint-mary-magdalen-1500.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00155/images/ilya-kabakov/the-untalented-artist.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Holy Family with Saint Mary Magdalen</h2>
+        <h2 class="artwork-name">The Untalented Artist</h2>
         <h3 class="artist">
-          Andrea Mantegna
-                    ·  1500
+          Ilya Kabakov
+                    ·  1988
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">From 1460 Mantegna worked at Mantua as court artist to the Gonzaga family. He is best known for the altarpieces and secular works he painted for them, but he also painted a limited number of extraordinary small pictures for private devotion. Like the present picture, these were often painted in distemper (pigment with animal glue as a medium) on a fine cotton support, and they are delicate in execution.
-<br>
-<br>This painting dates from the last decade of Mantegna's career. Its composition is based on classical funerary reliefs. It may have hung in the church of the Spedale degli Incurabili in Venice in the seventeenth century.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this room, three large canvases rest on the floor against the walls. Each canvas is divided in half horizontally and depicts various scenes, including a soccer match, a drawing class in an art academy, a group of workers, and three views of the countryside with assorted landmarks or industrial settings. The narrative of The Untalented Artist describes the man as 50 years old (approximately Kabakov’s age when he created this work), who took some art classes when he was younger and now works for the state. The paintings resemble the crude works created for propaganda, agitation and advertisements for official events. The narrative suggests the works are “a dreadful mixture of hack-work, simple lack of skill.”</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
