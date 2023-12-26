@@ -2,20 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/michelangelo/david-1504.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/arthur-hughes/april-love-1856.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">David</h2>
+        <h2 class="artwork-name">April Love</h2>
         <h3 class="artist">
-          Michelangelo
-                    ·  1504
+          Arthur Hughes
+                    ·  1856
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">David is a masterpiece of Renaissance sculpture created between 1501 and 1504, by the Italian artist Michelangelo. It is a 5.17-metre (17.0 ft) marble statue of a standing male nude. The statue represents the Biblical hero David, a favoured subject in the art of Florence. It is possible that the David was conceived as a political statue before Michelangelo began to work on it. Certainly David the giant-killer had long been seen as a political figure in Florence, and images of the Biblical hero already carried political implications there.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting depicts a young couple at a moment of emotional crisis. The male figure is barely visible, his head bent over the young woman's left hand. The woman is looking down at fallen blossoms, suggesting the end of spring, and of early and young love.
+<br>The model for the principal figure was Tryphena Ford, who Hughes married in 1855</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
