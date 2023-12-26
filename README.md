@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/patrick-heron/red-garden-1956.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00446/images/andy-warhol/6afda2b537aca43efc338c04b025b792.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Red Garden</h2>
+        <h2 class="artwork-name">Orange Prince</h2>
         <h3 class="artist">
-          Patrick Heron
-                    ·  1956
+          Andy Warhol
+                    ·  1984
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Red Garden is among the earliest known prints by Patrick Heron and reflects a critical moment of change in his work. It is thought to have been made at Bath Academy of Art at Corsham Court, Somerset, under the supervision of Henry Cliffe the principal lecturer in lithography. Heron had previously made monotypes and designed scarves for Cresta Silks, but this may have been his first editioned print. It was produced in at least one other colour, yellow having been substituted for the red.
-<br>
-<br>In 1956 Heron began to make what appeared to be non-representational paintings, in defiance of his earlier advocacy of representation. In the same year, he settled in his new home, Eagles Nest, Zennor, above the coast of west Cornwall. The two events converged as the paintings of that year were, despite their abstract appearance, associated with the garden there. In January 1956 the artist made the first of a series of works associated with Eagles Nest's garden - Vertical: January 1956. These are made up of layers of dabs or short strokes of paint, often thin enough for the medium to dribble down the canvas. The deployment of the marks ranges from a relatively rigid structure of vertical strokes to a looser, less evenly dispersed series of short stabs of paint, as in Azalea Garden: May 1956. In some, calligraphic lines of oil paint are drawn across the surface. The present lithograph is closely comparable to this series of paintings in the use of successive layers of short strokes of different colours.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Orange Prince (1984) is a painting by American artist Andy Warhol, of Prince, the American singer, songwriter, record producer, multi-instrumentalist, actor, and director based on an original photograph by Lynn Goldsmith. The painting is one of twelve silkscreen portraits on canvas of Prince created by Warhol in 1984. These paintings and four additional works on paper are collectively known as the Prince Series.[1] Each painting is unique and can be distinguished by colour.<br><br>Orange Prince (1984) is considered an important late work referencing Warhol's portraits from the early 1960s, of movie stars and celebrity icons, such as Marilyn Monroe, Elizabeth Taylor and Jacqueline Kennedy. Art historian and Warhol expert Thomas E. Crow believes that Warhol's portrait of Prince shows much greater freedom of expression, as in the early portraits. This is especially evident when compared to Warhol's more 'factory-line' style of portraits from the 1970s onwards, which were mainly commissions.[2]<br><br>The Warhol portraits were not commissioned by Prince, but rather were made by Warhol for his private collection. Crow believes Warhol was fascinated by Prince, a young star not in Warhol's direct circle. He says that Warhol was drawn to Prince's edgy image, which acted as inspiration for the art work:<br><br>"(Warhol's) evident fascination with Prince, known for sexual frankness in his music and an androgynous style in his clothes, make-up, and hairstyle, echoed similar traits among those he famously gathered around himself in the Factory entourage of the 1960s."[2][3]</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
