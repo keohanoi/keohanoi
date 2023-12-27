@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/giorgio-de-chirico/gare-montparnasse-the-melancholy-of-departure-1914.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/albrecht-durer/paumgartner-altar.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Gare Montparnasse (The Melancholy of Departure)</h2>
+        <h2 class="artwork-name">Paumgartner Altarpiece (center panel - The Nativity, wings - St. George, St. Eustace)</h2>
         <h3 class="artist">
-          Giorgio de Chirico
-                    ·  1914
+          Albrecht Durer
+                    ·  1503
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Painted while the artist was living in Paris, Gare Montparnasse (The Melancholy of Departure), illustrates many recurring themes in De Chirico’s works. In addition to the long shadows and vast expanse of open space, a typical style in which De Chirico painted, this work also includes the theme of railway travel or transportation. As evidenced by the name, many of De Chirico’s works were inspired by the feelings evoked by travel and departure. This painting also includes a bunch of bananas in the foreground, another recurring theme in De Chirico’s paintings. The artist produced another painting with the same title, although the subject are far some similar. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Paumgartner altarpiece (c. 1500) is an early triptych painting by <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, commissioned by the Paumgartner family of Nuremberg. The central panel depicts a nativity scene, while the wings depict Saint George (left) and Saint Eustace (right). The saint's faces are donor portraits of the brothers Stephan and Lukas Paumgartner, respectively. Other members of the Paumgartner family are depicted as small figures in the center panel.
+<br>
+<br>In 1616 the painting was bought by Maximilian I, Elector of Bavaria and taken to Munich. There it was altered to suit 17th century tastes. This entailed adding helmets, horses, and landscape backgrounds to the portraits of the saints and painting over the small donor figures in the center panel. These embellishments were removed by restorators in 1903.
+<br>
+<br>On 20 April 1988, the Paumgartner altarpiece was one of three paintings at the Alte Pinakothek that were attacked with concentrated sulfuric acid by the serial art vandal Hans-Joachim Bohlmann. It alone suffered at least $12 million worth of damage. After 21 years of restoration, it was returned to display in 2010.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
