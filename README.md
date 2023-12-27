@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00275/images/edward-ruscha/ruscha-angry.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/giorgio-de-chirico/gare-montparnasse-the-melancholy-of-departure-1914.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Angry Because It's Plaster, Not Milk</h2>
+        <h2 class="artwork-name">Gare Montparnasse (The Melancholy of Departure)</h2>
         <h3 class="artist">
-          Edward Ruscha
+          Giorgio de Chirico
+                    ·  1914
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A loosely painted bird, hovering in an indeterminate space, is crying over unspilled milk in a painting which contains a representation of a sculptural trompe l’oeil. If not for the title, we, two, might be fooled into thinking that the glass contains milk, but not necessarily because it looks like milk. Even Ruscha, who is a master of the most sophisticated trompe l’ouiel effects (which he has chosen not to deploy here) could not have painted the difference between plaster and milk. He has relied on us to make the same assumptions as the bird, and he has relied on our ability to read and reveal to us the content of our assumptions. Unlike the bird, we exit laughing. Ruscha has painted an updated version of the story of a painting contest which took place in Greece during the fifth-century B.C.E. The painter Zeuxis showed a still life of such realism that birds flew down to eat the grapes from the painting. Ruscha has moved that scene to America (note that he portrays a glass of milk instead of grapes) and painted it from the point of view of one of the deceived birds. Unlike the Greeks, he does not believe that the best paintings are the most realistic.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Painted while the artist was living in Paris, Gare Montparnasse (The Melancholy of Departure), illustrates many recurring themes in De Chirico’s works. In addition to the long shadows and vast expanse of open space, a typical style in which De Chirico painted, this work also includes the theme of railway travel or transportation. As evidenced by the name, many of De Chirico’s works were inspired by the feelings evoked by travel and departure. This painting also includes a bunch of bananas in the foreground, another recurring theme in De Chirico’s paintings. The artist produced another painting with the same title, although the subject are far some similar. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
