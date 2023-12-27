@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/ende/allegorical-conclusion-of-the-christological-cycle-the-bird-and-the-snake.jpg"
+        src="https://uploads0.wikiart.org/00142/images/diego-velazquez/portrait-of-don-luis-de-gongora-y-argote.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Allegorical conclusion of the Christological cycle. The bird and the snake</h2>
+        <h2 class="artwork-name">Portrait of Don Luis de Gongora y Argote</h2>
         <h3 class="artist">
-          Ende
-                    ·  975
+          Diego Velazquez
+                    ·  1622
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Situated at the end of the Gospel cycle is a scene, somewhat off centre due to the folio having been trimmed in successive bindings, which again covers an entire page but has no frame – an indication of its ancient origin. The Incarnation or a symbolic portrait of Christ overcoming the devil is depicted allegorically in the form of a bird fighting a serpent. The image in the Gerona Beatus shows firstly a very decorative tree on the left with a fine trunk, a wide crown and a great many birds and fruit. Close to its roots is a legend that reads: “arborem sublimam adque bustum”, and alongside is a large bluish-colour bird with an outspread tail poking its beak into the crested head of a large snake whose body coils around twice. The meaning of the image is explained by a text written, in the Gerona Beatus, on folio 19v, i.e. quite a distance from the image, perhaps as a result of an error during binding which prevented the text from being next to the image, and which is laid out, as in the other manuscripts in which it appears, except in the Saint-Sever Beatus, in a cross shape in an attempt to merge the illustration and text together in the same image, resulting in a composition that became commonplace in the eastern and western manuscripts of the early Middle Ages. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Don Luis de Góngora is a 1622 painting in oils of the poet Luis de Góngora by <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a>. It is influenced by <a target="_blank" href="/en/caravaggio">Caravaggio</a>, especially in its chiaroscuro, and also applies lessons Velazquez had learned in Italy, such as the rich palette as used by <a target="_blank" href="/en/titian">Titian</a>. It is now in the Museum of Fine Arts, Boston. The portrait was commissioned with the assistance of Velázquez's teacher, <a target="_blank" href="/en/francisco-pacheco">Francisco Pacheco</a>.
+<br>
+<br>There are two other versions of this portrait of uncertain attribution. One is held by the Museo Lázaro Galdiano, Madrid, and the other by the Prado.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
