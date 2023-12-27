@@ -2,19 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00324/images/matthew-barney/what-else-mag-cultura-fotografia-matthew-barney-03.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/eileen-agar/figures-in-a-garden-1981.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Drawing Restraint 7</h2>
+        <h2 class="artwork-name">Figures in a Garden</h2>
         <h3 class="artist">
-          Matthew Barney
-                    ·  1993
+          Eileen Agar
+                    ·  1981
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Having begun (with <i>Drawing Restraint 1-6</i>) to experiment with video installation, <i>Drawing Restraint 7</i> marked a transitional moment in a series Barney and through video installation he was able to make "stories rather than documenting real actions". Despite its formal differences, however, <i>Drawing Restraint 7</i> continued to explore the concept of creative growth by overcoming external and self-imposed restrictions. <i>Drawing Restraint 7</i> also deals with one of Barney's other preoccupations, namely Western culture's obsession with the idea of masculinity as a performance that sates from ancient Greece to the present. In the video, actors wearing heavy make-up, cumbersome prosthetics, and costumes, play the roles of satyrs engaged in seemingly futile physical activities, such as chasing their own tails or attempting to draw while wrestling in the confined space of the backseat of a limousine.<br><br>As Barney moved forward with the series (reaching <i>Drawing Restraint 19</i> in 2013), he continued to place the body in a central role. Describing the series as a whole as "an endless loop between desire and discipline", the work explores the ritualistic processes of creation through a range of materials, settings, and characters. Art critic Quinn Latimer said of the <i>Drawing Restraint</i> series that by "delineating evermore elaborate contests of physical strength and psychological willpower against resistance at turns physical, sexual, architectural, cultural, oceanic or spiritual, the series resembles the endless tragicomic trials of a Greek demigod, or its most contemporary incarnation, the athlete [...] the body and its tribulations are central to his practice [and] his thoroughly Postmodern work furthers one of the oldest art-historical traditions: figuration".<br><br><i>Three-channel video, video monitors, steel, and internally lubricated plastic, and fluorescent light fixtures - Museum of Modern Art, New York</i></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Figures in a Garden was originally exhibited under the title October and later, after some additions were made to the canvas, The Dark Wood. It shows two figures dressed in elaborately decorated masquerade costumes. They stand against a dark leafy background and their brightly coloured bodies are fragmented as though caught in the shadows.
+<br>
+<br>Agar had studied art at the Slade School in London before moving to Paris, where she was befriended by the artists Pablo Picasso (1881-1973), Henry Moore (1898-1986), Man Ray (1890-1976), the novelist Evelyn Waugh (1903-66) and the poet Ezra Pound (1885-1972). Two years later she returned to London and was hailed as an important figure by the new Surrealist movement. Her work at that time included collage and sculpture which incorporated found objects.
+<br>
+<br>In 1965, Agar began to use acrylic paint. She liked its ease of handling, the speed with which it dried and the fact that it was a new medium. 'After four hundred years of oil painting, I felt artists should move on to something else' she said. 'It was a period of constant experiment, of testing the effects of new pigments, new colour combinations … In acrylics, I had found what I considered to be an ideal medium, and I wanted both to master it and to stretch it.' (Simpson, Gascoyne and Lambirth, p32).
+<br>
+<br>In the late 1960s, she was asked to produce ten large canvases for a major retrospective exhibition at the Commonwealth Institute in 1971. She used the opportunity to develop her use of this newly adopted medium. The large colourful canvases were constructed by laying amorphous patches of colour on the canvas in a manner reminiscent of her earlier collages. They played with illusion in much the same way, tricking the eye into seeing more than is placed before it.
+<br>
+<br>In his catalogue introduction to the exhibition at the Commonwealth Institute, Roland Penrose (1900-1984), an artist, collector and champion of the Surrealist movement in Britain, noted his reaction to these paintings:
+<br>
+<br>"I find that I am led into deep sensations of time and space in some recent paintings where sharply delineated forms hover in darkness so that the blackness that surrounds them is alive in its own right and others where transparent forms with softer edges merge together creating new volumes and a magic sense of depth, a vortex of colour which carries the eye with rhythmic motion into a realm which transcends our limited field of observation". (Chloe Johnson)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
