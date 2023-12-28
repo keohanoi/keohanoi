@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/yiannis-tsaroychis/the-thinker-1936.jpg"
+        src="https://uploads0.wikiart.org/images/pieter-bruegel-the-elder/the-adoration-of-the-kings-1564.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Thinker</h2>
+        <h2 class="artwork-name">The Adoration of the Kings</h2>
         <h3 class="artist">
-          Yiannis Tsaroychis
-                    ·  1936
+          Pieter Bruegel the Elder
+                    ·  1564
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'This work represents the distillation of the kind of art painters are aiming at when they avoid perspective. The title, The Thinker, which I gave this humble piece ironically, contrasts with the feeling of Rodin's Thinker, which belongs to a different world. As I progressed with this style, I began to see the rights and wrongs of those who agree and those who disagree. I realized only quite late that it is very difficult to combine the two styles: the style of drawing that takes account of chiaroscuro, and what may be called the oriental approach, which contains within it the quality of the colour scales. This work was painted in reaction to my academic studies and tradition.'
-<br>Yannis Tsarouchis
-<br> </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this unusual rendering of the Adoration, the Three Kings presenting their gifts are treated as caricatures and the Virgin is not idealised. The work is composed from a high viewpoint, focusing attention on the Infant Christ on his mother's lap, at the exact centre of the picture. People crowd around them and there is little sense of depth or space. The elongated figures of the Kings are characteristic of a painting style that was fashionable around this time.<br><br>A figure on the extreme right wears spectacles. His presence may indicate that those around Christ are blind to his significance; Bruegel has used spectacles on other occasions to signify in an ironic manner the inability of the subject to see the truth. Most of the figures, in fact, appear to be gently mocked by the artist.<br><br>It is uncommon for soldiers to be included in a depiction of the Adoration. As in other works by Bruegel, their presence may reflect the Spanish occupation of the Netherlands at this time.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
