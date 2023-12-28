@@ -2,33 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/edvard-munch/vampire-1895.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/57726d7dedc2cb3880b47d0a/paysage-avec-orph-e-et-eurydice-nicolas-poussin-mus-e-du-louvre-inv-7307-q6485124.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Vampire</h2>
+        <h2 class="artwork-name">Orpheus and Eurydice (Landscape with Orpheus and Eurydice)</h2>
         <h3 class="artist">
-          Edvard Munch
-                    ·  1895
+          Nicolas Poussin
+                    ·  1650
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Love and Pain is a painting by <a target="_blank" href="/en/edvard-munch">Edvard Munch</a>, It has also been called Vampire, though not by Munch. Munch painted six different versions of the subject in the period 1893–95; three versions are at the Munch Museum in Oslo, one is at the Gothenburg Museum of Art, one is owned by a private collector and the last one is unaccounted for. He also painted several versions and derivatives in his later career. 
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Landscape with Orpheus and Eurydice is a huge 200 × 124 cm (approx 6.5 × 4 feet) oil-on-canvas by artist in the <a target="_blank" href="/en/paintings-by-style/classicism">classical</a> style <a target="_blank" href="/en/nicolas-poussin">Nicolas Poussin</a>, painted between 1650 and 1653. It is currently held and exhibited at the Louvre in Paris
 <br>
-<br>The painting shows a woman with long flame-red hair kissing a man on the neck, as the couple embrace. Although others have seen in it "a man locked in a vampire's tortured embrace – her molten-red hair running along his soft bare skin," Munch himself always claimed it showed nothing more than "just a woman kissing a man on the neck".
+<br>Nicolas Poussin painted this work for his longtime friend and patron, Jean Pointel, who was a rich banker in Paris. Pointel also was a member of the libertines, a circle which Poussin himself frequented. It was in Pointel's collection, which had many works by Poussin, but was stored away after the political climate in Paris changed. In its place Poussin`s landscape with snake and dying man, was hung in Pointel`s private collection.
 <br>
-<br>The painting was first called "Vampire" by Munch's friend, the critic Stanisław Przybyszewski. Przybyszewski saw the painting on exhibition and described it as "a man who has become submissive, and on his neck a biting vampire's face."
+<br>Poussin places the story of Orpheus in the Campagna Romana (Roman countryside): the Castel Sant'Angelo and the Torre delle Milizie ("Tower of the Militia") figure in this painting, borrowed from the landscape of the Eternal City. Dense smoke pours from a fire which devastates the Castle, and darkens a sky already overcast with sombre clouds. The fall of the light divides the landscape diagonally into bright and dark areas - a division clearly seen on the Torre delle Milizie.
 <br>
-<br>A version of the painting was stolen from the Munch Museum on 23 February 1988. It was recovered later the same year, when the thief contacted the police. 
+<br>Many of Poussin's pictures have darkened, mainly as a result of a red underpainting which has begun to show through the colours. The Orpheus, however, is free of this: it has kept its original transparency even in the darker passages, and the whole painting is in a particularly fine state of preservation.
 <br>
-<br>In 2008, at a Sotheby's auction, an 1894 version of the painting sold for 38.2 million dollars (24.3 million pounds) and set the world record for the auction of a Munch painting.
-<br>
-<br>In 1895, Munch created a woodcut with a very similar theme and composition, known as Vampyr II.
-<br>
-<br>In 1916–18, Munch reused the composition in a different setting for two paintings called Vampire in the Forest and Vampire, currently in the collection of the Munch Museum.
-<br>
-<br> Media related to Vampire by Edvard Munch at Wikimedia Commons</span>
+<br>This work by Poussin remains cryptic and there are various opinions about possible ways to decipher it.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
