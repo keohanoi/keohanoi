@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/fernand-leger/the-creation-of-the-world.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00341/images/rochelle-blumenfeld/logan-street-scene.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Creation of the World</h2>
+        <h2 class="artwork-name">Logan Street</h2>
         <h3 class="artist">
-          Fernand Leger
+          Rochelle Blumenfeld
+                    ·  2017
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In addition to his paintings, Leger was a prolific artist in many mediums, including stained glass, ceramic sculpture, and set designs. This is a set design is for the ballet The Creation of the World, which premiered in Paris in 1923. The ballet is based on an African creation legend, and Leger’s artistic rendition illustrates the three gods of the ballet, Nzame, Medere and N’kava. According to the legend, the gods oversee the development of the flora and fauna into a coordinated dance. According to the composer of the ballet, Leger was never quite happy with his designs, as he wanted them to be more frightening and less bright. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Logan Street Painting from Rochelle Blumenfeld's Hill District Series paintings. These paintings are based on artist's memories growing up in the Hill District of Pittsburgh during the Great Depression and the World War II.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
