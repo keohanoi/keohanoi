@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/robert-morris/untitled-mirrored-cubes-1971.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/edvard-munch/the-sick-child-1886.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Untitled (Mirrored Cubes)</h2>
+        <h2 class="artwork-name">The Sick Child (later)</h2>
         <h3 class="artist">
-          Robert Morris
-                    ·  1971
+          Edvard Munch
+                    ·  1907
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Morris’s Minimalist sculptures of the mid-1960s consist of rigorously pared down geometric forms. He typically arranged these into ‘situations’ where ‘one is aware of one’s own body at the same time that one is aware of the piece’. This work demonstrates the principle. As the viewer walks around the four cubes, their mirrored surfaces produce complex and shifting interactions between gallery and spectator. The cubes were originally installed in the garden at Tate for Morris’s 1971 exhibition, but were put on show in the galleries when the exhibition had to be re-made with substitute works.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Munch had a troubled familial past. In addition to his overbearing pietist father, his mother died of tuberculosis when he was a small child, and his sister died nine years later of the same disease. This painting is an image of Munch’s older and favorite sister Sophie lying in bed, dying of tuberculosis when she was 15 years old. Munch created many reproductions of this painting, including one that was held in Dresden, Germany. In the 1930’s and 40’s Nazi’s deemed Munch’s art as “degenerate art” and removed all of them from Germany to be sold at auction. This piece was bought and later donated to the Tate Gallery in London, where it remains today.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
