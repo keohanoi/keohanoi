@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00237/images/ancient-greek-painting/terracotta-lekanis-dish-with-lid-and-finial-250-1.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/correggio/danae-1531(2).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Terracotta Lekanis (dish) with Lid and Finial</h2>
+        <h2 class="artwork-name">Danae</h2>
         <h3 class="artist">
-          Ancient Greek Painting and Sculpture
-                    ·  -250
+          Correggio
+                    ·  1531
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This elaborate vase belongs to a small class of vessels from Centuripe, a small town in eastern Sicily, where they were apparently made. Characteristically, sumptuous, gilt, high-relief decoration, imitating fine metalwork, is combined with bright tempera paintings. The front and sides of the lid depict a complex scene with several female figures around an altar. One figure holds a tambourine. In the handle-zone, a Medusa head is flanked by Erotes amidst a floral scroll. The finial and base are decorated with shafts of wheat and leaves.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/253048">The Met</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Danae was commissioned around 1531 by the Duke of Mantua, Federico Il Gonzaga, as part of a series on the mythical Jupiter’s loves. The painting depicts Danae, the daughter of Acrisius, the king of Argos. According to the legend, Acrisius, hearing from and oracle that Danae’s son would kill him, had his daughter locked in a tower. Jupiter, in the form of a golden rain, came down to Danae and she soon bore a son, Perseus, who eventually killed the king Acrisius. Correggio depicts Jupiter in the form of a golden cloud, floating above the head of Danae, who is being undressed by Eros. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
