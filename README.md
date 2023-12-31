@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/vittore-carpaccio/two-venetian-ladies.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/winslow-homer/snap-the-whip.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two Venetian Ladies</h2>
+        <h2 class="artwork-name">Snap the Whip</h2>
         <h3 class="artist">
-          Vittore Carpaccio
-                    ·  1490
+          Winslow Homer
+                    ·  1872
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Two Venetian Ladies is a painting by the Italian Renaissance artist <a target="_blank" href="/en/vittore-carpaccio">Vittore Carpaccio</a>.
-<br>
-<br>The painting, believed to be a quarter of the original work, was executed around 1490 and shows two unknown Venetian ladies. The top portion of the panel, called Hunting on the Lagoon is in the Getty Museum, and another matching panel is missing. The painting was formerly considered to show two courtesans. Modern art historians think them more likely members to be of the patrician Torella family, as suggested by their fine clothes and the pearl necklaces, but academic debate continues, as with other similar Venetian paintings of the period. Several objects - the white kerchief, the pearls and the animals (the doves, Venus's bird) are symbols of chastity. Note the chopines, or platform clogs, on the left.
-<br>
-<br>Another painted panel, now in the Getty Museum [1], was published in 1944, and it was later realized that this is part of the same work, fitting above this part: it portrays several boats in a lagoon, and would explain the meaning of the scene, as two women awaiting their husbands' return after an expedition hunting, or fishing with cormorants, in the Venetian lagoon.[2] This discovery was verified by an in depth technical analysis, comparing the two fragmentary panels. Another panel the same size as these two combined would have been on the left; probably the two were hinged together to make a diptych, or a folding door or shutter. The Getty panel has an illusionistic letter rack painted on the back of the panel, which was presumably matched on this panel. This appears to be the earliest small-scale <a target="_blank" href="/en/paintings-by-genre/trompe-loeil">trompe-l'œil</a> painting since antiquity.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the years after America's brutal Civil War (1861-65), children—as embodiments of innocence and the promise of America's future—became a popular artistic subject. <i>Snap the Whip</i>, one of Homer's most beloved works, evoked nostalgia for the nation's agrarian past as the population shifted to cities. Released from their lessons, the exuberant bare-footed boys engage in a spirited game of snap the whip, which required teamwork, strength, and calculation—all important skills for a reuniting country. Their clothing, more specifically their caps, suspenders, and short pants, reflects the true late 1800 American attire. <br><br>Featured in the background is the familiar little red schoolhouse; the school teachers in the distance are most likely meant to be supervising the usual recess activity. The scenic landscape of trees and wildflowers bordering a small field is so realistic that the viewer can almost hear the chirping of the birds and the buzzing of the insects. The boys' bare feet signal childhood's freedom, but their suspenders are associated with manhood's responsibilities. Observed from right to left, Homer's boys hang on to one another, strain to stay connected, run in perfect harmony, and fall away, enacting all the possible scenarios for men after the Civil War.<br><br>Art historian Edward Lucie-Smith described in his text, American Realism, "Childhood and the life of children took on a special significance in America in the years following the Civil War, and these images symbolized the will to rebuild and to make a stronger and more vigorous nation." Subtle allusions to the lost generation of Civil War soldiers, the young widows left behind along with the hopes for the next generation provide the underlying narrative of these post-war works which focus on the lives of young teachers and their students.<br><br>An earlier, <a target="_blank" href="https://www.wikiart.org/en/winslow-homer/snap-the-whip-1872-0">larger version of this subject (Butler Institute of American Art)</a> was among the most celebrated paintings at the 1876 Centennial International Exhibition, held in Philadelphia—America's first world's fair. The Met's version differs from the original in its background, with a wide blue sky replacing a lush mountain range, making the image less regionally specific.<br> </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
