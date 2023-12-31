@@ -2,18 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/niko-pirosmani/barrel-organist(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/panos-terlemezian/mountains-dzoraget-1930.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Barrel Organ Player</h2>
+        <h2 class="artwork-name">Mountains. Dzoraget</h2>
         <h3 class="artist">
-          Niko Pirosmani
+          Panos Terlemezian
+                    ·  1930
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pirosmani was an erratic individual at best, holding down many jobs in order to survive, rather then relying solely on his painting prowess. One of these jobs was a milk stall in the middle of town, where he sold milk, yogurt, cheese and butter. He would often leave his shop for no reason at all and wander around the streets of the town. On these occasions, he loved to watch the street musicians, the barrel organ players especially. It was at this period in his life, in which he was able to afford an art studio behind his shop, when he was able to paint regularly. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Dzoraget  is a river in the Debeda hydrological region in the Lori region in Northern Armenia. It originates in the Bazum Mountains and flows west to east through spectacular gorges around Stepanavan. It finally feeds into the Debed river near Dzoragyugh, which ultimately drains to the Kura river.
+<br>Dzoraget is a compound word in Armenian meaning Gorge-river and formed with the lexemes ձոր [dzɔɾ] ('gorge') and գետ [ɡetʰ] ('river').</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
