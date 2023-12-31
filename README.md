@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/james-tissot/crucifixion-seen-from-the-cross-1890.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/sol-lewitt/standing-open-structure-black-1964.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Crucifixion, seen from the Cross</h2>
+        <h2 class="artwork-name">Standing Open Structure Black</h2>
         <h3 class="artist">
-          James Tissot
-                    ·  1890
+          Sol LeWitt
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crucifixion, seen from the Cross is a c. 1890 <a target="_blank" href="/en/paintings-by-media/watercolor-on-paper">watercolor</a> painting by the French painter <a target="_blank" href="/en/james-tissot">James Tissot</a>. The work is unusual for its portrayal of the site, the women witnesses, and bystanders from the perspective of Jesus on the cross, rather than featuring Him as the center of the work; His figure is nearly not shown (His feet can be seen at the bottom of the picture).
-<br>
-<br>It is part of the series The Life of Jesus Christ, a series of 350 watercolors of events from the Gospels completed by Tissot. He prepared for these by extensive travels in the Middle East to study details of contemporary life, which he used in the paintings. Prints were also published of the compositions. The whole watercolor series, completed between 1886-1894, was acquired in 1900 by the Brooklyn Museum in New York.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Derived from the spare, iconic forms that began with such paintings as Wall Structure Blue, this work stands as their most elemental component. Although the shape is abstract, the relatable, human-like proportions (it stands 96 inches high) recall a skeleton, with all of its solemn dignity and shock value. As one of the first open structures, Standing Open Structure Black can be seen as the standard building block for much of LeWitt's later work. As with his Minimalist painting, LeWitt's simplified sculptures of this period challenge the notion of completeness and suggest that any additions to the basic elements of a work of art are excessive.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
