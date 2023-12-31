@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00164/images/caravaggio/saint-jerome-writing-caravaggio-1605-6.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/gerard-david/the-baptism-of-christ-central-section-of-the-triptych.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Saint Jerome Writing</h2>
+        <h2 class="artwork-name">The Baptism of Christ (central section of Triptych of Jan des Trompes)</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1605
+          Gerard David
+                    ·  1505
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint Jerome Writing, also called Saint Jerome in His Study or simply Saint Jerome, is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by Italian painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>. Generally dated to 1605-1606, the painting is located in the Galleria Borghese in Rome.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ or the Jan des Trompes Triptych is an altarpiece painted between 1502 and 1508 by the Flemish painter <a target="_blank" href="/en/gerard-david">Gerard David</a>. It is now held by the Groeningemuseum in Bruges. Its central panel is 127.9&nbsp;cm high by 96.6&nbsp;cm wide and shows Christ's baptism in the Jordan, with an angel holding Christ's clothing and God the Father and the Holy Spirit in the form of a dove above Christ. In the background is a landscape with scenes from the life of John the Baptist, whilst the foreground is filled with herbs and flowers.
 <br>
-<br>The painting depicts Saint Jerome, a Doctor of the Church in Roman Catholicism and a popular subject for painting, even for Caravaggio, who produced other paintings of Jerome in Meditation and engaged in writing. In this image, Jerome is reading intently, an outstretched arm resting with quill. It has been suggested that Jerome is depicted in the act of translating the Vulgate.
-<br>
-<br>The painting is generally dated to 1605-1606, largely on the statements of 17th-century art historical biographer Gian Pietro Bellori, though Denis Mahon suggests 1602-1604. According to Bellori, Caravaggio produced the piece at the behest of Cardinal Scipione Borghese, who became a cardinal in 1605, but it is possible that Borghese acquired it later as it is not mentioned in a 1613 poem by Scipione Francucci that described the Borghese Caravaggio collection. Whether or not the dating is accurate, the work is believed to have originated from Caravaggio's late Roman period, which ended with the painter's exile to Malta in 1606.
-<br>
-<br>That Saint Jerome Writing is the work of Caravaggio is sometimes brought into question, as it was attributed to <a target="_blank" href="/en/jusepe-de-ribera">Ribera</a> in the Borghese inventories from 1700 until 1893.</span>
+<br>The side panels are 132&nbsp;cm high by 43.1 and 43.2&nbsp;cm wide. They show the donors and their children - on the left panel is Jan de Trompes, treasurer of Bruges, being presented by John the Baptist, his name saint, whilst his second wife Elisabeth van der Meersch is shown being presented by her name saint, John the Baptist's mother saint Elizabeth.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
