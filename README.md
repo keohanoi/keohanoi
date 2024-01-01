@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/louis-comfort-tiffany/garden-landscape-and-fountain-1915.jpg"
+        src="https://uploads8.wikiart.org/00163/images/norman-lewis/lewis-carved-bobbin-guru-1935-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Garden Landscape and Fountain</h2>
+        <h2 class="artwork-name">Baule Mask</h2>
         <h3 class="artist">
-          Louis Comfort Tiffany
-                    ·  1915
+          Norman Lewis
+                    ·  1935
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This mosaic work may have originally been part of a commission by the Curtis Publishing Company in Philadelphia. Naturalistic effects are achieved through glass mosaic that has been cut to various shapes to accommodate the view, including tall slender cypress trees in the background with a multihued sky above. The scene continues with two swans that wade through the rippled pond of shimmering blue. This is an architectural landscape of beauty with classical urns overflowing with pink flowers.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1935, Lewis attended the exhibition African Negro Art at the Museum of Modern Art. Deeply inspired by the forms he encountered, he executed colorful pastel drawings—some on sandpaper—of masks from the Baulé and Dan cultures. A typed statement in Lewis’s archive reveals his clear understanding of the severe distinctions between African sculpture and the Greco-Roman model of naturalism that had previously informed his work and teaching.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
