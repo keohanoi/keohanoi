@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/gerard-david/the-baptism-of-christ-central-section-of-the-triptych.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00281/images/sergio-illuminato/the-tree-overseas.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Baptism of Christ (central section of Triptych of Jan des Trompes)</h2>
+        <h2 class="artwork-name">THE TREE OVERSEAS</h2>
         <h3 class="artist">
-          Gerard David
-                    ·  1505
+          Sergio Mario Illuminato
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ or the Jan des Trompes Triptych is an altarpiece painted between 1502 and 1508 by the Flemish painter <a target="_blank" href="/en/gerard-david">Gerard David</a>. It is now held by the Groeningemuseum in Bruges. Its central panel is 127.9&nbsp;cm high by 96.6&nbsp;cm wide and shows Christ's baptism in the Jordan, with an angel holding Christ's clothing and God the Father and the Holy Spirit in the form of a dove above Christ. In the background is a landscape with scenes from the life of John the Baptist, whilst the foreground is filled with herbs and flowers.
-<br>
-<br>The side panels are 132&nbsp;cm high by 43.1 and 43.2&nbsp;cm wide. They show the donors and their children - on the left panel is Jan de Trompes, treasurer of Bruges, being presented by John the Baptist, his name saint, whilst his second wife Elisabeth van der Meersch is shown being presented by her name saint, John the Baptist's mother saint Elizabeth.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The fluid of living energy that emerges irregularly from the cracks in the bark moves from land to sea and then beyond knowledge. The centrality of tension towards overseas, a place that does not exist. Nature, Man and the Universe also participate in the essence of everything that any direction takes sooner or later turns to overseas.<br><br>Il fluido d’energia viva che emerge irregolare dalle fessure della corteccia si muove dalla terra al mare e poi più in là della conoscenza. La centralità della tensione verso l’oltremare, un luogo che non esiste. La Natura, l'Uomo e l’Universo partecipano parimenti all'essenza del tutto che qualsiasi direzione prenda prima o poi gira verso oltremare.<br><br>Le fluide d'énergie vivante qui émerge irrégulièrement des fissures de l'écorce se déplace de la terre à la mer, puis au-delà de la connaissance. La centralité des tensions vers l'étranger, un lieu qui n'existe pas. La nature, l'homme et l'univers participent également à l'essence de tout ce que toute direction prend tôt ou tard à l'étranger.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
