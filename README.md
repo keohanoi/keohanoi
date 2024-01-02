@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/ivan-grohar/the-sower-1907.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/stanley-pinker/man-and-car.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Sower</h2>
+        <h2 class="artwork-name">Man and Car</h2>
         <h3 class="artist">
-          Ivan Grohar
-                    ·  1907
+          Stanley Pinker
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Sower (Slovene: Sejalec), created in 1907, is an oil on canvas painting by the Slovene Impressionist painter and musician Ivan Grohar. It is an image of a peasant sowing seeds on a ploughed field in an early and foggy morning. A hayrack, typical of the Slovene landscape, stands in the back, and even farther, the rocks of the small hill Kamnitnik near Škofja Loka. It has been a metaphor for the 19-th century myth of Slovenes as a vigorous nation in front of an unclear destiny, a symbol for the Slovene nation that sows in order that it could harvest, and a depiction of human interrelatedness with the nature. It is also a reflection of the context of Slovene transition from a rural to an urban culture. It has become one of the most characteristic and established Slovene creations in visual arts. It has been used by the IRWIN art group as well as the Semenarna Ljubljana seed company, and is depicted on the Slovenian 5 euro coin.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The uniform of the racing driver and the car, were inspired by an image I saw in an AA leaflet. It struck me how racing cars are sponsored by big corporations and how a driver and motorcar are often treated in the same way, as objects. As a reference to the sponsor, I have included a little oil can made by the anonymous company: the car and driver are in effect mobile advertisements for the oil tin. Which is the most important - the tin, the driver or the car? You will notice that the oil can is empty, about to be thrown away as the contents have been used. Are the car and driver also disposable? One doesn't get any sense of the driver as a person. His face is covered by a helmet, he is merely number '8', the same number as the car. His individuality has been consumed by the corporate body.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
