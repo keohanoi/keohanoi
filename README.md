@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/ende/prologue-on-the-church-portraits-of-the-apostoles-stating-where-they-preached.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/piero-di-cosimo/perseus-rescuing-andromeda-1510.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Prologue. On the Church. Portraits of the apostoles stating where they preached</h2>
+        <h2 class="artwork-name">Perseus Rescuing Andromeda</h2>
         <h3 class="artist">
-          Ende
-                    ·  975
+          Piero di Cosimo
+                    ·  1510
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the part of the prologue that concerns the Church, Beatus follows mainly St Isidore and, to a lesser extent, St Gregory the Great, Tyconius and St Jerome. He provides a short treatise about ecclesiology designed to explain the meaning of Christ, the angels, patriarchs, prophets, apostles, martyrs, clergy, monks, religious and the faithful.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perseus Freeing Andromeda is a painting by the Italian Renaissance painter <a target="_blank" href="/en/piero-di-cosimo">Piero di Cosimo</a>, c. executed in 1510 or 1513 It is housed in the Uffizi Gallery of Florence, Italy.
 <br>
-<br>This image, found in branch IIb alone, may perhaps have been an innovation by Maius included in one of the miniatures that has disappeared from the Tábara Beatus: it is exclusive to the extant, tenth-century Beatus and is only to be found again in the later Beatus, albeit in a different configuration having discarded the frieze layout . The provenance of the portrait of the apostles may be two-fold. On the one hand, the collections of biographies on papyrus scrolls were illustrated in Antiquity by portraits: a very widespread procedure. The representation of a figure or author of a text standing or in a medallion has ancient models. When Christians began to add portraits to different books of the Bible, they adapted the standing figure of the author used in Antiquity – the style most commonplace when the scroll was still in use – employing it frequently. As a result, the prophets appear in this pose in particular, sometimes holding the rolled-up scroll in their left hand – as in the famous statue of Democritus – or reading the unrolled scroll, as in the portrait of Euripides or Virgil. After the codex was invented, a trend developed of devoting entire pages to single miniatures and separating them from the text in the columns they were inserted into.</span>
+<br>The painting is mentioned in 1568 by <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>, who states that it was commissioned by Filippo Strozzi the Elder, and gifted by Giovanni Battista Strozzi to a member of Cosimo I de' Medici's personnel.
+<br>
+<br>The work shows the mythological hero Perseus killing the monster who had entrapped Andromeda. Piero gave a great deal of attention to the background, perhaps inspired to the contemporary Flemish school: details include the two characters with a turban on the left, the very detailed painting of the water on the shore, and the fantastic musical instruments.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
