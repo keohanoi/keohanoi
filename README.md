@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/grandma-moses/checkered-house-1943.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/pavel-filonov/universal-flowering-1916.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Checkered House</h2>
+        <h2 class="artwork-name">Flowers of the Universal Flowering</h2>
         <h3 class="artist">
-          Grandma Moses
-                    ·  1943
+          Pavel Filonov
+                    ·  1916
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Like the Troy fire, the Checkered House was a local legend. Situated along the Cambridge Turnpike, it was an inn where stagecoach drivers had changed horses as far back as the eighteenth century. During the Revolutionary War, the inn served as General Baum's headquarters and field hospital. Its checkerboard front made the house a distinctive landmark that was remembered long after it burned in 1907. 
-<br>Moses painted a number of versions of "Checkered House," in both winter and summer. When asked how she managed to come up with a new composition each time, she said she imagined the scene as if she were looking at it through a window. By then shifting her viewpoint slightly, she could cause the elements to fall into place differently.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1913, Filonov founded an artistic group, which consisted only of artists devoted to following the techniques and style of analytical art. The next year, he produced a written manifesto of his artistic theory, The Made Paintings, which set down the many tenets of artistic philosophy. Flowers of the Universal Flowering was created during this period, in which Filonov’s paintings were encrypted in such a way as to be completely non-representational to the viewer. His intent was to make the objects intermingle, or flower, within one another and become something entirely different, in an effort to make the invisible world of the soul visible on the canvas. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
