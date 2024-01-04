@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/titian/portrait-of-a-venetian-nobleman(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/man-ray/indestructible-object-or-object-to-be-destroyed-1923.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a Venetian Gentleman</h2>
+        <h2 class="artwork-name">Indestructible Object (or Object to Be Destroyed)</h2>
         <h3 class="artist">
-          Titian
-                    ·  1515
+          Man Ray
+                    ·  1923
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The museum attributes it to <a target="_blank" href="https://en.wikipedia.org/wiki/Giovanni_Cariani">Giovanni Cariani (c. 1490-1547)</a><br><br>The expression of calculating, almost cruel, appraisal—amplified by his closed fist—gives this man an aggressive air, but we do not know his identity. The inscription on the parapet does not help. These letters, VVO, have been interpreted as a form of the Latin vivo (in life). This would suggest that the portrait was painted from life and that it confers on both subject and painter a measure of immortality. It may more likely, however, be an abbreviation of a humanist motto, perhaps virtus vincit omnia (virtue conquers all).<br><br>Like other paintings associated with Giorgione, this one presents difficulties of attribution. Both Titian and Sebastiano are know to have completed works that remained unfinished when Giorgione died prematurely in his early thirties. (It was said that Giorgione contracted the plague from his mistress.) A second hand seems to be at work in this painting. The portrait's format, with subject glancing sidelong at the viewer from behind a parapet, was developed by Giorgione, and the soft, shadowy gradations of tone also recall his style. However, its aggressive mood points to a painter with a bolder brush and more active, worldly outlook, like Titian.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Man Ray re-created this work multiple times after making the original. The piece was first intended as a silent witness in Ray's studio - watching him paint. In the second version, which was published in the avant-garde journal This Quarter, in 1932, Ray substituted the eye of Lee Miller, his former lover, after she left him and married a successful Egyptian businessman. He wanted to attack Miller by "breaking her up" in his works that feature her, and thus this second version, called Object of Destruction, was accompanied by the following instructions: "Cut out the eye from a photograph of one who has been loved but is seen no more. Attach the eye to the pendulum of a metronome and regulate the weight to suit the tempo desired. Keep going to the limit of endurance. With a hammer well-aimed, try to destroy the whole at a single blow." At an exhibition in 1957, a group of students followed the instructions and destroyed the object. It was later reconstructed and made into multiples using the money Man Ray received from the insurance. He renamed the work Indestructible Object.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
