@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00142/images/anna-ancher/anna-ancher-tutt-art-44.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/gian-maria-tosatti-lucifero-2015-environmental-installation-09.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Grief</h2>
+        <h2 class="artwork-name">Seven Seasons of the Spirit. 3. Lucifer</h2>
         <h3 class="artist">
-          Anna Ancher
-                    ·  1902
+          Gian Maria Tosatti
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Anna Ancher was inspired by a dream to paint this picture. In an interview in connection with her 70th birthday, she said: “There was a time when I lacked subjects to paint. I thought about this day and night. And then one night I had a dream. I saw under a cross in a graveyard a meeting of a mother and daughter. The mother kneeled and the daughter bent over her. One of them had died. This meeting in the graveyard was so vivid for me that the next day I started to paint it.” We do not know whether the mother has folded her hands in prayer or despair, or even who the two women are, but Anna Ancher’s mother was the model for the mother. The painting represents one of the few examples of the otherwise naturalistic Skagen painter utilizing a Symbolist idiom.<br><br><a target="_blank" href="https://skagenskunstmuseer.dk/en/works/grief/">skagenskunstmuseer</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lucifero (Lucifer) is a research about the archetype of the devil. It is research about the role of evil in God’s plans, about the concept of “mistake” and about redemption. This third chapter of the project “Seven Seasons of the Spirit” works on a theological perspective, using the archetypes of Christianity as a widely shared symbolic plane that can create, with the visitors, a deep dialogue that may, in the end, turn into a political perspective. This monumental work of 65.000 sq/f is focused on a solitary figure, the visitor itself, who finds himself in a constant game of reflections. Feeling confused, feeling like the devil can allow the visitor to feel the deep and infinite nostalgia of the light that dominates the character who gives the name to this installation.<br><br>(ex Magazzini Generali del porto, Napoli)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
