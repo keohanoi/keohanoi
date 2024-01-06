@@ -2,25 +2,35 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/caravaggio/inspiration-of-saint-matthew-1602-1(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/jean-auguste-dominique-ingres/portrait-of-madame-de-senonnes.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Inspiration of Saint Matthew</h2>
+        <h2 class="artwork-name">Portrait of Madame de Senonnes</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1602
+          Jean Auguste Dominique Ingres
+                    ·  1816
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Inspiration of Saint Matthew (1602) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Caravaggio</a>. Commissioned by the French Cardinal Matteo Contarelli, the canvas hangs in Contarelli chapel altar in the church of the French congregation San Luigi dei Francesi in Rome, Italy. It is one of three Caravaggio canvases in the chapel: hanging between the larger earlier canvases of The Martyrdom of Saint Matthew, and The Calling of Saint Matthew. This was not an easy commission for Caravaggio, and at least two of the three paintings had to be either replaced or repainted to satisfy his patron, the Cardinal Del Monte.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Madame de Senonnes (once known as La Trastéverine) is an 1814 painting by Jean-Auguste-Dominique Ingres. It shows Madame de Senonnes, née Marie-Genevieve-Marguerite Marcoz, viscountess of Senonnes (29 June 1783, Lyon - 25 April 1828 (Paris)). Marcoz was 31 when the portrait was completed. Ingres had earlier portrayed her in a drawing of 1813.
 <br>
-<br>It is instructive to compare the two versions of the latter painting to see how provocative and controversial Caravaggio was in his time. Unfortunately, the first, rejected, version of this theme was destroyed in World War II, and we only have black and white and enhanced color reproductions. In the first version, Saint Matthew and the Angel, the angel stands close to Matthew the Evangelist personal space and engages in what appears more direct intervention than divine inspiration. The angel intertwines with the old man, apparently whispering inspiration into his ear. The rejected painting can be compared to the earlier Caravaggio canvas of the Rest on the Flight into Egypt.
+<br>The portrait is considered one of Ingres' finest. Because she was significantly attractive and aristocratic, Ingres', who professed to disdain portraiture, but needed the money, but great effort into the work, in the hope of attracting other commissions. Portrait of Madame de Senonnes is part of the collection of Le tableau fait partie des collections at the Musée des Beaux-Arts de Nantes.
 <br>
-<br>In the work featured on the altar, the angel belongs to an aerial and sublime dimension, enveloped in an encircling rippled sheet. The restless Matthew leans to work, as the angel enumerates for him the work to come. All is darkness but for the two large figures. Matthew appears to have rushed to his desk, his stool teetering into our space. His expression is sober.
+<br>Born into a relatively wealthy family, she married Jean Marcoz, a merchant draper, in 1802, and they moved to Rome in 1803, and had a daughter, Geneviève-Amélina Talensier that year. However, the marriage was unhappy, and they separated in 1809. Talensier left Rome to fight in the french army, and was wounded twice.
 <br>
-<br>It is thought the contemporary styles of Caravaggio and <a target="_blank" href="/en/annibale-carracci">Carracci</a> were at odds with each other, and non overlapping. In this light it is instructive to compare and contrast a similar canvas, by Carracci's pupil, Giovanni Lanfranco presently in Piacenza as well as a painting on a similar theme by <a target="_blank" href="/en/rembrandt">Rembrandt</a>.</span>
+<br>She began to socialise in artistic circles, passing herself off as Italian. Marcoz met Alexandre de La Motte-Baracé, Viscount of Senonne, and they married in 1815, the year after their returne to France.
+<br>
+<br>After her death in 1828, the portrait remained in the possession of her husband until 1831, when, pursued by creditors, he sent it to his elder brother, the Marquis de Senonnes, where it was kept in his castle in Feneu, in the west of France. The painting remained there until 1852, until it was discovered by chance on a pavement outside an art dealers. It was acquired by the usée des Beaux-Arts de Nantes for 4,000 francs.
+<br>
+<br>Marcoz is shown in a seductive and languid pose on a sofa, her hair tightly pulled back. She is dressed in a low cut luxurious velvet gown trimmed with ochre Indian muslin, a blond lace collar, and transparent lace, and with a white cashmere shawl. She is painted in bright red and gold colors, against a large, dark circular, mirror, lit by candle light, that reflects the back of her head and, especially, the curve of her neck. Her hands, which contain thirteen pale red and green jewel studded ring, caresses a white pillow and handkerchief. As with all of Ingres' female portraits, the sitter seems limbless, as if her body was not supported by a bone structure.
+<br>
+<br>The work is Ingres' first to fully explore the use of a mirror, and the additional spatial space it allows, earlier seen but not as successfully, in the 1805 Mademoiselle Caroline Rivière.
+<br>
+<br>His signature is written in the business tucked into the edge of the mirror. A number of small paper studies survive; the earliest of which show her reclining erotically on a sofa, the later sketches focus on the presentation of her upper body and chest. Some art historians have compared it in tone to his Grande Odalisque, which he was working on simultaneously.
+<br>
+<br>Among the sources that Ingres took inspiration from were <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>'s Portrait of madame de Verninac (1799), and Leonardo da Vinci's La belle ferronnière.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
