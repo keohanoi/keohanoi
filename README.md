@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/william-adolphe-bouguereau/the-goose-girl-1891.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/francis-bacon/study-for-the-nurse-in-the-film-battleship-potemkin(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Goose Girl</h2>
+        <h2 class="artwork-name">Study for the Nurse in the film 'Battleship Potemkin'</h2>
         <h3 class="artist">
-          William-Adolphe Bouguereau
-                    ·  1891
+          Francis Bacon
+                    ·  1957
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Goose Girl is an 1891 painting by <a target="_blank" href="/en/william-adolphe-bouguereau">Adolphe William Bouguereau</a>, a French <a target="_blank" href="/en/artists-by-art-movement/academic-art">academic painter</a>. The Goose Girl is one of many examples that Bouguereau specialized in paintings of beautiful women and innocent, barefoot, young peasant girls.
-<br>
-<br>It is part of the permanent collection of the Herbert F. Johnson Museum of Art at Cornell University.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sergei Eisentstein’s 1925 silent film the “Battleship Potemkin” was an influential work for Bacon, who was inspired by one particular image of the film as a catalyst for many of his works. The particular image is the screaming face of the nurse in the film. Her face is bloody and her glasses are crushed against the right side of her face, mouth frozen open in a silent scream of terror. Bacon saw the film for the first time in 1935, and thereafter kept a photographic still of the nurse’s screaming face as inspiration for his later works. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
