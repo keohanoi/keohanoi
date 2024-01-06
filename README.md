@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/antonello-da-messina/st-jerome-in-his-study.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00443/images/judith-leyster/1630self-portrait-c-1630.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Jerome in His Study</h2>
+        <h2 class="artwork-name">Self-Portrait</h2>
         <h3 class="artist">
-          Antonello da Messina
-                    ·  1475
+          Judith Leyster
+                    ·  1630
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St. Jerome in His Study is a painting by the Italian Renaissance master <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a>, thought to have been completed around 1460–1475. It is in the collection of the National Gallery, London.
-<br>
-<br>The picture was painted by Antonello during his Venetian sojourn, and was the property of Antonio Pasqualino.
-<br>
-<br>The small picture portrays St. Jerome working in his studio, a room without walls and ceiling seen from a kind of triumphal arch (probably within some church of Aragonese style). As in several other works by the Messinese painter, the main scene is accompanied by a host of details, that have points of contact with the contemporary Flemish school: books, animals, objects, all painted with a magnificent taste for detail and "optical truth".
-<br>
-<br>The scene is devised such that the light rays coincide with the perspective axes, centering on the saint's bust and hands. A Mediterranean landscape is hinted at through the windows opening on both sides of the study. Animals include a partridge (alectoris graeca) and a peacock, in the foreground, both having symbolical meanings, a cat and a lion, typically associated with St Jerome, in the shade on the right.
-<br>
-<br>Antonello uses many symbols throughout the painting. The book St. Jerome is reading represents knowledge. The books surrounding him refer to his translation of the Bible into Latin, the Vulgate. The lion in the shadows to the right of the saint is from a story about St. Jerome pulling a thorn out of a lion's paws. In gratitude, the lion follows St. Jerome around for the rest of his life, like a house cat. The peacock and partridge play no specific part in the story of St. Jerome. However, the peacock generally symbolizes immortality, and the partridge is an ambivalent reference to truth/deceit.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This self-portrait shows the artist at her easel, turning in mid-stroke, with brush in hand to face the viewer. The diagonal of her torso as she turns, the play of light suggesting movement in her lace collar and her sleeve, and her facial expression, lips open as if beginning to smile, create a sense of lively immediacy. On the easel to the right, an animated musician dressed in blue, is playing a violin and singing along. The painting within a painting further emphasizes Leyster's self-presentation as a masterful painter of genre works. Here she innovatively compares the arts of music and painting in the echoing diagonals of the musician's bow and the painter's brush, while her use of cropping makes the painting seem almost as spontaneous as a snapshot.<br><br>Leyster's treatment here is a noted innovation of self-portraiture as, in effect, she is marketing her brand, as the musician depicted here is copied from her most popular work The Happy Couple (1630). At the same time, X-rays have shown that painting on the easel was originally a girl's portrait, probably a self-portrait, and as art critic Peter Schjeldahl wrote, "the literal self-effacement tells a melancholy tale, but the painting is a joy and, retroactively, a feminist icon." The artist's brush points at the musician's crotch, a bawdy allusion common to the time. Beneath Leyster's vibrant surfaces, Schjeldahl notes, "social and sexual anxieties tingle with fire-alarm immediacy."<br><br>In the years following her death, Leyster's work disappeared, as her works were attributed to Frans Hals, or to her husband, the painter Jan Miense Molenaer. In 1893 the Louvre purchased The Happy Couple (1630), believing it to be a work of Hals, only to discover Leyster's signature and trademark, a star symbol playing upon the meaning of her last name "lodestar." Though the work had been much praised by critics when attributed to Hals, subsequently they demoted the work for its "weakness." Feminist art scholars, such as Linda Nochlin, and artists like the Guerrilla Girls, beginning in the 1970s, launched a revival of interest in Leyster's work.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
