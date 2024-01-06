@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00446/images/andy-warhol/6afda2b537aca43efc338c04b025b792.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/antonello-da-messina/st-jerome-in-his-study.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Orange Prince</h2>
+        <h2 class="artwork-name">St. Jerome in His Study</h2>
         <h3 class="artist">
-          Andy Warhol
-                    ·  1984
+          Antonello da Messina
+                    ·  1475
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Orange Prince (1984) is a painting by American artist Andy Warhol, of Prince, the American singer, songwriter, record producer, multi-instrumentalist, actor, and director based on an original photograph by Lynn Goldsmith. The painting is one of twelve silkscreen portraits on canvas of Prince created by Warhol in 1984. These paintings and four additional works on paper are collectively known as the Prince Series.[1] Each painting is unique and can be distinguished by colour.<br><br>Orange Prince (1984) is considered an important late work referencing Warhol's portraits from the early 1960s, of movie stars and celebrity icons, such as Marilyn Monroe, Elizabeth Taylor and Jacqueline Kennedy. Art historian and Warhol expert Thomas E. Crow believes that Warhol's portrait of Prince shows much greater freedom of expression, as in the early portraits. This is especially evident when compared to Warhol's more 'factory-line' style of portraits from the 1970s onwards, which were mainly commissions.[2]<br><br>The Warhol portraits were not commissioned by Prince, but rather were made by Warhol for his private collection. Crow believes Warhol was fascinated by Prince, a young star not in Warhol's direct circle. He says that Warhol was drawn to Prince's edgy image, which acted as inspiration for the art work:<br><br>"(Warhol's) evident fascination with Prince, known for sexual frankness in his music and an androgynous style in his clothes, make-up, and hairstyle, echoed similar traits among those he famously gathered around himself in the Factory entourage of the 1960s."[2][3]</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St. Jerome in His Study is a painting by the Italian Renaissance master <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a>, thought to have been completed around 1460–1475. It is in the collection of the National Gallery, London.
+<br>
+<br>The picture was painted by Antonello during his Venetian sojourn, and was the property of Antonio Pasqualino.
+<br>
+<br>The small picture portrays St. Jerome working in his studio, a room without walls and ceiling seen from a kind of triumphal arch (probably within some church of Aragonese style). As in several other works by the Messinese painter, the main scene is accompanied by a host of details, that have points of contact with the contemporary Flemish school: books, animals, objects, all painted with a magnificent taste for detail and "optical truth".
+<br>
+<br>The scene is devised such that the light rays coincide with the perspective axes, centering on the saint's bust and hands. A Mediterranean landscape is hinted at through the windows opening on both sides of the study. Animals include a partridge (alectoris graeca) and a peacock, in the foreground, both having symbolical meanings, a cat and a lion, typically associated with St Jerome, in the shade on the right.
+<br>
+<br>Antonello uses many symbols throughout the painting. The book St. Jerome is reading represents knowledge. The books surrounding him refer to his translation of the Bible into Latin, the Vulgate. The lion in the shadows to the right of the saint is from a story about St. Jerome pulling a thorn out of a lion's paws. In gratitude, the lion follows St. Jerome around for the rest of his life, like a house cat. The peacock and partridge play no specific part in the story of St. Jerome. However, the peacock generally symbolizes immortality, and the partridge is an ambivalent reference to truth/deceit.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
