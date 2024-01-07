@@ -2,23 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/paul-gauguin/two-tahitian-women-1899.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/francisco-goya/actress-antonia-zarate.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two tahitian women</h2>
+        <h2 class="artwork-name">Actress Antonia Zarate</h2>
         <h3 class="artist">
-          Paul Gauguin
-                    ·  1899
+          Francisco Goya
+                    ·  1811
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Two Tahitian Women is an 1899 painting by <a target="_blank" href="/en/paul-gauguin">Paul Gauguin</a>. It depicts two topless women, one holding mango blossoms, on the Pacific Island of Tahiti. The painting is part of the permanent collection of the Metropolitan Museum of Art in New York City and was donated to the museum by William Church Osborn in 1949.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Doña Antonia Zárate is an 1810-1811 painting of the actress Antonia Zárate by <a target="_blank" href="/en/francisco-goya">Francisco Goya</a> or his studio. It is now in the Hermitage Museum and if it is an autograph work, it is the only painting by Goya in a Russian collection.
 <br>
-<br>Although Tahiti is depicted as an innocent paradise, the two women in the painting confront the viewer in a way similar to that in Manet's Le déjeuner sur l'herbe (1863) or Olympia (1863), and follow an artistic tradition of comparing woman's breasts to flowers or fruit. The women in the painting also appear in two other works by Gauguin, Faa Iheihe (Tahitian Pastoral) (1898) and Rupe, Rupe (1899).
-<br>
-<br>The painting was attacked April 1, 2011, while on loan to the National Gallery of Art in Washington D.C. A woman named Susan Burns banged on the painting's plastic cover. Due to the protection of the plexiglass, the painting was not harmed. The woman was “immediately restrained and detained” by the museum’s security guards who charged her with destruction of property and attempted theft.</span>
+<br>It seems to have been commissioned by the subject's son Antonio Gil y Zárate in 1811 after her death and probably forms a reworking of Goya's earlier larger 1805 portrait of her. It remained in Spain until 1900, when it was sold in New York City. It passed through various dealers and owners before being acquired by the Knoedler Gallery for $60,000 from an heir of Marshall Field, a department-store magnate in Chicago. That gallery was owned by Armand Hammer, who then used a Liechtenstein front to sell it to his own Armand Hammer Foundation for $160,000. In 1972 Hammer donated it to the Hermitage, claiming it was worth $1,000,000.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
