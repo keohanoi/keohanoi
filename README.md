@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/stefan-luchian/chiajna-willows.jpg"
+        src="https://uploads3.wikiart.org/images/robert-motherwell/pancho-villa-dead-and-alive-1943.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chiajna Willows</h2>
+        <h2 class="artwork-name">Pancho Villa, Dead and Alive</h2>
         <h3 class="artist">
-          Stefan Luchian
-                    ·  1905
+          Robert Motherwell
+                    ·  1943
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Willows at Chiajna (Romanian: Sălciile din Chiajna) is a landscape painting by the Romanian painter <a target="_blank" href="/en/stefan-luchian">Ştefan Luchian</a> from 1905.
-<br>
-<br>The painting has dimensions of 45.8 x 55 centimeters. It is in the collection of the Art Museum Cluj-Napoca.
-<br>
-<br>It depicts a group of willows by the Chiajna village outside Bucharest in the south-eastern Romania, and was painted in one day. The strong colors and thick layers of paint is typical for Luchian's works.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pancho Villa, Dead and Alive is a direct reference to a photograph that Motherwell encountered of the murdered revolutionary, Pancho Villa. The work straddles the line between referential painting and the style that would become Abstract Expressionism, and includes several thematic relationships that appear throughout the artist's oeuvre. In its allusion to the Mexican revolution, this work also prefigures the themes that would drive Motherwell's seminal Elegy to the Spanish Republic series.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
