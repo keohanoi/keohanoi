@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/yiannis-tsaroychis/nude-youth-with-oleanders-and-a-bandage-on-his-hand-1940.jpg"
+        src="https://uploads7.wikiart.org/images/paula-rego/snow-white-swallows-the-poisoned-apple-1995.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Nude youth with oleanders and a bandage on his hand</h2>
+        <h2 class="artwork-name">Snow White Swallows the Poisoned Apple</h2>
         <h3 class="artist">
-          Yiannis Tsaroychis
-                    ·  1940
+          Paula Rego
+                    ·  1995
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'This is a study of a nude from life so that I can look at the model outside the context of academic theories. This is the first painting I did under the influence of my copy of the Medusa. … With this painting I am making a start with a new method which consists of placing the copy next to the work I am painting, in an attempt to check the accuracy of the colour. The Head of Medusa helps me to do what's correct. Accurate imitation of the tones leads to the style of painting that was predominant from the 5th and 4th century BC onwards.' 
-<br>Yannis Tsarouchis</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In Swallows The Poison Apple, Paula Rego revises the tale of Snow White to expose the fallible value of youth. Dressed in traditional Disney garb, this Snow White isn’t a beautiful princess, but a middle-aged woman. Pictured moments after eating the poison apple, she lays sprawled amidst overturned furniture, suggesting painful and violent demise. Clutching her skirts, she alludes to her sexual nature, as if clinging to something slipping away. Her body lies between a blanket adorned with spring blossoms, and a sinister backdrop of red and black. Rego illustrates the conflict of reality encroaching on the socially imposed myths of female worth, construing aging as both a physical and psychological violation.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
