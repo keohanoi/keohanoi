@@ -2,22 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/paulo-tercio/aleijadinho-et-eius-proditores-left-panel-2014-1.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00475/images/gustave-courbet/gustave-courbet-le-d-sesp-r-1843.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Aleijadinho Et Eius Proditores - Right Panel</h2>
+        <h2 class="artwork-name">The Desperate Man (Self-Portrait)</h2>
         <h3 class="artist">
-          Paulo Tercio
-                    ·  2014
+          Gustave Courbet
+                    ·  1845
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Aleijadinho Et Eius Proditores is an ultimate art piece tribute to  Antonio Francisco Lisboa. The artwork painted by artist Paulo Tercio depicts not only the master of the Brazilian baroque as the main figure but also his companion Narcisa Rodrigues da Conceicao, far right, and his disciple Justino de Almeida, far left.  The representation alludes to the soul-searing pain of betrayals Aleijadinho experienced whilst allegedly suffering from leprosy.
-<br>
-<br>The original drawing sketch for this composition was made in May 2013. It was based on the frequent visits of the artist to his psychiatrist and psychotherapist. Nevertheless the transformed panel painting seen here in oil on gesso for an altarpiece came to life after a spiritual revelation from Aleijadinho himself. This event induced the artist to adapt the context of the art piece and change the figures giving the work its  universal dimension.
-<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Many of Courbet’s early paintings from the 1840’s are self-portraits, such as this one. As he had yet to truly develop his realistic painting style, many of these self-portraits are Romantic in style, illustrating the smooth lines and perfection of form of the Romantic school of painting. As a method of self-promotion and advertisement, Courbet made an impression with his self-portraits, and used them to find his own artistic style. After this period, Courbet became convinced that painters should illustrate the world around them as they see it and his realistic work in the later 1840’s gained support among younger realist and neo-romantic painters. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
