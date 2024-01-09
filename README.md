@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01605-72-dpi.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/robert-morris/location-piece-1973.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">I have the right to be forgotten</h2>
+        <h2 class="artwork-name">Location Piece</h2>
         <h3 class="artist">
-          Jarik Jongman
-                    ·  2019
+          Robert Morris
+                    ·  1973
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Location Piece draws attention to the relationship between a work and its immediate surroundings. Four small arrows point towards the floor, the ceiling, and the walls on either side of the work. When it is positioned in the gallery, the meters next to each arrow are adjusted to register the distance in feet to the edge of the room. As well as precisely recording the location of the work, these measurements make viewers aware of their own relation to the space.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
