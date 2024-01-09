@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/jean-fouquet/emperor-cyrus-the-great-of-persia-who-permitted-the-hebrews-to-return-to-the-holy-land-and.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/raphael/portrait-of-a-man-holding-an-apple-1500.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cyrus the Great and the Hebrews</h2>
+        <h2 class="artwork-name">Portrait of a Man holding an Apple</h2>
         <h3 class="artist">
-          Jean Fouquet
-                    ·  1475
+          Raphael
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><b>Français:</b> Miniature extraite de Flavius Josèphe, <i>Les Antiquités judaïques,</i> Livre XI. Cyrus II le Grand, roi de Perse, permet aux Hébreux, en captivité à Babylone, de retourner dans leur patrie et de reconstruire la ville de Jérusalem et le Temple.<br><br><b>English:</b> This is a depiction of the biblical character, Emperor Cyrus the Great of Persia, who permitted the Hebrews to return to the Holy Land and rebuild God's Temple.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Young Man with an Apple is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/raphael">Raphael</a> (1505). It is housed in the Uffizi Gallery in Florence. Made during the artist's Florentine period, it is often thought to be the portrait of Francesco Maria I Della Rovere.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
