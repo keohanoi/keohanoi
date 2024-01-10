@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/paul-cezanne/madame-cezanne-with-green-hat-1892.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/kathe-kollwitz/not_detected_235973.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman in a Green Hat (Madame Cezanne)</h2>
+        <h2 class="artwork-name">Memorial for Karl Liebknecht</h2>
         <h3 class="artist">
-          Paul Cezanne
-                    ·  1895
+          Kathe Kollwitz
+                    ·  1919
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Unlike many other artists of his period, who painted in only one area of composition, Cezanne was adept at many areas of composition, including landscapes, still lifes, nude studies, and portraits. The artist completed many portraits, often using models from real life as his guides, this one possibly being his wife. He employed a light style that was related to his direct observation of his subject, as indicated by the lightly amused look on her face and her engaged posture. This painting is also indicative of his use of small color planes. Rather than completing the painting with realistic depth and shadow, he illustrates the figure as if she is in a singular dimension, employing the use of one color for each area of the composition. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Kollwitz created a woodcut print in honor of Rosa Luxembourg and Karl Liebknecht, founders of the Marxist Spartacus League, who were executed for their involvement in the Spartacist uprising in 1919. As a supporter of Marxist politics, Kollwitz visited Liebknecht's home to offer condolences and made drawings of him at the request of his family. She began her image of Liebknecht as a lithograph but later completed it as her first woodcut print.<br><br>The woodcut print is a tribute to Liebknecht's ideas and actions and depicts him lying in state at his memorial, with mourners paying their respects. The composition plays with rigid horizontality and tilting arcs, with Liebknecht's body as a stiff, stone horizontal slab at the bottom center of the image. The mourners, mostly male workers of varying ages, occupy most of the composition and are arranged in a curved arc, with their heads and torsos bowed towards Liebknecht. The woman and child in the foreground symbolize future generations who benefit from Liebknecht's ideology, while the man's overemphasized hand prominently resting on Liebknecht's chest illustrates the physicality of the ideological fight.<br><br>Although the woodcut print was meant to honor Liebknecht, some members of the German Communist Party objected to Kollwitz's work because she was not an official member of the party, despite her commitment to radical politics.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
