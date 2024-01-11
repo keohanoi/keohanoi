@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/max-beckmann/not-detected-259775.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00135/images/jozef-mehoffer/mehoffer-self-portrait-1897.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-Portrait as a Nurse</h2>
+        <h2 class="artwork-name">Self Portrait</h2>
         <h3 class="artist">
-          Max Beckmann
-                    ·  1915
+          Józef Mehoffer
+                    ·  1897
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Beckmann served in the medical services in eastern Prussia, then in Flanders and at Strasbourg. He was a witness to the first mustard gas attacks around Ypres. At Courtrai, he was present at operations that surgeons attempted on the wounded and made detailed drawings of them. His self portrait is built around three elements: the eye that scrutinises, the hand that draws, and the red cross. There is hardly any colour. A few months later, Beckmann was sent home to Germany after suffering a serious mental breakdown. He sought refuge in Frankfurt where he slowly took up painting again.
-<br>
-<br>"On my left the shooting had the sharp explosion of the infantry artillery, on my right could be heard the sporadic cannon shots thundering from the front, and up above the sky was clear and the sun bright." (Max Beckmann)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a faithful photographic reproduction of a two-dimensional, public domain work of art. The work of art itself is in the public domain for the following reason: <br><br>The author died in 1946, so this work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or less.<br><br>This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1923.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
