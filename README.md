@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00135/images/jozef-mehoffer/mehoffer-self-portrait-1897.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00142/images/57726d83edc2cb3880b489b9/edgar-degas-the-bellelli-family-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self Portrait</h2>
+        <h2 class="artwork-name">The Bellelli Family</h2>
         <h3 class="artist">
-          Józef Mehoffer
-                    ·  1897
+          Edgar Degas
+                    ·  1862
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a faithful photographic reproduction of a two-dimensional, public domain work of art. The work of art itself is in the public domain for the following reason: <br><br>The author died in 1946, so this work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or less.<br><br>This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1923.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Degas’ early masterpiece, The Bellelli Family depicts his aunt, her husband and their two little girls. It is believed that the artist drew each of the figures individually, later combining them in this unique portrayal of their family dynamic. The woman, Degas’ aunt Laura, wears a black dress in mourning for her recently deceased father, whose portrait hangs on the wall behind her. It is likely that this portrait hung at the Paris Salon of 1867, but it was badly hung and as a result was largely ignored by the critics. As a result, Degas kept it in his personal collection, where it remained until he left it to his dealer in 1913. In 1918, after his death, it was revealed an exhibition of the artist’s estate, and was immediately bought for 400,000 by the Luxembourg Museum. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
