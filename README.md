@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00100/images/alejandro-cabeza/antonio-buero-vallejo.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/georges-braque/a-girl(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Antonio Buero Vallejo</h2>
+        <h2 class="artwork-name">Woman with a Mandolin</h2>
         <h3 class="artist">
-          Alejandro Cabeza
-                    ·  2015
+          Georges Braque
+                    ·  1910
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Antonio Buero Vallejo (September 29, 1916, Guadalajara - April 29, 2000, Madrid) was a Spanish playwright associated with the Generation of '36 movement and considered the most important Spanish dramatist of the Spanish Civil War.
-<br>
-<br>During his career he won three National Theater Prizes (in 1957, 1958 and 1959), a National Theater Prize for all his career in 1980, the National Literature Prize in 1996, and the Miguel de Cervantes Prize, Spain's highest literary honour, in 1986. From 1971 until his death he was a member of the Real Academia Española.
-<br>
-<br>From 1934 to 1936 Vallejo studied art and painting at San Fernando Escuela de Arte, in Madrid. During the civil war, he served as a medical aid in the Republican army. After the war he was imprisoned for six years. After being released he wrote Story of a Stairway in 1949. This work presented a graphic picture of Spain after the Civil War and won the Lope de Vega Prize, establishing Vallejo as one of the foremost authors in Spain. While other authors left Spain to escape Franco's censorship, Vallejo stayed in Spain and used <a target="_blank" href="/en/artists-by-art-movement/symbolism">symbolism</a> to criticize the government. In 1971, he was elected to the Royal Spanish Academy. In 1994 he was awarded the Gold Medal of Merit in Fine Arts and the Gold Medal of the Society of Authors of Spain.
-<br>
-<br>A common theme in his work is Spain's problems during and after Franco. In the tragedies there is always a sense of hope for the future. His works make frequent use of the symbolism of the senses—for example, using the "fiery darkness," in which the protagonist cannot see, as a symbol of Spain's dark situation.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Woman with a Mandolin was painted by Braque in the spring of 1910, during the phase of analytical Cubism, the initial stage in the movement. In it the artist returns to the human figure after devoting himself exclusively to landscape and still life for two years. Perhaps this return was prompted by the impression that viewing twenty-four of Camille Corot’s paintings at the Salon d’Automne of 1909 made on him. Corot showed him how the addition of a musical instrument infuses the person portrayed with the calm of a still life, and the allegorical and expressive possibilities of the theme were coupled with Braque’s great passion for music. Corot’s seated women in melancholic poses holding musical instruments impressed both Braque and Picasso, whose works display their mark. Both artists were quick to respond to the stimuli of the nineteenth-century master and during the first months of 1910 Braque made several experimental drawings and painted the present rectangular Woman with a Mandolin in the Museo Thyssen-Bornemisza and another in an oval shape, the first Cubist painting to be executed in that format. Around the same time Picasso produced an oval Woman with a Mandolin and a rectangular Woman with a Mandolin (Fanny Tellier). As Christopher Green points out, with these two oval paintings on canvas, the oval format — typical of eighteenth-century decorative painting — made its full appearance in Cubism.
+<br>Like the still-life objects Braque had painted the previous year, the figure in Woman with a Mandolin breaks down into its different components, which are joined together again in a new arrangement. In this phase of the fragmentation of form, the artist employs a narrow range of ochres , greys and browns. Despite this reduced palette, Braque achieves many painterly effects using a Divisionist technique of small brushstrokes and a very loose and luminous facture. Background and figure fuse into a web of vertical and horizontal lines, into a spatial continuum composed of small, interpenetrating planes. Some fragments are recognizable , such as the mandolin and the hand that holds it, while others, such as the head and shoulders, are so well integrated into the abstract space of the background plane that they are barely discernible.
+<br>Woman with a Mandolin was purchased by André Breton at the sale of the possessions confiscated from the German dealer Daniel-Henry Kahnweiler in 1921. Years later it belonged to André Lefèvre , the most important collector of Cubism in the interwar period.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
