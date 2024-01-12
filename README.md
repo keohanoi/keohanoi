@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00314/images/helene-de-beauvoir/portrait-de-simone-en-veste-rouge-1986.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/jean-auguste-dominique-ingres/don-pedro-of-toledo-kissing-the-sword-of-henri-iv.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait De Simone En Veste Rouge</h2>
+        <h2 class="artwork-name">Don Pedro of Toledo Kissing the Sword of Henri IV</h2>
         <h3 class="artist">
-          Hélène de Beauvoir
-                    ·  1986
+          Jean Auguste Dominique Ingres
+                    ·  1831
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After Sartre's death in 1980, Hélène made frequent trips to Paris to support her sister, whose health declined. Hélène was in the United States when she learned of Simone de Beauvoir's death on April 14, 1986. Deprived by the latter, she had no rights over her sister's personal affairs or her work. She painted a mourning painting, Portrait of Simone in a red jacket that she placed in evidence in her farm in Goxwiller alongside the portrait of Lionel who died a few years later, in 1990. In 1987, with the help of Marcelle Routier, she published her own memoirs [9]. Sylvie Le Bon de Beauvoir had Simone de Beauvoir's letters published to Jean-Paul Sartre in which she described her sister as an artist without talent. She was deeply hurt. The same was true of the Letters to Nelson Algren, but this time his entourage spared him reading them.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Don Pedro of Toledo Kissing Henry IV's Sword is an 1814 painting in the Troubador style by the French artist Jean-Auguste-Dominique Ingres, showing the Spanish ambassador Pedro Álvarez de Toledo, 5th Marquis of Villafranca kissing the sword of Henry IV of France (held by a young page) in the salle des Caryatides of the Louvre palace.
+<br>
+<br>The artist painted four versions of the subject between 1814 and 1832:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
