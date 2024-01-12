@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/ralph-hotere/black-phoenix(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/rembrandt/diana-bathing-with-the-stories-of-actaeon-and-callisto-1634.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Black Phoenix</h2>
+        <h2 class="artwork-name">Diana Bathing, with the Stories of Actaeon and Callisto</h2>
         <h3 class="artist">
-          Ralph Hotere
-                    ·  1988
+          Rembrandt
+                    ·  1634
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a large art installation titled 'Black phoenix', created by artist Ralph Hotere in 1984. The installation incorporates the fire-damaged prow of a fishing boat and burnt planks of wood that lean against the wall on either side of the prow. Other planks have been laid on the floor in front of the prow. Each plank has had a strip of charcoal routed out to reveal the natural timber underneath. Polished brass plates are attached to the boat's prow, and some of the planks are carved with the tribal proverb 'Ka hinga atu he tete-kura - ka hara-mai he tete-kura' (As one fern frond (person) dies – one is born to take its place). The installation is made from metal and burnt wood and measures 5.00 m x 12.90 m x 5.65 m.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana Bathing with her Nymphs with Actaeon and Callisto is a 1634 painting by the Dutch painter <a target="_blank" href="/en/rembrandt">Rembrandt van Rijn</a>. It is now on show in the Salm-Salm princely collection in the Wasserburg Anholt in Isselburg, Germany.
+<br>
+<br>It shows two episodes from Ovid's Metamorphoses, in both of which someone is punished by the goddess Diana for a sexual offence. On the left, Actaeon is punished for seeing the goddess naked by being turned into a stag and killed by his own hounds. On the right, Diana's other nymphs are tearing off Callisto's clothing to reveal how she has broken her vow of chastity and is now carrying Jupiter's child - Diana expels her from her court and she later gives birth to Arcas before being turned into a bear by Juno, whom Arcas almost kills whilst hunting.
+<br>
+<br>Unusually, the painting also includes an image of an elderly couple unrelated to either of the two stories (background) and a middle-aged nymph (in the foreground).</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
