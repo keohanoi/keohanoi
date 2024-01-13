@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00103/images/carles-delclaux-is/els-dies-de-la-dona-350x200cm-delclaux-1972.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00294/images/aztec-art/kneeling-female-figure.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Els dies de la dona</h2>
+        <h2 class="artwork-name">Kneeling Female Figure</h2>
         <h3 class="artist">
-          Carles Delclaux Is
-                    ·  1972
+          Aztec Art
+                    ·  1521
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Carles Delclaux Is (born 1951, Sant Cugat del Vallès) is a textile artist trained in the Aymat factory and in the Massana School of Fine Arts in Barcelona.
-<br>
-<br>From 1970 to 1974 he directed the Catalan School of Tapestry In 1975 he moved to Girona, where he held a chair in tapestry, teaching the craft of weaver based on academicism.
-<br>
-<br>He has recreated works of many artists, reinterpreting: Josep Grau-Garriga [1], Joan-Josep Tharrats, Josep Maria Subirachs, <a target="_blank" href="/en/joan-miro">Joan Miró</a>, Manuel Millares, José Beulas, <a target="_blank" href="/en/modest-cuixart">Modest Cuixart</a>, Pere Lloses, Domènec Fita, Narcís Comadira, Juan José Torralba, Francesc Torres i Monsó, Marcel Martí and others. His own designs evolve tapestry for a renaissance in the third millennium.
-<br>
-<br>His work is part of the collections of museums such as MACBA, CDAN, Contemporary Tapestry Museum-Casa Aymat, CDMT and others, as well as private collections and public institutions.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Aztec sculptors used specific formal and aesthetic conventions to depict the human figure. Seated female figures are usually shown with their legs tucked under them, their feet turned inward so that in the back their toes are touching. Their hands rest on their knees. This sculpture depicts an elegant Aztec lady wearing a short, simple skirt fastened around the waist with a knotted belt worked in low relief. She wears no upper garment. Circular ornaments bedeck her ears. Her hair is wound about her head in two strands and held at the top. Her face has delicate rounded contours and is gently animated. The eyes and mouth are shown as recessed ovals which once contained inlays. Sculptures of females without any deity attributes are rare in Aztec art. It is possible that this figure was dressed on specific days of the ritual calendar in deity costumes made of cloth and/or other perishable materials.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
