@@ -2,21 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/anthony-van-dyck/crowning-with-thorns-1620.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/james-tissot/crucifixion-seen-from-the-cross-1890.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Crowning with Thorns</h2>
+        <h2 class="artwork-name">Crucifixion, seen from the Cross</h2>
         <h3 class="artist">
-          Anthony van Dyck
-                    ·  1620
+          James Tissot
+                    ·  1890
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Crowned with Thorns is a 1619-20 painting by <a target="_blank" href="/en/anthony-van-dyck">Anthony van Dyck</a>. He produced it aged 20 during his first Antwerp period, when he was the main studio assistant and pupil of <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It shows Rubens' influence in its relatively sombre palette, chiaroscuro and highly realistic portrayal of musculature. He seems to have completed it early during his stay in Italy, since it also shows the influence of <a target="_blank" href="/en/titian">Titian</a> and other Venetian painters in Jesus' face.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crucifixion, seen from the Cross is a c. 1890 <a target="_blank" href="/en/paintings-by-media/watercolor-on-paper">watercolor</a> painting by the French painter <a target="_blank" href="/en/james-tissot">James Tissot</a>. The work is unusual for its portrayal of the site, the women witnesses, and bystanders from the perspective of Jesus on the cross, rather than featuring Him as the center of the work; His figure is nearly not shown (His feet can be seen at the bottom of the picture).
 <br>
-<br>Once it was complete, van Dyck offered the painting to Rubens, who declined it. It was then bought by Philip IV of Spain, who held it in the Escorial before it entered the Prado Museum in 1839.</span>
+<br>It is part of the series The Life of Jesus Christ, a series of 350 watercolors of events from the Gospels completed by Tissot. He prepared for these by extensive travels in the Middle East to study details of contemporary life, which he used in the paintings. Prints were also published of the compositions. The whole watercolor series, completed between 1886-1894, was acquired in 1900 by the Brooklyn Museum in New York.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
