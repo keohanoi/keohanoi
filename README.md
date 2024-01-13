@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00243/images/edward-hopper/1943-342-saltillo-mansion.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/john-constable/the-white-horse-1819.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Saltillo Mansion</h2>
+        <h2 class="artwork-name">The White Horse</h2>
         <h3 class="artist">
-          Edward Hopper
-                    ·  1943
+          John Constable
+                    ·  1819
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hopper and his wife Jo traveled to Mexico in the summer of 1943, seeking a change of scene and new subjects for Hopper's art. After stopping in Mexico City, they traveled 500 miles north to Saltillo, a smaller city whose cool, dry climate and views of nearby mountains made it a popular destination for vacationers. The Hoppers stayed at a hotel called the Guarhado House on Victoria Street, and Hopper painted several watercolors from the hotel roof. From this height, he could see the mountains over the buildings of the city, but his depictions of the scene still suggest the urban development that was blocking his enjoyment of the natural setting. In another work, he showed the colorful towers of Saltillo's eighteenth-century cathedral, a reminder of the city's roots as a Spanish settlement; here, however, he limits his scope to a partial view of some domestic architecture. The houses' simple, blocklike forms, trimmed with lattices and decorative carving, are a dazzling white against the sky and the distant hills. Hopper had initially complained that Saltillo was noisy and congested, but from his rooftop he could project onto this new setting the same stillness and solitude that pervaded his scenes of New York and New England.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting titled The White Horse, originally named A Scene on the River Stour, marked the beginning of Constable's series of large canvases, known as the six-footers. Exhibited in 1819 at the Royal Academy, the painting was critically acclaimed, earning Constable the title of an Associate the same year. To create such sizable paintings, Constable first made sketches of the scene from life, which he then developed into a full-size oil sketch before creating the final piece.<br><br>In this painting, Constable presents a typical rural scene without glorifying or sympathizing with the workers' labor. He portrays them as he saw them, going about their daily lives. The image exudes an underlying persistence, evident in the barge men's figures as they strain against their poles. Despite the increasing threat of industrialization, Constable shows the workers continuing their traditional way of life with unwavering determination. This resilience is also reflected in the image of the tree on the right, which clings tenaciously to the waterlogged bank.<br><br>As is common in Constable's work, the vegetation is presented in scientific detail, with each species distinctly recognizable by its unique shape, color, and growth pattern. The painting features a vast array of greens, with particular emphasis on the delineation of different plant species, giving the image a lushness that captures the essence of the season and time of day.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
