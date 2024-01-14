@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00180/images/edouard-manet/the-old-musician.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/james-rosenquist/white-bread-1964.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The old musician</h2>
+        <h2 class="artwork-name">White Bread</h2>
         <h3 class="artist">
-          Edouard Manet
-                    ·  1862
+          James Rosenquist
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Old Musician is an 1862 oil painting on canvas by French painter <a target="_blank" href="/en/edouard-manet">Édouard Manet</a>, produced during the period when the artist was influenced by Spanish art. The painting also betrays the influence of <a target="_blank" href="/en/gustave-courbet">Gustave Courbet</a>. This work is one of Manet's largest paintings and is now conserved at the National Gallery of Art in Washington, DC.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">White Bread is one of Rosenquist's best-known works from this period, but it is not typical. The scale is relatively modest compared to other works he created at the time, and the composition is not interrupted by the sharp divisions and overlaid images that usually emerged from his collage process. Instead, the divisions and overlaps are elegantly found in the subject itself - four slices of store-bought white bread, the topmost of which is receiving a coat of the world's yellowest butter (or, more likely, margarine), courtesy of a very ordinary stainless steel knife.
 <br>
-<br>The painting is composed of seven characters in a landscape. The old musician in the center who is preparing to play the violin is Jean Lagrène, the leader of a local gypsy band. To the left is a young girl standing with a baby in her arms, as well as two young boys. In the background, the man in the top hat is the rag picker and ironmonger Colardet. At the right, the Oriental man (partly shown) with a turban and a long robe, represents Guéroult, a "wandering Jew". Attitudes and clothes of the characters seem to be inspired by <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> or <a target="_blank" href="/en/le-nain-brothers">Louis Le Nain</a>. 
+<br>While commonly associated with pop art, Rosenquist never fit comfortably into the pop category, as this painting demonstrates. On the one hand, he generally eschewed brand names and logos, preferring more generalized commercial images. On the other, he dared to approach commercial illustration techniques even more closely than his pop cohorts, as can be seen in his efficient but careful rendering of the grooves in the knife and the gloss on the butter. At the same time, this work can be considered largely as an abstraction: the canvas is divided into simple shapes, and the use of the same yellow for both the spread and the background flattens the space, calling attention to the patterns formed by the bread crusts. In this regard, White Bread is similar to the radical simplicity, purity of shape, and sharp contours found in Ellsworth Kelly's color field paintings. Indeed, some commentators have detected Kelly's initials in the crusts. The possible influence of Roy Lichtenstein can also be seen in this work. In 1963, Lichtenstein painted Mustard on White, which shows a woman's hand delivering a bright yellow coating of mustard to a slice of white bread with a knife.
 <br>
-<br>The painting contains a series of allusions: the man in the top hat is the same character as The Absinthe Drinker, painted by Manet some years earlier and who reappears in this painting without any particular reason. The young boy in straw hat, meanwhile, is explicitly inspired by <a target="_blank" href="/en/antoine-watteau">Antoine Watteau</a>'s Pierrot.</span>
+<br>In sum, White Bread is a painting about culture and consumption made at a high point of American consumerism, but it is also a painting about painting, about the application of color to a support and its stunning visual results.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
