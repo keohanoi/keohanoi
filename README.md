@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00123/images/jean-francois-millet/pl1-37905-fnt-tr-t99iv.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00144/images/dana-schutz/open-casket-2016.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Sower</h2>
+        <h2 class="artwork-name">Open Casket</h2>
         <h3 class="artist">
-          Jean-Francois Millet
-                    ·  1865
+          Dana Schutz
+                    ·  2016
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Millet first gained widespread notoriety with his iconic image of a sower shown at the 1850/51 Paris Salon. In this pastel version, he integrates the sower into the landscape around Barbizon with a harrower, a flock of crows, and the tower of Chailly visible in the distance. Millet built up his composition with a network of black chalk lines before adding his pastels.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Open Casket is a portrait of Emmett Till, a black 14-year-old boy who was lynched by two white men in Mississippi in 1955. It was one of the works included at the Whitney Biennial exhibition in New York in 2017. The painting caused considerable controversy, with protests and calls for the painting's destruction.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
