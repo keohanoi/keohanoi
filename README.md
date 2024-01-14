@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00288/images/sigmar-polke/ahatfenster-2009.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/john-constable/rainstorm-over-the-sea-1828.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ahatfenster</h2>
+        <h2 class="artwork-name">Rainstorm over the Sea</h2>
         <h3 class="artist">
-          Sigmar Polke
-                    ·  2009
+          John Constable
+                    ·  1828
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Parish of Grossmünster, the most ancient church of Zurich, published in 2005 an art contest for the creation of the windows for the central nave. Between the five proposals, in the spring of 2006, the jury chose a design of Sigmar Polke. He crafted seven windows in the nave from agate, re-establishing the early Middle Ages tradition to produce the church windows out of cut stones (mainly, alabaster). Polke cut this semi-precious stone into thin slices that would let light pass through them and give the appearance of brightly glowing walls. The brilliantly colorful result was then expanded with five figurative glass windows. The motifs feature Old Testament figures: the <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/der-sundenbock-2009">scapegoat</a>, <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/isaaks-opferung-2009">Isaac</a>, the <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/menschensohn-2009">Son of Man</a>, <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/elijas-himmelfahrt-2009">Elijah</a>, and <a target="_blank" href="https://www.wikiart.org/en/sigmar-polke/konig-david-2009">David</a>. They all move in the direction of the birth of Christ and thus toward the chancel window created by Augusto Giacometti in 1933.<br><br>Polke's formidable career was bookended with work in glass. He began his artistic training in 1959 as an apprentice in a glass-painting workshop, and he completed the Grossmünster windows a year before his death.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Constable's artistic style evolved after 1822, moving away from strict documentary accuracy towards rougher and more expressive paint surfaces. The oil sketch of Brighton Beach is a quick and dynamic representation of an advancing storm, capturing the tumultuous atmosphere rather than detailed realism. Although less closely rendered than his display canvases, the scene is identifiable as a single moment in time as the storm approaches. This approach to capturing the effects of weather, light, and time of day had an impact on later artists, and his oil sketches are now celebrated as precursors to Impressionism, modernism, and photographic composition.<br><br>Despite Constable's initial intention to use the sketches for his own study and to develop more "finished" canvases, they have become an important part of his body of work. They are now considered some of his most innovative and radical pieces, breaking from the traditions of academic art more than the paintings he exhibited. In both his sketches and finished paintings, Constable aimed to paint the truth of what he saw without resorting to artifice or exaggeration.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
