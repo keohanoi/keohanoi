@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00381/images/caravaggio/60db46ed0941a67c384d35460077fe2e.jpg"
+        src="https://uploads3.wikiart.org/00123/images/jean-francois-millet/pl1-37905-fnt-tr-t99iv.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Saint Francis in Meditation</h2>
+        <h2 class="artwork-name">The Sower</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1606
+          Jean-Francois Millet
+                    ·  1865
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint Francis in Meditation (c. 1604/06 or 1607/10), is a painting by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a>, in the Museo Civico, Cremona.
-<br>
-<br>This is one of two paintings of almost identical measurements showing Saint Francis of Assisi contemplating a skull (see Saint Francis in Prayer) - neither is documented and both are disputed, although the dispute is as to whether they are originals or copies. The dating of both is highly uncertain, although the cypress trunk behind this Saint Francis is very reminiscent of the tree behind the Corsini John the Baptist. St Francis was a popular subject during the Counter-Reformation, when the Church stressed - at least officially - the virtues of poverty and the imitation of Christ.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Millet first gained widespread notoriety with his iconic image of a sower shown at the 1850/51 Paris Salon. In this pastel version, he integrates the sower into the landscape around Barbizon with a harrower, a flock of crows, and the tower of Chailly visible in the distance. Millet built up his composition with a network of black chalk lines before adding his pastels.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
