@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00135/images/jozef-mehoffer/kaplica-swietokrzyska-witraz-mehoffera.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/petro-kholodny-older/icon-the-christianization-of-rus-1920.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stained glass window in the Holy Cross Chapel, Wawel Cathedral</h2>
+        <h2 class="artwork-name">Icon The Christianization of Rus'</h2>
         <h3 class="artist">
-          Józef Mehoffer
+          Petro Kholodny (Elder)
+                    ·  1920
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.<br><br>Photographer: Cancre</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">From the iconostasis in the Holy Spirit Chapel of the Greek Catholic Theological Seminary in Lviv (1920s).</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
