@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/roni-horn/water-selected-2007.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/edvard-weie/faun-and-nymph-1941.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water, Selected</h2>
+        <h2 class="artwork-name">Faun and Nymph</h2>
         <h3 class="artist">
-          Roni Horn
-                    ·  2007
+          Edvard Weie
+                    ·  1941
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Water, Selected is a print of a detailed, physical map of Iceland. Imposed onto its contoured and annotated landscape are twenty-four orange-coloured labels marking Iceland’s glacial sources of water. It is related to a larger project of Roni Horn’s: Vatnasafn/Library of Water, a permanent installation in the small town of Sykkishólmur in Iceland. The project was commissioned by Artangel, and was the first international project of this London-based organisation. It opened in May 2007.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Faun and Nymph is the latest and most famous of Weie’s large-scale compositions. The picture was created in the summer of 1941, the last of Weie’s active years as an artist. It marks the end of his lifelong work with mythological and literary motifs.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
