@@ -2,23 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/frans-hals/marriage-portrait-of-isaac-massa-and-beatrix-van-der-laen.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/57726d7fedc2cb3880b48098/jean-auguste-dominique-ingres-comtesse-d-haussonville-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Marriage Portrait of Isaac Massa and Beatrix van der Laen</h2>
+        <h2 class="artwork-name">Portrait of Countess D'Haussonville</h2>
         <h3 class="artist">
-          Frans Hals
-                    ·  1622
+          Jean Auguste Dominique Ingres
+                    ·  1845
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Marriage Portrait of Isaac Massa and Beatrix van der Laen is a painting by the Dutch Golden Age painter <a target="_blank" href="/en/frans-hals">Frans Hals</a>, painted in 1622 and now in the Rijksmuseum, Amsterdam. The couple has been identified as Isaac Massa and his bride Beatrix van der Laen.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Comtesse d'Haussonville is an 1845 oil on canvas painting by the French <a target="_blank" href="/en/artists-by-art-movement/neoclassicism">Neoclassical</a> artist Jean-Auguste-Dominique Ingres.
 <br>
-<br>The painting shows a happy couple sitting against a tree "picnic-style", with a garden scene in the distance. They smile at the viewer and look more relaxed than amorous.
+<br>The sitter, Louise de Broglie, Countess d'Haussonville, of the wealthy House of Broglie. The Princesse de Broglie, whom Ingres later portrayed c. 1851–53, was married to Louise's brother Albert de Broglie, the French monarchist politician, diplomat and writer. Highly educated, Louise de Broglie was later an essayist and biographer, and published historical romance novels based on the lives of Lord Byron, Robert Emmett and Margaret of Valois.
 <br>
-<br>In his 1910 catalog of Frans Hals works Hofstede de Groot wrote: "427. A MARRIED COUPLE. B. 15; M. 90. In a garden a gentleman sits in the left foreground smiling at the spectator. His right hand is at his breast; his left hand is pressed to his side. He has a moustache and a small pointed beard. He wears a broad-brimmed black felt hat, a black silk costume with a lace collar and fine linen wristbands. Beside him to the right sits a woman, bending slightly forward, with her head turned three-quarters left. She smiles rather slyly at the spectator. Her right hand rests on the man's left shoulder; her left hand is in her lap. She wears a black dress under a dark-purple gown, a ruff, a white cap threaded with a pink ribbon, and lace-trimmed wristbands. Behind the couple are trees. To the right is a park with merry-making couples, a building, a fountain, and a statue. It was wrongly supposed to represent Frans Hals and his wife. Canvas, 58 inches by 67 1/2 inches. Sales. J. Six, Amsterdam, April 6, 1702 (bought in). H. Six van Hillegom, Amsterdam, November 25, 1851, No. 15. In the Rijksmuseum, Amsterdam, 1907 catalogue, No. 1084."</span>
+<br>The painting is one of the few portrait commissions Ingres accepted at the time, as he was more interested Neoclassical subject matter, which to his frustration was a far less lucrative source of income than portraiture. He had made a preparatory sketch and had begun an oil and canvas version two years earlier, but abandoned the commission when de Broglie became pregnant and was no longer able to pose for the long periods he required, and she had anyway found indeterminable and "boring". The final work is signed and dated at the lower left.
+<br>
+<br>By 1845 Ingres' fame was at its height, and he was much in demand as a portraitist. While lucrative, he found the format distracting from, and inferior to, his main interest of <a target="_blank" href="/en/paintings-by-genre/history-painting">History painting</a>. At the time, he committed to only two portraits; the current work and the Portrait of Baronne de Rothschild. Today, however, it is for portraits such as these for which he is best known.
+<br>
+<br>Louise de Broglie (1818-1882) was 27 at the time of the portrait. Ingres had two to three years earlier sketched her with black chalk as a preparatory drawing, and begun a oil on canvas painting, which excludes the mirror and reflected images, and reverses the pose, but that was abandoned. The sessions were long and slow, and de Broglie found them long and boring, at one stage complaining "for the last nine days Ingres has been painting on one of the hands". She fell pregnant with her third child, was thus unable to pose further, and the 1842 painting remains unfinished.
+<br>
+<br>Ever contrary, Ingres later complained that he was unhappy with de Broglie's final portrait, and that he had failed to fully capture her charms. He was relieved when the portrait was met with approval from her family, writing that "family, friends, and above all the loving father [the duc de Broglie] were delighted with it...Finally to crown the work, M. Thiers - and I was not present - came to see it with the subject and repeated several times this wicked remark "M Ingres must love you to have painted you that way. But all this does not make me proud, and I do not feel that I have conveyed all the graces of that charming model.
+<br>
+<br>The painting is composed from pale blue, grey, brown, gold and white hues. de Broglie is shown fully frontal, looking out at the viewer with a demure expression, the intensity of which has often been compared to his later portrait of Madame Moitessier. Ingres reintroduces a motif first seen in his 1814 Portrait of Madame de Senonnes, that of the central figure reflected in a background mirror.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
