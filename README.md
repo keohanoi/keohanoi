@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/hans-memling/the-last-judgment-triptych-right-wing-casting-the-damned-into-hell-1470.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00340/images/william-adolphe-bouguereau/dawn.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last Judgment, triptych, right wing Casting the Damned into Hell</h2>
+        <h2 class="artwork-name">Dawn</h2>
         <h3 class="artist">
-          Hans Memling
-                    ·  1470
+          William-Adolphe Bouguereau
+                    ·  1881
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Last Judgment is a triptych attributed to German painter <a target="_blank" href="/en/hans-memling">Hans Memling</a> and painted between 1467 and 1471. It is now in the National Museum in Gdańsk in Poland. It was commissioned by Angelo Tani, an agent of the Medici at Bruges, but was captured at sea by Paul Beneke, a privateer from Danzig. (A lengthy lawsuit against the Hanseatic League demanded its return to Italy.) It was placed in the Basilica of the Assumption but in the 20th century it was moved to its present location.
-<br>
-<br>The central panel shows Jesus sitting in judgment on the world, while St Michael the Archangel is weighing souls and driving the damned towards Hell. (The sinner in St. Michael's right-hand scale pan is a donor portrait of Tommaso Portinari.) On the left hand panel, the saved are being guided into heaven by St Peter and angels. On the right-hand panel, the damned are being dragged to Hell.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bouguereau's Dawn marks the beginning of a four-piece series depicting different stages of the day, including Dusk (1882), Night (1883), and Day (1884). The painting portrays a nude woman gracefully dancing on the surface of a pond, holding a lily in her arm as she reaches to smell it. Bouguereau's skillful depiction of the dancer's pose, with her balancing on the water's skin, and the soft cool tones of her skin reflect the tranquil atmosphere of early morning. The diaphanous drapery swirling around her, combined with her suspended pose and mirrored reflection, create an otherworldly effect.<br><br>Throughout his career, Bouguereau repeatedly employed the motif of the female nude, arranging the body in various suggestive poses while often referencing myths or literature. His focus on the single figure in works such as Dawn allowed him to showcase his mastery of line and handling of subtle color contrasts, resulting in a sinuous and atmospheric depiction of early morning. The model's fingers and toes tinged with pink reflect Homer's description of daybreak as "rosy-fingered dawn, the child of morning." Despite the lack of a specific mythological or literary reference, Bouguereau always imbued his female nudes with a sense of classicism and poetry.<br><br>Adolphe Goupil, Bouguereau's regular dealer, acquired the 'times-of-day' series, which he then sold to various American collectors. The sale of the series is a testament to Bouguereau's unparalleled critical and commercial success in both European and American art markets during his lifetime.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
