@@ -2,29 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/dante-gabriel-rossetti/mnemosyne-1881.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/andre-derain/london-bridge-1906.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mnemosyne</h2>
+        <h2 class="artwork-name">London Bridge</h2>
         <h3 class="artist">
-          Dante Gabriel Rossetti
-                    ·  1881
+          Andre Derain
+                    ·  1906
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mnemosyne, also titled Lamp of Memory and Ricordanza, is an oil painting by <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a> begun in 1875 or early 1876 and completed in 1881. Jane Morris was the model, and Frederick Richards Leyland bought the painting in 1881 and displayed it in his drawing room with five other Rossetti "stunners." At about the same time Rossetti, a founder of the Pre-Raphaelite Brotherhood, was painting Astarte Syriaca, a larger painting completed in 1877 with Morris in a very similar pose.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1905, French painter André Derain was commissioned by his art dealer Ambroise Vollard to paint views of London. Derain set up his easel outdoors and went to work. The subject of this landscape, London Bridge, was one of several bridges built across the River Thames as part of a larger movement at the turn of the 19th century to modernize the city center with grand new architectural projects and public works. London Bridge is one of about 30 paintings Derain produced over his two-month stay, all depicting activity on or around the Thames.
 <br>
-<br>Mnemosyne began as an oil study for Astarte Syriaca, for which Jane Morris sat over the winter of 1875–1876, but Rossetti later worked it up as an image of Mnemosyne, the Greek personification of Memory. Rossetti wrote to his mother about the two paintings on 29 April 1876:
-<br>
-<br>A month later Rossetti was considering ordering a frame for the painting and selling it to Clarence Fry. Fry declined and in July 1876 Leyland advanced Rossetti 300 pounds for the painting, although he was concerned that the painting was too large for his drawing room. Rossetti did further work on the painting in 1879 and adjusted the frame in 1880, before delivering it to Leyland in 1881. It was one of Rossetti's last completed canvases.
-<br>
-<br>Inscribed on the picture's frame is:
-<br>
-<br>Frederick Richards Leyland bought the painting from Rossetti in 1881. It hung in Leyland's drawing room with five other Rossetti paintings that Leyland called "stunners." The painting was sold at Leyland's estate sale, held at Christie's on 28 May 1892 to William Connal McLean and changed hands in two gallery sales in 1908. It was purchased in 1916 by the estate of Samuel Bancroft who had acquired one of the largest collections of Pre-Raphaelite art outside of the United Kingdom. The Bancroft estate donated its extensive collection of paintings in 1935 to the Delaware Art Museum.
-<br>
-<br>The painting was exhibited in London in 1883, Glasgow in 1893, and London in 1906. It has also been exhibited in New Haven, Connecticut (1976) and Richmond, Virginia (1982)</span>
+<br>It’s not surprising that Derain’s art dealer was interested in views of London. Nineteenth-century London saw a huge growth in population (from 1 million in 1800 to over 6 million a century later) as mechanical industry, especially the building of railways, took hold. Derain saw the changes and created a portrait of London that was radically different from anything done by previous painters of the city. The artist later recalled: “Fauvism was our ordeal by fire. . . It was the era of photography. This may have influenced us and played a part in our reaction against anything resembling a snapshot of life. No matter how far we moved away from things, it was never far enough. Colors became charges of dynamite.”</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
