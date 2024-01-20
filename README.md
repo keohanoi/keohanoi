@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00452/images/berthe-morisot/1872le-berceau-the-cradle-1872-2.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/john-william-waterhouse/sleep-and-his-half-brother-death-1874.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Cradle</h2>
+        <h2 class="artwork-name">Sleep and His Half Brother Death</h2>
         <h3 class="artist">
-          Berthe Morisot
-                    ·  1872
+          John William Waterhouse
+                    ·  1874
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Berthe Morisot's most well-known painting, The Cradle, depicts her sister Edma looking down at her sleeping daughter Blanche in a cradle behind a gauzy veil. The painting, completed during the early part of Morisot's career, is the first example of her exploration of motherhood as a recurring subject, which was limited by the social norms of the era that restricted women's public activities without a chaperone. Although critics praised the painting when it was exhibited at the first Impressionist exhibition in 1874, Morisot failed to sell it and decided to keep it within her family.<br><br>Morisot's composition is based on two interconnected triangles: one framing Edma's body and the other, slightly taller, framing the veil around the cradle, creating a harmonious balance and a subtle connection between the mother and child. Edma is shown drawing the translucent curtain around the cradle, emphasizing the intimacy of their relationship and shielding her daughter from the viewer's gaze. The close framing of the scene, eliminating the edges of the cradle, evokes the medium of photography, which the Impressionists were known for exploring. However, Edma's expression is difficult to interpret since she has no direct connection with her sleeping daughter, who appears with closed eyes. Some scholars suggest that Edma, who painted extensively before marrying a naval officer in 1864, appears wistful, yearning for the creative freedom she had before settling into the role of motherhood. Thus, while the veil hides her daughter's form, Edma's emotions remain ambiguous and unknown.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sleep and his Half-brother Death is a painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a> completed in 1874.
+<br>
+<br>Waterhouse's first Royal Academy exhibit (submitted from his father's house at 1 Scarsdale Villas), it was painted after both his younger brothers died of tuberculosis.
+<br>
+<br>The painting itself is a reference to the Greek gods Hypnos (sleep) and Thanatos (death) who, in the Greek mythology, were brothers. Despite their similar poses in the painting, the character in the foreground is bathed in light, while his brother is shrouded in darkness; the first therefore represents Sleep, the latter Death. The personification of Sleep clasps poppies, symbolic of narcosis and dreamlike-states.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
