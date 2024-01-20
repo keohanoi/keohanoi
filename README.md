@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/rogier-van-der-weyden/the-annunciation-1440.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00237/images/ancient-greek-painting/terracotta-group-of-two-girls-playing-a-game-known-as-ephedrismos-300-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Annunciation</h2>
+        <h2 class="artwork-name">Terracotta Group of Two Girls Playing a Game Known as Ephedrismos</h2>
         <h3 class="artist">
-          Rogier van der Weyden
-                    ·  1440
+          Ancient Greek Painting and Sculpture
+                    ·  -300
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation Triptych is an oil-on-panel triptych by the Netherlandish artist <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>, dating from around 1434. It was originally formed by three panels, the central one being now at The Louvre museum in Paris, France; the side panels are at the Galleria Sabauda of Turin, northern Italy.
-<br>
-<br>It is an early work by the Netherlandish artist, with a visible re-elaborations of elements from <a target="_blank" href="/en/robert-campin">Robert Campin</a> and <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>. The central panel depicts a composition within a domestic interior, with a richly dressed Angel surprising the Virgin who reads a book (a symbol of the Holy Books).
-<br>
-<br>Van der Weyden paid attentions to technical details, such as the shining metallic objects, like the lamp, the jar, the medallion hanging over the bed. The horizon line is elevated like in other contemporary Neterlandish paintings.
-<br>
-<br>The side panels have similar characteristics, but are set in more luminous landscapes, with the elements in the background becoming increasingly invisible in the haze, according to aerial perspective.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The subject of this group with one person carrying another has a long history in Greek art. It is thought to illustrate a game called ephedrismos. A stone was placed upright on the ground, and balls or pebbles were thrown at it from a distance. The loser's eyes were covered, and he had to carry the other player on his back until he found and touched the stone. There were probably a number of variations. Here the little girl carries her companion but does not have her eyes covered.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247884">The Met</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
