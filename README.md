@@ -2,18 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00105/images/erin-hanson/field-of-blooms.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00129/images/edouard-manet/a-bar-at-the-folies-bergere.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Field of Blooms</h2>
+        <h2 class="artwork-name">A Bar at the Folies-Bergere</h2>
         <h3 class="artist">
-          Erin Hanson
+          Edouard Manet
+                    ·  1882
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A wide expanse of wildflowers sweeps across the canvas in this large oil painting. The expressionist movement of brush strokes captures the vibrancy and color of the poppies, thistles and daisies growing among the grasses. The abstracted shapes of the landscape come together in a harmony of motion and color.<br><br>This painting measures 13 feet wide by 6 1/2 feet tall. The stretched canvas is 3" deep, with the painting continued around the edges.<br><br>ERIN HANSON is a life-long painter, beginning her study of oils as a young child.  Her passion for natural beauty is seen in her work as she transforms vistas familiar and rare into stunning interpretations of bold color, playful rhythms and raw emotional impact. Her frequent forays into National Parks and other recesses of nature include backpacking expeditions, rock climbing, and photo safaris.  Hanson's unique painting style has become known as Open Impressionism, with hundreds of collectors eagerly anticipating her work.  As an iconic, driving force in the rebirth of contemporary impressionism, Hanson is quickly recognized as a prolific, modern master.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting, depicting a scene at the Folies-Bergere nightclub in Paris, is considered Manet’s last major work. It can also be seen as early twentieth century product placement, with the beers in the foreground on the bar, which are clearly Bass Pale Ale. As England’s first registered trademark, this indicated an English clientele at the bar that night. There has also been much commentary on the composition of the painting, which at first seems to be a mirror image of the girl in the background. Upon closer inspection, however, it is obvious that the placement is incorrect, that it cannot be a mirror image. Other conjectures include that the woman in the foreground is the illustration of what the man in the background is seeing upon approaching the bar. 
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
