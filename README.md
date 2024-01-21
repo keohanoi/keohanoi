@@ -2,25 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00380/images/johannes-vermeer/4-a-maid-asleep-johannes-vermeer.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00142/images/57726d99edc2cb3880b4b602/frans-hals-banket-van-de-officieren-van-de-sint-joris-doelen.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A maid asleep</h2>
+        <h2 class="artwork-name">A Banquet of the Officers of the St. George Militia Company</h2>
         <h3 class="artist">
-          Johannes Vermeer
-                    ·  1657
+          Frans Hals
+                    ·  1616
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Girl Asleep, also known as A Woman Asleep, A Woman Asleep at Table, and A Maid Asleep, is a painting by the Dutch master <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>, 1657. It is housed at the Metropolitan Museum of Art in New York City and may not be lent elsewhere under the terms of the donor's bequest.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Banquet of the Officers of the St George Militia Company in 1616 refers to the first of several large schutterstukken painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.
 <br>
-<br>According to Liedtke, the presence of the dog would have alluded to "the sort of impromptu relationships canine suitors strike up on the street." The man and the dog were replaced with a mirror on a far wall, suggesting how the experience of the senses quickly passes, and a chair left at an angle with a pillow on it, possibly signifying indolence, together with a hint of recent company. The idea that she was recently together with someone is reinforced by the wine pitcher, the glass on its side and the possible presence of a knife and fork on the table. The Chinese bowl with fruit is a symbol of temptation, and for a Vermeer contemporary familiar with the symbolism of Dutch art of the time, the knife and jug lying open-mouthed under a gauzy material would have brought to mind more than social intercourse.
+<br>Hals was in his thirties when he painted this piece, and was far from established as a portrait painter. To be safe, he based most of his design on the painting of his predecessor, Cornelis Cornelisz van Haarlem, who painted the same militia company in 1599.
 <br>
-<br>The painting was very likely owned by Vermeer's patron, Pieter van Ruijvan, who also owned The Milkmaid, which has a similar tension between the symbolism of sexual or romantic relations with maids and their presentation in a way that was more sympathetic than the established tradition.
+<br>Given a nearly impossible task, namely to complete his assignment but to add theatrical elements at the same time, Hals must have spent lots of time judging the politics of the group. He knew these men well as he served in the St. Joris militia himself from 1612-1615. In his painting, he indicates the political position of each man in the group as well as managing to give each a characteristic portrait. In Cornelis van Haarlem's piece the figures seem crammed into a tight space, and each face seems to have a similar expression. In Hals' group, an illusion of space and relaxed conversation is given.
 <br>
-<br>The painting was among the large collection of Vermeer works sold on May 16, 1696, from the estate of Jacob Dissius (1653–1695). It is widely believed the collection was originally owned by Dissius' father-in-law, Pieter Claesz van Ruijven of Delft as Vermeer's major patron, then passed down to Ruijven's daughter (1655–1682), who would have left it to Dissius. The work's history from that point is unknown until its ownership by John Waterloo Wilson in Paris after 1873. It was sold on March 14, 1881, in Paris when the Sedelmeyer Gallery in Paris bought it and sold it later that year to Rodolphe Kann, also of Paris. Kann owned the work until 1907. It was sold in 1908 through the Duveen Brothers of London to Benjamin Altman, and it was exhibited in New York in 1909. Altman owned the work until 1913, when it passed into the hands of the Metropolitan Museum of Art as a bequest.</span>
+<br>Officers were selected by the council of Haarlem to serve for three years, and this group had just finished their tenure and celebrated their end of service with a portrait. The man with the orange sash heads the table and the second in command is on his right. The three ensigns stand and the servant is carrying a plate.
+<br>
+<br>The men featured are from left to right Provost Johan van Napels, Colonel Hendrick van Berckenrode (wearing the orange sash), Captain Jacob Laurensz, Ensign Jacob Cornelisz Schout (holding the flag), Captain Vechter Jansz van Teffelen, Lieutenant Cornelis Jacobsz Schout, Lieutenant Hugo Mattheusz Steyn, a servant (standing in the back), Ensign Gerrit Cornelisz Vlasman, and Ensign Boudewijn van Offenberg. In the foreground seated in front of the table are Captain Nicolaes Woutersz van der Meer, and Lieutenant Pieter Adriaensz Verbeek.
+<br>
+<br>Besides portraying the men and the group dynamics, this painting shows off the Haarlem damast tablecloth, brocade pillows on the chairs and the halberds hanging on the wall. It also displays Hals' talents as a painter: Portraiture, Still life, and Landscape.
+<br>
+<br>The painting may have been painted on location, as Frans Hals lived in the Peuzelaarsteeg very close to the St. George militia headquarters (St. Jorisdoelen) who commissioned the painting, and managing a canvas of this size would have been a problem in Hals' studio. As an official art restorer employed by the city council, Hals had probably also already worked on paintings there. The premises had previously been the location of the women's convent call the St. Michielsklooster and after the old hall was refurbished in 1577 to house the St. Joris militia, a new hall in renaissance style was built at the north end in 1592. The paintings by Hals and Cornelis van Haarlem hung in the renaissance building at the corner of the Grote Houtstraat. Today a restaurant, the windows overlook the garden of the Proveniershuis, but in the 17th century this was an area used for target practise.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
