@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00381/images/peter-paul-rubens/wolf-and-fox-hunt-peter-paul-rubens.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/john-everett-millais/esther.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Wolf and Fox Hunt</h2>
+        <h2 class="artwork-name">Esther</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1616
+          John Everett Millais
+                    ·  1865
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">With characteristic business acumen, Rubens created a market for a new art form: very large hunting scenes painted on canvas, of which this one is the first. The few earlier examples were either models for or copies after tapestries, but Rubens’s large "hunts" of about 1616–21 were made as replacements for that very expensive medium. This canvas, originally more symmetrical in design, was trimmed at the top and left side because (according to a client in 1616) "none but great Princes have houses fitt to hange it up in." Rubens painted the picture with the help of assistants but declared that the wolves were his own work.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Esther (1865) is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> depicting the central character from the Biblical Book of Esther. It is from Millais's <a target="_blank" href="/en/artists-by-art-movement/aestheticism">Aesthetic</a> phase, when he was influenced by the work of Frederic Leighton and <a target="_blank" href="/en/james-mcneill-whistler">James McNeill Whistler</a>.
+<br>
+<br>The painting depicts Esther, the Jewish wife of the Persian king Ahasuerus, as she prepares to enter the presence of her husband. As she is uninvited, she risks death, but does so to inform him of a plot against the Jews.
+<br>
+<br>Millais borrowed the Yellow Jacket, a gown given to General Gordon by the Chinese emperor after his defeat of the Taiping rebellion. In order to create a culturally unspecific effect, he turned it inside out, producing the abstract patterns visible in the painting.
+<br>
+<br>Millais creates a dramatic visual effect by vivid contrasts of colours, setting the deep blue of the curtain against the yellow dress and the white columns. The minimising of the narrative aspect of the scene is also in line with the Aestheticist approach of the artists he is imitating and challenging.
+<br>
+<br>Esther is depicted adjusting pearls in her hair, as she prepares to place her crown on her head. This gesture is derived from paintings by <a target="_blank" href="/en/titian">Titian</a>, whose techniques of colouring Millais imitates, along with the modelling of the face and the characteristic "Titian blonde" hair. This also compares with the lush red locks of Millais's earlier picture The Bridesmaid and with some contemporary works by <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>. Millais's biographer Marion Spielmann wrote that the painting was "the most modernly treated of Millais's early works...more consonant in its strong harmony with the audacious brilliancy of the present day [1898] than the more solid strength of forty years ago."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
