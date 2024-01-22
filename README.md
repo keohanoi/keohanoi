@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/lee-krasner/cool-white-1959.jpg"
+        src="https://uploads7.wikiart.org/images/alexandre-benois/at-the-german-quarter-1911(3).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cool White</h2>
+        <h2 class="artwork-name">At the German Quarter</h2>
         <h3 class="artist">
-          Lee Krasner
-                    ·  1959
+          Alexandre Benois
+                    ·  1911
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although created from the limited palette that Krasner employed throughout her Night Journeys series, Cool White transmits a feeling of energetic, conflicted emotion. Krasner's Night Journeys series was made as a result of the artist's bouts with insomnia from 1959-1963, during which time she painted only at night.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Created the same year in which Benois produced Petrushka, his most successful design for ballet, this painting illustrates his bold use of color to brighten the canvas and create movement. The scene is looking down from the rooftops in the German Quarter, and illustrates a bustling city scene. The focus of the painting is of a large building, perhaps a royal dance hall, to which multiple carriages are pulling up, letting out passengers who are flocking into the building. The figures and buildings themselves are not particularly detailed, but this does more for the movement and flow of the painting, which beautifully depicts a bright a busy area of town. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
