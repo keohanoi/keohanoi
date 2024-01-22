@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00231/images/vladimir-tretchikoff/1.png!Large.png"
+        src="https://uploads7.wikiart.org/images/annibale-carracci/venus-adonis-and-cupid-1590.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chinese Girl. The Green Lady</h2>
+        <h2 class="artwork-name">Venus, Adonis, and Cupid</h2>
         <h3 class="artist">
-          Vladimir Tretchikoff
-                    ·  1952
+          Annibale Carracci
+                    ·  1595
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Chinese Girl (often popularly known as The Green Lady) is a 1952 painting by <a target="_blank" href="/en/vladimir-tretchikoff">Vladimir Tretchikoff</a>. Mass-produced prints of the work in subsequent years were among the best-selling of the twentieth century. The painting is of a Chinese young woman and is best known for the unusual skin tone used for her face—a blue-green colour, which gives the painting its popular name The Green Lady. Though Tretchikoff maintained that the first version of this painting had been destroyed in Cape Town and he painted a new version during his 1953 tour of the US, researchers have found no proof of this claim.<br>
-<br>
-<br>The original sold for £982,050 at Bonhams auction house in London on 20 March 2013. It was purchased by British jeweller Laurence Graff. Since 30 November the same year, it has been on public display at Delaire Graff Estate near Stellenbosch, South Africa. Some scenes of Alfred Hitchcocks film Frenzy (1972) show pictures of the model Monika Sing-Lee by Tretchikoff, including this one. It is also used as front cover for the 1990s album Slap! by the British band Chumbawamba.<br>
-<br>
-<br>Monika Sing-Lee was around twenty at the time, and had some European ancestry. Also known by her married name, Pon-Su-San, she was encountered by Tretchikoff, at the suggestion of Russian dancer Masha Arsenyeva, while working in her uncle's launderette in Cape Town, South Africa. Pon-Su-San died in Johannesburg on 14 June 2017.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting Venus, Adonis, and Cupid by Carracci portrays a story famously associated with the Roman poet Ovid. The artwork captures the moment before Cupid's arrow strikes Venus, causing her to fall in love with Adonis. Adonis is shown with hounds that will accompany him on a hunt with a wild boar, which ultimately leads to his demise. A pair of doves symbolizing love is depicted in the foreground, while an intricate landscape featuring ancient ruins and chaotic skies infuses the narrative with drama.<br><br>Carracci's painting showcases his diverse range of influences, drawing from Veronese, Titian, and Greco-Roman sculptures. Both Veronese and Titian also painted this fable, and similarities can be drawn between the compositional approach of all three artists. The interaction between Venus and Adonis takes place in front of a naturalistic landscape, displaying Carracci's skill as a naturalist painter. The sculptural formation of the figures' bodies, combined with the use of light to illuminate the smooth texture of their skin, creates a subtle realism that contrasts with the preferences of the Mannerists. Carracci's ability to play with light is further showcased in the cloth materials, particularly in the iridescent sheen of Adonis's robe.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
