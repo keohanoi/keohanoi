@@ -2,25 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/peder-severin-kroyer/hip-hip-hurrah-1888.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/simone-martini/saint-catherine-of-alexandria-polyptych-1319.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Hip, Hip, Hurrah! Artists' Party at Skagen</h2>
+        <h2 class="artwork-name">Saint Catherine of Alexandria Polyptych</h2>
         <h3 class="artist">
-          Peder Severin Kroyer
-                    ·  1888
+          Simone Martini
+                    ·  1319
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hip, Hip, Hurrah! (Danish: Hip, hip, hurra! Kunstnerfest på Skagen) is an oil-on-canvas painting from 1888 by Norwegian-Danish painter <a target="_blank" href="/en/peder-severin-kroyer">Peder Severin Krøyer</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Saint Catherine of Alexandria Polyptych (also known as Pisa Polyptych) is a painting by the Italian medieval artist <a target="_blank" href="/en/simone-martini">Simone Martini</a>, dating to 1320. Originally placed at the high altar of the church of Santa Caterina in Pisa, it is now housed in the Museo Nazionale di San Matteo of the same city.
 <br>
-<br>The work shows various members of what Krøyer referred to as the "guild" of Skagen Painters: a group of Danish, Norwegian and Swedish artists who formed a loose community in Skagen at the northern tip of Jutland in the 1880s and early 1890s. Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very much in the style of the French <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionists</a> and <a target="_blank" href="/en/artists-by-art-movement/naturalism">Naturalists</a>, it celebrates the play of light in the scene (and in composition and subject draws obvious comparisons to <a target="_blank" href="/en/pierre-auguste-renoir">Renoir</a>'s Luncheon of the Boating Party), but at the same time it harks back to the freundschaftbild tradition of artists of the Danish Golden Age such as Ditlev Blunck and Wilhelm Bendz in depicting artistic communities spontaneously drawing together. The development of Krøyer's Skagen style can be seen by comparing Hip, Hip, Hurrah! with Ved frokosten (Artists' Luncheon at Skagen), a similarly themed 1883 painting which features many of the same people; and with later works like Sommeraften ved Skagens strand. Kunstneren og hans hustru (Summer Evening at Skagen beach. The Artist and his Wife) and Roser (Roses).
+<br>The work is signed SYMON DE SENIS ME PINXIT in the central panel with the Madonna and Child. According to the original convent's annals, the polyptych was placed at the altar in 1320. It was thus completed by that year, having been likely begun in 1319.
 <br>
-<br>The painting was started in 1884 after a party at Michael Ancher's house; the composition was inspired by photographs taken at the celebration by the German artist Fritz Stoltenberg, although the individuals featured are not all the same. Krøyer returned uninvited to Ancher's house the morning after the gathering with his easel and paints, eager to start sketching and expecting the freedom to come and go as he pleased. His lack of consideration annoyed Ancher, who had only recently moved to the house in an attempt to escape the hustle and bustle of town life; as a result, the two artists suffered their first serious falling-out. Although they reconciled soon afterwards, Krøyer did not get the unlimited access to Ancher's garden that he had expected and, frustrated, he struggled to progress with the work. He made do with the garden at Ancher's old apartment and worked from photographs and from life when he got the chance. It was four years before he could complete the picture. Helga, Ancher's daughter, who had been less than a year old at the time of the original festivities, is shown to be older in the final painting, suggesting she was not included until later in the composition. A photo of the painting in Krøyer's studio shows an earlier composition before the older Helga was added. Swedish art collector Pontus Fürstenberg bought the painting unseen (or at least before it was completed). It was displayed at Charlottenborg in 1888, and Fürstenberg later donated it to the Gothenburg Museum of Art, where it has hung ever since. The Skagens Museum has a small sketch from 1888.
+<br>The polyptych is Martini's largest work, and includes numerous sub-panels. Aside from the seven main ones, there are 15 predella figures, an upper row with other 14 figures and seven cusps with other characters. There is a total of 43 figures.
 <br>
-<br>From left to right the people pictured are: Martha Møller Johansen and her husband, the painter Viggo Johansen, Norwegian painter Christian Krohg, Krøyer, Degn Brøndum (Anna Ancher's brother), Michael Ancher, Swedish painter Oscar Björck, Danish painter Thorvald Niss, teacher Helene Christensen (who was romantically involved with Krøyer), Danish painter <a target="_blank" href="/en/anna-ancher">Anna Ancher</a> and her daughter Helga Ancher.</span>
+<br>The central panel depicts the Madonna with Child; the remaining six main panels are, from left to right, St. Dominic, St. John the Evangelist, St. Mary Magdalene, St. Catherine of Alexandria, St. John the Baptist and St. Peter of Verona. All these figures are enclosed within three foiled cusped arches. Above the Madonna are the two archangels Gabriel and Michael and, above them, the Blessing Christ. The six saints panel are surmounted by, also in couples, the Twelve Apostles, with the exception of St. John the Evangelist, replaced by St. Paul.
+<br>
+<br>The predella shows, at the center, Christ in the Sepulchre with the Madonna and St. Mark and further couples of saints which, from left to right, are Gregory and Luke, Stephen and Apollonia, Jerome and Lucy, Agnes and Ambrose, Thomas of Aquino and Augustine, Ursula and Lawrence
+<br>
+<br>Since the identification of the saints is controversial, the saints panels in the museum are placed differently from the image in this article.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
