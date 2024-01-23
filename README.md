@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/dante-gabriel-rossetti/the-beloved-1866.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00333/images/dorothea-lange/migrant-mother-1936.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Beloved</h2>
+        <h2 class="artwork-name">Migrant Mother</h2>
         <h3 class="artist">
-          Dante Gabriel Rossetti
-                    ·  1866
+          Dorothea Lange
+                    ·  1936
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Beloved (also The Bride) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> on canvas by English artist <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>, first painted in 1865 and currently housed at Tate Britain.
-<br>
-<br>This painting illustrates the Song of Solomon. Two passages from the Song of Solomon are inscribed on the picture's gilded frame:
-<br>
-<br>and
-<br>
-<br>The bride, caught in the action of moving back her veil, is attended by four virginal bridesmaids and an African page boy. All contrast strikingly with the red hair and pale skin of the bride: not just the African skin and features, but also the varying shades of brunette hair and dark caucasian skin tones of all four bridesmaids. It has been suggested that this colour contrast, carefully painted as a frame to the bride's features, was influenced by a controversial painting by <a target="_blank" href="/en/edouard-manet">Édouard Manet</a>, entitled Olympia (first exhibited in 1865). Rossetti made a visit to Manet while working on The Beloved, and the painting also owes much to the works of <a target="_blank" href="/en/titian">Titian</a>.
-<br>
-<br>Rossetti arranged the bride in a head-dress which is distinctly recognisable as Peruvian, and in a Japanese gown. Again, this abundance of exotic fabric frames the face of the bride, dominant in the centre of the canvas, with its western-European features. Rossetti ostensibly finished this oil in 1866, but continued to make changes to it throughout his life.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait shows Florence Thompson with several of her children in a photograph known as "Migrant Mother". The Library of Congress caption reads: "Destitute pea pickers in California. Mother of seven children. Age thirty-two. Nipomo, California." In the 1930s, the FSA employed several photographers to document the effects of the Great Depression on the population of America. Many of the photographs can also be seen as propaganda images to support the U.S. government's policy distributing support to the worst affected, poorer areas of the country. Lange's image of a supposed migrant pea picker, Florence Owens Thompson, and her family has become an icon of resilience in the face of adversity. However, it is not universally accepted that Florence Thompson was a migrant pea picker. In the book Photographing Farmworkers in California (Stanford University Press, 2004), author Richard Steven Street asserts that some scholars believe Lange's description of the print was "either vague or demonstrably inaccurate" and that Thompson was not a farmworker, but a Dust Bowl migrant. Nevertheless, if she was a "Dust Bowl migrant", she would have left a farm as most potential Dust Bowl migrants typically did and then began her life as such. Thus any potential inaccuracy is virtually irrelevant. The child to the viewer's right was Thompson's daughter, Katherine (later Katherine McIntosh), 4 years old (Leonard, Tom, "Woman whose plight defined Great Depression warns tragedy will happen again ", article, The Daily Telegraph, December 4, 2008) Lange took this photograph with a Graflex camera on large format (4"x5") negative film.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
