@@ -2,21 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/cy-twombly/nine-discourses-on-commodus-1963.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/jean-auguste-dominique-ingres/roger-delivering-angelica-1819.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Nine Discourses on Commodus</h2>
+        <h2 class="artwork-name">Roger Delivering Angelica</h2>
         <h3 class="artist">
-          Cy Twombly
-                    ·  1963
+          Jean Auguste Dominique Ingres
+                    ·  1819
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"During the period from 1962 to 1963 Twombly's paintings and their historical referents assumed a much more somber and anxious tone, as Twombly took up a panoply of historical assassinations as his point of departure-a shift perhaps reflective of the darkening mood of the early 1960s, which witnessed the Cuban Missile crisis and the assassination of President John F. Kennedy. Produced in the winter of 1963, the painting cycle Nine Discourses on Commodus serves as a summation of this agonized and singular phase in his career. The cycle is based on the cruelty, insanity, and eventual murder of the Roman emperor Aurelius Commodus (161–192 CE). Conflict, opposition, and tension dominate the paintings' composition. Two whorls of matter hold the central focus of each piece, ranging in mood from serene, cloudlike structures to bleeding wounds and culminating in a fiery apotheosis in the final panel. Despite the paintings' intrinsic aesthetics of chaos and instability, a tightly controlled armature governs their composition. The gray background acts as a negative space to counterbalance the bloody whirls of paint and scabs of congealed impasto. Over this neutral backdrop, the line that runs along the middle of the paintings serves as a guiding mark to subdivide the composition. Many of the Commodus paintings also feature numerical sequences, often articulating the grids, graphs, and geometric axes that form the paintings' skeleton.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Roger Freeing Angelica or Ruggiero Freeing Angelica is an 1819 painting by Jean-Auguste-Dominique Ingres, inspired by Orlando Furioso by Ariosto. An oil painting on canvas measuring 147 x 199 cm, it is owned by the Louvre. Ingres subsequently painted several variants of the composition.
 <br>
-<br>The Commodus paintings were first exhibited at Leo Castelli Gallery in New York in March 1964, appearing before an American audience still in the thrall of Pop art and Minimalism. In this context, Twombly's messy and esoteric Commodus paintings seemed severely out of place and out of date. They attracted scathing reviews, which tellingly focused on Twombly's absence from the New York art scene, implying his abandonment of the United States and carrying the distinctly chauvinistic subtext that these paintings had been imported from "old Europe." Given their intrinsic reliance on narrative and sequence, it can hardly have helped the situation that the Commodus paintings were installed in a jumbled and confused order at Castelli Gallery, leaving their overall trajectory undecipherable." (Guggenheim Bilbao)</span>
+<br>Orlando Furioso, a 16th-century epic poem by Ariosto, is the source of the tale of Roger, a knight whose steed is a hippogriff (a legendary creature half horse and half eagle). While riding near Brittany's coast Roger espies a beautiful woman, Angelica, chained to a rock on the Isle of Tears. She has been abducted and stripped naked by barbarians who have left her there as a human sacrifice to a sea monster. As Roger rides to her aid, a great thrashing in the water occurs—it is the monster approaching Angelica. Roger drives his lance between the monster's eyes and rescues Angelica.
+<br>
+<br>Ingres received the commission for the work in 1817 and completed it in 1819. When it was exhibited at the Paris Salon of 1819 alongside his Grande Odalisque, the work was criticised for the treatment of Angelica's figure, described by the art historian Théophile Silvestre as "Angelica with goitres" and by the painter Henry de Waroquier as "triple-breasted Angelica". Comte de Blacas, the French ambassador to the Vatican, acquired the painting for King Louis XVIII. It was installed above a doorway in the throne room of Versailles from 1820 until 1823 before being relocated to the Musée du Luxembourg. It was Ingres' first painting to enter a public collection.
+<br>
+<br>Ingres executed the work with his usual care, and many preparatory drawings for the composition and the individual figures exist.
+<br>
+<br>He painted several later versions of the composition, none of which are known to have been commissioned. A reduced copy of the painting in a vertical format was painted sometime before 1839, and eventually acquired by <a target="_blank" href="/en/edgar-degas">Edgar Degas</a>, who purchased it in 1894. It was later acquired by the National Gallery, London. An 1841 replica, in an oval format, is in the Musée Ingres. A painting of 1859, also in an oval format, repeats the figure of Angelica but nearly eliminates Roger, whose presence is indicated only by his shield visible at the right edge. In 1825–30 Ingres painted Perseus and Andromeda (Detroit Institute of Arts), which like Roger Freeing Angelica features a nude woman chained to a rock and a hero slaying a sea monster.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
