@@ -2,27 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/57726d7cedc2cb3880b47b1a/le-caravage-l-incr-dulit-de-saint-thomas.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/caravaggio/crowning-with-thorns-1603(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Incredulity of Saint Thomas</h2>
+        <h2 class="artwork-name">Crowning with Thorns</h2>
         <h3 class="artist">
           Caravaggio
-                    ·  1602
+                    ·  1603
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Incredulity of Saint Thomas is a painting of the subject of the same name by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Caravaggio</a>, c. 1601–1602. It is housed in the Sanssouci Picture Gallery, now a museum, in Potsdam, Germany.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crowning with Thorns was the subject of two paintings by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a>. The first version, dated to around 1604–1605, is now in the Cassa di Risparmi e Depositi of Palazzo degli Alberti, Prato (Tuscany). The attribution to Caravaggio is disputed.
 <br>
-<br>It shows the episode that gave rise to the term "Doubting Thomas" which, formally known as the Incredulity of Thomas, had been frequently represented in Christian art since at least the 5th century, and used to make a variety of theological points. According to St John's Gospel, Thomas the Apostle missed one of Jesus's appearances to the Apostles after His resurrection, and said "Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe it." John 20:25 A week later Jesus appeared and told Thomas to touch Him and stop doubting. Then Jesus said, "Because you have seen me, you have believed; blessed are those who have not seen and yet have believed." John 20:29
+<br>On June 25, 1605, Caravaggio wrote out, in his own hand, a contract to paint "a picture of the same size and value as the one I have already done for him of Christ's crowning", which restricts the Crowning to a period prior to this date. There is no firm evidence for a more precise dating, but the figure of Christ has been clearly influenced by the Christ in Rubens' altarpiece of The Crowning with Thorns in the Church of Santa Croce in Gerusalemme, Rome, completed in April 1602. The recipient of both the Crowning with Thorns and the Ecce Homo — the painting to which the contract relates — was Massimo Massimi, a wealthy financier and art collector in the circle of Caravaggio's patron, marquis Vincenzo Giustiniani. The actual date is disputed — John Gash places it in 1601–1603.
 <br>
-<br>In the painting, Thomas's face shows surprise as Jesus holds his hand and guides it into the wound. The absence of a halo emphasizes the corporeality of the risen Christ. The work is in chiaroscuro.
-<br>
-<br>This picture is probably related to Saint Matthew and the Angel (1602) and the Sacrifice of Isaac (1603), all having a model in common. It belonged to Vincenzo Giustiniani before entering the Prussian royal collection, surviving the Second World War intact.
-<br>
-<br>A second version of "The Incredulity of Saint Thomas" has been re-discovered in Trieste, Italy in a private collection. It is published in the Maurizio Marini corpus catalogico "Caravaggio - Pictor praestantissimus" Newton &amp; Compton - 2005 in the position Q50. The painting is declared "d'interesse artistico e storico" by the "Ministero per i Beni e le Attività Culturali Sopraintendenza Regionale del Fiuli - Venezia Giulia". Its authenticity has been attested by several experts including Maurizio Marini, Maria Ranacher and Sir Denis Mahon and confirmed by a court in Trieste.</span>
+<br>Stylistically the painting is based on <a target="_blank" href="/en/peter-paul-rubens">Rubens</a>'s altarpiece for the pose of Christ and on <a target="_blank" href="/en/titian">Titian</a>'s treatment of the same subject (now in the Louvre) for the soldier with the staff behind Christ. But Caravaggio has reverted to the compact, symmetrical approach employed by 15th-century artists, visible in, for example, the work of <a target="_blank" href="/en/hieronymus-bosch">Hieronymous Bosch</a> in Christ Mocked. The gestures which define the situation are restrained and understated—the almost imperceptible actions of the tormentors focus attention on Christ, who looks up, his bound hands slightly raised almost in forgiveness.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
