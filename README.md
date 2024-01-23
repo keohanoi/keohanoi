@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00333/images/dorothea-lange/migrant-mother-1936.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00380/images/andrew-wyeth/img-1437.JPG!Large.JPG"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Migrant Mother</h2>
+        <h2 class="artwork-name">Winter Carnival</h2>
         <h3 class="artist">
-          Dorothea Lange
-                    ·  1936
+          Andrew Wyeth
+                    ·  1985
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait shows Florence Thompson with several of her children in a photograph known as "Migrant Mother". The Library of Congress caption reads: "Destitute pea pickers in California. Mother of seven children. Age thirty-two. Nipomo, California." In the 1930s, the FSA employed several photographers to document the effects of the Great Depression on the population of America. Many of the photographs can also be seen as propaganda images to support the U.S. government's policy distributing support to the worst affected, poorer areas of the country. Lange's image of a supposed migrant pea picker, Florence Owens Thompson, and her family has become an icon of resilience in the face of adversity. However, it is not universally accepted that Florence Thompson was a migrant pea picker. In the book Photographing Farmworkers in California (Stanford University Press, 2004), author Richard Steven Street asserts that some scholars believe Lange's description of the print was "either vague or demonstrably inaccurate" and that Thompson was not a farmworker, but a Dust Bowl migrant. Nevertheless, if she was a "Dust Bowl migrant", she would have left a farm as most potential Dust Bowl migrants typically did and then began her life as such. Thus any potential inaccuracy is virtually irrelevant. The child to the viewer's right was Thompson's daughter, Katherine (later Katherine McIntosh), 4 years old (Leonard, Tom, "Woman whose plight defined Great Depression warns tragedy will happen again ", article, The Daily Telegraph, December 4, 2008) Lange took this photograph with a Graflex camera on large format (4"x5") negative film.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Born in Chadds Ford, Pennsylvania, in 1917, Andrew Wyeth learned to paint from his famous father N.C. Wyeth, who educated the Wyeth children at home, and from Sid Chase, who passed on his mastery of watercolor. Wyeth found early success in his career and continued painting throughout his life, concentrating on scenes from around his homes in Chadds Ford and Maine. He transformed the everyday into intimate moments rich in quiet imagination. Wyeth’s acute sense of observation, dedication to detail and inherent talent made him one of America’s most beloved artists.<br><br>Winter Carnival was executed in Chadds Ford during the latter years of Wyeth’s long career. During this time, he experimented with atmosphere and light using mainly cool colors. Washes of grays and browns in Winter Carnival create the isolated and barren environment surrounding the model, Ann Call. Wyeth even added white gouache surrounding the figure to depict a starker background than the white of the paper could provide. Call’s quiet moment of reflection is interrupted by lone tire tracks in the snow. Yet, even if she is being intruded upon, she does not notice and remains hypnotically entranced.<br><br>The present scene represents a departure from Wyeth’s much-publicized work with his previous model, Helga Testorf. Winter Carnival purposefully lacks the sentiment of the “Helga pictures” and is slightly macabre. Call was chosen by Wyeth because she claimed to enjoy lonely nighttime walks through cemeteries. In Winter Carnival, she is emotionally out of reach as she sits in the desolation and cold. Her icy eyes stare ahead, she sits erect, and her turtleneck and Venetian mask make her unreachable and aloof. While Wyeth’s inclusion of her disheveled hair adds a more human element, Call still portrays a sense of the otherworldly. Her mask lends her an air of mystery, and the viewer cannot help but be intrigued and haunted by her image.<br><br>Quoted from:<br><a target="_blank" href="https://www.christies.com/en/lot/lot-5846468">Christies</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
