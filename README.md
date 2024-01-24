@@ -2,29 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00326/images/josef-kriehuber/kriehuber-joseph-selfportrait-1.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00148/images/quentin-matsys/quinten-massys-an-old-woman-the-ugly-duchess-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Josef Kriehuber, Austrian Lithographer (Self-portrait)</h2>
+        <h2 class="artwork-name">An Old Woman (The Ugly Duchess)</h2>
         <h3 class="artist">
-          Josef Kriehuber
-                    ·  1860
+          Quentin Matsys
+                    ·  1513
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Josef Kriehuber (14 December 1800 – 30 May 1876) was an Austrian <a target="_blank" href="/en/paintings-by-media/lithographmedium-qs-p186-q133036">lithographer</a> and painter. He made numerous portraits for nobility and government officials. Josef Kriehuber left more than 3000 lithographs, with portraits of many people.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ugly Duchess (also known as A Grotesque Old Woman) is a satirical portrait painted by the Flemish artist <a target="_blank" href="/en/quentin-matsys">Quentin Matsys</a> around 1513.
 <br>
-<br>Josef Kriehuber was born in Vienna, Austria on 14 December 1800. He was first trained by his brother Johann Kriehuber, then studied at the Vienna Academy under Hubert Maurer, then moved to Galicia, where he devoted himself to horse painting. He worked as a <a target="_blank" href="/en/paintings-by-media/lithographmedium-qs-p186-q133036">lithographer</a> for several Viennese publishing houses. With nearly 3,000 works, Josef Kriehuber was the most important portrait lithographer of the Viennese Biedermeier period.  Kriehuber is also noted for his studies of the Prater park. He taught at the Vienna Theresianum academy.<br>
+<br>The painting is in oil on an oak panel, and measures 62.4 by 45.5 cm. It shows a grotesque old woman with wrinkled skin and withered breasts. She wears the aristocratic horned headdress of her youth, out of fashion by the time of the painting, and holds in her right hand a red flower, then a symbol of engagement, indicating that she is trying to attract a suitor. However, it has been described as a bud that will 'likely never blossom'. The work is Matsys' best-known painting.
 <br>
-<br>Kriehuber was only 13 years old when he went to the art-class in the Imperial Academy in Vienna. In 1818, he accompanied the prince Sanguszko as a drawing-master to Poland. In 1821 he returned to Vienna. To earn himself money for the course at the academy, and for the cost of living, he became one of the most industrious lithographic employees of the publishing company Trentsensky. In 1826, his first portraits using the new printing technique of lithography appear. In the next few decades, Kriehuber becomes the most sought-after and best-paid portraitist of Biedermeier Vienna. His success probably stems from the fact that he is a master of portraying men as more distinguished, and women as prettier, than they are in reality.<br>
+<br>The painting was long thought to have been derived from a putative lost work by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>, on the basis of its striking resemblance to two caricature drawings of heads commonly attributed to the Italian artist. However the caricatures are now thought to be based on the work of Matsys, who is known to have exchanged drawings with Leonardo.
 <br>
-<br>His works, an image of the Viennese society of this epoch, include nearly 3000 portrait-lithographs, along with a few hundred <a target="_blank" href="/en/paintings-by-media/watercolormedium-qs-p186-q22915256-0">water-colours</a>. There are but few well-known persons of that time who did not have their portrait made by Kriehuber. Names include: Francis I of Austria, Fürst von Metternich, Josef Radetzky, Franz Grillparzer, Johann Nestroy, Archduke Johann, Friedrich Halm, Friedrich Hebbel, Hammer-Purgstall, Franz Schubert, Anton Diabelli, Robert Schumann, Giacomo Meyerbeer, Carl Czerny, Franz Liszt, Sigismond Thalberg, Ole Bull, Niccolò Paganini, Elias Parish Alvars, Fritz Reuter, Therese Krones, Fanny Elßler, Archduke Karl Ludwig, Sophie of Austria, Marie-Louise of Austria, Johann Kaspar von Seiller, Hector Berlioz, Stephan Endlicher, Ignaz von Seyfried, Moritz Gottlieb Saphir, Carl von Ghega, Wilhelm von Tegetthoff, Ferdinand Maximilian von Austria.<br>
+<br>A possible literary influence is Erasmus's essay In Praise of Folly (1511), which satirizes women who "still play the coquette", "cannot tear themselves away from their mirrors" and "do not hesitate to exhibit their repulsive withered breasts". The woman has been often identified as Margaret, Countess of Tyrol, claimed by her enemies to be ugly; however, she had died 150 years earlier. In 2008 Michael Baum, emeritus professor of surgery at University College London, suggested that the sitter suffered from a rare form of Paget's disease, in which the victim's bones enlarge and become deformed.
 <br>
-<br>In 1860 he was hailed as first artist awarded the Franz Joseph Order in Austria. With the advances of photography, however, commissions fell off; Kriehuber's last years were overshadowed by poverty. He died on 30 May 1876, in his native city of Vienna. His final resting place, now an honorary grave, is in Vienna's "Zentralfriedhof" (central cemetery).<br>
+<br>The painting is in the collection of the National Gallery in London, to which it was bequeathed by Jenny Louisa Roberta Blaker in 1947. It was originally half of a diptych, with a Portrait of an Old Man, in the Musée Jacquemart-André, Paris, which was lent to the National Gallery in 2008 for an exhibition in which the two paintings were hung side by side.
 <br>
-<br>Significant collections of his works are in the Albertina (Vienna), and in the portrait collection of the Austrian National Library in Vienna. Since 1889 a street in Vienna-Margareten (Vienna's 5th district), has been named after Kriehuber.<br></span>
+<br>The portrait is thought to be a source for John Tenniel's 1869 illustrations of the Duchess in Alice's Adventures in Wonderland.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
