@@ -2,18 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00104/images/alfredo-jaar/the-sound-of-silence.jpg"
+        src="https://uploads0.wikiart.org/images/sandro-botticelli/the-story-of-virginia-1504(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Sound of Silence</h2>
+        <h2 class="artwork-name">The Story of Virginia</h2>
         <h3 class="artist">
-          Alfredo Jaar
+          Sandro Botticelli
+                    ·  1504
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Installation measuring 170 x 180 x 360 inches (431.8 x 457.2 x 914.4 cm), with software design by Ravi Rajan. Excerpt from Galerie Lelong's press release: "An enclosed aluminum structure that compels the viewer to enter, The Sound of Silence physically engages to boldly deliver its message. A light at the door signals when people are permitted to enter the space, alternating between red and green. Once inside the structure, an 8-minute film presents the viewer with a silent narrative that slowly unfolds a somber and devastating real-life story. With The Sound of Silence, Alfredo Jaar uses remarkable force, grace, and economy to highlight a complex set of ethical and personal questions about the act of looking and the responsibilities that follow."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Story of Virginia (Italian, Storie di Virginia), is a painting by the Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>. It is a tempera on panel and measures 86 cm tall and 165 cm wide. It is currently held by the Accademia Carrara in Bergamo, Italy.
+<br>
+<br>It is one of the last works that Botticelli made exemplifying virtue, like The Story of Lucretia.
+<br>
+<br>The painting has as a fundamental theme of violated honor and matrimonial fidelity. The combination of several scenes in a single image was common in the art of the early Renaissance. These are read from left to right:
+<br>
+<br>This story is developed within a setting of classical architecture, in which the figures are agitated, painted with vibrant colors.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
