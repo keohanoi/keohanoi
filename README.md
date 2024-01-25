@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00380/images/titian/800px-tizian-056.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00202/images/andrea-del-verrochio/verrocchio-leonardo-da-vinci-battesimo-di-cristo-google-art-project.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait d`Isabella d`Este</h2>
+        <h2 class="artwork-name">The Baptism of Christ</h2>
         <h3 class="artist">
-          Titian
-                    ·  1536
+          Andrea del Verrocchio
+                    ·  1475
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Isabella d'Este (or Isabella in Black) is an oil-on-canvas painting by the Italian painter <a target="_blank" href="/en/titian">Titian</a>, completed between 1534 and 1536. It shows the Marquess of Mantua, Isabella d'Este (1474–1539), daughter of Ercole I d'Este, Duke of Ferrara, and Eleanor of Naples with an ermine zibellino draped over her shoulder.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ is a painting finished around 1475 in the studio of the Italian Renaissance painter <a target="_blank" href="/en/andrea-del-verrocchio">Andrea del Verrocchio</a> and generally ascribed to him and his pupil <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>. Some art historians discern the hands of other members of Verrocchio's  workshop in the painting as well. <br>
 <br>
-<br>Although Titian depicts her as a young woman, she was around 62 at the time  Isabella was socially ambitious and aware of the effect a painting by a renowned artists might have on her reputation and prestige - she also commissioned portraits by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> and <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>.
+<br>The picture depicts the Baptism of Jesus by John the Baptist as recorded in the Biblical Gospels of Matthew, Mark and Luke. The angel to the left is recorded as having been painted by the youthful Leonardo, a fact which has excited so much special comment and mythology, that the importance and value of the picture as a whole and within the œuvre of Verrocchio is often overlooked. Modern critics also attribute much of the landscape in the background and the figure of Christ to Leonardo da Vinci as well. The painting is housed in the Uffizi Gallery in Florence. <br>
 <br>
-<br>It is one of two portraits Titian painted of her; Isabella in Red (or Aged Isabella) of 1529 is known only through a <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> copy. It showed a more aged and matronly Isabella, but she was so displeased with the picture that she asked for a second idealised portrait, showing how she thought she looked forty years earlier. Art historian Lionel Cust mentions that Isabella's fame and renown was not due to "beauty, but to intellect and character". Fred Kleiner wrote that the work is a "distinctive portrayal of his poised and self-assured patron that owes little to its model". It is today in the Kunsthistorisches Museum, Vienna.
+<br><a target="_blank" href="/en/andrea-del-verrocchio">Andrea del Verrocchio</a> was a sculptor, goldsmith and painter who ran a large and successful workshop in Florence in the second half of the 15th century. Among his apprentices and close associates were the painters <a target="_blank" href="/en/sandro-botticelli">Botticelli</a>, <a target="_blank" href="/en/francesco-botticini">Botticini</a>, Lorenzo di Credi and <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>. <br>
 <br>
-<br>Isabella was portrayed a number times in her youth. She was betrothed to Francesco Gonzaga in 1480 when she was 6; they married when she was 16. She was painted by Cosme Tura as a child and on a number of occasions around the time of her wedding, a period during which she was honoured by the striking of a commemorative medal. She was critical of a portrait by <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a> completed after 1493, and by the 1510s became very weary of representations of her likeness. She seems to have feared the effects of age, and a short woman, worried she was getting stout.
+<br>Verrocchio was not himself a prolific painter and very few pictures are attributed to his hand, his fame lying chiefly in his sculptured works. Verrocchio's paintings, as are typical of Florentine works of that date, are in tempera on wooden panel. The technique of painting artworks in paint, previously used in Italy only for durable items like parade shields, was introduced to Florence by Dutch and Flemish painters and their imported works at around the date that this painting was created.<br>
 <br>
-<br>She retained very strong ideas for the rest of her life as to how she should be portrayed. From the 1520s she asked that she be painted from written descriptions - with the rationale that words captured more closely a person's essence than life sittings. This was convenient for Titian, who was much sought after as a portraitist, disliked travel, and anyway prided himself on the fact that he could capture a likeness from written description. Nonetheless, she rejected his first portrait, the now lost Isabella in red of 1529, feeling it did not flatter, and five years later asked that he paint a second. The complaints registered of the first painting indicate that the last thing sought by the patron was anything approaching a likeness. There was displeasure with the portrayal of her nose, posture, costume, facial expression, and the highlighting of her squint.
-<br>
-<br>Isabella sought to influence Titian by sending him a 1511 portrait painted by Francesco Francia, which shows her as a young woman and highlighted her girlish beauty. This work was in turn based on an even earlier portrait (probably Lorenzo Costa or Leonardo's drawing) and her half-sister Lucrezia d'Este-Bentivoglio's oral description. Francia was given the opportunity to travel to Mantua so that Isabella could sit, but he declined, believing that he would paint better from the drawing and written description. This was convenient for Isabella, who wrote to him that he had "indeed made us far more beautiful by your art than nature ever made us". Yet she had later doubts that this work was how she was to be definitely seen and remembered by; she believed it made her eyes look "too black" and that the shadows were too heavy, and asked that both be lightened.</span>
+<br>The painting The Baptism of Christ was, according to Antonio Billi (1515), commissioned by the Church of S. Salvi, and was later transferred to the Vallumbrosan Sisterhood in Santa Verdiana. In 1810 it entered the collection of the Accademia and passed to the Uffizi in 1959. In the 16th century the work was discussed in <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>'s Lives of the Painters in the biographies of both Verrocchio and Leonardo da Vinci.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
