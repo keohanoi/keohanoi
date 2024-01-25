@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/robert-motherwell/elegy-to-the-spanish-republic-no-110-1971.jpg"
+        src="https://uploads6.wikiart.org/00142/images/57726d7eedc2cb3880b47f24/newton-williamblake.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Elegy to the Spanish Republic No. 110</h2>
+        <h2 class="artwork-name">Isaac Newton</h2>
         <h3 class="artist">
-          Robert Motherwell
-                    ·  1971
+          William Blake
+                    ·  1795
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Elegy to the Spanish Republic No. 110 is part of a series comprising more than 140 paintings, which Motherwell worked on throughout his long career. The series functioned as the artist's memorial to the Spanish Civil War, an event that had come to symbolize for him the human tragedies of oppression and injustice. No. 110 is typical in its stark black and white palette, and interplay of ovoid and bar-like rectilinear forms. What exactly those forms are intended to mean, though, has been the subject of great debate. Some compare them to architecture, or to ancient monuments, while others read them as phalluses and wombs, which, along with the pictures' somber palette, might suggest the cycle of life and death.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Newton is a monotype by the English poet, painter and printmaker <a target="_blank" href="/en/william-blake">William Blake</a> first completed in 1795, but reworked and reprinted in 1805. It is one of the 12 "Large Colour Prints" or "Large Colour Printed Drawings" created between 1795 and 1805, which also include his series of images on the biblical ruler Nebuchadnezzar.
+<br>
+<br>Isaac Newton is shown sitting naked and crouched on a rocky outcropping covered with algae, apparently at the bottom of the sea. His attention is focused upon diagrams he draws with a compass upon a scroll that appears to unravel from his mouth. The compass is a smaller version of that held by Urizen in Blake's The Ancient of Days.
+<br>
+<br>Blake's opposition to the Enlightenment was deeply rooted. In his annotation to his own engraving of the classical character Laocoön, Blake wrote "Art is the Tree of Life. Science is the Tree of Death." Newton's theory of optics was especially offensive to Blake, who made a clear distinction between the vision of the "vegetative eye" and spiritual vision. The deistic view of God as a distant creator who played no role in daily affairs was anathema to Blake, who claimed to regularly experience visions of a spiritual nature. He contrasts his "four-fold vision" to the "single vision" of Newton, whose "natural religion" of scientific materialism he characterized as sterile. Newton was incorporated into Blake's infernal trinity along with the philosophers Francis Bacon and John Locke.
+<br>
+<br>Blake's print would later serve as the basis for <a target="_blank" href="/en/eduardo-paolozzi">Eduardo Paolozzi</a>'s 1995 bronze sculpture Newton, after William Blake, which resides in the piazza of the British Library.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
