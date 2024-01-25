@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00389/images/william-adolphe-bouguereau/r.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/josefa-de-obidos/still-life-1676.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Bohemian</h2>
+        <h2 class="artwork-name">Still life</h2>
         <h3 class="artist">
-          William-Adolphe Bouguereau
-                    ·  1890
+          Josefa de Obidos
+                    ·  1676
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Bohemian is a painting by <a target="_blank" href="/en/william-adolphe-bouguereau">William-Adolphe Bouguereau</a> completed in 1890. It depicts a barefooted young woman sitting on a concrete bench on the south bank of the Seine across from Notre Dame de Paris resting a violin in her lap. Her right arm is resting on her thigh while the palm of her left hand is pressed down on her left knee so that she does not lean on the violin. Her hands are clasped with the fingers pointing forward while her shoulders are wrapped in a shawl dyed maroon and light green, and she is wearing a gray dress that extends to her ankles. The bow of the violin has been stuck through diagonally under the fingerboard. To her right is a maple tree.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Still Life with Sweets is a 1676 oil on canvas painting by the Portuguese artist <a target="_blank" href="/en/josefa-de-obidos">Josefa de Óbidos</a> in the municipal collection of Santarém, Portugal.
 <br>
-<br>The subject is a model employed by Bouguereau for this and other paintings, including The Shepherdess.
+<br>This painting shows a sumptuous display of sweets in various pottery containers and in the center a silver sugar holder with a gold spoon emphasizes the wealth of this dessert spread. Far from normal, such a spread would have been beyond reach of most townspeople and the artist herself at that time and was either meant to represent an ideal holiday feast or was commissioned by a wealthy patron. The "Bodegón" style is reminiscent of earlier dessert displays by Juan van der Hamen and others of the Spanish school a generation before her.
 <br>
-<br>It was owned by the Minneapolis Institute of Art until 2004 when it was auctioned by Christie's to benefit the acquisition fund.</span>
+<br>This painting is a pendant of Still Life with Sweets and Flowers in the same collection:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
