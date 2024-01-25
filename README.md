@@ -2,41 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/raphael/the-madonna-of-loreto-1509.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00340/images/caravaggio/beheading-of-saint-john-the-baptist.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Madonna of Loreto</h2>
+        <h2 class="artwork-name">Beheading of Saint John the Baptist</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1509
+          Caravaggio
+                    ·  1608
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna of Loreto is a painting finished around 1508–1509 by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/raphael">Raphael</a>. It is housed in the Musée Condé of Chantilly, France.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Beheading of Saint John the Baptist is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by the Italian artist <a target="_blank" href="/en/caravaggio">Caravaggio</a>. According to Andrea Pomella in Caravaggio: An Artist through Images (2005), the work is widely considered to be Caravaggio's masterpiece as well as "one of the most important works in Western painting." Jonathan Jones has described The Beheading of Saint John the Baptist as one of the ten greatest works of art of all time: "Death and human cruelty are laid bare by this masterpiece, as its scale and shadow daunt and possess the mind."
 <br>
-<br>For centuries the painting kept company with Raphael's Portrait of Pope Julius II, first at the Santa Maria del Popolo, then in private collections, and for a time their location was unknown. Their ownership, or provenance, has been difficult to unravel because of the number of copies of both paintings, the unclear ownership chain, misinformation and delay of publication of vital information.
+<br>The painting, in oil on canvas, is 12&nbsp;ft (3.7&nbsp;m) by 17&nbsp;ft (5.2&nbsp;m) and prominent are the vivid red and warm yellow colours, common to the Baroque period with the use of chiaroscuro. The image depicts the execution of John the Baptist while nearby Salome stands with a golden platter to receive his head. Another woman, who has been identified as Herodias or simply a bystander who realizes that the execution is wrong, stands by in shock while a jailer issues instructions and the executioner draws his dagger to finish the beheading. The scene, popular with Italian artists in general and with Caravaggio himself, is not directly inspired by the Bible, but rather by the tale as related in the Golden Legend.
 <br>
-<br>For instance, this painting received its name from a copy at the Basilica della Santa Casa in Loreto which was at one time thought to be the original. Now is it certain that the painting at Loreto was a copy – and therefore the painting name is a misnomer.
+<br>It is the only work by Caravaggio to bear the artist's signature, which he placed in red blood spilling from the Baptist's cut throat. There is considerable empty space in the image, but because the canvas is quite large the figures are approximately life-sized.
 <br>
-<br>Even so, the well-copied painting has been a beloved and critically acclaimed painting for centuries.
+<br>Caravaggio drew the background for his work from his memories of his time in a prison of the Knights of Malta. Characteristically of his later paintings, the number of props and the detail in the props used is minimal.
 <br>
-<br>The painting is tender and intimate. The Child, just awakened, plays a game with the Madonna's veil, with a melancholy Saint Joseph looking on from the shadows.
+<br>Completed in 1608 in Malta, the painting had been commissioned by the Knights of Malta as an altarpiece; it was the largest altarpiece which Caravaggio would ever paint. It still hangs in St. John's Co-Cathedral, for which it was commissioned and where Caravaggio himself was inducted and briefly served as a knight. Caravaggio's service to the Order was brief and troubled, however, as he was soon a fugitive from justice, having escaped while imprisoned for an unrecorded crime. When Caravaggio was defrocked in absentia as a "foul and rotten member" by the Order about six months after his induction, the ceremony took place in the Oratory, before this very painting.
 <br>
-<br>The use of veil in Renaissance paintings, from the Meditations on the Life of Christ, symbolizes the manner in which the Madonna wrapped the Child in the veil from her head at the Nativity and, prophetically, again at the Crucifixion.
+<br>Caravaggio did several pieces depicting the moments after the event depicted here. One of these is on display in London's National Gallery; the other, in the Royal Palace of Madrid. It is believed that one of these may be the image that Caravaggio was said to have sent in an effort to appease Alof de Wignacourt, Grand Master of the Knights who expelled Caravaggio, but this is not certainly known.
 <br>
-<br>Saint Joseph's melancholy nature in this picture may signal his proclivity for prophecy and the coming events for the Child. Saint Joseph seemed to be an after-thought, x-rays of the painting show that Saint Joseph was painted over a window previously over the Madonna's shoulder. Further, the change in the position of the Child's right foot was revealed via x-ray. These changes align with Raphael's preliminary drawings for the painting.
-<br>
-<br>The Madonna's dress, frame and angle of her head are reminiscent of Justice in the Stanza della Segnatura which was painted about the same time as this painting. It is also reminiscent of the Madonna of the Blue Diadem.
-<br>
-<br>The history of the painting is difficult to track for many reasons, one of them being the various names for the painting, which tell the history, or the perceived history, of the original Raphael painting. This work is one of the most copied works of Raphael with over one hundred known copies.
-<br>
-<br>The provenance of this painting is constructed based on documents, analysis of the painting and preliminary sketches. For centuries the painting was co-located with the Portrait of Pope Julius II, first at the Santa Maria del Popolo, then in private collections, and for a time their location was unknown. The original painting by Raphael is now believed to be the version at Musée Condé in Chantilly, France.
-<br>
-<br>Julius II commissioned of Raphael the Madonna of the Veil and his likeness, the Portrait of Pope Julius II which resided at Santa Maria del Popolo, at the entrance gate to Rome. During this time the painting was also known as Madonna del Popolo or described as The Holy Family.
-<br>
-<br>An array of Renaissance artists were brought in to decorate the Santa Maria del Popolo church and its chapels in Rome, beginning with Raphael. Both paintings by Raphael, Julius II and the Madonna were hung on pillars during feast days or high holy days.</span>
+<br>The Beheading of Saint John the Baptist has been badly damaged, though it did receive some restoration in the 1950s prior to a notable exhibition in Rome in 1955–56, which brought the work considerable attention. It was during the restoration that Caravaggio's signature in the blood became visible to modern viewers. The signature is a matter of some dispute. The work is signed f. Michelang.o (the f to indicate his brotherhood in the order), but it is popularly claimed that Caravaggio signed "I, Caravaggio, did this" in confession of some crime—perhaps connected to the 1606 death of Ranuccio Tomassoni at Caravaggio's hands, which had caused the painter to flee Rome.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
