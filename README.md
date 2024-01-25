@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/sandro-botticelli/madonna-in-glory-with-seraphim-1470(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/jacques-louis-david/portrait-of-francois-buron-1769.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna in Glory with Seraphim</h2>
+        <h2 class="artwork-name">Portrait of Francois Buron</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1470
+          Jacques-Louis David
+                    ·  1769
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna in Glory with Seraphim is a painting by the Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, executed c. 1469-1470. It is housed in Galleria degli Uffizi, Florence.
-<br>
-<br>Some panel paintings of the Madonna by Botticelli remain from the years around 1470 which are striking expressions of Botticelli's stylistic development. Two full figure pictures of the Madonna - the Madonna in Glory and the Madonna of the Rosegarden - are in the Uffizi. They represent monumental seated figures filling the entire picture.
-<br>
-<br>Mary is enthroned on clouds in a glory of seraphim. The Christ Child, with the cruciform nimbus, is looking towards the observer and raising his hand in blessing. Botticelli has succeeded in expressing the tensions in this theme with sensitivity: the mother, who is fully aware of the Passion her son will suffer, is holding him protectively in her arms.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of François Buron is a 1769 painting by <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>. It dates from his period of training and is one of his earliest known works. It shows his uncle François Buron and remained with his descendents until the death of his final descendent A Baudry in 1903. It was sold at the Regnault sale on 22 June 1905 for 6,000 francs, it then passed to Drouot at the Victor Gay sale on 23 April 1909 for 1,500 francs. It was sold anonymously on 15 December 1937 and later formed part of the collections of Robert Lebel and Madame Gas. It was sold to the Wildenstein galerie and then to its present private owner in New York City in 1985.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
