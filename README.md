@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00380/images/ivan-aivazovsky/the-birth-of-aphrodite-ivan-konstantinovich-aivazovsky.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00340/images/diego-velazquez/temptation-of-st-thomas-aquinas.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The birth of Aphrodite</h2>
+        <h2 class="artwork-name">Temptation of St.Thomas Aquinas</h2>
         <h3 class="artist">
-          Ivan Aivazovsky
-                    ·  1887
+          Diego Velazquez
+                    ·  1632
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The present lot depicts the birth of Aphrodite, the Greek Goddess of Love and Beauty. According to Greek mythology, she was born from the churning sea-foam (aphros in Greek), and became the lover of Poseidon, the subject of Aivazovsky's 1894 masterpiece Poseidon's Travel over the Sea (fig. 1). The drama unfolding in the present work is heightened by a very limited colour palette and a dramatic use of moonlight on the water. Different shades and intensities of blue contrast sharply with the bright moonlight, illuminating the figure of Aphrodite as she is drawn up by winged cupids.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Temptation of St. Thomas is a painting by the Spanish Baroque painter <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a>, executed in 1632 and housed in the Museum of Sacred Art of Orihuela Cathedral, southern Spain.
+<br>
+<br>The work, for a period, was attributed to Murcian painter Nicolás de Villacis, until it was recognized as Velázquez's in the 1920s. It portrays the episode of the life of Saint Thomas of Aquino when, as a novice, he resisted the temptation represented by a prostitute, who is visible in the background door. The saint is held by an angel, while another is preparing to dress him with a white ribbon, representing chastity.
+<br>
+<br>Temptation of St. Thomas is among Velázquez's better-known paintings.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
