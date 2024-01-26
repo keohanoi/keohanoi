@@ -2,25 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/57726d84edc2cb3880b48c9b/titian-tiziano-vecellio-venus-rising-from-the-sea-venus-anadyomene-google-art-project.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00129/images/parmigianino/madonna-with-the-long-neck.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Venus Anadyomene</h2>
+        <h2 class="artwork-name">Madonna with the Long Neck</h2>
         <h3 class="artist">
-          Titian
-                    ·  1520
+          Parmigianino
+                    ·  1540
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Venus Anadyomene (Greek -Venus rising from the sea), is a c. 1520 oil painting by <a target="_blank" href="/en/titian">Titian</a>, depicting Venus rising from the sea and wringing her hair, after her birth fully-grown. Venus, said to have been born from a shell, is identified by the shell at bottom left. It is smaller than usual in the birth of Venus scenes, such as Botticelli's, and is just intended to identify the subject rather than be a boat-like vessel for Venus, as in <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>'s The Birth of Venus and other depictions.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna with the Long Neck (Italian: Madonna dal collo lungo), also known as Madonna and Child with Angels and St. Jerome, is an Italian <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> oil painting by the painter <a target="_blank" href="/en/parmigianino">Parmigianino</a>, dating from c. 1535-1540 and depicting Madonna and Child with angels. The painting was begun in 1534 for the funerary chapel of Francesco Tagliaferri in Parma, but remained incomplete on Parmigianino's death in 1540. Ferdinando de' Medici, Grand Prince of Tuscany purchased it in 1698 and it has been on display at the Uffizi since 1948.
 <br>
-<br>The voluptuousness of the Venus presented, and her sideways glance, also owes much to the Crouching Venus and Cnidian Venus types of antique sculpture. The wringing of her hair is a direct imitation of Apelles's lost masterwork of the same title. Titian deliberately included this detail to prove that he could rival the art of antiquity in which the goddess was also washing her hair — a fact mentioned in Pliny's Natural History.
+<br>The painting depicts the Virgin Mary seated on a high pedestal in luxurious robes, holding a rather large baby Jesus on her lap. Six angels crowded together on the Madonna's right, adore the Christ-child.
 <br>
-<br>The painting is in exceptionally fine condition. It was once owned by Christina of Sweden, and passed via the Orleans Collection to 6th Duke of Sutherland, who lent it and 26 other paintings to the National Galleries of Scotland in 1945. On the death of the childless Duke in 2000, the work was acquired from his cousin, Francis Egerton, 7th Duke of Sutherland for more than £11m in 2003, with the aid of the National Arts Collection Fund. Also contributing to the purchase were the Wolfson Foundation, the Heritage Lottery Fund (£7.6m), and the Scottish Executive (£2.5m). To facilitate the sale, £2.4m of the picture's value was offset against inheritance tax. The market value has been estimated at £20m. After the sale, the 7th Duke said, "To all intents and purposes nothing has changed, except the painting will now belong to the nation."
+<br>In the lower right-hand corner of the painting is an enigmatic scene, with a row of marble columns and the emaciated figure of St. Jerome. A depiction of St. Jerome was required by the commissioner because of the saint's connection with the adoration of the Virgin Mary.
 <br>
-<br>It soon afterwards formed the centrepiece of an exhibition in 2004 and the anniversary exhibition "Saved!" for the National Art Collections Fund.</span>
+<br>The painting is popularly called Madonna of the Long Neck because "the painter, in his eagerness to make the Holy Virgin look graceful and elegant, has given her a neck like that of a swan." On the unusual arrangement of figures, Austrian-British art historian E. H. Gombrich writes:
+<br>
+<br>Parmigianino has distorted nature for his own artistic purposes, creating a typical <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> figura serpentinata. Jesus is also extremely large for a baby, and he lies precariously on Mary's lap as if about to fall at any moment. The Madonna herself is of hardly human proportions—she is almost twice the size of the angels to her right. Her right foot rests on cushions that appear to be only a few inches away from the picture plane, but the foot itself seems to project beyond it, and is thus on "our" side of the canvas, breaking the conventions of a framed picture. Her slender hands and long fingers have also led the Italian medical scientist Vito Franco of the University of Palermo to diagnose that Parmigianino's model had the genetic disorder Marfan syndrome affecting her connective tissue.
+<br>
+<br>Following a recent restoration of the painting, the unfinished face of an angel just below the Madonna's right elbow can be seen more clearly. Also the angel in the middle of the bottom row now looks at the vase held by the angel on his right, in which can be seen the faint image of a cross. Before the restoration this angel looked down at the Christ child. The changes made during the restoration likely reflect the original painting, which must have been altered at some time in its history. The angel who faces the viewer has a resemblance to Parmigianino's Antea portrait.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
