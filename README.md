@@ -2,31 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00266/images/michelangelo/a-kezek-adam-teremtese.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/francisco-goya/the-pilgrimage-of-san-isidro-1823.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Creation of Adam (detail)</h2>
+        <h2 class="artwork-name">The Pilgrimage of San Isidro</h2>
         <h3 class="artist">
-          Michelangelo
-                    ·  1512
+          Francisco Goya
+                    ·  1823
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Creation of Adam (Italian: Creazione di Adamo) is a fresco painting by Italian artist <a target="_blank" href="/en/michelangelo">Michelangelo</a>, which forms part of the Sistine Chapel's ceiling, painted c. 1508–1512. It illustrates the Biblical creation narrative from the Book of Genesis in which God gives life to Adam, the first man. The fresco is part of a complex iconographic scheme and is chronologically the fourth in the series of panels depicting episodes from Genesis.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Pilgrimage to San Isidro (Spanish: La romería de San Isidro) is one of the Black Paintings painted by <a target="_blank" href="/en/francisco-goya">Francisco de Goya</a> between 1819–23 on the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo) that he purchased in 1819. It probably occupied a wall on the first floor of the house, opposite The Great He-Goat.
 <br>
-<br>The image of the near-touching hands of God and Adam has become iconic of humanity. The painting has been reproduced in countless imitations and parodies. Michelangelo's Creation of Adam is one of the most replicated religious paintings of all time.<br>
+<br>Like the other Black Paintings, it was <a target="_blank" href="/en/paintings-by-media/transferred-to-linen">transferred to canvas</a> in 1873–74 under the supervision of Salvador Martínez Cubells, a curator at the Museo del Prado. The owner, Baron Emile d'Erlanger, donated the canvases to the Spanish state in 1881, and they are now on display at the Museo del Prado.
 <br>
-<br>In 1505 Michelangelo was invited back to Rome by the newly elected Pope Julius II. He was commissioned to build the Pope's tomb, which was to include forty statues and be finished in five years.<br>
+<br>A Pilgrimage to San Isidro shows a view of the pilgrimage towards San Isidro's Hermitage of Madrid that is totally opposite to Goya's treatment of the same subject thirty years earlier in The Meadow of San Isidro. If the earlier work was a question of depicting the customs of a traditional holiday in Madrid and providing a reasonably accurate view of the city, the present painting depicts a group of prominent figures in the night, apparently intoxicated and singing with distorted faces. Figures from diverse social strata also figure in the painting. In the foreground a group of humble extraction appears, while farther into the background top hats and nuns' habits can be seen.
 <br>
-<br>Under the patronage of the Pope, Michelangelo experienced constant interruptions to his work on the tomb in order to accomplish numerous other tasks. Although Michelangelo worked on the tomb for 40 years, it was never finished to his satisfaction. It is located in the Church of S. Pietro in Vincoli in Rome and is most famous for his central figure of Moses, completed in 1516. Of the other statues intended for the tomb, two known as the Rebellious Slave and the Dying Slave, are now in the Louvre.<br>
+<br>The topic of the procession was used to emphasize theatrical or satirical aspects; in this respect the picture has parallels to The Burial of the Sardine, painted between 1812 and 1819.
 <br>
-<br>During the same period, Michelangelo painted the ceiling of the Sistine Chapel, which took approximately four years to complete (1508–1512). According to Condivi's account, Bramante, who was working on the building of  St Peter's Basilica, resented Michelangelo's commission for the Pope's tomb and convinced the Pope to commission him in a medium with which he was unfamiliar, in order that he might fail at the task.<br>
+<br>It is a recurring theme in Goya's paintings to present a crowd that fades little by little into the distance. Already it was present in San Isidro's Meadow and it was later used frequently in The Disasters of War. At the very edge of this painting the silhouette of the rocky outcroppings and that of the parading multitude coincides; this way, the opened space emphasizes the whole rest of the solid and compact mass, dehumanizing the individuals into a formless group. The exception is a figure to the right whose face can be seen in profile and seems to moan or sing.
 <br>
-<br>Michelangelo was originally commissioned to paint the Twelve Apostles on the triangular pendentives that supported the ceiling, and cover the central part of the ceiling with ornament. Michelangelo persuaded Pope Julius to give him a free hand and proposed a different and more complex scheme, representing the Creation, the Fall of Man, the Promise of Salvation through the prophets, and the genealogy of Christ. The work is part of a larger scheme of decoration within the chapel which represents much of the doctrine of the Catholic Church.<br>
-<br>
-<br>The composition stretches over 500 square metres of ceiling, and contains over 300 figures.  At its centre are nine episodes from the Book of Genesis, divided into three groups: God's Creation of the Earth; God's Creation of Humankind and their fall from God's grace; and lastly, the state of Humanity as represented by Noah and his family. On the pendentives supporting the ceiling are painted twelve men and women who prophesied the coming of Jesus; seven prophets of Israel and five Sibyls, prophetic women of the Classical world.  Among the most famous paintings on the ceiling are The Creation of Adam, Adam and Eve in the Garden of Eden, the Deluge, the Prophet Jeremiah and the Cumaean Sibyl.<br></span>
+<br>Like the other works in this series, the painting's palette is very diminished. In this case, blacks, ochres, grays and earth tones are applied with very free, energetic brushstrokes. The theme of the loss of identity in crowds in this painting can be seen as a precursor to <a target="_blank" href="/en/artists-by-art-movement/expressionism">expressionist</a> painting, particularly the work of <a target="_blank" href="/en/james-ensor">James Ensor</a>.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
