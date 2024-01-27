@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/leonardo-da-vinci/battle-of-anghiari.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00198/images/konstantin-ivanovich-gorbatov/n08486-258-lr-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Battle of Anghiari</h2>
+        <h2 class="artwork-name">Patio in Capri</h2>
         <h3 class="artist">
-          Leonardo da Vinci
-                    ·  1505
+          Konstantin Gorbatov
+                    ·  1925
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A copy possibly made from the original incomplete work after a fresco by Leonardo da Vinci in the Palazzo della Signoria in Florence, executed in 1504-1505 and destroyed around 1560. <br>In March 2012, it was announced that a team led by Maurizio Seracini has found evidence that the Lost Leonardo still exists on a hidden inner wall behind a cavity, underneath a section of Vasari's fresco in the chamber of Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. <br>Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at The Battle of Anghiari in 1440. Purportedly, from left to right are Francesco Piccinino; Niccolò Piccinino; Ludovico Trevisan; Giovanni Antonio Del Balzo Orsini.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Patio in Capri is one of the most striking canvases of Gorbatov's Italian period. It might be read as an homage to Sylvestr Shchedrin (1791-1830), the early 19th-century landscape artist whose greatest pictures were painted in Italy and were well-known to all Russian painters. Patio in Capri appears to be particularly inspired by Shchedrin's Terrace on the Sea Coast of 1828, which similarly portrayed the idyllic Italy of the Russian imagination. Both compositions depict vine-wrapped terraces above the sea in a seemingly magical place where man and nature exist together inharmonious beauty. Like Shchedrin, Gorbatov implemented an innovative palette to better evoke the varying qualities of light found along the coast, meanwhile capturing a perfect moment in time, a quiet afternoon in Capri.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
