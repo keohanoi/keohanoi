@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00238/images/ancient-greek-pottery/terracotta-volute-krater-bowl-for-mixing-wine-and-water-450.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00432/images/ai-weiwei/art-ai-weiwei-dropping-a-han-dynasty-urn.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Terracotta Volute Krater (bowl for Mixing Wine and Water)</h2>
+        <h2 class="artwork-name">Dropping a Han Dynasty Urn</h2>
         <h3 class="artist">
-          Ancient Greek Pottery
-                    ·  -450
+          Ai Weiwei
+                    ·  1995
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>On the neck, obverse, battle of centaurs and Lapiths; reverse, youths and women. Around the body, Amazonomachy (battle between Greeks and Amazons)</i><br><br>The ancient Greeks almost never depicted contemporary or historical events in art. Thus, while literary works of the fifth century B.C. make clear that the Greeks understood the magnitude of their victory in the Persian Wars, there was no concern among artists to illustrate major events or personalities. Instead, their preference was for grand mythological battles between Greeks and eastern adversaries, notably Amazons. The Amazons were a mythical race of warrior women whose homeland lay far to the east and north. The most celebrated Amazonomachies in Athens during the first half of the fifth century were large-scale wall paintings that decorated the Theseion and the Stoa Poikile (the Painted Portico). Their influence was considerable and underlies the representation here.<br><br>Attributed to the Painter of the Woolly Satyrs<br><br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247964">The Met</a></span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dropping a Han Dynasty Urn is a photographic artwork created by Ai Weiwei in 1995. Composed of three 148 by 121 cm black-and-white photographs, it documents Ai holding, dropping, and standing over the remains of a Han dynasty urn that was approximately 2,000 years old.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
