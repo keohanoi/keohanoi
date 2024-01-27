@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/pavel-filonov/the-narva-gates-1929.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/joan-mitchell/bracket-1989.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Narva Gates</h2>
+        <h2 class="artwork-name">Bracket</h2>
         <h3 class="artist">
-          Pavel Filonov
-                    ·  1929
+          Joan Mitchell
+                    ·  1989
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1916, Filonov enlisted in the army and fought on the Romanian front of World War I, and returned to St. Petersburg (now Petrograd), after the Russian Revolution of 1917. Optimistic that the revolutionary changes in society would help him spread his artistic ideas, he taught at the Free Workshops of 1918-1922 and founded the group Masters of Analytical Art in 1925. Filonov completed dozens of works during this period, including The Narva Gates, hopeful of their critical reception. Unfortunately, the new Soviet regime, which controlled almost all aspects of social life, was disapproving of Filonov’s analytical style, and forbade the exhibition of his works. The artist was thus left isolated and without means, and starves to death under Soviet rule. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A striking 15 feet wide, Bracket is a magnificent example of Mitchell's late work. Known for creating large works, her use of two or more panels allowed her to create monumental works of art. She used the interplay between panels as a compositional tool, like paragraphs or stanzas in a poem.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
