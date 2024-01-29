@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/gerard-david/the-baptism-of-christ-central-section-of-the-triptych.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/the-judgement-of-solomon-1505(2).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Baptism of Christ (central section of Triptych of Jan des Trompes)</h2>
+        <h2 class="artwork-name">The Judgement of Solomon</h2>
         <h3 class="artist">
-          Gerard David
+          Giorgione
                     ·  1505
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ or the Jan des Trompes Triptych is an altarpiece painted between 1502 and 1508 by the Flemish painter <a target="_blank" href="/en/gerard-david">Gerard David</a>. It is now held by the Groeningemuseum in Bruges. Its central panel is 127.9&nbsp;cm high by 96.6&nbsp;cm wide and shows Christ's baptism in the Jordan, with an angel holding Christ's clothing and God the Father and the Holy Spirit in the form of a dove above Christ. In the background is a landscape with scenes from the life of John the Baptist, whilst the foreground is filled with herbs and flowers.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Judgment of Solomon is a painting by the Italian Renaissance master <a target="_blank" href="/en/giorgione">Giorgione</a> (1500–1501). It is housed in the Galleria degli Uffizi of Florence.
 <br>
-<br>The side panels are 132&nbsp;cm high by 43.1 and 43.2&nbsp;cm wide. They show the donors and their children - on the left panel is Jan de Trompes, treasurer of Bruges, being presented by John the Baptist, his name saint, whilst his second wife Elisabeth van der Meersch is shown being presented by her name saint, John the Baptist's mother saint Elizabeth.</span>
+<br>The work is dimensionally and thematically similar to its Pendant painting Test of Fire of Moses, also in the Uffizi. It shows Solomon, King of the Jews, on the throne, with the court dignitaries and two women at his feet. The two women were both claiming the same child and had appealed to the King. Solomon's choice unmasked the faking one. Behind them are two large oaks which divide the landscape into two parts.
+<br>
+<br>A Ferrarese assistant collaborated with Giorgione in the realization of the figures.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
