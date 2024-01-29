@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/thomas-gainsborough/seashore-with-fishermen-1781(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/gerard-david/the-baptism-of-christ-central-section-of-the-triptych.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seashore with Fishermen</h2>
+        <h2 class="artwork-name">The Baptism of Christ (central section of Triptych of Jan des Trompes)</h2>
         <h3 class="artist">
-          Thomas Gainsborough
-                    ·  1782
+          Gerard David
+                    ·  1505
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Born in rural Suffolk, the largely self-taught Gainsborough established his reputation as a society portraitist at Bath, a popular resort, before moving to London in 1774. Despite his urban success, he never lost his love of the countryside and coastline, lamenting, "I'm sick of portraits and wish very much to ... walk off to some sweet village, where I can paint Landskips."
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ or the Jan des Trompes Triptych is an altarpiece painted between 1502 and 1508 by the Flemish painter <a target="_blank" href="/en/gerard-david">Gerard David</a>. It is now held by the Groeningemuseum in Bruges. Its central panel is 127.9&nbsp;cm high by 96.6&nbsp;cm wide and shows Christ's baptism in the Jordan, with an angel holding Christ's clothing and God the Father and the Holy Spirit in the form of a dove above Christ. In the background is a landscape with scenes from the life of John the Baptist, whilst the foreground is filled with herbs and flowers.
 <br>
-<br>Gainsborough's landscapes, however, are seldom if ever of actual scenery. In accordance with much eighteenth-century art theory, he believed that nature itself was an unsuitable subject. Only after an artist had refined a scene through his sensibilities could he begin to paint it.
-<br>
-<br>In the 1780s, Gainsborough experimented with a "peep-show box." Using translucent paints, he created landscapes on sheets of glass that were then inserted into a shadow box. Backlit with candles, the miniature theatre permitted endless lighting schemes by means of changeable screens of colored silk. Depicting an imaginary seacoast, this canvas reveals the influence of Gainsborough's viewing box. Framed by the dark beach and pale cliff, the sky and surf seem phosphorescent.
-<br>
-<br>As usual, Gainsborough improvised as he worked. The boulder in the lower-right corner conceals two fishermen and an anchor that he later painted out.</span>
+<br>The side panels are 132&nbsp;cm high by 43.1 and 43.2&nbsp;cm wide. They show the donors and their children - on the left panel is Jan de Trompes, treasurer of Bruges, being presented by John the Baptist, his name saint, whilst his second wife Elisabeth van der Meersch is shown being presented by her name saint, John the Baptist's mother saint Elizabeth.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
