@@ -2,23 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/rembrandt/the-stoning-of-st-stephen-1625.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/dirk-bouts/the-entombment.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Stoning Of St. Stephen</h2>
+        <h2 class="artwork-name">The Entombment</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1625
+          Dirk Bouts
+                    ·  1459
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Stoning of Saint Stephen is the first signed painting by Dutch artist <a target="_blank" href="/en/rembrandt">Rembrandt</a>, painted in 1625 at the age of 19. It is currently kept in the Musée des Beaux-Arts de Lyon.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Entombment is a glue-size painting on linen attributed to the Early Netherlandish painter <a target="_blank" href="/en/dirk-bouts">Dieric Bouts</a>. It shows a scene from the biblical entombment of Christ, and was probably completed between 1440 and 1455 as a wing panel for a large hinged polyptych altarpiece. The now-lost altarpiece is thought to have contained a central crucifixion scene flanked by four wing panel works half its height – two on either side – depicting scenes from the Life of Christ. The smaller panels would have been paired in a format similar to Bouts' 1464–67 Altar of the Holy Sacrament. The larger work was probably commissioned for export to Italy, possibly to a Venetian patron whose identity is lost. The Entombment was first recorded in a mid-19th century Milan inventory and has been in the National Gallery, London since its purchase on the gallery's behalf by Charles Lock Eastlake in 1861.
 <br>
-<br>This work is inspired by the martyrdom of Saint Stephen which is recounted in Acts 7. This young deacon in the Christian community of Jerusalem was sentenced to death by stoning. The painting was influenced by the art of <a target="_blank" href="/en/caravaggio">Caravaggio</a> and Adam Elsheimer. It represents the moment when Stephen was stoned outside the city by his many tormentors (about twenty characters), and he utters his last words to Christ as the light around him shows that the heavens are open.
+<br>The painting is an austere but affecting portrayal of sorrow and grief. It shows four female and three male mourners grieving over the body of Christ. They are, from left to right, Nicodemus, Mary Salome, Mary of Clopas, Mary, the mother of Jesus, John the Evangelist, Mary Magdalene and Joseph of Arimathea.
 <br>
-<br>The painting is divided into two distinct zones with a diagonal creating an effect of chiaroscuro: on the left, a man on horseback is in the shadow, and on the right, Stephen and his persecutors are in the light. Saul of Tarsus can be seen seated in the background holding in his lap the coats of the stoners. Some inaccuracies in the drawing can be seen. The character behind Stephen seems to be a self-portrait done into a wider composition, as Spanish painter <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> did in Las Meninas. John Durham suggests that Rembrandt "presents himself as a somewhat alarmed presence, a participant who may be having second thoughts about what was taking place."</span>
+<br>It is one of the few surviving 15th-century paintings created using glue-size, an extremely fragile medium lacking durability. The Entombment is in relatively poor condition compared to panel paintings of similar age. Its colours are now far duller than when it was painted; they would, however, always have appeared as less intense and brilliant than those of comparable oil or tempera paintings on panel. The painting is covered by accumulated layers of grey dirt and cannot be cleaned without damaging the surface and removing large amounts of pigment as its glue-size medium is water-soluble. A strip at the top has been less affected than the rest because it was protected by a frame.
+<br>
+<br>The Entombment shows Christ's body, wrapped in a white linen shroud and still wearing a crown of thorns, as it is lowered into a deep stone tomb. He is attended by seven mourners dressed in contemporary clothing. Among the group of mourners standing at Christ's side, the three female figures are shown with downcast eyes while the two men look directly at Christ; these gazes are reversed with the couple kneeling at his feet. The background contains a wide landscape with a winding pathway and a broad river before a more distant vista of trees and hills. Bouts is considered an innovative painter of landscapes, even in his portrait work where they are included as distant views seen through open windows. The vista in The Entombment is regarded as one of his finest, and is typically composed of distant brown and green hills against a blue sky.
+<br>
+<br>The Pharisee Nicodemus supports Christ as he is lowered, and can be identified by his similarity to Simon the Pharisee in another canvas attributed to Bouts, Christ in the House of Simon. The Virgin wears a white headdress and a dark blue dress with a yellowish mantle, and holds Christ's arm just above his wrist as if afraid to let go of her dead son. She is supported by John the Evangelist, who wears a red robe. Dressed in green robes, Mary Salome stands to the Virgin's left, wiping tears from her face with the fold of her white headdress. Mary of Clopas is behind them, holding a red cloth over her mouth, while the Magdalen is in the foreground at Christ's feet, dressed in a heavily folded cloak. The man in the brown–green tabard at the feet of Christ is probably Joseph of Arimathea, who, according to Gospel, brought Christ's body to Golgotha from Pontius Pilate.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
