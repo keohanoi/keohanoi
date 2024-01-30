@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/bartolome-bermejo/resurrection-and-descent-of-christ-to-limbo-1480.jpg"
+        src="https://uploads3.wikiart.org/00380/images/jan-van-goyen/4-landscape-with-two-oaks-jan-van-goyen-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Resurrection and Descent of Christ into Limbo</h2>
+        <h2 class="artwork-name">Landscape with Two Oaks</h2>
         <h3 class="artist">
-          Bartolome Bermejo
-                    ·  1480
+          Jan van Goyen
+                    ·  1641
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Resurrection is a painting by <a target="_blank" href="/en/bartolome-bermejo">Bartolomé Bermejo</a> conserved at the National Art Museum of Catalonia.
-<br>
-<br>The Resurrection is one of the four surviving compartments of an altarpiece devoted to Christ, the work of <a target="_blank" href="/en/bartolome-bermejo">Bartolomé Bermejo</a>, a painter from Córdoba whose known activity was developed in the Crown of Aragon. Bermejo's work, characterised by its unidealised realism, introduced several novelties from northern European painting, such as the use of oil as a binder instead of <a target="_blank" href="/en/paintings-by-media/tempera-on-gesso-pitch-and-mastic">egg tempera</a>. In this compartment, Christ emerges from the grave before the look of adoration of an angel, while the soldiers guarding the tomb are terrified by the miracle. In the background can be seen the Three Marys, who have left Jerusalem and are walking towards the grave with jars of perfume to anoint Christ's body</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The two gnarled oak trees, brightly illuminated by a few rays of sunlight, stand out sharply against the threatening sky. Van Goyen drew the trees with his brush. He used thin, almost transparent paint for the foliage and thick, grainy paint for the furrowed trunks. The landscape’s near monochrome palette is enlivened by the blue and red doublets of the two figures resting.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
