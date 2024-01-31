@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00109/images/gazmend-freitag/23.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/franz-marc/horse-in-a-landscape-1910.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Eagle</h2>
+        <h2 class="artwork-name">Horse in a landscape</h2>
         <h3 class="artist">
-          Gazmend Freitag
+          Franz Marc
+                    ·  1910
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In mythology, the eagle is linked with the sun. Its power, strength and radiance moreover make it the world's most important emblem, after the lion. Majestic, proud and mighty; it circles in the sky. The eagle not only rules the air, but is also a very special animal. This symbolism is also expressed in the work of Gazmend Freitag.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Horse In Landscape' (1910) is one of the earliest works where Franz Marc, inspired by Kandinsky, experiments with colors. In this painting, there's a purple horse with a blue mane and tail looking over a landscape defined by yellow, red, green and blue areas. The horse is standing with its back to the observer, so that it can take the viewer's perspective.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
