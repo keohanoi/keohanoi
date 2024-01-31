@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/jean-metzinger/l-oiseau-bleu-the-blue-bird-1913.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00142/images/57726d7fedc2cb3880b48098/ingresdeathofdavinci.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">L'Oiseau bleu (The Blue Bird)</h2>
+        <h2 class="artwork-name">Death of Leonardo da Vinci</h2>
         <h3 class="artist">
-          Jean Metzinger
-                    ·  1913
+          Jean Auguste Dominique Ingres
+                    ·  1818
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Parallel to the theories of Bergson, embraced by Metzinger, Gleizes and other members of the Section d'Or, Maeterlinck’s ideas became of interest. Bolstered by mathematics, Reimannian geometry, and new discoveries in science that revealed existence of unseen realms (such as X-rays), and attracted to the concept of extra dimension (in addition the three spatial dimensions), Metzinger likely responded positively to Maeterlinck’s popular play L’Oiseau bleu (written in 1908), finding in it, perhaps, the analogy to the Cubist quest for higher realities.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Death of Leonardo da Vinci is an 1818 painting by the French artist <a target="_blank" href="/en/jean-auguste-dominique-ingres">Jean Auguste Dominique Ingres</a>, showing the painter <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> dying, with Francis I of France holding his head. It was commissioned by the Pierre Louis Jean Casimir de Blacas, the French ambassador in Rome, and now hangs in the Petit Palais in Paris.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
