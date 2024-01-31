@@ -2,27 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/edward-burne-jones/king-cophetua-and-the-beggar-maid-1884.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00142/images/jacob-van-ruisdael/view-of-haarlem-with-bleaching-grounds.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">King Cophetua and the Beggar Maid</h2>
+        <h2 class="artwork-name">View of Haarlem with Bleaching Grounds</h2>
         <h3 class="artist">
-          Edward Burne-Jones
-                    ·  1884
+          Jacob van Ruisdael
+                    ·  1665
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">King Cophetua and the Beggar Maid is an 1884 painting by the Pre-Raphaelite artist <a target="_blank" href="/en/edward-burne-jones">Edward Burne-Jones</a>. The painting illustrates the story of 'The King and the Beggar-maid", which tells the legend of the prince Cophetua who fell in love at first sight with the beggar Penelophon. The tale was familiar to Burne-Jones through an Elizabethan ballad published in Bishop Thomas Percy's 1765 Reliques of Ancient English Poetry and the sixteen-line poem The Beggar Maid by Alfred, Lord Tennyson.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">View of Haarlem with Bleaching Fields (c. 1670–1675) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch painter Jacob van Ruisdael. It is an example of Dutch Golden Age painting and is now in the collection of the Kunsthaus Zürich.
 <br>
-<br>Burne-Jones first attempted the story in an oil painting of 1861–62 (now in the Tate Gallery, London). He was working out a new composition around 1874 or 1875, and began the painting in earnest in 1881. He worked on it through the winter of 1883–84, declaring it finished in April 1884.
+<br>This painting was documented by Hofstede de Groot in 1911, who wrote; "92. The Haarlem Bleaching-Grounds. In the left foreground is a marshy pool surrounded with trees. A road leads from it up a hill towards the right background. In the middle distance is part of the bleaching-grounds&nbsp;; large pieces of linen are spread out near cottages, and many persons are at work. In the distance is the town of Haarlem, dominated by the church of St. Bavo. The sky is filled with great masses of cloud which overshadow almost the whole landscape&nbsp;; stray sunbeams illumine part of the town and the bleaching-grounds. Signed in full in the left-hand bottom corner&nbsp;; canvas, 25 1/2 inches by 22 inches. Exhibited at Diisseldorf, 1886, No. 288. Sale. Count Sierstorpff, Berlin, April 19, 1887, No. 67.
 <br>
-<br>The composition is influenced by <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>'s Madonna della Vittoria (1496–96). Several studies for the final work survive. A small <a target="_blank" href="/en/paintings-by-media/tempera-and-gouache-on-canvas">gouache</a> (bodycolour) of c. 1883 (now in the collection of Andrew Lloyd Webber) shows the king and the beggar maid much closer together, and a full-scale cartoon in bodycolour and coloured chalks of the same year (now in the Birmingham Museum and Art Gallery) features an entirely different approach to lighting the figures.
-<br>
-<br>King Cophetua was exhibited at the Grosvenor Gallery in 1884 and became Burne-Jones's greatest success of the 1880s for its technical execution and its themes of power and wealth overborne by beauty and simplicity. It was heralded as the "picture of the year" by The Art Journal and "not only the finest work Mr Burne-Jones has ever painted, but one of the finest pictures ever painted by an Englishman" by The Times. The painting was exhibited in France in 1889, where its popularity earned Burne-Jones the Legion of Honour and began a vogue for his work. The artist's wife Georgiana Burne-Jones felt "this picture contained more of Edward's own qualities than any other he did."
-<br>
-<br>The painting was purchased by the Earl of Wharncliffe (d. 1899) and acquired by public subscription through the Burne-Jones Memorial Fund from his executors in 1900. It is now in Tate Britain. The full-scale cartoon was acquired for Birmingham in 1947.</span>
+<br>This scene is very similar to other panorama paintings Ruisdael made in this period and these Haerlempjes often served as inspiration for later painters of landscape, such as Jacob Maris of the Hague School.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
