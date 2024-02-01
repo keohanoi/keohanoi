@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00237/images/ancient-greek-painting/terracotta-lekanis-dish-with-lid-and-finial-250-1.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/nyoman-masriadi/save-the-land-1998.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Terracotta Lekanis (dish) with Lid and Finial</h2>
+        <h2 class="artwork-name">Save the Land</h2>
         <h3 class="artist">
-          Ancient Greek Painting and Sculpture
-                    ·  -250
+          Nyoman Masriadi
+                    ·  1998
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This elaborate vase belongs to a small class of vessels from Centuripe, a small town in eastern Sicily, where they were apparently made. Characteristically, sumptuous, gilt, high-relief decoration, imitating fine metalwork, is combined with bright tempera paintings. The front and sides of the lid depict a complex scene with several female figures around an altar. One figure holds a tambourine. In the handle-zone, a Medusa head is flanked by Erotes amidst a floral scroll. The finial and base are decorated with shafts of wheat and leaves.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/253048">The Met</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Save the Land was painted in 1998, an important time in Masriadi's life. He had returned to Bali to get married, and his art from this period is a deep reflection of his roots and the changes being wrought by modernization and economic growth on his homeland. Masriadi has said that a painting should speak for itself without any explanation from the artist. His works from this period contain spontaneous sketches and drawings that emerge on the surface of his paintings, and together strongly speak for the Artist. 'Save the Land' is a comment on the uncontrolled development of Bali and the universal theme of environmental awareness. This theme is deeply personal for Masriadi, as when he was a child his parents opened a roadway stall on what was a quiet road but which soon became a noisy and congested nightmare. His horror at the noise and loss of the peace and calm of the rice fields, seems to have driven Mariadi, into an inner world of isolation, contemplation and observation.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
