@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00294/images/aztec-art/coiled-serpent-s.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00246/images/christo-and-jeanne-claude/pont-neuf-paris-1975-85.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Coiled Serpent</h2>
+        <h2 class="artwork-name">Pont Neuf (Paris)</h2>
         <h3 class="artist">
-          Aztec Art
+          Christo and Jeanne-Claude
+                    ·  1985
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Serpents held an important place in the belief systems of many peoples in ancient Mexico and they are the most frequently portrayed animals in art. Serpents had multiple connotations and inspired sky and earth imagery alike. Above all, they were fertility symbols, probably suggested by their terrestrial habitat and periodic skin shedding. At the Main Temple in the Aztec imperial capital Tenochtitlan, serpent depictions proliferate: monumental snake heads, probably representing different species—with open fanged mouths and forked tongues—flank braziers and stairways leading to the sanctuaries. The temple itself is said to have been surrounded at the time of the Spanish conquest by a serpent wall, or Coatepantli, formed by hundreds of adjoining sculptures of snakes. In three-dimensional stone sculpture, serpents are most frequently shown coiled or knotted, as in this example. Carved from a porous stone, the body of the reptile is a tightly wound knot; the tail end with two rattles in shallow relief is visible on one side. Its flattened head, emerging from the tangled body at the top, has a pointed, closed mouth, and sunken oval eyes under bulbous supraorbital ridges. The function of this snake sculpture is uncertain.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Spanning the Seine River and crossing the western tip of the Ile de la Cité, Pont Neuf is Paris’s oldest bridge and one of its most historically important monuments. “I wanted to transform it, to turn it from an architectural object, an object of inspiration for artists, to an art object, period,” Christo told <i>Le Figaro</i> in 1985. To do this, he planned to wrap the entire structure in plastic fabric, creating a bizarre and distinctly modern illusion in the most ancient part of Paris.<br><br>Beautifully simple though the idea was, its execution would be anything but. Christo and Jeanne-Claude had worked with historical buildings before, but had never approached one that was both an icon of a major city and a busy public thoroughfare. This did not deter them, and in 1975, they began raising funds for their first big project in the French capital since 1962. This time, however, it was clear they would need permission from a dizzying number of different administrative bodies. After nearly a decade of negotiations, the project was completed in September 1985 to a sensational response, making Christo (if not Jeanne-Claude) one of the most famous artists in the world.<br><br><a target="_blank" href="https://www.artsy.net/article/artsy-editorial-understanding-christo-jeanne-claude-6-pivotal-artworks">Artsy</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
