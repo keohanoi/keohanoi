@@ -2,21 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/mira-schendel/untitled-from-droguinhas-1966.jpg"
+        src="https://uploads1.wikiart.org/images/caspar-david-friedrich/not-detected-1(1).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Untitled (from Droguinhas)</h2>
+        <h2 class="artwork-name">Two Men Contemplating the Moon</h2>
         <h3 class="artist">
-          Mira Schendel
-                    ·  1966
+          Caspar David Friedrich
+                    ·  1830
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the mid-1960s, Schendel produced a series of three-dimensional works made of knotted rice paper she had intertwined by hand. She thought of them as ephemeral sculptures—not meant to last—and called them Droguinhas (literally “little drugs”), a Brazilian slang expression that means “Nothing” or indicates something worthless. This formless network of twisted cords evokes the act of weaving and can be placed horizontally or vertically. A trained philosopher and poet, Schendel used her art to address existential questions and to subvert the traditional hierarchies between artistic mediums.
-<br>
-<br>(Around the mid-1960s, Schendel produced a series of three-dimensional works that she thought of as ephemeral sculptures. She called them Droguinha, or "little drug," a slang expression that signifies "nothing" or "something worthless." Like this one, they are composed of knotted rice paper that Schendel intertwined by hand. The formless network of twisted cords evokes the act of weaving and can be placed horizontally or vertically. Neutralizing the tension between figure and support, material and meaning, Droguinha represents a radical artistic example of void or absence materialized as a metaphysical fullness.)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the third version of one of Friedrich's most famous paintings, of which the first (1819) is in the Gemäldegalerie, Dresden, and the second (ca. 1824) is in the Alte Nationalgalerie, Berlin. The two men contemplating the sinking moon have been identified as Friedrich himself, on the right, and his talented young colleague August Heinrich (1794–1822). The mood of pious contemplation relates to fascination with the moon as expressed in contemporary poetry, literature, philosophy, and music. Both figures are seen from the back so that the viewer can participate in their communion with nature, which the Romantics saw as a manifestation of the Sublime.
+<br>Although the landscape is imaginary, it is based on studies after nature that Friedrich had made in various regions at different times. Both men wear Old German dress, which had been adopted in 1815 by radical students as an expression of opposition to the ultraconservative policies then being enforced in the wake of the Napoleonic Wars. The staunchly patriotic Friedrich deliberately ignored the 1819 royal decree forbidding this practice and depicted figures in traditional costume until his death.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
