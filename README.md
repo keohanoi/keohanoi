@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00380/images/eugene-delacroix/dante-and-virgil-in-the-underworld-ferdinand-victor-eugene-delacroix.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00209/images/kazimir-malevich/1915-2.png!Large.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Barque of Dante (Dante and Virgil in the Underworld)</h2>
+        <h2 class="artwork-name">Black Square</h2>
         <h3 class="artist">
-          Eugene Delacroix
-                    ·  1822
+          Kazimir Malevich
+                    ·  1915
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Delacroix, in his first attempt to gain entrance into the Paris Salon of 1822, worked non-stop for two and a half months on this, The Barque of Dante, his first entry into the art establishment. After it was completed, Delacroix was depleted and weak, and in need of recuperation. The critical reception was varied, from reports that it was drab, to the feeling that the artist had hope, to that he was already a distinguished colorist. That same summer, the state of France purchased the painting for 2,000 francs, and it was moved to the Museum of Luxembourg. Seven years after the artist’s death, it was moved to the Louvre, where it now resides.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">One of the most famous paintings in Russian art, Black Square marked the turning point of the Russian avant-garde movement. Before creating this painting, Malevich spent eighteen months in his studio, laboring over thirty non-objective paintings. In the end, he had created a series of non-objective paintings, of which Black Square is one. His invention of the word “suprematism” was meant to refer to the supremacy of the new geometric forms. Although the other works in this period were created with visual brushstrokes and asymmetrical forms, Black Square was the prominent piece, with no visual textures and a perfectly symmetrical shape, as it was the paramount of Malevich’s change to pure geometric abstraction: suprematism. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
