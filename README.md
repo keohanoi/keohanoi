@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/james-brooks/number-13-1965.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/john-gibson/the-tinted-venus-detail-1862-5.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Number 13</h2>
+        <h2 class="artwork-name">The Tinted Venus (detail)</h2>
         <h3 class="artist">
-          James Brooks
-                    ·  1965
+          John Gibson
+                    ·  1862
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Throughout the sixties the number of compositional elements in Brooks' artworks decreased. The frenetic movement of his earlier works also relaxed. The paintings became slower, and the palette was often reduced, as in Number 13, to just black and white, or to primary hues. By placing these kinds of limitations on his paintings, Brooks hoped to achieve what he termed a "looming mystery."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A member of the Royal Academy, John Gibson was one of the first neoclassical sculptors to paint his marble statues. His Venus, which created a sensation when first shown at the London International Exhibition in 1862, holds the golden apple offered to her by Paris. It both entranced and scandalized Victorian society, and also suggests the same polychrome realism of the Cnidian Aphrodite.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
