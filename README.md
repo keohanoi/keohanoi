@@ -2,20 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/giorgio-morandi/still-life-1946.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/paulo-tercio/aleijadinho-et-eius-proditores-left-panel-2014-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Still Life</h2>
+        <h2 class="artwork-name">Aleijadinho Et Eius Proditores - Right Panel</h2>
         <h3 class="artist">
-          Giorgio Morandi
-                    ·  1946
+          Paulo Tercio
+                    ·  2014
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Morandi repeatedly painted the same selection of familiar items, including bottles, bowls, pots and boxes. In his paintings, they lose their domestic purpose, to become sculptural objects that invite meditation and contemplation. Through repeated scrutiny of these simple items, Morandi created a sense of timelessness. However, his fondness for the earthy colours of his native Bologna helps to anchor such works in the artist's own life and surroundings.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Aleijadinho Et Eius Proditores is an ultimate art piece tribute to  Antonio Francisco Lisboa. The artwork painted by artist Paulo Tercio depicts not only the master of the Brazilian baroque as the main figure but also his companion Narcisa Rodrigues da Conceicao, far right, and his disciple Justino de Almeida, far left.  The representation alludes to the soul-searing pain of betrayals Aleijadinho experienced whilst allegedly suffering from leprosy.
+<br>
+<br>The original drawing sketch for this composition was made in May 2013. It was based on the frequent visits of the artist to his psychiatrist and psychotherapist. Nevertheless the transformed panel painting seen here in oil on gesso for an altarpiece came to life after a spiritual revelation from Aleijadinho himself. This event induced the artist to adapt the context of the art piece and change the figures giving the work its  universal dimension.
+<br></span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
