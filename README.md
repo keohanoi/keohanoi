@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00437/images/jacob-macznik/window-view.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/gustave-dore/don-quixote-and-sancho-setting-out-1863.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Window View</h2>
+        <h2 class="artwork-name">Don Quixote and Sancho Setting Out</h2>
         <h3 class="artist">
-          Jacob Mącznik
+          Gustave Dore
+                    ·  1863
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This view from the window of his tiny Paris flat/studio demonstrates mastery of perspective and of clarity by the École de Paris painter Jacob Macznik.  He manages to capture the enhanced clarity that exists visually when the outdoors are well-illuminated yet overcast.  Perspective is displayed by buildings, sidewalk, curb, and rooftops outside, as well as the tablecloth inside.  The bouquet adds curves, interest, and additional color to what might otherwise have been simply a technically masterful work.  It also informs us that the foreground is a table, since the vase sits atop it.  All in all, the entire image is composed with much thought, attention to detail, and artistic skill.<br><br>This painting is privately held by the artist's nephew. Denotation of the copyright is embedded within this low resolution image of the painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although it was published in the 17th century, Cervantes’ novel Don Quixote was still very popular during the time Gustave Dore was chosen to illustrate the book in the 1860’s. His depiction of the farcical Quixote and the short and paunchy Sancho Panza became so famous that they influenced entire generations of readers. The images he created depicting Quixote, Panza, and the other characters through their episodes became so popular that they became the standard for the way in which people viewed the characters in the book. Further stage and film publications, as well as public image, were all based on Dore’s depiction of Quixote’s physical appearance.  </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
