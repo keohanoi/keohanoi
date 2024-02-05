@@ -2,19 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/andre-pierre-arnal/op-ra-1975.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/lorenzo-lotto/st-dominic-polyptych.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Opéra</h2>
+        <h2 class="artwork-name">St. Dominic Polyptych</h2>
         <h3 class="artist">
-          Andre-Pierre Arnal
-                    ·  1975
+          Lorenzo Lotto
+                    ·  1506
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">”L'année 1975 devait sonner le glas des "pliages" dans leur acception liée à Supports/Surfaces, Arnal comme chant du cygne, comme pour se dégager de ce travail en abyme s'offrit une dernière pirouette qui fut si contraignante qu'elle le mit sur le flanc de longs mois, qu'elle fut, à ses écrits, un long calvaire, "le fruit d'un malaise, d'une souffrance et de leur expulsion". Opéra, s'il est une suite logique aux pliages fut surtout une ultime envie d'avancer encore sur ce chemin. De ne pouvoir réaliser une sculpture avec du tissu il le déchira en 500 morceaux de 30 x 30 cm qu'il teinta, encolla et plia. Pas un ne fut vraiment plié comme l'autre, pas une couleur ne fut vraiment répétée. Les 500 morceaux, jetés à terre dans un désordre hasardeux ressemblant alors "à de la peinture tombée en morceaux". Il clôtura ces années par ces morceaux d'anonymat perdus dans un ensemble comme une remis au pas d'une aventure qui n'avait plus que le temps comme mesure. Il lui fallait en finir définitivement avec l'époque, avec le pliage et repartir vers de nouvelles aventures avec toujours le hasard comme facteur de liberté et d'étonnement.” (Alexandre Grenier, in Les années Supports/Surfaces, Galerie Brimaud, 2008)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Recanati Polyptych (Italian: Polittico di Recanati) is a painting by the Italian Renaissance painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, executed in 1506-1508 and housed in the Civic Museum of Villa Colloredo Mels, Recanati, Italy. The work is dated and signed Laurent[ius] Lotus MDVIII.
+<br>
+<br>Lotto began to work on the piece in 1506 as a devotional for the church of San Domenico in Recanati. The work was seen and described complete and in situ by <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a> in his Vite, who said Lotto was still young and followed partly the manner of the Bellini, partly that of Giorgione. By 1861, the polyptych was disassembled, but was later recomposed and transferred to the Communal Art Gallery. San Domenico still contains a Lotto fresco depicting St Vincent Ferrer.
+<br>
+<br>The polyptych includes a larger altarpiece in the center, flanked by two smaller ones in the same shape. At the top are two side panels with Saints, and a top rectangular one depicting the Pietà. The polyptych scheme, related to a 15th-century old fashioned scheme, was perhaps chosen by the friars of the convent: Lotto anyway developed it into a single composition, at least in the lower panels, with a scene set under a loggia with a coffered barrel vault in center and two minor vaults at the sides, while in the background is a landscape representation.
+<br>
+<br>The niches in the background, featuring Byzantine-style mosaics, are inspired by earlier works by <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, while the checkrboard pavement is an example of knowledge of the geometrical perspective introduced by the Italian Renaissance in the 15th century.
+<br>
+<br>The panels are:
+<br>
+<br>The presence of Dominican saints is connected to the order who held the church, while Flavian and Vitues are the patrons saints of Recanati. Saint Dominic himself is portrayed in the central panel while receiving the white scapular from the Virgin. Next to Dominic are two little musician angels, who are scared by him.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
