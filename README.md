@@ -2,26 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/thomas-cole/the-dream-of-the-architect-1840.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/doug-wheeler/infinity-room-sa-mi-75-dz-ny-12-2012.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The dream of the architect</h2>
+        <h2 class="artwork-name">Infinity Room (SA MI 75 DZ NY 12)</h2>
         <h3 class="artist">
-          Thomas Cole
-                    ·  1840
+          Doug Wheeler
+                    ·  2012
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Architect's Dream is an 1840 oil painting created by <a target="_blank" href="/en/thomas-cole">Thomas Cole</a> for New York architect Ithiel Town. Cole incorporated pieces of architecture from Egyptian, Greek, Roman, and Gothic styles in various different parts of the painting, having dabbled in architecture previously. Cole finished the painting in only five weeks and showed it in the National Academy of Design annual exhibition that year. However, the painting was not well received by Ithiel, who refused to accept the painting because they claimed that it was "exclusively architectural".
-<br>
-<br>In a letter written in the late 1830s, Cole stated that:
-<br>
-<br>The painting was acquired by the Toledo Museum of Art in 1949.
-<br>
-<br>It features on the cover of the book The Passion of the Western Mind by Richard Tarnas.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Infinity Room</i> is an "infinity environment" created by Doug Wheeler. It consists of an all-white room with round corners, using saturated light and space in a way that removes visual reference points for the viewer. The lightning is programmed to have a 32 minutes cycle switching from dark blue to intense white and vice versa, evoking a day-into-night-into-day cycle. It was hosted in David Zwirner Gallery, New York.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
