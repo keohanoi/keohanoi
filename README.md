@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00333/images/israel-tsvaygenbaum/israel-tsvaygenbaum-moses-and-the-masks.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/andre-pierre-arnal/op-ra-1975.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Moses and the Masks</h2>
+        <h2 class="artwork-name">Opéra</h2>
         <h3 class="artist">
-          Israel Tsvaygenbaum
-                    ·  2002
+          Andre-Pierre Arnal
+                    ·  1975
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Israel Tsvaygenbaum was always fascinated with Moses in the Bible and his tremendous role in Jewish history. He always had an inclination to create a painting about Moses and his relationship with his people, who occasionally challenged and disappointed him with their behavior. The masks represent all our weakness. In the painting, Moses is turned to stone when he saw that his people built a golden calf to worship instead of worshiping God who saved them from slavery and that they too, sin. The painting “Moses and the Masks” is a reflection of complexity of human beings.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">”L'année 1975 devait sonner le glas des "pliages" dans leur acception liée à Supports/Surfaces, Arnal comme chant du cygne, comme pour se dégager de ce travail en abyme s'offrit une dernière pirouette qui fut si contraignante qu'elle le mit sur le flanc de longs mois, qu'elle fut, à ses écrits, un long calvaire, "le fruit d'un malaise, d'une souffrance et de leur expulsion". Opéra, s'il est une suite logique aux pliages fut surtout une ultime envie d'avancer encore sur ce chemin. De ne pouvoir réaliser une sculpture avec du tissu il le déchira en 500 morceaux de 30 x 30 cm qu'il teinta, encolla et plia. Pas un ne fut vraiment plié comme l'autre, pas une couleur ne fut vraiment répétée. Les 500 morceaux, jetés à terre dans un désordre hasardeux ressemblant alors "à de la peinture tombée en morceaux". Il clôtura ces années par ces morceaux d'anonymat perdus dans un ensemble comme une remis au pas d'une aventure qui n'avait plus que le temps comme mesure. Il lui fallait en finir définitivement avec l'époque, avec le pliage et repartir vers de nouvelles aventures avec toujours le hasard comme facteur de liberté et d'étonnement.” (Alexandre Grenier, in Les années Supports/Surfaces, Galerie Brimaud, 2008)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
