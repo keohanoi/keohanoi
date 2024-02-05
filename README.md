@@ -2,31 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/albrecht-durer/martyrdom-of-the-ten-thousand-1508.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/hieronymus-bosch/st-liberata-triptych-1504.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Martyrdom of the Ten Thousand</h2>
+        <h2 class="artwork-name">St. Liberata Triptych</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1508
+          Hieronymus Bosch
+                    ·  1504
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Martyrdom of the Ten Thousand is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, dating to 1508 and now at the Kunsthistorisches Museum of Vienna, Austria. It is signed on a cartouche which hangs from the artist's self-portrait in the center, saying Iste fatiebat Ano Domini 1508 Albertus Dürer Aleman.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Crucifixion of St Julia is a triptych by the Dutch painter <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. Like many Bosch paintings, the date of this work was long disputed, until dendochronologic analysis assigned it to around 1497. It is housed at the Palazzo Ducale in Venice.
 <br>
-<br>The painting was commissioned by Frederick III, Elector of Saxony for the All Saints' Church, Wittenberg. Frederick had been Dürer's patron since 1496. He himself chose the subject, as his collection of relics included some of the Ten thousand martyrs.
+<br>According to some historians, Bosch could have painted this work during a short trip to northern Italy, although it is more likely that it was a commission from an Italian trader or diplomat active in the Flanders.
 <br>
-<br>Dürer had used the same subject for a woodcut of some ten years before, but in the new work he eliminated some macabre details such as the torture of the bishop Acacius, having his eyes stripped through a drill. This scene was replaced by a crucifixion on the right and by the presence of the bishop in chains behind it.
+<br>The earliest mention of the triptych comes from the 1771 treatise Della pittura veneziana, as located in the Palazzo Ducale's "Sala dell'Eccelso Tribunale". In 1893 it was moved by the Austrians to Vienna, where it remained until 1919 when it was returned to Venice. The work has been damaged by a fire, although its attribution to Bosch has never been disputed.
 <br>
-<br>The work was repeatedly mentioned in the correspondence between the artist and Jakob Heller of Frankfurt. Dürer received 280 florins for it.
+<br>The central panel depicts the crucifixion of a saint usually identified with Saint Julia of Corsica (sometimes with Saint Wilgefortis). In a depiction related to Christ's crucifixion, the centrally themed woman is in an elevated position against the sky, balanced by a large crowd gathered at the foot of the cross, including executioners and common people. A typical element is the fainting man supported by his neighbors.
 <br>
-<br>The painting illustrates the legendary martyrdom of ten thousand Christian soldiers perpetrated on Mount Ararat by the King of Persia, Shapur I, by the order of the Roman emperor Hadrian or Antoninus Pius, or, according to other sources, Diocletian.
-<br>
-<br>Dürer painted numerous different martyrdom scenes within a forest with clearings and cliffs. In the foreground are crucifixions, decapitations, crushing with a hammer. The Persian King is portrayed as an Ottoman sultan, riding a horse on the right. The executioners also wear gaudy Ottoman dress. In the background are prisoners walking through to a cliff from where they are thrown down against rocks and thorny bushes, as well as scenes of fighting, stoning and hitting with huge clubs.
-<br>
-<br>At the center of the crowded scene, dressed in black, are two characters who walk placidly, apparently unaware of the horrors around them: one is Dürer's self-portrait (holding his signature), the other his friend and humanist Conrad Celtes, who had died a few months before the execution of the painting.</span>
+<br>The sides show two cities: at right, a port characterized by fanciful domed buildings and several sunken ships; at left is city on fire, occupied by demons. At the bottom are several parapets, with, at left, a hermit with a dark hood (perhaps St. Anthony in Meditation), and, at right, a monk and a soldier who point at the central panel, traditionally identified as slave-dealers.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
