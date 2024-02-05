@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/albert-dubois-pillet/la-dame-la-robe-blanche-1886.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00328/images/louise-bourgeois/femme-maison-1946-1947-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman in White</h2>
+        <h2 class="artwork-name">Woman-House</h2>
         <h3 class="artist">
-          Albert Dubois-Pillet
-                    ·  1886
+          Louise Bourgeois
+                    ·  1947
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This portrait of an unidentified woman was one of the first <a target="_blank" href="https://www.wikiart.org/en/paintings-by-style/neo-impressionism">Neo-Impressionist</a> portraits. As many of the group concentrated on depicting color in its greatest luminosity, their subject matter tended toward <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/landscape">landscapes</a> and <a target="_blank" href="https://www.wikiart.org/en/paintings-by-genre/cityscape">cityscapes</a>, but a few artists went beyond such subjects. The MAMC in Saint-Étienne, France has dubbed her <i>Madame P</i>, but, at the time of the work's inception, art critic Félix Fénéon called her <i>Mademoiselle B</i>. Seated in an upholstered chair, placed before a background wallpapered with floral arabesques, the woman dressed in white, a blue flower on her breast, looks with an indifferent gaze past the viewer.<br><br>Albert Dubois-Pillet was a career military officer and self-trained artist whose artistic endeavors were often discouraged by the military establishment. He met <a target="_blank" href="https://www.wikiart.org/en/paul-signac">Paul Signac</a> and <a target="_blank" href="https://www.wikiart.org/en/georges-seurat">Georges Seurat</a> in 1884 and joined them in founding the <a target="_blank" href="https://www.wikiart.org/en/artists-by-painting-school/soci-t-des-artistes-ind-pendants-society-of-independent-artists#!#resultType:masonry">Société des Artistes Indépendants</a>. He began experimenting with Neo-Impressionism and by 1885 had adopted the <a target="_blank" href="https://www.wikiart.org/en/paintings-by-style/pointillism">Pointillist</a> technique, becoming one of the first artists to do so. The shimmering effect of the subtle gold arabesques in the wallpaper, the blue flower, and the touches of color in her white dress convey a sense of wealth and elegance, yet the woman seems static as if her figure was meant to be the decorative element of the room.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is titled <i>Femme Maison</i>. And that meant to Louise Bourgeois either “woman house” or “house woman” in French. She was a native of France and always went back and forth between English and French.<br>In this period in the 1940s, she was raising three small boys, and so she was certainly thinking of how she felt trying to be an artist and also a stay at home mother. She chose architectural imagery to, in effect, suffocate this woman. It’s kind of dire, in a way. But on the other hand, the woman stands very upright with a certain dignity. And we can tell it's a self-portrait because the hair that comes out of the house was a signifier of Bourgeois’ own long hair.<br><br>Architecture was a motif she used throughout her career to symbolize her feelings. She saw architectural structures as a place of refuge. On the other hand, she saw that an architectural structure could also be a trap.<br><br>Bourgeois' <i>Femme Maison</i> imagery became a symbol of the feminist art movement in the late 60s and in the 70s. Women, in particular, brought attention to the body and to issues of biography and personal feelings into artworks. Bourgeois had always been dealing with these things, so the Femme Maison image was very resonant with feminist artists, and I find that it's still resonant with women.<br><br><u>Deborah Wye for MOMA</u></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
