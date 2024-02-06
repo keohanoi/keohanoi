@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/rembrandt/flora-1634.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/henri-matisse/music-1910.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Flora</h2>
+        <h2 class="artwork-name">Music</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1634
+          Henri Matisse
+                    ·  1910
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Rembrandt painted his wife Saskia van Uylenburgh as Flora, goddess of spring and flowers, three times: in 1634,1635 and 1641. In this work he combined elements of pastoral and historical portraits. Created in the year of their marriage, this painting shows the love and admiration the artist felt for the young woman. The contrast between the young sitter's diffident pose and the sumptuousness of her richly embroidered clothes and accessories gives the image a special charm. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"Music" forms a pair to "The Dance", also painted in 1910. After the collector Sergey Shchukin commissioned "The Dance", he wrote to Matisse asking for another panel on the subject of music. It is only when seen together that they acquire their full resonance.
+<br>
+<br>Matisse worked on the huge canvas for "Music" without preparatory sketches and rethought the composition numerous times. The canvas thus bears the traces of numerous alterations, and we can almost trace all the steps in the artist's difficult search for the desired effect. Once complete, the central idea of the Shchukin ensemble was man's achievement of a state of completeness through passionate immersion in creativity.
+<br>
+<br>"Music" is built up of the same three elements as "The Dance": the same expressive harmony of green, red and blue; the five simplified figures of musicians and singers accord with the five dancers; as in "The Dance", Man is one with Earth and Heaven. He has mounted the hill, torn himself away from everyday routine and become an image-symbol, existing outside of time and space. But "Music" amazes us with its concentrated calm, the absolute immobility of the isolated figures, the total concentration on the playing of musical instruments and singing. The open mouths seem to resonate and force us to physically experience the human voices pouring from within. Whilst the figures, who seem almost like musical notation on a page, are totally enclosed within themselves, the music unites them in a single whole, the violin-playing conductor acting as the central figure in the composition.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
