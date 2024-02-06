@@ -2,29 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/lorenzo-lotto/st-dominic-polyptych.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/frans-hals/regents-of-the-old-men-s-alms-house-haarlem-1664.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Dominic Polyptych</h2>
+        <h2 class="artwork-name">Regents of the Old Men's Alms House, Haarlem</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1506
+          Frans Hals
+                    ·  1664
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Recanati Polyptych (Italian: Polittico di Recanati) is a painting by the Italian Renaissance painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, executed in 1506-1508 and housed in the Civic Museum of Villa Colloredo Mels, Recanati, Italy. The work is dated and signed Laurent[ius] Lotus MDVIII.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Regents of the Old Men's Almshouse is a regents' group portrait of five regents and their servant painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> in 1664 for the Oude Mannenhuis in Haarlem, the Netherlands. It forms a pendant with the Regentesses of the Old Men's Almshouse.
 <br>
-<br>Lotto began to work on the piece in 1506 as a devotional for the church of San Domenico in Recanati. The work was seen and described complete and in situ by <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a> in his Vite, who said Lotto was still young and followed partly the manner of the Bellini, partly that of Giorgione. By 1861, the polyptych was disassembled, but was later recomposed and transferred to the Communal Art Gallery. San Domenico still contains a Lotto fresco depicting St Vincent Ferrer.
+<br>Though it is no longer known which name belongs with which face, the regents portrayed were Jonas de Jong, Mattheus Everzwijn, dr. Cornelis Westerloo, Daniel Deinoot and Johannes Walles.
 <br>
-<br>The polyptych includes a larger altarpiece in the center, flanked by two smaller ones in the same shape. At the top are two side panels with Saints, and a top rectangular one depicting the Pietà. The polyptych scheme, related to a 15th-century old fashioned scheme, was perhaps chosen by the friars of the convent: Lotto anyway developed it into a single composition, at least in the lower panels, with a scene set under a loggia with a coffered barrel vault in center and two minor vaults at the sides, while in the background is a landscape representation.
+<br>Frans Hals painted them in his "loose style", with rough brush strokes. The painting is traditionally dated 1664, though no archival evidence has yet been found to confirm this. The date is chosen as the middle of the term that the sitters served as regents. Though the paintings as pendants seem to belong together, they did not hang together, and as was the case in the St. Elisabeth hospital across the street, they probably each hung in a separate regents' meeting room; the one for the ladies in the ladies' meeting room and the one for the men in the men's meeting room.
 <br>
-<br>The niches in the background, featuring Byzantine-style mosaics, are inspired by earlier works by <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, while the checkrboard pavement is an example of knowledge of the geometrical perspective introduced by the Italian Renaissance in the 15th century.
+<br>The standing figure second from the right is holding out a piece of paper. He is older and wearing a collar that was long out of fashion by the 1660s. He is probably a valued servant or concierge, but his name has been lost. Seated next to him is a man wearing a floppy hat perched at an angle. His face appears distorted and some critics felt that Hals had lost his touch, while others believed the man had been drunk or suffered from nerve damage in the right half of his face, perhaps from a stroke. Whatever the case, the regents never complained about the painting and it is likely that they were satisfied with the commission they gave to the elderly Hals.
 <br>
-<br>The panels are:
+<br>In the 19th century when Hals' loose brushwork became popular with impressionists, several copies were made of this painting. A much earlier copy that was made in the 18th century shows how layers of varnish almost made the table disappear altogether over time.
 <br>
-<br>The presence of Dominican saints is connected to the order who held the church, while Flavian and Vitues are the patrons saints of Recanati. Saint Dominic himself is portrayed in the central panel while receiving the white scapular from the Virgin. Next to Dominic are two little musician angels, who are scared by him.</span>
+<br>Today the painting is considered one of the highlights of the Frans Hals Museum, which is housed in the same building for which it was originally commissioned. The complex has been unrecognizably rebuilt, however, and the painting no longer hangs in a specific place, but moves around according to various exhibition needs.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
