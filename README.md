@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/hildegard-of-bingen/prayer-book-of-hildegard-of-bingen-1179.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/frank-stella/michapol-i-1971.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Prayer Book of Hildegard of Bingen</h2>
+        <h2 class="artwork-name">Michapol I</h2>
         <h3 class="artist">
-          Hildegard of Bingen
-                    ·  1179
+          Frank Stella
+                    ·  1971
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This illustration, a coloured ink drawing, representing The Feeding of the Five Thousand, is from a manuscript named the 'Prayer Book of Hildegard of Bingen' as identified by a later inscription in the book. However, her ownership of the book is questioned. The manuscript is thought to have been made in the Middle Rhine region. This richly decorated manuscript was intended to serve the private devotions of a woman of high rank.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The shaped canvas recurs in the works of Stella's Polish Village series, to which Michapol I belongs. Each composition is developed from color variations and interlocking geometric forms influenced in part by Russian Constructivism. Also inspired by Polish synagogues of the seventeenth through nineteenth centuries, the works of the Polish Village series are large-scale collages, in which the artist pasted felt, paper, and wood onto the stretched canvas. Despite their sculptural qualities, Stella described the impulse behind Michapol I and the other works of the series as "pictorial."</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
