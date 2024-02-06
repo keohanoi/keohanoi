@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/albrecht-durer/portrait-of-jakob-fugger.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00104/images/pieter-bruegel-the-elder/pieter-bruegel-the-elder-the-peasant-dance-wga3499.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Jakob Fugger</h2>
+        <h2 class="artwork-name">The Peasant Dance</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1519
+          Pieter Bruegel the Elder
+                    ·  1568
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Jakob Fugger is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by German Renaissance artist <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, executed around 1520.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Peasant Dance is an oil-on-panel by the Netherlandish Renaissance artist <a target="_blank" href="/en/pieter-bruegel-the-elder">Pieter Bruegel the Elder</a>, painted in c. 1569. It was looted by Napoleon Bonaparte and brought to Paris in 1808, being returned in 1815. Today it is held by and exhibited at the Kunsthistorisches Museum in Vienna.
 <br>
-<br>Jakob Fugger was one of the richest merchants of Augsburg. He was portrayed by Dürer in 1518, when he had been called to the city by emperor Maximilian I, in the course of the Diet of Augsburg. Here the artist was part of delegation of his home city, Nuremberg, and met numerous personalities, including the Fugger with whom he was in good relationships since his second trip to Venice (1506–1507). The artist, however, executed the portrait later, around 1520.
+<br>The panel, neither signed nor dated, was painted circa 1567, at about the same time as The Peasant Wedding. The paintings are the same size and may have been intended as a pair or as part of a series illustrating peasant life. They are the two most outstanding examples of Bruegel's late style, which is characterized by his use of monumental Italianate figures.
 <br>
-<br>Dürer portrayed Fugger's bust from three-quarters, looking to the left, above a blue background. The man wears a finely embroidered hat on his head, and a wide coat with fur-lining, as a show of his upper social status.</span>
+<br>Like The Peasant Wedding, it is likely that Bruegel intended this painting to have a moral sense rather than simply being an affectionate portrayal of peasant life. Gluttony, lust and anger can all be identified in the picture. The man seated next to the bagpipe player wears a peacock feather in his hat, a symbol of vanity and pride. The occasion for the peasants' revelry is a Saint's day, but dancers turn their backs on the church and pay no attention whatsoever to the image of the Virgin which hangs on the tree. The prominence of the tavern makes it clear that they are preoccupied with material rather than spiritual matters.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
