@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/benjamin-west/portrait-of-colonel-guy-johnson-and-karonghyontye-1776.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00328/images/louise-bourgeois/femme-maison-1946-1947-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Colonel Guy Johnson and Karonghyontye</h2>
+        <h2 class="artwork-name">Woman-House</h2>
         <h3 class="artist">
-          Benjamin West
-                    ·  1776
+          Louise Bourgeois
+                    ·  1947
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Colonel Guy Johnson and Karonghyontye (Captain David Hill) is a 1776 portrait by <a target="_blank" href="/en/benjamin-west">Benjamin West</a>, an Anglo-American painter of historical scenes around and after the time of the American War of Independence. Benjamin West was among the founders of the Royal Academy in London, serving a its president from 1792 to 1805 and 1806 to 1820.
-<br>
-<br>The portrait depicts the military officer and diplomat Guy Johnson and the Mohawk chief Karonghyontye (who also went by the English name of David Hill). Johnson was the British superintendent of northeastern America's six Indian nations and commissioned the portrait in 1776 while in London to secure that royal appointment. Sailing from Canada, Johnson must have been accompanied by his close friend Karonghyontye.The alliance between British forces and several Indian tribes seriously threatened the rebel colonists' chances of victory during the Revolutionary War.
-<br>
-<br>In the portrait Benjamin West signifies Johnson's role as ambassador to the Indians by equipping him in a red-coated uniform with moccasins, wampum belt, Indian blanket, and Mohawk cap. Karonghyontye is shown pointing to a peace pipe, while Johnson grasps a musket. This could suggests that harmony between Europeans and Indians will be maintained at all costs. The concept of cooperation extends to the background, where an Indian family gathers peacefully before a British military tent.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is titled <i>Femme Maison</i>. And that meant to Louise Bourgeois either “woman house” or “house woman” in French. She was a native of France and always went back and forth between English and French.<br>In this period in the 1940s, she was raising three small boys, and so she was certainly thinking of how she felt trying to be an artist and also a stay at home mother. She chose architectural imagery to, in effect, suffocate this woman. It’s kind of dire, in a way. But on the other hand, the woman stands very upright with a certain dignity. And we can tell it's a self-portrait because the hair that comes out of the house was a signifier of Bourgeois’ own long hair.<br><br>Architecture was a motif she used throughout her career to symbolize her feelings. She saw architectural structures as a place of refuge. On the other hand, she saw that an architectural structure could also be a trap.<br><br>Bourgeois' <i>Femme Maison</i> imagery became a symbol of the feminist art movement in the late 60s and in the 70s. Women, in particular, brought attention to the body and to issues of biography and personal feelings into artworks. Bourgeois had always been dealing with these things, so the Femme Maison image was very resonant with feminist artists, and I find that it's still resonant with women.<br><br><u>Deborah Wye for MOMA</u></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
