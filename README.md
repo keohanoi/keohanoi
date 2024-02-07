@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00206/images/august-friedrich-schenck/fd101810.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00281/images/sergio-illuminato/aurora.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Anguish</h2>
+        <h2 class="artwork-name">AURORA</h2>
         <h3 class="artist">
-          August Friedrich Schenck
-                    ·  1878
+          Sergio Mario Illuminato
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">August Schenck spent most of his career in France, specialising in painting landscapes and animal subjects. For over thirty years he was a regular exhibitor at the Paris Salons, where Anguish was first shown in 1878. In Anguish, Schenck has given the ewe clearly recognisable human characteristics, such as determination and sorrow, so that the viewer immediately identifies with its predicament and emotions. The sinister murder of crows also appear organised and patiently await a moment of weakness. Schenck is here metaphorically examining a broader human condition in the context of an animal painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In Aurora, loving means wanting to create a distance from the fundamental conflict that separates man's inner essence from his experience. The art here tries to find - color tones and technique - that common ground that could allows to solve the unbearable divorce.<br><br>Amare significa in Aurora voler creare una distanza dal dissidio fondamentale che separa l’essenza interiore dell’uomo dalla sua esperienza. L’Arte qui cerca di trovare quel terreno d’intesa – nei toni di colore e nella tecnica - che possa permettere di risolvere l’insopportabile divorzio.<br><br>Dans Aurora, aimer signifie vouloir se distancier du conflit fondamental qui sépare l'essence intérieure de l'homme de son expérience. L'art ici tente de trouver - tonalités de couleur et technique - ce terrain d'entente qui pourrait permettre de résoudre le divorce insupportable.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
