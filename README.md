@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00287/images/norman-rockwell/homecoming.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/robert-henri/snow-in-new-york-1902-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The homecoming</h2>
+        <h2 class="artwork-name">Snow in New York</h2>
         <h3 class="artist">
-          Norman Rockwell
-                    ·  1945
+          Robert Henri
+                    ·  1902
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The homecoming</i> (1945) appeared on the cover of the <i>Saturday Evening Post</i>. Rockwell created an image of American life after the Second World War. It was a story about heroes and their families, about friendly people united by doing simple good things. <br><br>The subject of the painting is clear: a young boy, military, returns home, unleashing the joy of his family in full force. The relatives throw themself to embrace him, the neighbors look out the windows, the boys of the neighborhood greet him from the trees, and a mysterious girl, perhaps the girlfriend left at home, shudders, hidden behind the corner of the house. On the doorstep, now open, the star emblem, a symbol of family pride,  of the soldier sent to defend the Homeland. Rockwell chooses to show everyone's face, even the neighbor climbing on the fence to watch or the worker adjusting the roof, but not the boy's. His face is the joy of those who welcome him. His face is the uniform he wears, his erect posture, his bag clutched in his hand. He is at home, having served well. <br><br>The artist had a passion for red color. All the protagonists have red hair, and the mother with her arms wide open wears a red sweater, above the apron. The father, who takes his pipe from his mouth to open his face in an expression of amazement, has the face of Rockwell. As if the artist wanted to take part in this joy, to say that it is the joy of everyone and each one: see the children return, at the end of the war on the other side of the ocean.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Robert Henri’s energetic but stark image of New York in the snow deviates from impressionist urban snow scenes of the period in several ways: it represents a common side street rather than a major avenue; there is nothing narrative, anecdotal, or prettified about the image; the straightforward, one-point perspective composition is devoid of trivial details; the exceptionally daring, textured brushwork resembles a preparatory study rather than a finished oil painting; and the somber palette creates a dark, oppressive atmosphere. In his Record Book, Henri described Snow in New York as, “N.Y. down E. on 55th St. from 6 Ave. Brown houses at 5 Ave. storm effect. snow. wagon to right.”<br><br>Having returned to New York City in 1900 following an extended stay in Paris, Henri eventually established a studio and living quarters in the Sherwood Building on the corner of West 57th Street and Sixth Avenue. In March 1902 the dealer William Macbeth encouraged him to paint New York cityscapes for inclusion in a solo exhibition scheduled for the following month. Henri hoped to produce a painting for the occasion that would achieve a degree of critical acclaim comparable to that of La Neige (1899, Louvre, Paris), a snowy view of the rue de Sèvres in Paris that had been purchased for the Musée du Luxembourg in 1899. While a buyer was found for Snow in New York, only one other work sold, prompting Henri to turn his attention primarily to portraiture.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
