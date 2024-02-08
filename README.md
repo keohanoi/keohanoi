@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00203/images/albrecht-durer/durer-polittico-dei-sette-dolori-ricostruzione.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00380/images/nicolas-poussin/1-the-adoration-of-the-golden-calf-nicolas-poussin-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Seven Sorrows</h2>
+        <h2 class="artwork-name">The Adoration of the Golden Calf</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1500
+          Nicolas Poussin
+                    ·  1634
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Seven Sorrows Polyptych is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on panel</a> painting by <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>. The painting includes a central picture (108 x 43&nbsp;cm), currently at the Alte Pinakothek in Munich, and seven surrounding panels (measuring some 60 x 46&nbsp;cm) which are exhibited at the Gemäldegalerie Alte Meister of Dresden.<br>
-<br>
-<br>The work was commissioned by Frederick III, Elector of Saxony, not a long time after his meeting with Dürer at Nuremberg in April 1496. Stylistic considerations suggest that the artist started to work on the painting only from around 1500.<br>
-<br>
-<br>Modern scholars tend to attribute to  Dürer only the central panel, the others having been executed by his pupils based on his drawings. The central panel, portraying the Sorrowing Mother, arrived in the Bavarian museum from the   Benediktbeuren convent of Munich in the early 19th century. It was restored in the 1930s: once the overpaintings and additions were removed, the shell-shaped niche (a motif typical of Italian art), the halo and the sword (a symbol of Mary of the Seven Sorrows) on the right were rediscovered, clarifying the subject of the work.<br>
-<br>
-<br>The other panels were at Wittenberg, seat of Frederick's castle. In 1640 they were moved to the  Kunstkammer of the Prince of Saxony. In the mid-20th century they were restored: their conditions improved, but the attribution was not cleared.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Adoration of the Golden Calf is a painting by <a target="_blank" href="/en/nicolas-poussin">Nicolas Poussin</a>, produced between 1633 and 1634. It depicts the adoration of the golden calf by the Israelites, from chapter 32 of the Book of Exodus. It was made as part of a pair of paintings (the other being The Crossing of the Red Sea) commissioned by Amadeo dal Pozzo, Marchese di Voghera of Turin, a cousin to Cassiano dal Pozzo, Poussin's main sponsor in Rome. By 1685 the pair had passed to the Chevalier de Lorraine and in 1710 they were bought by Benigne de Ragois de Bretonvillers. In 1741 they were bought from Samuel by Sir Jacob Bouverie, whose son William became the first Earl of Radnor. The Earls of Radnor owned the pair from then until 1945, when it was split for the first time and The Adoration of the Golden Calf bought by the National Gallery in London for £10,000, half of which was contributed by the Art Fund. (The Crossing of the Red Sea was bought in the same 1945 sale by the National Gallery of Victoria.) It now hangs in Room 19 of the National Gallery, where it and Poussin's The Adoration of the Shepherds were vandalised with red spray paint on 17 July 2011.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
