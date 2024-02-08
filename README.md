@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00437/images/gabriele-munter/1917sinnende.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/titian/the-annunciation.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Meditation</h2>
+        <h2 class="artwork-name">The Annunciation</h2>
         <h3 class="artist">
-          Gabriele Munter
-                    ·  1917
+          Titian
+                    ·  1519
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">During the years of her stay in Scandinavia from 1915 to 1920, the works of Gabriele Münter showed a clear stylistic change compared to the period of the 'Blauer Reiter'. Soon after her arrival in Stockholm, Münter made contact with the artists of the Swedish avant-garde, such as the married couple Isaac Grünewald and Sigrid Hjerten, as well as Einar Jolin and Leander Engström. The influence of these Swedish pupils of Henri Matisse with their Fauvist design principles, decorative flat composition and cleverly mixed colors is soon unmistakable in Münter's work.<br><br>Sabine Windecker writes about Münter's change in style and choice of subject through the exchange with the Swedish artists: "Even in the choice of the pictorial themes there is a clear agreement. Not only in Grünewald, Hjerten and Jolin do figure compositions, portraits, interiors and cityscapes represent preferred pictorial themes ... In addition, Münter also orientates himself in terms of color and form to the painting style of these artists, because in their pictures there are now echoes of the decorative expressionism of Matisse, in particular his rhythmic use of lines. often in favor of an idealizing representation of people - subordinate to a curved line."<br><br>In these years, and well into the next decade, the female portrait in particular became Münter's favorite subject. In the spring of 1917, Münter created a cycle of large, symbolic portraits with titles such as "Future", "Contemplative" or "Sick", in which the female figure is also the bearer of a psychological message of waiting, hoping, contemplating or suffering. A young Swede of Jewish descent, Gertrude Holz, sat as a model in each of the paintings mentioned and other portraits from this period.<br><br>The picture of the "Sinnerden" shows her in a hermetically sealed room, the boundaries of which are cut on all sides by the low landscape format. She sits as a half-length figure, looking thoughtfully past the viewer, close to the front edge of the picture in front of a table with a still-life-like arrangement of flowers, apples and a lamp, which cuts off the pictorial space just as abruptly as the dark green upholstery and the opaque, partially curtained window directly behind it. The head of the "sensual", which in contrast to her strikingly abstract body is particularly elaborate, is additionally emphasized by the dull blue flowers behind her. The broken rhythm of the black lines in the two-dimensional overall composition and the cool colors of dark red, green and matt gray mixed with black reinforce the melancholic tone of the depiction and make the connection with Münter's own mental state at this time particularly poignant.<br><br><a target="_blank" href="https://www.lenbachhaus.de/en/discover/collection-online/detail/sinnende-30018327">lenbachhaus</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Malchiostro Annunciation is a painting by the Italian Renaissance artist <a target="_blank" href="/en/titian">Titian</a>, completed around 1520, and housed in the Cathedral of Treviso, northern Italy.
+<br>
+<br>The Malchiostro Chapel, located to the left of the high altar of the Cathedral of Treviso, near the sacristy, was commissioned by Broccardo Malchiostro, secretary of the bishop and humanist Bernardo de' Rossi. Designed by Tullio of Antonio Lombardo, it was completed in 1519 and frescoed by Il Pordenone until 1520. The decoration was completed in around 1523, and this Annunciation was executed by Titian around that period, perhaps with the help of Paris Bordone.
+<br>
+<br>The face of the donor was possibly repainted after 1526. <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a> was inspired by this work for his Recanati Annunciation.
+<br>
+<br>The painting depicts the Annunciation in a church with a chessboard pavement. Titian, instead of painting the angel on the left and Mary on the right as usual, moved the Madonna into the foreground with the angel behind, pushed towards Mary by the divine light behind him. At the center, kneeling, is the donor, put in a rather far position from the viewer.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
