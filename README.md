@@ -2,27 +2,45 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/andrea-mantegna/portrait-of-cardinal-carlo-de-medici-1466.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/richard-dadd/the-fairy-feller-s-master-stroke-1864.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Cardinal Carlo de' Medici</h2>
+        <h2 class="artwork-name">The Fairy Feller's Master-Stroke</h2>
         <h3 class="artist">
-          Andrea Mantegna
-                    ·  1466
+          Richard Dadd
+                    ·  1864
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Carlo de' Medici is a painting by the Italian Renaissance master <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>, executed in 1466. It is now housed in the Uffizi Gallery of Florence.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fairy Feller's Master-Stroke is a painting by English artist <a target="_blank" href="/en/richard-dadd">Richard Dadd</a>. It was begun in 1855 and worked on until 1864. Dadd painted it while incarcerated in the State Criminal Lunatic Asylum of Bethlem Royal Hospital, where he was confined after he murdered his father in 1843. It was commissioned by George Henry Haydon, who was head steward at Bethlem Royal Hospital at the time.
 <br>
-<br>Little is known about the painting's origins, and currently the most credited hypothesis is that it would portray Carlo de' Medici, an illegitimate son of Cosimo de' Medici the Elder and a Circassian concubine, as hinted by the subject's intense blue eyes. In 1912 a copy of the portrait was included in a genealogy of the House of Medici. This is however in contrast with the identification of Carlo as a character in Filippino Lippi's Stories of St. Stephen and St. John the Baptist in the Cathedral of Prato. Also the attribution to Mantegna was not immediate, as for a long time the painting was thought to be by <a target="_blank" href="/en/domenico-veneziano">Domenico Veneziano</a>.
+<br>Dadd had begun his career as a painter of fairy paintings before the onset of his mental illness. After he was committed, he was encouraged to resume painting. G. H. Haydon was impressed by Dadd's artistic efforts and asked for a fairy painting of his own. Dadd worked on the painting for nine years, paying microscopic attention to detail and using a layering technique to produce 3D-like results. Although it is generally regarded as his most important work, Dadd himself considered the painting to be unfinished (the background of the lower left corner is only sketched in).
 <br>
-<br>The work has been dated from 1459–1460, when Mantegna arrived in Mantua and was commissioned numerous official portraits (the subject has been also identified as Ludovico Gonzaga, bishop of Mantua), and 1466, when the painter perhaps travelled to Florence.
+<br>He signed the back of the canvas with the inscription: "The Fairy-Feller's Master-Stroke, Painted for G. H. Haydon Esqre by Rd. Dadd quasi 1855–64". According to Patricia Allderidge, 'quasi' "may mean that it was set aside during that period or that it took a long time to start". The end date, 1864, coincides with Dadd's transfer to Broadmoor Hospital in Berkshire, the asylum where he spent the remaining 21 years of his life.
 <br>
-<br>The painting shows the subject from a three-quarter view, an innovation brought in Italy through Flemish masters in the late 15th century; previously profiles, in the ancient Roman tradition, were preferred.
+<br>In order to give context to his work, Dadd subsequently wrote a long poem by the name of Elimination of a Picture &amp; its Subject—called The Fellers' Master Stroke in which each of the characters appearing in the picture is given a name and purpose—including myriad references to old English folklore and Shakespeare—in an apparent attempt to show that the painting's unique composition was not merely a product of random, wild inspiration.
 <br>
-<br>The subject is dark-skinned and wears the garments of a protonotary apostolic, a position which Carlo held from 1463. The official nature of the painting explains the absence of any psychological element and the attention to details such as the dress and the hat.</span>
+<br>The painting is in the Tate Britain collection. It was presented to the Tate by the war poet Siegfried Sassoon in memory of his friend and fellow officer Julian Dadd, a great-nephew of the artist, and of his two brothers who gave their lives in the First World War.
+<br>
+<br>The Queen song "The Fairy Feller's Master-Stroke" from the album Queen II was born of Freddie Mercury's appreciation of the work; it makes direct reference to the painting's characters as detailed in Dadd's poem.
+<br>
+<br>Terry Pratchett's novel The Wee Free Men contains a scene inspired by the painting.
+<br>
+<br>The painting, the art of the insane, and Dadd are mentioned in the novel, Mortal Love, by Elizabeth Hand.
+<br>
+<br>The work is a central plot element in the novel The Witches of Chiswick by Robert Rankin.
+<br>
+<br>Neil Gaiman wrote a tribute to the painting for Intelligent Life (July/August 2013)
+<br>
+<br>The painting appears in Alex Bledsoe's Tufa novels.
+<br>
+<br>The painting is an attributed plot element in Mike Shevdon's The Road to Bedlam, Book II of his The Courts of the Feyre series.
+<br>
+<br>Former Gorky's Zygotic Mynci singer Euros Childs included an instrumental song titled "The Fairy Feller's Master-Stroke" on his 2009 solo album, Son of Euro Child.
+<br>
+<br>Mark Chadbourn's "The Fairy Feller's Master Stroke", about a contemporary young man looking for meanings in the painting, won the British Fantasy Award for best short story in 2003.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
