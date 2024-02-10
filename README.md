@@ -2,19 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/kamal-ol-molk/the-spring-hall-of-golestan-palace-1889.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/lorenzo-lotto/portrait-of-a-young-man-1505.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The spring hall of Golestan Palace</h2>
+        <h2 class="artwork-name">Portrait of a Young Man</h2>
         <h3 class="artist">
-          Kamal-ol-Molk
+          Lorenzo Lotto
+                    ·  1505
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Pond House was used as a summer chamber during the Qajar era. A special cooling system pumped water from a subterranean system of streams into small ponds inside the chambers. The system was designed to pass through as many summer rooms as was necessary. The water was then channeled outside to irrigate the royal gardens. Due to the harmful effects of humidity, this system is no longer in use.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of a Young Man is a painting by the Italian Renaissance painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, executed around 1506 and housed in the Uffizi Gallery, Florence, Italy.
+<br>
+<br>The work was part of cardinal Leopoldo de' Medici's collection, after he had bought it from the Cornaro family. In a 1675 inventory it is mentioned as a <a target="_blank" href="/en/raphael">Raphael</a> work, and was associated with Lotto only in 1910.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
