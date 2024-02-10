@@ -2,18 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00437/images/jacob-macznik/window-view.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/william-adolphe-bouguereau/alone-in-the-world.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Window View</h2>
+        <h2 class="artwork-name">Alone in the world</h2>
         <h3 class="artist">
-          Jacob Mącznik
+          William-Adolphe Bouguereau
+                    ·  1867
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This view from the window of his tiny Paris flat/studio demonstrates mastery of perspective and of clarity by the École de Paris painter Jacob Macznik.  He manages to capture the enhanced clarity that exists visually when the outdoors are well-illuminated yet overcast.  Perspective is displayed by buildings, sidewalk, curb, and rooftops outside, as well as the tablecloth inside.  The bouquet adds curves, interest, and additional color to what might otherwise have been simply a technically masterful work.  It also informs us that the foreground is a table, since the vase sits atop it.  All in all, the entire image is composed with much thought, attention to detail, and artistic skill.<br><br>This painting is privately held by the artist's nephew. Denotation of the copyright is embedded within this low resolution image of the painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Alone in the World (French: Seule au Monde) is a painting created by nineteenth-century French artist <a target="_blank" href="/en/william-adolphe-bouguereau">William-Adolphe Bouguereau</a>. Although the exact year of creation is unknown, Theo van Gogh acquired it in 1867 so it may be placed in the early part of Bouguereau's career.
+<br>
+<br>The painting depicts a peasant girl holding a violin and standing on a bridge over the Seine in Paris. She is looking to her left with a melancholy expression. The cathedral of Notre Dame can be seen in the background, as well as a bridge which appears to be the Pont Royal. This indicates that the girl is standing on the Pont de Solférino.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
