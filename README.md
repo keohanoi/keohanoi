@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/jean-arp/moustaches-1925.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00196/images/edouard-vuillard/garden-at-vaucresson-met-dt2555-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Moustaches</h2>
+        <h2 class="artwork-name">Garden at Vaucresson</h2>
         <h3 class="artist">
-          Jean Arp
-                    ·  1925
+          Edouard Vuillard
+                    ·  1936
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Arp developed a distinctive repertoire of abstracted shapes for his sculptural reliefs. The same motifs, repeated from work to work, were intended as a kind of ‘object language’. One of these symbols was the moustache, which Arp associated with pomposity. A common affectation of figures of authority, the moustache embodied the spirit of bourgeois stupidity that had precipitated the First World War. It was only around the time of making this work that the German-born Arp secured his French nationality, having been stateless since refusing to fight in the war.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting was begun in 1920 at Vaucresson, a residential suburb west of Paris, where Vuillard’s friends Lucy and Josse (Jos) Hessel had recently purchased the house depicted in the background. Jos, a partner in the art firm of Bernheim-Jeune, had become Vuillard's dealer in 1912. His wife was one of Vuillard's great loves; their relationship spanned more than three decades, until the artist's death in 1940. The woman in a housedress standing at right is Lucy's cousin Marcelle Aron. Lucy kneels across from her, at left, camouflaged by one of the large rosebushes that serve as a decorative screen in the foreground.<br><br>Inscription: Signed (lower left): E. Vuillard</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
