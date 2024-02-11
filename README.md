@@ -2,49 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/mary-cassatt/the-boating-party-1894.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/arshile-gorky/garden-in-sochi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Boating Party</h2>
+        <h2 class="artwork-name">The Garden in Sochi</h2>
         <h3 class="artist">
-          Mary Cassatt
-                    ·  1894
+          Arshile Gorky
+                    ·  1943
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Boating Party is an 1893 oil painting by American artist <a target="_blank" href="/en/mary-cassatt">Mary Cassatt</a>.
-<br>
-<br>It has been in the collection of the National Gallery of Art since 1963.
-<br>
-<br>Cassat painted The Boating Party during the winter of 1893–1894 in Antibes, on the French Riviera.
-<br>
-<br>Cassat spent January and February 1894 at the Villa "La Cigaronne," in Cap d'Antibes with her mother.
-<br>
-<br>Cassat was 49 years old when she painted The Boating Party. 1893 had been a successful year for Cassatt. She had completed the mural Modern Woman, commissioned for the Woman's Building at Chicago's 1893 World's Columbian Exposition. Her exhibition in 1893 at Durand-Ruel's gallery had been well received. (footnote: The exhibition contained ninety-eight items.) The French state had decided to purchase one of her paintings for the Musée du Luxembourg.
-<br>
-<br>The Boating Party depicts an unknown woman, a baby and a man in a sailboat.
-<br>
-<br>The boat has a canoe stern, is boomless, and has three thwarts. The inside of the boat is described as yellow.
-<br>
-<br>It is an unusual painting in Cassatt's œuvre. While it does show her familiar theme of a mother and child, most of her other paintings are set in interiors or in gardens. It is also one of her largest oil paintings.
-<br>
-<br>In 1890 Cassatt visited the great Japanese Print exhibition at the ecole de Beaux-arts in Paris.
-<br>
-<br>Mary Cassatt owned Japanese prints by Kitagawa Utamaro (1753–1806).
-<br>
-<br>The exhibition at Durand-Ruel of Japanese art proved the most important influence on Cassatt.
-<br>
-<br>Frederick A. Sweet suggests that Cassatt may have been inspired by <a target="_blank" href="/en/edouard-manet">Edouard Manet</a>'s Boating from 1874.
-<br>
-<br>Boating was exhibited at the (fourth?) Impressionist Exhibition of 1879, where it was not well received. Cassatt however, convinced her friend Louisine Havemeyer to buy it. Much of the work from the Havemeyer collection was bequeathed to the Metropolitan Museum, but some works were left to the Havemeyer children and have since ended up elsewhere.
-<br>
-<br>Art historian and museum administrator Frederick A. Sweet calls it "One of the most ambitious paintings she ever attempted". His 1966 analysis focusses on the balance of the "powerful dark silhouette of the boatman", the angle between the oar and the arm that "thrusts powerfully into the centre of the composition towards the mother and child" and "delicate, feminine ones".
-<br>
-<br>Cassatt placed the horizon at the top of the frame in Japanese fashion.
-<br>
-<br>colorplate 75 35 7/16x46 1/8 in. (90 x117 cm) The Chester Dale Collection.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The Garden in Sochi</i> (ca. 1943) belongs to a group of paintings by Arshile Gorky, which relates to the theme of his childhood memories in his native country Armenia. Here, and in an earlier version <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/garden-in-sochi-1"><i>The Garden in Sochi</i></a> (1941), the artist was inspired by memories of his father’s garden and farm. Although the title implies that the location is Sochi, a Russian resort town on the north shore of the Black Sea, Gorky’s father farm was actually on the shore of Lake Van. Another possibility is that the title alludes to the Armenian word for poplar tree, <i>sos</i> or <i>sosi</i>. The poplar tree is beloved in Armenia, and for Gorky, it also held special significance. His family had a custom of planting a poplar tree every time a son was born, and later the child’s name and birthdate would be carved into the tree. In a letter to his sister, he also mentioned that he thought it would be better to name the paintings after a popular place that Americans were more likely to know.<br><br>The artist elaborated on the images he associated with his father’s garden. He remembered an uncultivated orchard with old apple trees that created dense shade, fields with wild carrots and porcupines, and a large dead tree and blue rock that local villagers believed had supernatural powers. People passing by the ‘Holy Tree’ would tear small pieces of clothing and hang them on the tree as good omens. Similarly, women would come to the blue rock and rub their breasts against it, believing this would help with their fertility. In <i>The Garden in Sochi</i>, Gorky reimagined the natural scenery and rural rituals through a colorful composition of biomorphic shapes. Some shapes resemble Gorky’s description of the garden, for example, the forms in the upper right corner look like a tree with thin branches blowing in the wind, and the shapes in the lower left corner possibly represent a female figure. Stylistically, the artist was influenced by the works of Spanish surrealist <a target="_blank" href="https://www.wikiart.org/en/joan-miro">Joan Miró</a>. <i>The Garden in Sochi</i> shares a resemblance with Miró’s signature biomorphic forms seen in paintings such as <a target="_blank" href="https://www.wikiart.org/en/joan-miro/nude"><i>Nude</i></a> (1926) and <a target="_blank" href="https://www.wikiart.org/en/joan-miro/painting-1"><i>Painting</i></a> (1933). However, this was not the artist’s only inspiration: many Armenian manuscripts in Gorky’s native province of Van have sharply pointed forms of slippers and draperies, and abstract motifs of birds and animals.<br><br>The “Sochi” group of the painting represents an essential phase in Gorky’s artistic development. These paintings continue Gorky’s emulation and synthesis of <a target="_blank" href="https://www.wikiart.org/en/pablo-picasso">Pablo Picasso</a>’s cubist style and Miró’s biomorphic forms that were already seen in his late 1930s paintings like <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/child-of-an-idumean-night-composition-no-4"><i>Child of Idumean Night (Composition No.4)</i></a> (ca.1936) and <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/image-in-khorkom"><i>Khorkom</i></a> (ca.1936). In comparison to the 1941 version, the composition of the 1943 T<i>he Garden of Sochi</i> is more open, and the white background gives the painting a sense of airiness. Most significantly, in <i>The Garden of Sochi</i> Gorky separated the function of the line and color. It was a critical development for Gorky’s mature style as is evident in the later painting <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/the-liver-is-the-cock-s-comb"><i>The Liver is the Cock’s Crumb</i></a> (1944).</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
