@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00142/images/57726d86edc2cb3880b48f87/jan-vermeer-van-delft-013.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/eugene-von-guerard/mount-kosciusko-seen-from-the-victorian-border-mount-hope-ranges-1866.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Youg woman playing a guitar</h2>
+        <h2 class="artwork-name">Mount Kosciusko, seen from the Victorian border (Mount Hope Ranges)</h2>
         <h3 class="artist">
-          Johannes Vermeer
-                    ·  1672
+          Eugene von Guerard
+                    ·  1866
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Guitar Player is a 1672 painting by <a target="_blank" href="/en/johannes-vermeer">Jan Vermeer</a>, on display in Kenwood House, London as part of the Iveagh Bequest. In 2012 Kenwood closed for renovations until autumn 2013, and the painting was on display in the National Gallery for this period, next to their own two Vermeers. It was returned to Kenwood House in late December.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mount Kosciuszko, seen from the Victorian border (Mount Hope Ranges) 1866 is based on drawings made by Eugene von Guérard in 1862 during a scientific expedition to Mount Kosciuszko led by the German scientist Professor Georg Balthasar von Neumayer.
 <br>
-<br>On February 23, 1974, the painting was stolen from Kenwood House, and held for a ransom of over $1,000,000US in food to be distributed on the Caribbean island of Grenada, or else the painting would be destroyed by those who had stolen it. Later, a small strip of the painting was sent to The Times along with a demand that Irish Republicans Marion and Delours Price be allowed to serve their prison sentence at home. It was recovered by Scotland Yard in the cemetery of St Bartholomew-the-Great, in London's financial district, on May 7, 1974. Although the painting showed signs of dampness, it was otherwise undamaged.
+<br>While this view is serene, journals written during the expedition reveal that the party endured incredible hardships. The dark, eerie, primeval bush and the elevated, light-drenched Mount Kosciuszko form two contrasting regions within the composition of the painting. These two areas are visually linked by tall majestic gum trees and a flock of cockatoos. High above, in the distance, hawks glide on alpine currents. The skeletal remains of the towering tree trunks frame a section of the centre foreground where we see Von Neumayer riding his white horse towards his dog, Hector. Several other horses graze quietly in the bush while Von Neumayer’s travelling companions set up camp for the night. The figures are small details in a scene of sweeping natural grandeur.
 <br>
-<br>A period copy, A Lady Playing the Guitar, is in the collection of the Philadelphia Museum of Art.</span>
+<br>While von Guérard’s interest in scientific enquiry is evident in the accurately observed details in the landscape, the dramatic contrasts of scale and light reflect Romantic allusions to the divine and poetic in nature.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
