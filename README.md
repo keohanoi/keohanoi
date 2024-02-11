@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/paul-klee/to-the-parnassus-1932(2).jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01605-72-dpi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ad Parnassum</h2>
+        <h2 class="artwork-name">I have the right to be forgotten</h2>
         <h3 class="artist">
-          Paul Klee
-                    ·  1932
+          Jarik Jongman
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting, considered Klee’s masterpiece, is an example of Klee’s masterful skill with color. Small blocks of shifting colors float through the background, set in place with a thick black outline, evincing the idea of a building or a house. It is also the finest example of Klee’s ability in pointillism and technical ability as an artist. As an artist with great skill with color, he was also a great teacher at color mixing and theory. He wrote his great treatise, a collection of lectures, entitled Writings on Form and Design Theory, which is considered one of the most influential writings in modern art. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
