@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00266/images/salvador-dali/salvador-dali-2.JPG!Large.JPG"
+        src="https://uploads5.wikiart.org/00362/images/gerolamo-induno/6605-la-partenza-per-il-campo-1866.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Aliyah</h2>
+        <h2 class="artwork-name">The departure for the field</h2>
         <h3 class="artist">
-          Salvador Dali
-                    ·  1964
+          Gerolamo Induno
+                    ·  1866
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This Original Color Lithograph Edition: 178/250 on Paper is by Salvador Dali (1904-1989). It is part of the series of graphic work entitled Aliyah dates from 1968. The series was commissioned by Shorewood Publishers for the 20th anniversary of the state of Israel in 1967. The set is comprised of 25 mixed-media paintings highlighting important religious, historical and political moments in Jewish history. The series, called “Aliyah, the Rebirth of Israel,” received a special endorsement from Israel’s first Prime Minister, David Ben-Gurion. Shorewood exhibited the original series in a New York museum, but each piece was then sold to private collectors. Their locations remain largely unknown. 250 sets of prints of the collection were made.<br>Dali did not have a connection to Judaism, but succeeded in grasping the connection between the Bible, the Jewish people and its history, and the land of Israel. Every painting is accompanied by a biblical verse ascribed to each work by the artist. Subjects range from broadly biblical to contemporary.<br>In order to illustrate the various meanings of the Hebrew word "Aliyah", which means literally "migration to the land of Israel", the artist took inspiration from the Old Testament as well as contemporary history. As usual in Dalí's work, the pieces also contain elements from his own iconography.<br>This particular lithograph depicts the Holocaust and is traced back to a Psalms 88:7 quotation: “Thou hast laid me in the nethermost pit, in dark places, in the deeps” This quotation from Psalms is fittingly used by Dali in his second distinctly Shoah lithograph. Note the mourning figure, the swastikas, the dead body, the blood, the seated figure in mourning that echoes many such Jeremiah-like images, and the Jewish Star of David.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This canvas represents an ideal watershed and an absolute summit in Induno's artistic parable. The complementary aspects of his production, the emotional realism of the battle canvases painted on the true and the private sentimentality of the genre canvases, are now summarized in an ideological realism that rediscovers a dimension of absolute modernity. In the aftermath of unity, it was necessary to transfer the forces of the Risorgimento to the general level of national belonging. Precisely in this collective dimension there was an answer to the spiritual sense of the Risorgimento struggle that allows us to interpret the compositional system and the dosage of space and pathos within a classical order: the vertical partition of the floors corresponds to a skilful alternation of solids and voids and sudden perspective cuts. If the Indunian research focuses on important details - the musket and the leather gibern of the bandolier, the sword of the saber, the saddle bundled with the blue cloth overcoat, the pistol, the straw bundle, the mess tin and the royal figures embroidered in white thread on the ends of the saddle cloth - it is to empathize with the spiritual meaning of military life. The choral and ideological universe of this work would thus have represented in the eyes of contemporaries and clients the independence aspirations of an entire people, namely the collective conscience of the nation.<br><br>(Description taken from the site)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
