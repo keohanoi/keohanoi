@@ -2,19 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00281/images/sergio-illuminato/clash.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/william-adolphe-bouguereau/nymphs-and-satyr.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">CLASH</h2>
+        <h2 class="artwork-name">Nymphs and Satyr</h2>
         <h3 class="artist">
-          Sergio Mario Illuminato
-                    ·  2019
+          William-Adolphe Bouguereau
+                    ·  1873
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Here the body of painting backs away from reality to the world below. In fact, gashes of gauze flaps rarely reveal authentic tones and brush strokes. Sign and hues emptied, devoid of body, which affirm the presence through the veiling of what was previously full, illusorily canceled and of which a vague memory remains. With a finger you can still follow the poetic relief of what belonged to these geometric blocks of worlds, between warm and cold tones, which collided with each other. As if to say that everything is broken in the world above. We are all broken. The interior landscape familiar to us has been removed continuously. It takes an unfair thought to make art live here and at the same time reawaken us - as with a slap of truth - from this superficial and impalpable inertia of everyday action.<br><br>Qui il corpo della pittura indietreggia dal reale al mondo di sotto. Squarci di lembi di garza infatti lasciano scoperti di rado toni e pennellate autentiche. Segno e tonalità svuotati, privi di corposità, che affermano la presenza tramite la velatura di ciò che precedentemente era pieno, illusoriamente cancellato e di cui rimane una vaga memoria. Con un dito si può ancora seguire il rilievo poetico di ciò che è appartenuto a questi blocchi geometrici di mondi, tra toni caldi e freddi, che sono andati in collisione l’uno con l’altro. Quasi per dire che nel mondo di sopra è tutto rotto. Siamo tutti rotti. Medicati di continuo è stato rimosso il paesaggio interiore a noi familiare. Ci vuole un pensiero ingiusto per far vivere qui l’arte e al contempo ridestarci - come con uno schiaffo di verità - da questa inerzia superficiale e impalpabile del quotidiano agire.<br><br>Ici, le corps de la peinture recule de la réalité vers le monde d'en bas. En fait, les entailles de volets de gaze révèlent rarement des tons authentiques et des coups de pinceau. Signe et teintes vides, dépourvus de corps, qui affirment la présence à travers le voile de ce qui était auparavant plein, illusoirement annulé et dont il reste un vague souvenir. Avec un doigt, vous pouvez toujours suivre le relief poétique de ce qui appartenait à ces blocs géométriques de mondes, entre des tons chauds et froids, qui sont entrés en collision les uns avec les autres. Comme pour dire que tout est cassé dans le monde d'en haut. Nous sommes tous brisés. Le paysage intérieur qui nous est familier a été supprimé en permanence. Il faut une pensée injuste pour faire vivre l'art ici et en même temps nous réveiller - comme avec une gifle de vérité - de cette inertie superficielle et impalpable de l'action quotidienne.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nymphs and Satyr (French: Nymphes et un satyre) is a painting, <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas</a>, created by artist <a target="_blank" href="/en/william-adolphe-bouguereau">William-Adolphe Bouguereau</a> in 1873.
+<br>
+<br>Nymphs and Satyr was exhibited in Paris at the 1873 Salon, which opened on 5 May, a year before the <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionists</a> mounted their first exhibition. One critic called it "the greatest painting of our generation". Purchased for 35,000 francs by the American art collector and speculator John Wolfe on 26 June, 1873, it was displayed in his mansion for many years alongside other high-style French academic paintings. It was sold at auction in 1888, after which the painting was displayed in the bar of the Hoffman House Hotel, New York City until 1901, when it was bought and stored in a warehouse, the buyer hoping to keep its 'offensive' content from the public. Robert Sterling Clark discovered the piece in storage and acquired it in 1942. The piece is currently on display at the Clark Art Institute located in Williamstown, Massachusetts.
+<br>
+<br>According to the Clark Institute, in the painting "a group of nymphs have been surprised, while bathing in a secluded pond, by a lascivious satyr. Some of the nymphs have retreated into the shadows on the right; others, braver than their friends, are trying to dampen the satyr's ardor by pulling him into the cold water -- one of the satyr's hooves is already wet and he clearly wants to go no further. Bouguereau’s working methods were traditional; he made a number of sketches and drawings of carefully posed human figures in complicated interconnected poses, linking them together in this wonderfully rhythmical composition."
+<br>
+<br>In the exhibition of 1873 it was displayed along with a verse from the ancient Roman poet, Publius Statius: “Conscious of his shaggy hide and from childhood untaught to swim, he dares not trust himself to deep waters.”
+<br>
+<br>The painting, the largest and one of the most beloved of the Clark collection, was cleaned prior to March 10, 2012 with the help of a grant from the Parnassus Foundation, courtesy of Jane and Raphael Bernstein.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
