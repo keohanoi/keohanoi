@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00431/images/kateryna-lysovenko/items-located-in-the-hermitage-are-discussing-who-owns-the-past-2023.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/rembrandt/the-stone-bridge.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Items Located in the Hermitage are Discussing Who Owns the past</h2>
+        <h2 class="artwork-name">The Stone Bridge</h2>
         <h3 class="artist">
-          Kateryna Lysovenko
-                    ·  2023
+          Rembrandt
+                    ·  1637
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A vessel of the 3rd century BC from the Brest-Trishin burial ground, a sculptural figurine of a bull of the 1st millennium BC from the Kazbek burial ground, a spoon from the end of the 7th - the first quarter of the 8th century from the Sogdian castle on Mount Mug, a glass with a drain on the stem of the 2nd millennium BC from South-East Turkmenistan, an amulet in the form of a horseman of the 8th-9th century from Ingushetia, a bowl of the 9th-10th century from Azerbaijan, a pot of the 5th-3rd century BC from South Kazakhstan, a Trypillia female figure of the 5th-3rd millennium BC from Ukraine, a figure of a panther bronze massive 5th century BC from Simferopol, a figurine of a man from the ancient sanctuary of Mount Berak near Karat in the second half of the 1st millennium BC, sculptural figure of a naked man with arms raised, holding in his right hand an indeterminate object of the second half of the 1st millennium BC, the Caucasus, a pommel with a figure of a mountain goat 7-6th century BC, Siberia, a bell of the 1st millennium BC, the Caucasus, Chechnya , a terracotta group of two seated figures from the 7th century BC-3rd century AD from the northern Black Sea region, a detail of a throne from the 8th-7th century BC from Urartu, head from a photograph for the collection of Antiquities of Siberia, an anthropomorphic head of the 1st millennium BC from Azerbaijan, a fragment of a statuette of the 5th-7th centuries from Uzbekistan, a pendant in the form of a sculptured figure of a ram from the 1st millennium BC from North Ossetia, female figures of the 4th-3rd centuries BC era from the city of Nymphaeum, the northern Black Sea region, a sculptural figure of an animal of the 1st millennium BC, the Caucasus, located in the Hermitage, are discussing who owns the past.<br><br><i>Artist Statement.</i></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Stone Bridge is a 1637 landscape painting by the Dutch Golden Age painter <a target="_blank" href="/en/rembrandt">Rembrandt</a> in the collection of the Rijksmuseum.
+<br>
+<br>This painting was documented by Hofstede de Groot in 1915, who wrote: "939. A HIGH STONE BRIDGE. Sm. 612; Bode 143&nbsp;; Dut. 447&nbsp;; Wb. 212&nbsp;; B-HdG. 232. Near an inn with a red gable, a high stone bridge leads in a wide curve across a canal, which runs from the left towards the front. On the far side is a farm with a hay-rick amid trees; farther away is a church-tower. In front of the inn is a rustic waggon, seen from the back, with persons in it. On the road is a peasant driving a cow from left to right&nbsp;; in the immediate foreground to the right is another cow. Several other figures are near the bridge. Under the bridge is a boat&nbsp;; another is in front of it, with two men, one of whom poles the boat forward. Dark sky&nbsp;; a bright ray of sunshine illumines the clump of trees and the buildings among them. Painted almost entirely in brown and grey. Painted about 1637-38. Oak panel, 11 1/2 inches by 16 inches. Mentioned by Bode, pp. 492, 579&nbsp;; Dutuit, p. 46&nbsp;; Michel, p. 314 [239]&nbsp;; Waagen, iii. 164. Exhibited at the Royal Academy Winter Exhibition, London, 1899, No. 35 [by J. Reiss]. Sale. Lapeyrière, Paris, April 14, 1817, No. 3 (E. Gray)&nbsp;; see Buchanan, ii. 298. In the collection of James Gray,Versailles, 1863. In the collection of the Marquess of Lansdowne, Bowood, 1883. Sale. James Reiss, London, May 12, 1900, No. 63 (2205, Rijksmuseum). In the Rijksmuseum, Amsterdam, 1911 catalogue, No. 2020."
+<br>
+<br>The picture is currently documented as being in the collection of Augustin Lapeyrière, based presumably on the Hofstede de Groot catalog. Before him, Smith wrote "612. A View in Holland, exhibiting a landscape diversified with meadows, clusters of trees, and cottages, and traversed by a canal crossed by a bridge. Several boats containing passengers are on the water, and a waggon and horses are seen passing along a road on the left. 11 in. by 1 foot 4 in.— P. Collection of M. Perrier, . . . 1817. . 1507 fs. 60l."  Probably M. Perrier refers to Augustin Lapeyrière, because it was sold on 14 April 1817, lot nr. 46, in Paris. The auction catalogue of May 12, 1900 stated that it was in the collection of James Gray of Versailles in 1863, which Hofstede de Groot repeated. Since Waagen had seen the painting in the collection of the Marquess of Landsdowne in 1850 this was however impossible.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
