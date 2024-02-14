@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/henri-matisse/the-moraccans-1916.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/cindy-sherman/untitled-126-1983-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Moroccans</h2>
+        <h2 class="artwork-name">Untitled #126</h2>
         <h3 class="artist">
-          Henri Matisse
-                    ·  1916
+          Cindy Sherman
+                    ·  1983
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Matisse planned this picture as early as 1913, and it recalls visits made to Morocco around this time. A figure sits on the right with a back to us, fruit lies in the left foreground, and a mosque rises in the background beyond a terrace. Matisse said that he occasionally used black in his pictures in order to simplify the composition, though here it undoubtedly also recalls the stark shadows produced by the strong sunshine in the region. Like Bathers by a River (1917), The Moroccans was significantly influenced by Picasso's Cubism, and some have even compared it to Picasso's Three Musicians (1921). Although it employs the same brilliant color as much of Matisse's work, its use of abstract motifs and rigid diagrammatic composition is unusual, and has attracted considerable speculation. Rather than use the scene as an opportunity for decoration, it is as if Matisse has tried to find the means to chart and map it.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Untitled #126 is a colour photograph in which the artist appears, costumed and made up, posing with one foot up on a cane chair. It belongs to one of four groups of photographs relating to fashion photography that Sherman produced between 1983 and 1994. The first group, into which Untitled #126 falls, was commissioned by American retail entrepreneur Diane Benson for a spread in Interview magazine. She supplied Sherman with clothes by such top-of-the-range international designers as Jean-Paul Gaultier and Comme des Garçons. In the same year the French fashion house Dorothée Bis offered their own clothes for a series to appear in French Vogue. The images Sherman created for these two ‘fashion shoots’ are the antithesis of the glamorous world of fashion. The model in the photographs appears silly, angry, dejected, exhausted, abused, scarred, grimy and psychologically disturbed. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
