@@ -2,20 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hildegard-of-bingen/second-vision-adam-as-mankind.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/peter-paul-rubens/perseus-freeing-andromeda.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Second vision. Adam as Mankind</h2>
+        <h2 class="artwork-name">Perseus Freeing Andromeda</h2>
         <h3 class="artist">
-          Hildegard of Bingen
+          Peter Paul Rubens
+                    ·  1622
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The mystic visions of Hildegard of Bingen have been genially rendered in the miniatures of this manuscript. The picture on folio 91r illustrates the second vision: the divine power of creation with the universe and man as symbol of the cosmos. Adam as Mankind appears within the cosmic sphere. On the bottom left sits Hildegard, at once authoress and visionary.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perseus Freeing Andromeda is a painting by the Flemish artist <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, executed in 1622. It is housed in the Gemäldegalerie of Berlin, Germany.
 <br>
-<br>The manuscript at Lucca is an early thirteenth-century illustrated copy of Hildegard's work.</span>
+<br>The painting belonged the M. Pasquier collection in Rouen, which was auctioned in 1755 in Paris. In the 18th century it entered the collection of Frederick II of Prussia and, in 1830, it became part of the Berlinese museum collection.
+<br>
+<br>The scene is similar to another Perseus Freeing Andromeda by Rubens now in the Hermitage Museum of St. Petersburg. It depicts the Greek mythology hero Perseus in the act of freeing Andromeda, after defeating the sea monster which kept her as prisoner. Perseus, wearing helmet, cuirass and cloak, is sided by two puttoes, and one of them is helping him in removing the ropes that tie Andromeda to the rock.
+<br>
+<br>On the left, two puttoes are playing with Pegasus, Perseus' winged horse.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
