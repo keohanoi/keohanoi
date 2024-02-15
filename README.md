@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00340/images/giorgione/the-three-philosophers.jpg"
+        src="https://uploads0.wikiart.org/images/henri-michaux/untitled-chinese-ink-drawing-1961.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Three Philosophers</h2>
+        <h2 class="artwork-name">Untitled Chinese Ink Drawing</h2>
         <h3 class="artist">
-          Giorgione
-                    ·  1509
+          Henri Michaux
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting was commissioned by a Venetian merchant, Taddeo Contarini, who had an interest in the occult and alchemy. The painting depicts three philosophers: one young, one middle aged, and one old. According to one interpretation, the three figures are said to represent the three stages of human thought: the Renaissance, the age of Muslim academic expansion, and the Middle Ages. Other interpretations include that the philosophers are standing outside Plato’s cave, or that they are the Three Magi, outside the tomb of Jesus.  One of Giorgione’s last works before his death, it is said to have been finished by Sebastiano del Pombo, a Venetian artist who was highly influenced by Giorgione’s style.  </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Michaux was both a poet and a painter, but he spoke of drawing as a release from words: 'a new language, spurning the verbal'. His drawings are, nevertheless, calligraphic in character, often suggesting indecipherable writing. Between 1954 and 1962 he experimented with working under the influence of the drug mescaline. The early results were obsessively detailed, while the ink drawings show an intense repetition of slashing marks. Michaux described fighting with these blots, likening them to 'insatiable desires or knots of force, which are destined never to take form'.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
