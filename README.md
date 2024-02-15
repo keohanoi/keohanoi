@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/richard-pousette-dart/symphony-no-1-the-transcendental-1942.jpg"
+        src="https://uploads7.wikiart.org/images/robert-morris/untitled-1968.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Symphony No. 1, The Transcendental</h2>
+        <h2 class="artwork-name">Untitled</h2>
         <h3 class="artist">
-          Richard Pousette-Dart
-                    ·  1942
+          Robert Morris
+                    ·  1968
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Symphony No. 1, The Transcendental is a large painting, considered by many to be the first mural-scale work of Abstract Expressionism. Evoking at once musical notes, cell-like squiggles, and the orbits of a planetary system, the work suggests the universal forms that inhere in the world at large. While the spiritual theme and many of the shapes are familiar from his 1930s work, Pousette-Dart's style has become more painterly and textured. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hovering within the viewer's line of sight, this work acts as a marker within the perceptual field against which viewers can measure themselves. As Morris wrote, 'In the perception of relative size the human body enters into the total continuum of sizes and establishes itself as a constant on that scale'. One of Morris's few hanging sculptures, Untitled was made of fibreglass using an industrial moulding process.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
