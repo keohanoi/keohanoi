@@ -2,25 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00380/images/caspar-david-friedrich/the-tree-of-crows-caspar-david-friedrich-1.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/nicolaes-maes/old-woman-dozing-1656.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Tree of Crows</h2>
+        <h2 class="artwork-name">Old Woman Dozing</h2>
         <h3 class="artist">
-          Caspar David Friedrich
-                    ·  1822
+          Nicolaes Maes
+                    ·  1656
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Tree of Crows (also known as Raven Tree) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> of 1822 by the German Romantic artist <a target="_blank" href="/en/caspar-david-friedrich">Caspar David Friedrich</a>. Acquired by the Musée du Louvre in 1975, it has been called one of Friedrich's "most compelling paintings."
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An Old Woman Dozing (circa 1656) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch painter <a target="_blank" href="/en/nicolaes-maes">Nicolaes Maes</a>. It is an example of Dutch Golden Age painting and is part of the collection of the Royal Museums of Fine Arts of Belgium.
 <br>
-<br>The painting depicts a twisted oak tree, bare but for a few dead leaves, seen against an evening sky. An inscription on the back of the canvas refers to the hill at the painting's center as a Hünengrab, or dolmen, a prehistoric burial ground. In the distance can be seen the ocean, and Cape Arkona's chalk cliffs, a favorite subject of Friedrich's. Two crows are perched on the oak, while a flock descends toward it. In the darkened foreground are a hacked trunk and the upright stump of another oak.
+<br>The woman is dozing over a book and on the table next to her is a lace pillow for bobbin lace. Lace pillows were a favorite subject by Maes, who painted them with their owners:
 <br>
-<br>The oak is based on a drawing dated 3 May 1809, to which Friedrich added branches at the left and elongated others so as to stretch its forms across the picture plane; the tree in the painting has the overall shape of a rhombus, its web of contorted branches taking on a dramatic presence. Contrasted with the serene layers of chromatic clouds, the tree's forms have been likened to "many flailing arms." The foreground may be seen as representing death, with the distant sky offering consoling beauty and the promise of redemption after life.
-<br>
-<br>A single dominant oak was also the subject of two later vertical compositions painted by Friedrich. In those paintings the trees appear to stand in resignation, whereas that of The Tree of Crows seems animated by desperation.</span>
+<br>This painting was documented by Hofstede de Groot in 1914, who wrote; "99. AN OLD WOMAN DOZING OVER HER BOOK. She is in black with a white cap. She sits on a chair facing the spectator. Her spectacles are in her right hand, which rests on a Bible in her lap. Her head rests on her left hand&nbsp;; her elbow is on the table with a red cover beside her. On the table are a lace-pillow and a Bible open at the book of Amos. On a shelf on the wall are a jug and a candlestick with a candle in it. Canvas, 54 inches by 41 1/2 inches. Acquired from Gauchez, Paris, 1885, for the Museum (for 66,000 francs). In the Brussels Museum, 1908 catalogue, No. 279."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
