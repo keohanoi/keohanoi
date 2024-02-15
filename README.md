@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/claude-monet/madame-monet-and-child(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/wassily-kandinsky/blue-rider-1903.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Camille Monet and a Child in the Artist’s Garden in Argenteuil</h2>
+        <h2 class="artwork-name">Blue rider</h2>
         <h3 class="artist">
-          Claude Monet
-                    ·  1875
+          Wassily Kandinsky
+                    ·  1903
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Camille, Monet's first wife, is shown with a child in the garden of their house in Argenteuil, near Paris, where they lived between 1872 and 1877. Today, Claude Monet is primarily known as a landscape painter, but in the beginning of his artistic career, he used to concentrate on portraits. No one else appeares in Monet's paintings as often as Camille. In those year, portraits of women were mostly ordered by bourgeois clients, but among progressive painters, the artistic structure became more important than the identity of the portrayed person. The masterly style, the lack of details, and the plainness of the colours led to a completely new directness of expression, independent of the facial gestures of the depicted person. In this picture, the shimmering reds, blues, greens, and white that capture the brilliance of a sun-drenched day are applied with many small brushstrokes, whose varied shapes create the different textures of flowers, grass, and clothing. Meanwhile, the features of the woman are completely indistinct.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Blue Rider is perhaps Kandinsky’s most important painting from the early 1900’s, before he had fully developed his abstract style of music as sound. The painting illustrates a rider cloaked in blue, speeding through a greenish meadow. The painting’s intentional abstractness had led many art theorists to project their own representations onto the figure, some seeing a child in the arms of the blue rider. Allowing viewers to participate in the representations of the art was a technique that Kandinsky would use to great fruition in his many later works, which became more and more abstract as his career wore on.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
