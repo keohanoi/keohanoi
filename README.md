@@ -2,25 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/rembrandt/the-jewish-bride-1666.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/victor-pasmore/hanging-gardens-of-hammersmith-no-2-1949.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Jewish Bride</h2>
+        <h2 class="artwork-name">Hanging Gardens of Hammersmith No.2</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1666
+          Victor Pasmore
+                    ·  1949
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Jewish Bride (Dutch: Het Joodse bruidje) is a painting by <a target="_blank" href="/en/rembrandt">Rembrandt</a>, painted around 1667.
-<br>
-<br>The painting gained its current name in the early 19th century, when an Amsterdam art collector identified the subject as that of a Jewish father bestowing a necklace upon his daughter on her wedding day. This interpretation is no longer accepted, and the identity of the couple is uncertain. The ambiguity is heightened by the lack of anecdotal context, leaving only the central universal theme, that of a couple joined in love. Speculative suggestions as to the couple's identity have ranged from Rembrandt's son Titus and his bride, or Amsterdam poet Miguel de Barrios and his wife. Also considered are several couples from the Old Testament, including Abraham and Sarah, Boaz and Ruth, or Isaac and Rebekah, which is supported by a drawing by the artist several years prior.
-<br>
-<br>While technical evidence suggests that Rembrandt initially envisioned a larger and more elaborate composition, the placement of his signature at lower left indicates that its current dimensions are not significantly different from those at the time of its completion. According to Rembrandt biographer Christopher White, the completed composition is "one of the greatest expressions of the tender fusion of spiritual and physical love in the history of painting."
-<br>
-<br>The painting is in the permanent collection of the Rijksmuseum Amsterdam.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Gardens of Hammersmith No. 2 is related to the view from 16 Hammersmith Terrace, the house beside the Thames in London where Pasmore lived from 1942-7. 
+<br>The painting is subdivided by diagonal lines drawn in charcoal or pencil and picked out in places with red paint. Several of these lines meet at a point one quarter of the way up the righthand edge, others half way up the lefthand side. The lines represent the division of the gardens and serve as compositional aids. The river border of the gardens is marked by a line running from a quarter of the way up the lefthand side to the middle of the righthand edge. The trees are also arranged geometrically. The trunk of the tree on the far left marks a line bisecting the centre of the top edge. The next tree denotes the golden section of the width of the painting, the third is exactly mid-way.
+<br>This precise composition is inscribed in pencil or charcoal on a painted white ground. The bushes have been drawn in charcoal, or possibly conté crayon, and rubbed into the ground to achieve the smudged effect visible through the coloured dots. The trees are rendered in tones of red-brown. In contrast to these pointillist and linear forms, the sky is painted with smooth modulations of white, pale blue and pink.
+<br>During the war, Pasmore had studied many of the Post-Impressionists' writings, and in the following years he worked through some of their ideas in his own paintings. The impact of Seurat's Pointillism is particularly evident here.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
