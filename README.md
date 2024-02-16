@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/hugo-van-der-goes/the-trinity-altar-panels-1478.jpg"
+        src="https://uploads0.wikiart.org/images/tom-thomson/the-jack-pine-1917.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Trinity Altar Panels</h2>
+        <h2 class="artwork-name">The Jack Pine</h2>
         <h3 class="artist">
-          Hugo van der Goes
-                    ·  1478
+          Tom Thomson
+                    ·  1917
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Trinity Altarpiece, also known as the Trinity Altar Panels, is a set of four paintings in oil on wood thought to have been commissioned for the Trinity College Kirk in Edinburgh, Scotland, in the late fifteenth century.
-<br>
-<br>The work is attributed to the Flemish artist <a target="_blank" href="/en/hugo-van-der-goes">Hugo van der Goes</a> and probably represents the inner and outer panels of the wings of a triptych. The presumed central panel is lost. The painting in the church was described as a "burd" on 17 May 1516 when John Stewart, Duke of Albany made an offering at the high altar on Trinity Sunday.
-<br>
-<br>The work represents a rare example of Scots religious art to have survived the iconoclasm of the Reformation.
-<br>
-<br>The panels are part of the British Royal Art Collection and are displayed at the National Gallery of Scotland.
-<br>
-<br>The four panels depict the following subjects:</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>The Jack Pine</i> is radically different from the oil <a target="_blank" href="https://www.wikiart.org/en/tom-thomson/sketch-for-the-jack-pine-1916">sketch</a> on which it is based and is perhaps the dominant contender as Thomson’s greatest work. Although Thomson retains the basic shape of the pine in his oil sketch, he makes the foreground considerably brighter in the canvas. The water surface, which in the oil sketch is hastily laid in with a muddy grey and then a yellowish-grey against the far shore, is transformed into long slabs of pigment in mauves, blues, and yellows, laying down long, unbroken battens of paint one above the other. <br> <br>This dramatic change is especially evident in the sky. In the sketch, Thomson provides only a rapid swirl of nondescript character, deliberately leaving the wood surface exposed in several places—just as he does in the <a target="_blank" href="https://www.wikiart.org/en/tom-thomson/sketch-for-the-west-wind-1916">sketch</a> for <a target="_blank" href="https://www.wikiart.org/en/tom-thomson/the-west-wind-1917"><i>The West Wind</i></a> (1917). In the canvas, however, and even more emphatically than for the lake surface, he dresses the sky in wide, horizontal ribbons of paint. With subtle modulations from the yellow-green sunset clouds at the horizon through to the bluish arc that appears at the top of the painting, Thomson creates a perfect backdrop to the pine and its immediate foreground.<br> <br>The color of the wood of the small panels has changed since it was milled almost a hundred years ago. When it was new, it was much lighter, possibly even a bright yellowish-white tone if it was of birch. The slow oxidizing over the years has turned the wood into a rich, honey-colored element in the painting and given it a mellow patina.<br> <br>What is surprising is the immense variety in the colors Thomson summons up for <i>The Jack Pine</i>, an array not seen in the sketch: sumptuous hues, complementing and contrasting light and dark, near and far, minute and grand. Even the softening of the distant shoreline, compared with the harder treatment in <i>The West Wind</i>, takes <i>The Jack Pine</i> into that vivid yet dusky and indeterminate hour of the day that clearly bewitched Thomson.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
