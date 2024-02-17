@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/john-everett-millais/esther.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/parmigianino/a-turkish-slave.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Esther</h2>
+        <h2 class="artwork-name">A Turkish Slave</h2>
         <h3 class="artist">
-          John Everett Millais
-                    ·  1865
+          Parmigianino
+                    ·  1533
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Esther (1865) is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> depicting the central character from the Biblical Book of Esther. It is from Millais's <a target="_blank" href="/en/artists-by-art-movement/aestheticism">Aesthetic</a> phase, when he was influenced by the work of Frederic Leighton and <a target="_blank" href="/en/james-mcneill-whistler">James McNeill Whistler</a>.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Turkish Slave (Portrait of a Young Woman; Italian: Schiava turca) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> artist <a target="_blank" href="/en/parmigianino">Parmigianino</a>, executed around 1533. It is housed in the Galleria nazionale di Parma, northern Italy.
 <br>
-<br>The painting depicts Esther, the Jewish wife of the Persian king Ahasuerus, as she prepares to enter the presence of her husband. As she is uninvited, she risks death, but does so to inform him of a plot against the Jews.
+<br>The title of "Turkish Slave" derives from the misinterpretation of the sitter's headwear as a turban. It is in fact a typical headdress of noblewomen of the time called a balzo, with examples appearing in numerous contemporary portraits. She is wearing a chemise under her elaborately sleeved dress called a guimp and is holding a feather fan used as a flywhisk.
 <br>
-<br>Millais borrowed the Yellow Jacket, a gown given to General Gordon by the Chinese emperor after his defeat of the Taiping rebellion. In order to create a culturally unspecific effect, he turned it inside out, producing the abstract patterns visible in the painting.
+<br>The work was in the Uffizi Gallery until 1928, when it was exchanged for two 13th century panels and a portrait thought to be of Philip, Duke of Parma by Giuseppe Baldrighi and later recognized as a self-portrait. It had arrived in Florence through Cardinal Leopoldo de' Medici, who owned it as early as 1675 and left it to the Medici Cabinet after his death. It is mentioned in the Uffizi inventories of 1704 and 1890, being listed in the latter as "Portrait of a Young Woman with a turban on her head, with the left she holds a plume, by Parmigianino's hand".
 <br>
-<br>Millais creates a dramatic visual effect by vivid contrasts of colours, setting the deep blue of the curtain against the yellow dress and the white columns. The minimising of the narrative aspect of the scene is also in line with the Aestheticist approach of the artists he is imitating and challenging.
+<br>The work was restored in 1968, at which time the dark background was removed and a uniform, earth-like color was discovered. The intervention, however, has been criticized, since several art historians consider the black background as a later intervention by Parmigianino himself.
 <br>
-<br>Esther is depicted adjusting pearls in her hair, as she prepares to place her crown on her head. This gesture is derived from paintings by <a target="_blank" href="/en/titian">Titian</a>, whose techniques of colouring Millais imitates, along with the modelling of the face and the characteristic "Titian blonde" hair. This also compares with the lush red locks of Millais's earlier picture The Bridesmaid and with some contemporary works by <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>. Millais's biographer Marion Spielmann wrote that the painting was "the most modernly treated of Millais's early works...more consonant in its strong harmony with the audacious brilliancy of the present day [1898] than the more solid strength of forty years ago."</span>
+<br>The subject is a young woman with brown hair and eyes, portrayed as a half-figure. She wears a white silk dress or bodice striped with gold. Her over-dress of indigo blue satin has large puffed sleeves and is worn low around the shoulders, revealing the bodice. She also wears a soft embroidered apron on her belly of a type also represented in the painting Antea by the same artist. On the head she wears a doughnut-shaped headdress sewn with gilt thread and decorated by a medallion portraying Pegasus, perhaps a metaphor of love or a heraldic reference to the Cavalli family. This style of headwear was fashionable for women of the time, invented for Isabella d'Este and featured in numerous female portraits from the Lombard and Padan area in the early 16th century.
+<br>
+<br>On the hand, whose slender fingers are typical of Parmigianino art, she wears a small ring, perhaps a reference to a recent marriage. She holds a plume used to fan herself, depicted with highly detailed brushstrokes.
+<br>
+<br>The proposed identifications of the woman include Giulia Gonzaga at the time of her marriage to Vespasiano Gonzaga.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
