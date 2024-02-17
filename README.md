@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/jan-siberechts/a-horse-drawn-cart-with-two-women-travelling-down-a-flooded-road-at-the-edge-of-a-wood-1692.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/robert-morris/box-with-the-sound-of-its-own-making-1961.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Horse-Drawn Cart with Two Women Travelling down a Flooded Road at the Edge of a Wood</h2>
+        <h2 class="artwork-name">Box with the Sound of Its Own Making</h2>
         <h3 class="artist">
-          Jan Siberechts
-                    ·  1692
+          Robert Morris
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Siberechts painted the present painting in 1692, by which stage he had been living and working in England for many years. This painting is however dramatically different from his usual work of this period. Instead it follows in the tradition of the landscapes from his later Flemish period, which he occasionally still produced. By comparing A Horse-Drawn Cart with Two Women Travelling down a Flooded Road at the Edge of a Wood to a painting from his Flemish period, such as Peasants Crossing a Stream, which was executed over twenty years earlier, it becomes apparent that Siberechts has adopted the manner and style of the earlier work in the present painting. Both paintings have a stretch of water in the foreground on which Siberechts has indulged a clear interest in the glittering effects of light off the water’s surface. In both works the dominant figures are female, and the inclusion of cattle wading through the water are a prominent feature. The employment of the expanding distant landscape which leads our eye deep into the background of the work, is again a technique apparent in both paintings.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">As its title indicates, Morris's "Box with the Sound of Its Own Making" consists of an unadorned wooden cube, accompanied by a recording of the sounds produced during its construction. Lasting for three-and-a-half hours, the audio component of the piece denies the air of romantic mystery surrounding the creation of the art object, presenting it as a time-consuming and perhaps even tedious endeavor. In so doing, the piece also combines the resulting artwork with the process of artmaking, transferring the focus from one to the other. Fittingly, the first person in New York Morris invited to see the piece was John Cage-whose silent 1952 composition 4'33" is famously composed of the sounds heard in the background while it is being performed. Cage was reportedly transfixed by Box with the Sound of Its Own Making, as Morris later recalled: "When Cage came, I turned it on... and he wouldn't listen to me. He sat and listened to it for three hours and that was really impressive to me. He just sat there."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
