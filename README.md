@@ -2,21 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00142/images/el-greco/christ-driving-the-traders-from-the-temple-1.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/joshua-reynolds/self-portrait-4.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ driving the traders from the temple</h2>
+        <h2 class="artwork-name">Self-Portrait</h2>
         <h3 class="artist">
-          El Greco
-                    ·  1576
+          Joshua Reynolds
+                    ·  1755
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Driving the Money Changers from the Temple is a 1571 Christian art painting by <a target="_blank" href="/en/el-greco">El Greco</a>, now in the Minneapolis Institute of Art. It depicts the Cleansing of the Temple, an event in the Life of Christ.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This self-portrait was probably painted soon after Reynolds set up a studio in London in 1753. He had spent the previous three years studying art in Italy.
 <br>
-<br>There exist three other copies of the painting and also a faithful reproduction in the National Gallery in London, which has recently been considered as authentic by scholars in the field of visual arts. Two versions and that other on loan from Madrid are titled Purification of the Temple. The one at the National Gallery in Washington is called Christ Cleansing the Temple.</span>
+<br>The personal connections and artistic ambitions Reynolds developed when he was abroad served him well. These years marked the beginning of a carefully-managed and hugely successful career. This self-portrait, which deliberately echoes famous  
+<br>images by Rembrandt, signals his artistic aspirations. Such posturing struck a chord with London’s fashionable and aristocratic society, who wanted portraits that would flatter their growing cultural pretensions.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
