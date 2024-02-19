@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00216/images/lewis-hine/power-house-mechanic-working-on-steam-pump-1920.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/james-ward/portraits-of-blackthorn-a-broodmare-with-old-jack-a-favourite-pony-the-property-of-e-mundy-esq-1812.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Steamfitter</h2>
+        <h2 class="artwork-name">Portraits of Blackthorn, a Broodmare, with Old Jack, a Favourite Pony, the Property of E. Mundy, Esq.</h2>
         <h3 class="artist">
-          Lewis Hine
-                    ·  1921
+          James Ward
+                    ·  1812
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The famous photo captured by Hine depicts a mechanic working in a power plant in Pennsylvania and showcases the importance of workers as valuable contributors to the industry. The photograph skillfully portrays the harmonious relationship between the mechanic and the machine, equating human strength with industrial power. By positioning the man strategically within the steam line and cylinder head curves, Hine creates a visually striking composition. The worker strikes a pose for the camera while gripping his wrench, although upon closer examination, it becomes apparent that the wrench is not completely attached to the nut.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This picture was recorded in Ward's account book as having been commissioned by Edward Miller Mundy of Shipley Hall, Derbyshire. It portrays particular animals he owned - Old Jack, a bay pony, standing on the left, and Blackthorn, a chestnut mare, with a tiny new-born foal on the grass in front of her.
+<br>Ward was an ambitious artist who attempted a variety of animal subjects beyond the narrow range of conventional sporting scenes. He was interested in the character of individual animals and used them on occasions in place of people in his compositions. Greatly influenced by Rubens, he seems in his turn to have been a model for Landseer in the manner in which he endowed animals with human emotions.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
