@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/li-cheng/travelers-in-a-wintry-forest.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00142/images/57726d86edc2cb3880b49101/william-adolphe-bouguereau-1825-1905-the-nut-gatherers-1882.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Travelers in a Wintry Forest</h2>
+        <h2 class="artwork-name">The Nut Gatherers</h2>
         <h3 class="artist">
-          Li Cheng
+          William-Adolphe Bouguereau
+                    ·  1882
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">During the tenth and eleventh centuries, majestic trees rivaled panoramic landscapes as sources of artistic inspiration. The hermit-painter Jing Hao (荊浩, ca.880–940), for example, saw in the pine tree "the moral character of the virtuous man," while the preeminent landscape master Li Cheng is said to have painted desolate scenes of winter because "men of virtue are now found only in the wilderness."
-<br>       Travelers in a Wintry Forest follows a well-known composition by Li Cheng as described by Mi Fu (米芾, 1051–1107) in his History of Painting (畫史). The scene is a microcosm of the natural cycle of growth and decay, with the great pine, symbolizing the virtuous gentleman, surrounded by trees ranging from youthful saplings to a shattered ancient hulk. The stoic silence of the wintry forest is matched by the unyielding spirit of the scholar on his donkey—the noble recluse who has entered the mountains to rediscover in nature the moral order that is lost in the human world.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In a grassy clearing, two young girls take a break from collecting hazelnuts. One girl holds a handful of nuts while the other is engrossed in play or a shared secret. Bouguereau's genre painting portrays everyday life, often featuring women and girls in agricultural or domestic settings. The girls in The Nut Gatherers are dressed plainly as peasants but appear unusually clean and content.<br><br>During the 1880s, the Paris Salon's official preferences shifted towards Naturalism, as demonstrated by the success of Jules Bastien-Lepage's Hay Makers (1877). Bouguereau was aware of these market changes and adapted his works accordingly, although his genre paintings retained the idealized perfection of his Neoclassical pieces.<br><br>Critics have accused Bouguereau of being overly sentimental, and The Nut Gatherers could support such claims. However, his later works demonstrate a remarkable naturalistic precision, exploring themes such as family relationships, contemplation, and harmony with nature. Mark Steven Walker wrote about Bouguereau's view of peasant life for an exhibition catalogue, praising the "heroic attention required to sustain such a vision of perfection in a less than perfect age." The Nut Gatherers remains popular today, with the Detroit Institute of Arts citing it as one of their most beloved works after purchasing it in 1952.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
