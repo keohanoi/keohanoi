@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00163/images/norman-lewis/lewis-dan-mask-image-only2.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/james-brooks/untitled-abstraction-1947.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dan Mask</h2>
+        <h2 class="artwork-name">Untitled (Abstraction)</h2>
         <h3 class="artist">
-          Norman Lewis
-                    ·  1935
+          James Brooks
+                    ·  1947
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1935, Lewis attended the exhibition African Negro Art at the Museum of Modern Art. Deeply inspired by the forms he encountered, he executed colorful pastel drawings—some on sandpaper—of masks from the Baulé and Dan cultures. A typed statement in Lewis’s archive reveals his clear understanding of the severe distinctions between African sculpture and the Greco-Roman model of naturalism that had previously informed his work and teaching.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">With the 1946–47 Untitled (abstraction) Brooks is evolving away from modernist realism to abstraction. Brooks can be seen in this work to be deriving a new vocabulary of forms based on various sources in nature as well as the work of European surrealists, who arrived in New York to escape Nazi-occupied Europe. With this work, Brooks has become part of the most advanced currents of the avant-garde in post–World War II New York; indeed his friendship with Jackson Pollock and Lee Krasner was enormously important at this moment in furthering Brooks’ ideas about the ways and means of making paintings in the alternately anxious and hopeful era of the late 1940s and early 1950s.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
