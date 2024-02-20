@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00142/images/57726d7dedc2cb3880b47da2/el-greco-the-burial-of-the-count-of-orgaz.JPG!Large.JPG"
+        src="https://uploads3.wikiart.org/images/christian-schad/dr-haustein-1928.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Burial of the Count of Orgaz</h2>
+        <h2 class="artwork-name">Dr. Haustein</h2>
         <h3 class="artist">
-          El Greco
-                    ·  1587
+          Christian Schad
+                    ·  1928
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Burial of the Count of Orgas is widely considered one of El Greco’s masterpieces. The painting depicts a popular legend, regarding the Count of Orgas, who was a pious man, and who upon his death left a large sum of money to the church. The legend tells that Saint Stephen and Saint Augustine descended from heaven at his funeral and buried them with their own hands. Andres Nunes, the parish priest of Sao Tome, was the commissioner of the work, who intended it for a project to refurbish the Count’s burial chapel. According to the commission, the observers of the burial were to be portraits of the notable men of Toledo at the time. The successful inclusion of a gallery of portraits of prominent men secured its esteem, and helps to rank El Greco as a master of his time. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dr. Haustein was a dermatologist with a specialist interest in syphilis who serviced the prostitutes on Berlin's Kurfürstendamm. In the late 1920s his home became a fashionable salon where many of the distinguished artistic and literary figures of the time would meet. Schad described the unique atmosphere there as being one of "extreme intellectual and erotic freedom where writers, artists, and politicians would mingle with a plethora of scientists, physicians and beautiful women".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
