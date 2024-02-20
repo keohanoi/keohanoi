@@ -2,24 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/raphael/the-veiled-woman-or-la-donna-velata.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/tintoretto/self-portrait-1588.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Veiled Woman, or La Donna Velata</h2>
+        <h2 class="artwork-name">Self-Portrait</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1516
+          Tintoretto
+                    ·  1588
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">La velata, or La donna velata ("The woman with the veil"), is one of the most famous portraits by the Italian Renaissance painter <a target="_blank" href="/en/raphael">Raphael</a>.
-<br>
-<br>The subject of the painting appears in another portrait, La Fornarina, and is traditionally identified as the fornarina (bakeress) Margherita Luti, Raphael's Roman mistress.
-<br>
-<br>As usual with Raphael, the subject's clothing is chosen and painted with close attention; here it is strikingly opulent.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self Portrait is a self-portrait by <a target="_blank" href="/en/tintoretto">Tintoretto</a>, dating to around 1588. It was bought for Marie Antoinette with the chateau de Saint-Cloud in 1785. It is now in the Louvre.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
