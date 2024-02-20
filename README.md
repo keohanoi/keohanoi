@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00338/images/johan-hendrik-weissenbruch/view-from-dekkersduin-1849-jpg-large.jpg"
+        src="https://uploads7.wikiart.org/images/george-bellows/both-members-of-this-club-1909.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">View from Dekkersduin</h2>
+        <h2 class="artwork-name">Both Members of This Club</h2>
         <h3 class="artist">
-          Johan Hendrik Weissenbruch
-                    ·  1849
+          George Bellows
+                    ·  1909
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dekkersduin is the title of a painting by the Dutch landscape painter Jan Hendrik Weissenbruch that he made in 1849. The painting offers a panorama view from the old hill in The Hague called Dekkersduin, for which it is named. The painting offers a now historical view westwards towards Scheveningen along what would become the "Afvoerkanaal", a canal to refresh the water in the city canals with water from the dunes. The dune Dekkersduin was a favored place used by Weissenbruch and other painters of the Hague School because they liked the light effects on the plains. Today the entire area displayed in the painting has been built up and the hill itself has been leveled to make room for homes, offices and parks and only the turn in the canal offers a clue to the original position of the painter.
-<br>
-<br>The painting was purchased from the artist by the Teylers Museum in Haarlem, where it hangs in the permanent collection.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Painted in October 1909, the remarkably expressive and dynamic Both Members of This Club is the third and largest of George Bellows’s early prizefighting subjects. The painting’s title is a reference to the practice in private athletic clubs of introducing the contestants to the audience as “both members” to circumvent the Lewis Law of 1900 that had banned public boxing matches in New York State. Boxing was a controversial subject, but the interracial theme made this painting even more so, especially since the black boxer appears to be winning the match.<br><br>It is likely that Bellows intended Both Members of This Club as an allusion to the recent and much-publicized success of the African American professional prizefighter Jack Johnson, who had won the world heavyweight championship in 1908. The idea of a black boxing champion was so unsettling to the prejudiced social order of the time that many thought interracial bouts should be outlawed. Painted at the height of the Jim Crow era, Bellows’s powerful delineation of a white fighter about to be defeated by a black opponent was an exceptionally daring and provocative piece of social commentary.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
