@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/victor-pasmore/yellow-abstract-1961.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00237/images/ancient-greek-painting/painted-limestone-funerary-slab-with-a-soldier-taking-a-kantharos-from-his-attendant-275.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Yellow Abstract</h2>
+        <h2 class="artwork-name">Painted Limestone Funerary Slab with a Soldier Taking a Kantharos from His Attendant</h2>
         <h3 class="artist">
-          Victor Pasmore
-                    ·  1961
+          Ancient Greek Painting and Sculpture
+                    ·  -275
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Despite its ochre colouring, this work was exhibited as Yellow Abstract in Pasmore’s exhibition at the New London Gallery in March 1961; the artist later explained: ‘Ochre can be a tint of yellow. But yellow is more poetic than ochre’. The majority of the image is built up from what appears to be decorator’s gloss paint applied over an eggshell white ground. The ground is visible on the edges of the panel and in some areas of its face. In contrast to the generally high level of gloss, areas of the artist’s later retouching to the left of the ochre lozenge shape and at the centre top have a matt finish; slight yellowing of the main white paint layer has rendered them more apparent. Pencil underdrawing can be seen along the right hand edge of the ochre form, while the broad black lines were painted with the aid of masking tape. Photography under raking light reveals that the ochre form at one time tapered upwards, almost to the top of the main panel, but was subsequently painted over. The plywood panel is mounted within a varnished pine frame, the inner face of which is lined with wood veneer to match that on the back panel. The panel is attached to the frame by screws from the back located into four pine supports arranged around the rear of the painted board. The frame is integral to the work. Yellow Abstract is one of a group of paintings dominated by a single expansive area of strong colour made by Pasmore between 1959 and 1963. The forms in these paintings, though irregular in shape, were very simple at first and became increasingly complex, being developed by the artist into the interwoven biomorphic forms of later works.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A boy with dark brown skin, standing at the left, holds out a black cup to a tall soldier in a long blue cloak, at the right. The boy holds a lance and supports the soldier's large oval shield against his chest. Almost all the preserved evidence for painting in the Hellenistic period comes from funerary monuments. Some like the vaulted tombs of Macedonia and Thrace show large scale figures and friezes. More modest painted stelai like the ones displayed here have been found in many places in the Eastern Meditereanean.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247111">The MET</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
