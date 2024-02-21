@@ -2,19 +2,26 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00238/images/ancient-greek-pottery/cylix-of-apollo-470.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00210/images/james-turrell/turrell-space-that-seescr1-1.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cylix of Apollo</h2>
+        <h2 class="artwork-name">Space That Sees</h2>
         <h3 class="artist">
-          Ancient Greek Pottery
-                    ·  -470
+          James Turrell
+                    ·  1992
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This Attic White Ground kylix of the early 5th century BC has a most distinctive depiction of the Apollo. The god wears a white sleeveless chiton, which is fastened with pins at the shoulders, and a red himation wrapped around the lower part of his body. He sits on a cross-legged stool. A myrtle wreath garnishes his carelessly bound hair. He performs a libation by pouring wine out of a bowl with his right hand, while holding a seven-stringed lyre, whose sound-box is made of a turtle-shell, in his left hand. A raven looks on. This scene could allude to the myth of King Phlegyas's daughter Koronida (from the Greek korone = raven), who was in love with Apollo, although some scholars believe it is simply a bird with prophetic powers. These colourful figures on a white background are typical of Attic vase-painting of the early 5th century BC. This kylix is the work of an unknown artist, which some scholars identify with the so-called Berlin painter.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Space That Sees belongs to Turrell’s “Skyspace” series, begun in the late 1960s and early 1970s, which can be seen as performance pieces responding to and interacting with environmental conditions and atmospheric fluctuations over time. Observing the shifting hues of the sky from inside a pristine, rectilinear space, viewers experience a connection to their surroundings. But more than that, the artist, by confronting us with the empty space, turns our mind to our own mode of seeing.
+<br>
+<br>For his Jerusalem Skyspace, Turrell chose a semicircular terrace along the western slope of the Art Garden. The site was cut in two and dug out, so that the terrace now enfolds a shrine-like inner space evoking places of worship such as pyramids, mausoleums, or temples. A square opening cut into its ceiling makes a frame for an ever-changing abstract "picture” of the sky, recalling by contrast Baroque illusionist ceilings crowded with painted clouds, saints, and angels.
+<br>
+<br>Space That Sees invites a kind of meditative experience. Twilight conditions yield a particularly startling effect, with the flat surface of the sky turning almost imperceptibly from deep blue to velvet black while the room itself seems to grow increasingly brighter, so that the physical conjunction at the roof opening of interior and exterior becomes a catalyst in the light’s passage from day to night. Turrell saw the installation as an “allegory of light that we generate from inside and light that comes from outside: the emergence into space where light comes forth as in a dream.”
+<br>
+<br>
+<br>Materials: Gray and white concrete, limestone, fluorescent light with dimmers, 700 x 1,000 x 1,000 cm</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
