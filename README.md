@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/ion-bitzan/the-tower-1992.jpg"
+        src="https://uploads0.wikiart.org/images/amadeo-de-souza-cardoso/os-galgos-1911.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Tower</h2>
+        <h2 class="artwork-name">The Greyhounds</h2>
         <h3 class="artist">
-          Ion Bitzan
-                    ·  1992
+          Amadeo de Souza-Cardoso
+                    ·  1911
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">His "Tower" 1992, a mammoth and magnificent reading table supported on hand-carved legs with busts resembling a composite of a Baroque portrait and angelic putty, contains sheets of weathered, ocher, hand-made papers with unreadable script piled atop each other, the leaves forming a mound of suggestive occult knowledge far removed in appearance, intellectual substance, and teleological import from the synthesized floating computer information of the present. "The Tower" is an anachronism appealing to the alchemical past upon which the simulated future draws unconsciously. (Kristine Stiles)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Greyhounds (Portuguese: Os Galgos) is a painting by <a target="_blank" href="/en/amadeo-de-souza-cardoso">Amadeo de Souza Cardoso</a>, from 1911.
+<br>
+<br>The painting is an oil on canvas with overall dimensions of 100 x 73 centimeters. It is in the collection of the Modern Art Center José de Azeredo Perdigão, in Lisbon.
+<br>
+<br>The scene shows an <a target="_blank" href="/en/artists-by-art-movement/abstract-art">abstract</a> <a target="_blank" href="/en/artists-by-art-movement/art-nouveau">art nouveau</a>, painting of grayhounds, against a flat background.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
