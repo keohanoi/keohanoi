@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/diego-rivera/detroit-industry-north-wall.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00165/images/goran-despotovski/coat-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Detroit Industry, North Wall</h2>
+        <h2 class="artwork-name">COAT</h2>
         <h3 class="artist">
-          Diego Rivera
-                    ·  1933
+          Goran Despotovski
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Detroit Industry is a series of 27 murals depicting industry, painted on the walls of the Ford Motor Company, and was considered by Rivera to be his best work. Whereas some of the panels depict workers in the Ford Motor Company River Rouge Plant, other panels illustrate all areas of industry, including medicine, science, and technology. Due to Rivera’s controversial Marxist philosophy, the murals were criticized by the clergy, politicians and the public, 10,000 of whom visited the murals in a single day. The clergy members, who were invited to come and criticize the work, determined that it was a parody of the birth of Christ and demanded that it be destroyed. But Edsel Ford and the Detroit Institute of Arts defended the murals, which were eventually allowed to stay. Later, during the anti-communistic era of the 1950’s a large sign was placed outside the entrance to the murals, defending their artistic merit, all the while decrying Rivera’s politics as “detestable.”</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Suit Jacket represents sequences of a suit jacket captions in different positions. Suit jackets, as a whole, build dramatic extracorporeal form that implies the presence or the absence of human body. Those sequences of a suit jacket, stopped in motion, display various forms of tension provoked by the stance of the society towards an individual. A patchwork suit jacket is displayed in the state of spatial floating implying wasted and faded act. Those forms represent exposed man or the life aspects of an individual through the lens of various social impacts. Hence the existing state of what is left behind speaks of fundamental desolation and the loss of individuality. The introduced forms of a suit jacket in different amorph scenes express methaphysical movement within the space itself. A piece of clothing symbolizes the state between life and death in a space which levitates between the rejected and lost.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
