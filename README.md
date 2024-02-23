@@ -2,19 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00281/images/sergio-illuminato/unstable-territories.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/amedeo-modigliani/jacques-and-berthe-lipchitz-1917.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">UNSTABLE TERRITORIES</h2>
+        <h2 class="artwork-name">Jacques and Berthe Lipchitz</h2>
         <h3 class="artist">
-          Sergio Mario Illuminato
-                    ·  2019
+          Amedeo Modigliani
+                    ·  1917
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The structural strength of the work here lies in representing the informal subject in which the inner world can emerge. The lines and signs move primarily in reference to the brilliance of the gold leaves that are used to repair the burnt canvas and transmit circularity to the eye. Excluding these vanishing points would cage us in a constipated space. The low color saturation - in counterpoint to the purity of the hue of the gold leaves - makes the interior scene in general very charged. However, these openings of light allow the observer to circulate inside-outside, and act as a liberating movement that enrolls itself elsewhere. With the intensity of the gold leaves, the warm tones from below that emerge in the foreground and the cold tones of the overlying part perceived as more distant, the depth of the picture is built and, therefore, by parallelism of our unconscious.<br><br>La forza strutturale del lavoro qui sta nel rappresentare il soggetto informale nel quale far affiorare il mondo interiore. Le linee e i segni si muovono innanzitutto in riferimento alla brillantezza delle foglie d’oro che vengono usate per riparare la tela bruciata e trasmettere circolarità allo sguardo. Escludere questi punti di fuga ci ingabbierebbe in uno spazio costipato. La bassa saturazione dei colori - in contrappunto con la purezza della tonalità delle foglie d’oro - rende infatti la scena interiore in generale molto carica. Queste aperture di luce permettono comunque all’osservatore di circolare dentro-fuori, e agire un movimento liberatorio che si iscrive verso un altrove. Con l‘intensità delle foglie d’oro, i toni caldi dal basso che emergono in primo piano e i toni freddi della parte sovrastante percepita più distante, si costruisce la profondità del quadro e, quindi, per parallelismo del nostro inconscio.<br><br>La force structurelle de l'œuvre réside ici dans la représentation du sujet informel dans lequel le monde intérieur peut émerger. Les lignes et les signes se déplacent principalement en référence à l'éclat des feuilles d'or qui sont utilisées pour réparer la toile brûlée et transmettre la circularité à l'œil. L'exclusion de ces points de fuite nous enfermerait dans un espace constipé. La faible saturation des couleurs - en contrepoint de la pureté de la teinte des feuilles d'or - rend la scène intérieure en général très chargée. Cependant, ces ouvertures de lumière permettent à l'observateur de circuler intérieur-extérieur et d'agir comme un mouvement libérateur qui s'inscrit ailleurs. Avec l'intensité des feuilles d'or, les tons chauds d'en bas qui émergent au premier plan et les tons froids de la partie sus-jacente perçus comme plus éloignés, la profondeur de l'image se construit et, par conséquent, par parallélisme de notre inconscient.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jacques and Berthe Lipchitz is a 1916 oil on canvas painting by <a target="_blank" href="/en/amedeo-modigliani">Amedeo Modigliani</a>. It depicts Modigliani's friend, the sculptor <a target="_blank" href="/en/jacques-lipchitz">Jacques Lipchitz</a>, standing alongside his seated wife Berthe.
+<br>
+<br>Modigliani and Lipchitz had each moved to France at a young age, were both from Jewish backgrounds, and became close friends who frequented the same artistic circles in Paris. Despite their commonalities, there were marked differences: Lipchitz exemplified artistic industriousness while Modigliani was given to bohemian dissolution.
+<br>
+<br>Before painting Jacques and Berthe Lipchitz Modigliani made a series of preparatory drawings, of which five survive: two of Lipchitz, two of Berthe, and one of them together in the resolved composition. Lipchitz described the painting's development years later:
+<br>
+<br>Lipchitz was uncomfortable accepting the painting for merely ten francs, and made excuses in order for Modigliani to continue working on the portrait. "You know", I said, "we sculptors like more substance." "Well," he answered, "if you want me to spoil it, I can continue." The portrait occupied Modigliani for nearly two weeks, "probably the longest time he ever worked on one painting."
+<br>
+<br>One of only two double portraits painted by Modigliani, Jacques and Berthe Lipchitz has been noted for its complex and enigmatic study of contrasting personalities. Lipchitz is shown with his wife Berthe Kitrosser, a Russian poet, in their Paris apartment that had previously been the home of the sculptor <a target="_blank" href="/en/constantin-brancusi">Constantin Brâncuși</a>. Posed in front of an abstracted architectural interior, Lipchitz is handsomely dressed, and stands casually with one hand on Berthe's shoulder. Their mask-like faces have encouraged varied readings; Berthe's gentle sensuality, her large eyes and lips and graceful neck, have been seen to offer a striking contrast to Lipchitz's self-pride, his small eyes and mouth and "wickedly twisted nose" combining to satirical effect. For art historian Mason Klein, Berthe's face is bland and bourgeois, her frilly collar and pert nose suggesting haughtiness, while Lipchitz stands above her, domineering and protective.
+<br>
+<br>Modigliani biographer Werner Schmalenbach compared Jacques and Berthe Lipchitz to the artist's Bride and Groom of 1915, and noted the development away from a purely formal depiction of 'types' to a greater interest in the characterization of individuals. This difference in the two works is consistent with an evolution in Modigliani's drawing and painting toward increased refinement.
+<br>
+<br>After Modigliani died in 1920 Lipchitz crafted his death mask, making twelve plaster molds for Modigliani's friends and family. Soon thereafter Lipchitz traded the painting to his dealer in exchange for the return of sculptures "which I no longer felt were representative." The painting was purchased in 1922, and entered the Art Institute of Chicago in 1926 as part of the Helen Birch Bartlett Memorial Collection.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
