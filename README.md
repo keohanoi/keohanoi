@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/william-turner/shore-scene-with-waves-and-breakwater-1835.jpg"
+        src="https://uploads6.wikiart.org/00475/images/raphael/1-xvkpn0qm3eiqpzivkggfea.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Shore Scene with Waves and Breakwater</h2>
+        <h2 class="artwork-name">The School of Athens</h2>
         <h3 class="artist">
-          J.M.W. Turner
-                    ·  1835
+          Raphael
+                    ·  1511
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">No less remarkable than Turner's late marine canvases are some small oils on millboard that address similar subjects in a manner more abstract and perfunctory than anything he ever painted in oil. These also can hardly have been made outdoors, for Turner seems to have entered into the very spray and surge of the breakers as they crash on the shore. Rather he is recreating the experience of his walks on the sands, from memory and, perhaps, inspired by the movement of paint itself. Even if not painted within the elements they describe, few of his oil sketches convey more sense of the open air.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The School of Athens fresco, which is one of Raphael’s most famous works, was completed to decorate the Stanza della Segnatura commission by the Pope. The Stanza was the first set of rooms to be decorated, and this painting was the second in the set of paintings that adorn the walls. Although it was created for a grand room in the Vatican, nearly every one of the figures in the painting can be identified as a Greek philosopher, rather than a religious character. Raphael included the likeness of Michelangelo himself in the painting, as the philosopher Heraclitus. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
