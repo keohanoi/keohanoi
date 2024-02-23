@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/john-william-waterhouse/boreas-1903.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/giotto/adoration-of-the-magi-1306.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boreas</h2>
+        <h2 class="artwork-name">Adoration of the Magi</h2>
         <h3 class="artist">
-          John William Waterhouse
-                    ·  1903
+          Giotto
+                    ·  1306
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Boreas is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> in the Pre-Raphaelite style created in 1903 by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>.
-<br>
-<br>The painting is titled Boreas, after the Greek god of the north wind and it shows a young girl buffeted by the wind. The 1904 Royal Academy notes described the subject of the painting as:
-<br>
-<br>Boreas was put up for sale in the mid-1990s after having been lost for 90 years - causing quite a sensation in the art community. The painting achieved a record price for Waterhouse at that time, achieving a price £848,500 ($1,293,962USD).</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a portion of the cycle of frescoes in the Arena Chapel, which is one of Giotto’s most renowned works. The scene depicts adorers greeting the baby Jesus, employing Giotto’s techniques such as the draping of cloth and the emotion on the faces of the figures in the scene, as well as the use of three-dimensional techniques, helping the viewers place themselves in the scene. One of the most interesting components of this fresco is the Star of Bethelehem in the form of a comet shooting through the sky. It is thought that Giotto was inspired to paint this Star in this form due to a 1301 viewing of Halley’s Comet. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
