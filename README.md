@@ -2,25 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00380/images/giovanni-bellini/doge-leonardo-loredan-giovanni-bellini.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/guido-reni/massacre-of-the-innocents-1611.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Leonardo Loredan</h2>
+        <h2 class="artwork-name">Massacre of the Innocents</h2>
         <h3 class="artist">
-          Giovanni Bellini
-                    ·  1501
+          Guido Reni
+                    ·  1611
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Doge Leonardo Loredan is a painting by the Italian Renaissance master <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, dating from 1501. It is on display in the National Gallery in London. It portrays Leonardo Loredan, Doge of Venice from 1501 to 1521, in his ceremonial garments with the corno worn over a linen cap, and is signed IOANNES BELLINVS on a cartellino.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Massacre of the Innocents is a painting by the Italian Baroque painter <a target="_blank" href="/en/guido-reni">Guido Reni</a>, created in 1611 for the Basilica of San Domenico in Bologna, but now in the Pinacoteca Nazionale in that same city.
 <br>
-<br>Leonardo Loredan was the Doge of Venice from 1501–21. In Bellini's painting he is shown wearing his robes of state. The hat and ornate buttons are part of his official wardrobe. The sitter can be identified as Doge Loredan by comparing his features with portrait medals of him. The shape of the hat comes from the hood of a doublet. It is called a corno ducale and was a type of ducal hat, worn over a linen cap. The painting is part of a Venetian tradition of painting formal portraits of the City's rulers dressed in state robes. It is painted in the style of the sculpted portrait busts popular at the time. These were often inspired by Roman sculpture. Bellini signed his name in its Latin form, IOANNES BELLINVS on the cartellino, or "small paper", on the parapet. He was famous for his portraiture and helped make this art form especially popular in Venice.
+<br>The painting is based on the biblical episode of the Massacre of the Innocents, described in the Gospel of Matthew. The work shows a series of episodes at the same time but is classically composed with each element carefully mirrored by an answering one.
 <br>
-<br>John Pope-Hennessy described Bellini as "by far the greatest fifteenth-century official portraitist", adding that "the tendency towards ideality that impairs his private portraits here stood him in good stead, and enabled him to codify, with unwavering conviction, the official personality".
-<br>
-<br>The painting would initially have been in Venice and was probably looted when Napoleon conquered the city. It was bought by William Thomas Beckford in 1807 for thirteen guineas (£13 13s). He sold it to the National Gallery in 1844 for £630.</span>
+<br>Two killer soldiers, one portrayed from behind while rushing on a screaming woman, and one kneeling towards the mothers with their children, hold knives in the right hand. The mothers are reacting in different ways: one is screaming and attempting to escape the soldiers who has grabbed her hair, another is fleeing towards the right while embracing her child, while another, in the lower left corner, is holding her child on her shoulders; another mother tries to stop a soldier with her left hand, and a kneeling woman is praying towards the sky above the children which have already been slaughtered.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
