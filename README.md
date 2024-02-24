@@ -2,21 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/frank-stella/die-fahne-hoch-1959.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00215/images/marina-abramovic/h7aunlwwtiih7gemi5x8-marina-abramovic-aaa-aaa-1978-courtesy-the-artist-and-lisson-gallery.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Die Fahne Hoch!</h2>
+        <h2 class="artwork-name">AAA-AAA</h2>
         <h3 class="artist">
-          Frank Stella
-                    ·  1959
+          Marina Abramović
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The use of basic geometric systems in the work is regarded by many as the precursor of Minimalism. The painting was made by marking equal subdivisions along the sides, bottom and top edges of the canvas and using these intervals to generate simple, symmetrical patterns comprising bands of black enamel paint separated by thin lines of unpainted canvas.
-<br>
-<br>Frank Stella gave the work a provocative title. Die Fahne Hoch! is named after the anthem of the Nazi Party, the Horst-Wessel-Lied, and is one of several paintings in the series that make direct reference to Nazism. By applying a hotly emotive title to the image, Stella's ironic purpose was that of destabilizing the idea of meaning itself.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this performance Abramović and Ulay stand opposite of each other and make long sounds with their mouths open. Gradually, they move closer and closer to one another, until eventually they are yelling directly into each others open mouths. The performance, which lasted 15 minutes, continued until both artist’s voices were  out of sync and failing from the continuous yelling. This piece demonstrates their interest in endurance and duration, as well as an exploration of aggression between physically present figures, one male and one female.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
