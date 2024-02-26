@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/gustave-dore/idylls-of-the-king-12.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/cindy-sherman/untitled-126-1983-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Idylls of the King</h2>
+        <h2 class="artwork-name">Untitled #126</h2>
         <h3 class="artist">
-          Gustave Dore
+          Cindy Sherman
+                    ·  1983
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dore created many illustrations for The Idylls of the King, a set of twelve poems by the English poet Alfred, Lord Tennyson. The poems retell the story of King Arthur and his knights, the rise and fall of his kingdom, and his love for Guinevere, and her subsequent betrayal of him. Tennyson’s retelling of the Arthur legends was a commentary on the Victorian Era of the times in which he lived, and it was a very popular literary theme during Dore’s lifetime. The cycle of narrative poems were published during Dore’s lifetime, beginning in 1856, the last one being published in 1885, two years after his death. As such, his illustrations of the poems were one of his last works before his death. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Untitled #126 is a colour photograph in which the artist appears, costumed and made up, posing with one foot up on a cane chair. It belongs to one of four groups of photographs relating to fashion photography that Sherman produced between 1983 and 1994. The first group, into which Untitled #126 falls, was commissioned by American retail entrepreneur Diane Benson for a spread in Interview magazine. She supplied Sherman with clothes by such top-of-the-range international designers as Jean-Paul Gaultier and Comme des Garçons. In the same year the French fashion house Dorothée Bis offered their own clothes for a series to appear in French Vogue. The images Sherman created for these two ‘fashion shoots’ are the antithesis of the glamorous world of fashion. The model in the photographs appears silly, angry, dejected, exhausted, abused, scarred, grimy and psychologically disturbed. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
