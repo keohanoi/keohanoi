@@ -2,25 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00180/images/caravaggio/madonna-of-loreto.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/pietro-perugino/madonna-and-child-with-st-john-the-baptist-and-st-sebastian-1493.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna of Loreto</h2>
+        <h2 class="artwork-name">Madonna and Child with St. John the Baptist and St. Sebastian</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1604
+          Pietro Perugino
+                    ·  1493
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna of Loretto or Pilgrim's Madonna is a famous painting (1604–1606) by the Italian Baroque master <a target="_blank" href="/en/caravaggio">Caravaggio</a>, located in the Cavalletti Chapel of the church of Sant'Agostino, near the Piazza Navona in Rome. It depicts the apparition of the barefoot Virgin and naked child to two peasants on a pilgrimage; or as some say it is the quickening of the iconic statue of the Virgin.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna with Child Enthroned between Saints John the Baptist and Sebastian is a painting by the Italian Renaissance artist <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, executed in 1493, and housed in the Uffizi Gallery, Florence.
 <br>
-<br>In 1603 the heirs of marquis Ermete Cavalletti, who had died on 21 July 1602, commissioned for the decoration of a family chapel a painting on the theme of the Madonna of Loreto. Putting into practice the marquis's will, the Cavaletti's on 4 September 1603 purchased a chapel in the church of Sant'Agostino in Rome.
+<br>The work was commissioned by Cornelia Salviati, widow of Venetian merchant Giovanni Martini, and his son Roberto, for the chapel of the convent of San Domenico, Fiesole, which had been perhaps restored by Giuliano da Sangallo a few years before. In 1493 Perugino had married Chiara Fancelli, the daughter of architect Luca Fancelli: the face of the Madonna is a portrait of her.
 <br>
-<br>Giovanni Baglione, a competing painter of lesser talent, but who had successfully obtained Caravaggio's jailing during a libel trial, said that the unveiling of this painting "caused the common people to make a great cackle (schiamazzo) over it". The uproar was not surprising. The Virgin Mary, like her admiring pilgrims, is barefoot. The doorway or niche is not an exalted cumulus or bevy of putti, but a partly decrepit wall of flaking brick is visible. Only the merest halo sanctifies her and the baby. While beautiful, the Virgin Mary could be any woman, emerging from the night shadows. Like many of Caravaggio's Roman paintings, such as the Conversion on the Way to Damascus or the Calling of St Matthew, the scene is a moment where everyday common man (or woman) encounters the divine, whose appearance is also not unlike that of a common man (or woman). The woman modelling Mary appears to be the same as that in the canvas in the Galleria Borghese: The Madonna and Child with St. Anne (Dei Palafrenieri) (1605).
+<br>In 1786 the panel was acquired for 1000 Italian scudi by Peter Leopold, Grand Duke of Tuscany, becoming part of the future Uffizi Gallery. The original chapel was redecorated by a painting by Lorenzo di Credi; the one now in the church is a copy by Garibaldo Ceccarelli.
 <br>
-<br>It has been suggested that Caravaggio's composition is at least in part derived from a detail of a 1574 engraving, Adoration of the Magi, after <a target="_blank" href="/en/rosso-fiorentino">Rosso Fiorentino</a>, by Caravaggio's friend Cherubino Alberti (1553-1615).</span>
+<br>It was restored in 1995.
+<br>
+<br>The background, this time featuring two bays, is one of the many porticoes painted by Perugino in the 1480s and 1490s (in works such as the Fano Altarpiece or the Pietà. Also typical is the serene landscape with thin trees.
+<br>
+<br>Mary sits on a high throne decorated with grotesques at the base, where it is also the signature PETRVS PERVSINVS PINXIT AN[NO MCCCCLXXXXIII (Pietro Perugia 1493). She holds the child on her knees, as he looks towards John the Baptist on the left; John, in turn, points at him. On the right is the common representation of St. Sebastian martyred by arrows, his contemplative gaze directed to the heavens.
+<br>
+<br>The composition was one of the first examples in Florence of the new style of Holy Conversation elaborated in Venice by <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a> and <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a> a few years before, with a pyramidal development pivoting on the central figure of Mary on a high throne. The painting is also one of the first by Perugino in which the Madonna is no longer an elegant maid, but a more mature and severe woman, according to the more sober climate introduced in Florence by Girolamo Savonarola. Another example of this evolution is the Madonna with Child with St. Catherine of Alexandria in the Kunsthistorisches Museum of Vienna.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
