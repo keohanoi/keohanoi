@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/guido-reni/massacre-of-the-innocents-1611.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/tom-roberts/searing-the-rams-1890.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Massacre of the Innocents</h2>
+        <h2 class="artwork-name">Shearing the Rams</h2>
         <h3 class="artist">
-          Guido Reni
-                    ·  1611
+          Tom Roberts
+                    ·  1890
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Massacre of the Innocents is a painting by the Italian Baroque painter <a target="_blank" href="/en/guido-reni">Guido Reni</a>, created in 1611 for the Basilica of San Domenico in Bologna, but now in the Pinacoteca Nazionale in that same city.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">For Indigenous Australians, the bush has long held sacred associations that are central to their identity. In stark contrast, Australia's early colonists regarded the bush as an unfamiliar and at times threatening place, to be cleared or transfigured in keeping with European sensibilities.
 <br>
-<br>The painting is based on the biblical episode of the Massacre of the Innocents, described in the Gospel of Matthew. The work shows a series of episodes at the same time but is classically composed with each element carefully mirrored by an answering one.
+<br>As the colonies grew into established cities and towns, attitudes changed. By 1891, two-thirds of the population was living in cities, yet it was the bush and bush life that colonial settlers regarded as uniquely Australian and integral to the nation's identity.
 <br>
-<br>Two killer soldiers, one portrayed from behind while rushing on a screaming woman, and one kneeling towards the mothers with their children, hold knives in the right hand. The mothers are reacting in different ways: one is screaming and attempting to escape the soldiers who has grabbed her hair, another is fleeing towards the right while embracing her child, while another, in the lower left corner, is holding her child on her shoulders; another mother tries to stop a soldier with her left hand, and a kneeling woman is praying towards the sky above the children which have already been slaughtered.</span>
+<br>Bush characters - the pioneer settlers, shearers, swagmen and mountain horsemen - came to represent an emerging national character. They were seen as resilient and stoic, despite or because of the hardships offered up by their environment.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
