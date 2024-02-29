@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/hieronymus-bosch/the-concert-in-the-egg-1480.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00422/images/jeff-koons/tumblr-nck3n334uf1tcjq28o1-1280.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Concert in the Egg</h2>
+        <h2 class="artwork-name">Monkeys (Chair)</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1480
+          Jeff Koons
+                    ·  2003
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Concert in the Egg is a painting formerly considered to be a copy of a lost work by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>, and which is currently considered to be based on one of his drawings. Max Jakob Friedländer called it 'an old copy', without specifying another work it was copied from.
-<br>
-<br>The group of singers form the "yolk" of the egg, which symbolizes "fool" as in "yokel". The eel resembles a form of beer (ale). The scene is reminiscent of the similar Ship of Fools. One of the singers is so intent on his song (pointing towards the book) that he doesn't notice that he is being robbed by the lute player.
-<br>
-<br>Modern attribution of the painting (to an as yet anonymous follower of Bosch) was based on an analysis of the music in the open book, which shows notes by Thomas Crecquillon from 1549. The work was bought in 1890 for 400 francs by the Palais des Beaux-Arts de Lille from Morhange, a parisian art dealer. It was featured with the Dutch title Zangers en musici in een ei in an exhibition in 2008 at the Noordbrabants Museum, 's-Hertogenbosch.
-<br>
-<br>Possible models:</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The sculpture is a somewhat surreal combination of everyday objects. Three monkeys, which resemble very much inflatable children's toys, are connected together. They form a chain that dangles from the ceiling. A white straw chair is attached at the lowest end of the chain. The sculpture illustrates Jeff Koon's fascination for children's toys which becomes particularly evident in the Popeye Series for which Koons sought inspiration in floating aids in the shape of animals.[2] The monkeys that feature in the sculpture remind of the game Barrel of Monkeys in which the players have to gain the hook-tailed monkeys in a chain. Monkeys (Chair) is an example of Koons's strategy of mashing up ideas and methods of Pop, Conceptual, and appropriation art with handicraft and popular culture.[3]<br><br>The monkey figures are made of polychromed aluminium. Real plastic toys served as a template for the execution of this work of art. The shiny surface of the metal helps creating a perfect illusion. The transfer into another material creates new static conditions which allow the attachment of the chair at the lowest end of the chain.<br><br>In this work Jeff Koons plays with different material perceptions. The monkeys seem to be made of plastic, but this impression contradicts the sculpture's static properties. If the chain of monkeys was made of inflatable toys, it could not support the heavy weight of the chair. The spectator's only possibility to resolve this contradictory perception is to take a look at the artwork's label.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
