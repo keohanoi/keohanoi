@@ -2,33 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/john-constable/flatford-mill-1817.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/pietro-perugino/the-adoration-of-the-magi-1473.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Flatford Mill</h2>
+        <h2 class="artwork-name">The Adoration of the Magi</h2>
         <h3 class="artist">
-          John Constable
-                    ·  1817
+          Pietro Perugino
+                    ·  1473
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Flatford Mill (Scene on a Navigable River) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by English artist <a target="_blank" href="/en/john-constable">John Constable</a>, painted in 1816. It is Constable's largest exhibition canvas to be painted mainly outdoors, the first of his large "six-foot" paintings, and the first in the Stour series which later included The Hay Wain. It is owned and exhibited at the Tate Britain gallery in London.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Adoration of the Magi is a painting by the Italian Renaissance painter <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, housed in the Galleria Nazionale dell'Umbria of Perugia, Italy.
 <br>
-<br>Flatford Mill (Scene on a Navigable River) is painted in oil on canvas. It depicts a working rural scene from Suffolk, as two lighter barges and their crew progress up the River Stour in Suffolk from Dedham Lock. Lighter barges were towed along the river by ropes attached to a horse, which had to be disconnected to allow the barges to be poled under Flatford bridge, which the barges are approaching. In the picture, a boy is disconnecting a rope and another sits astride a tow-horse. The rear scenery depicts the wider view of East Bergholt village, set under a towering trees and a dramatic, cloud-filled sky.
+<br>According to Italian art historian Vittoria Garibaldi, it was one of the earliest commissions received by Perugino around the end of his apprenticeship in Florence (1472), while others date it to the late 1470s. The painting was originally executed for the church of Santa Maria dei Servi in Perugia, connected to the Baglioni family; in 1543 it was moved to the church of Santa Maria Nuova in the same city.
 <br>
-<br>Constable had adopted a routine of spending the winter in London and painting at East Bergholt in the summer. In 1811 he first visited Anglican bishop John Fisher and his family in Salisbury, but from 1809 onwards his childhood friendship with Maria Bicknell developed into a deep, mutual love. Their engagement in 1816 was opposed by Maria's grandfather, Dr. Rhudde, rector of East Bergholt, who considered the Constables his social inferiors and threatened Maria with disinheritance.
+<br>The scene follows a standard layout, with the nativity hut on the right and the visitors' procession, developing horizontally, on the left. On the background, behind the ox and the donkey, is a rocky, hilly landscape painted using aerial perspective.
 <br>
-<br>Maria's father, Charles Bicknell, a solicitor, was reluctant to see Maria throw away this inheritance, and Maria herself pointed out that a penniless marriage would detract from any chances John had of making a career in painting. After the death of his parents in the same year, Constable inherited a fifth share in the family business. The couple's marriage in October 1816 at St Martin-in-the-Fields (with Fisher officiating), was followed by time at Fisher's vicarage and a honeymoon tour of the south coast, where the sea at Weymouth and Brighton stimulated Constable to develop new techniques of brilliant colour and vivacious brushwork.
+<br>The Virgin holds the blessing child on her knees, and behind her is St. Joseph, standing, with a stick. The oldest of the magi is already kneeled, while the other two are offering the gifts. The crowded procession includes figures which are common in Perugino's works, such as the boy with a turban and the blonde youngsters in elegant postures. The man on the extreme left is perhaps a self-portrait of Perugino.
 <br>
-<br>Before 1814, Constable produced his exhibition pictures in the studio, working from oil sketches and drawings. But that year he publicly declared his intention to make finished paintings from nature. The summers of 1816 and 1817 were the last which Constable spent any length of time at East Bergholt, and the last in which the artist painted directly from the scenery of his Suffolk childhood.
-<br>
-<br>Constable began the picture a few months before his marriage to Maria Bicknell, writing to her on 12 September 1816:
-<br>
-<br>Constable made several drawings and oil sketches of the subject from various angles. Although the final painting was executed largely on the spot, various details were added in the studio later: the boy and the horse; the timberwork in the foreground; the mooring-post on the left. It is known from later x-rays that Constable painted out a horse on the tow-path, and substituted the figures of the two boys.
-<br>
-<br>Exhibited at the Royal Academy in 1817 under the title Scene on a Navigable River, Constable repainted the tops of the trees and the entire sky afterwards. This was in time for the picture's second showing at the British Institution in January 1818, where it was given the title Flatford Mill.</span>
+<br>The Virgin and Child are reminiscent of Perugino's Gambier Parry Madonna at the Courtauld Institute in London, dating to the very early 1470s. In general, the scene's style is related to <a target="_blank" href="/en/andrea-del-verrocchio">Verrocchio</a>'s workshop, where Perugino made his apprenticeship. The characters, forming a crowd typical of late-Gothic art, show a robust appearance seen in the works of Fiorenzo di Lorenzo, perhaps the earliest master of Perugino. The integration between the characters and the landscape is inspired to <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a>, such as the golden ratio tree; the landscape is similar to works by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
