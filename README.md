@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/pietro-perugino/the-adoration-of-the-magi-1473.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/raphael/the-alba-madonna.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Adoration of the Magi</h2>
+        <h2 class="artwork-name">The Alba Madonna</h2>
         <h3 class="artist">
-          Pietro Perugino
-                    ·  1473
+          Raphael
+                    ·  1511
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Adoration of the Magi is a painting by the Italian Renaissance painter <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, housed in the Galleria Nazionale dell'Umbria of Perugia, Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Alba Madonna is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> artist <a target="_blank" href="/en/raphael">Raphael</a>, depicting Mary, Jesus and John the Baptist, in a typical Italian countryside. John the Baptist is holding up a cross to Jesus, which the baby Jesus is grasping. All three figures are staring at the cross. The three figures are grouped to the left in the round design, but the outstretched arm of the Madonna and the billowing material of her cloak balance the image.
 <br>
-<br>According to Italian art historian Vittoria Garibaldi, it was one of the earliest commissions received by Perugino around the end of his apprenticeship in Florence (1472), while others date it to the late 1470s. The painting was originally executed for the church of Santa Maria dei Servi in Perugia, connected to the Baglioni family; in 1543 it was moved to the church of Santa Maria Nuova in the same city.
+<br>This Madonna was commissioned by Paolo Giovio who planned to send it to the church of the Olivetani in Nocera dei Pagani. In the 18th century, the painting belonged to the Spanish House of Alba, whose name it bears. In 1836 it was acquired by Nicholas I of Russia, who made it one of the highlights of the Imperial Hermitage Museum in Saint Petersburg. A century later the Soviet Government clandestinely sold it to Andrew W. Mellon, who donated his collection to the National Gallery of Art in Washington, D.C., where it may be seen today.
 <br>
-<br>The scene follows a standard layout, with the nativity hut on the right and the visitors' procession, developing horizontally, on the left. On the background, behind the ox and the donkey, is a rocky, hilly landscape painted using aerial perspective.
+<br>During its time in the Hermitage, the painting would be <a target="_blank" href="/en/paintings-by-media/transferred-to-linen">transferred from a circular panel to a square canvas</a> during the early nineteenth century. Through analysis of the painting, it was determined that the original panel was severely splitting down the center and on the right side. The canvas pattern is visible in the painting and the landscape on the far right was damaged in the transfer process.
 <br>
-<br>The Virgin holds the blessing child on her knees, and behind her is St. Joseph, standing, with a stick. The oldest of the magi is already kneeled, while the other two are offering the gifts. The crowded procession includes figures which are common in Perugino's works, such as the boy with a turban and the blonde youngsters in elegant postures. The man on the extreme left is perhaps a self-portrait of Perugino.
+<br>During World War II a group of over 100 pieces of art belonging to the National Gallery of Art, including this one, were transported by train to Asheville, NC where they would be stored in the unfinished music room of the Biltmore House. Done with the utmost secrecy, heavy steel doors were installed and bars were put in the windows of the barren music room. In 1944 after it became clear that the war would soon be over the paintings were moved back to the National Gallery of Art.
 <br>
-<br>The Virgin and Child are reminiscent of Perugino's Gambier Parry Madonna at the Courtauld Institute in London, dating to the very early 1470s. In general, the scene's style is related to <a target="_blank" href="/en/andrea-del-verrocchio">Verrocchio</a>'s workshop, where Perugino made his apprenticeship. The characters, forming a crowd typical of late-Gothic art, show a robust appearance seen in the works of Fiorenzo di Lorenzo, perhaps the earliest master of Perugino. The integration between the characters and the landscape is inspired to <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a>, such as the golden ratio tree; the landscape is similar to works by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>.</span>
+<br>Art historian Andrew Graham-Dixon says of the painting:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
