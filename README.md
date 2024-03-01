@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/joshua-reynolds/self-portrait-1775.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00288/images/lawren-harris/mountain-forms-1926.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-Portrait</h2>
+        <h2 class="artwork-name">Mountain Forms</h2>
         <h3 class="artist">
-          Joshua Reynolds
-                    ·  1775
+          Lawren Harris
+                    ·  1926
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is one of Reynolds's most explicit attempts to rival Rembrandt as a self-portraitist. By the time he painted this work, he was the most famous artist in Britain and President of the Royal Academy of Arts. In his lectures at the Academy, Reynolds elaborated a theory of art based around the need for modern British artists to copy the Old Masters. In this picture, his costume, his pose, and the dramatic contrasts of light and dark all refer to the work of Rembrandt. Even the shape of his face is made to resemble the Dutch artist's distinctive, jowly features.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This artwork represents Mount Ishbel, a mountain peak in Canada. It is visible on the horizon and recognizable by the distinctive tilted strata of gray sedimentary rock. The hard material of the mountain is transfigured in an almost metaphysical vision. It almost entirely occupies the space of the canvas, capturing attention without accessory elements that can distract the look.<br><br>The painter filled a large painting with cold colors, from white to ice, to violet, to green, to petrol green: Harris was not satisfied with the spot colors, he succeeded in elaborating a chromatic range made of many shades. The colors chase each other on the canvas, from the dark to the light of the top of the mountain, and draw the gaze towards the top of the hill. The clouds are not realistic: they take up the shape of the mountain, of triangular lines, and there is no sun passing through them. The light captured by the ice on the top of the hill is not a natural light, it is an illumination, which gives to the image a character of revelation, a spiritual stature. According to the creed of Harris, who was an adept of Theosophy, "<i>Art is the beginning of vision into the realm of eternal life.</i>"</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
