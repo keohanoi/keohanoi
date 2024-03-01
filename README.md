@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00384/images/pellizza-da-volpedo/pellizza-da-volpedo-pensieri.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/james-ward/gordale-scar-a-view-of-gordale-in-the-manor-of-east-malham-in-craven-yorkshire-the-property-of-1814.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Thoughts</h2>
+        <h2 class="artwork-name">Gordale Scar (A View of Gordale, in the Manor of East Malham in Craven, Yorkshire, the Property of Lord Ribblesdale)</h2>
         <h3 class="artist">
-          Pellizza da Volpedo
-                    ·  1891
+          James Ward
+                    ·  1814
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The painting, also entitled Teresa or The Bride, is a portrait of the seventeen-year-old Maria Teresa Bidone, whom Pellizza decided to marry in February 1892, after meeting her in August 1890. After being presented at the first Brera Triennale in 1891, this canvas was kept by the painter and never exhibited again. The pyramidal structure of the figure, which Pellizza would also use in other contemporary portraits such as The Giani Mediator, reveals the study he was already pursuing of Renaissance painting. This is a true-to-life portrait, which is also influenced by the "topos" of female portraiture in the second half of the nineteenth century, aimed at highlighting the interiority of the woman and her innocence exposed to risk in a dangerous world, as the title Pensieri (Thoughts) underlines. The figure, wearing an elegant peasant dress and a wedding veil, is seated frontally, looking absorbed and melancholic, while holding white daisies in her lap. The colour range is light and delicate, based on a dominant accord of whites and blues immersed in a diffuse luminous vibration. The image of the girl, through the light, is seamlessly connected to the background environment and achieves virtuoso results in the transparencies of the veil on her forehead. The predilection for the painting of reality was always to be a characteristic of Pellizza, who here was still proceeding in the direction of Fattori and Tallone but who, by approaching Divisionism, was soon to acquire an ideological and philosophical confidence in the name of a socialist realism in harmony with nature.<br><br>(source: http://www.artedossier.it)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gordale Scar is a bank of limestone cliffs near Settle, Yorkshire. Ward painted this picture for Lord Ribblesdale, a local landowner. He emphasised the height and scale of the cliffs by subtly manipulating the perspective. In the foreground he shows deer and cattle, including a white bull from the (originally wild) Chillingham herd, who appears to guard the cleft of Gordale Beck. Working in the last years of the Napoleonic wars, Ward aimed to depict a national landscape, primordial and unchanging, defended by ‘John Bull’ in animal form. His painting also epitomised the awe-inspiring qualities of the fashionable ‘Sublime’ landscape.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
