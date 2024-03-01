@@ -2,21 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/pierre-auguste-renoir/the-great-boulevards-1875.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/nancy-holt/sun-tunnels-1976.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Great Boulevards</h2>
+        <h2 class="artwork-name">Sun Tunnels</h2>
         <h3 class="artist">
-          Pierre-Auguste Renoir
-                    ·  1875
+          Nancy Holt
+                    ·  1976
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Grands Boulevards is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> that was painted in 1875 by <a target="_blank" href="/en/pierre-auguste-renoir">Pierre-Auguste Renoir</a>. The painting illustrates a busy Paris boulevard showing the effects of industrialization and Haussmannization. The image is today housed at the Philadelphia Museum of Art.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sun Tunnels is located in the Great Basin Desert outside of the ghost town of Lucin, Utah. The work is a product of Holt’s interest in the great variation of intensity of the sun in the desert compared to the sun in the city. Holt searched for and found a site which was remote and empty.
 <br>
-<br>Pierre-Auguste Renoir’s The Grands Boulevards illustrates the Haussmannization of Paris through the wide, paved street, and the large concrete building to the right of the painting. The Boulevard is teeming with life; not only does the painting illustrate all classes, but it emphasizes the flâneurs. Renoir’s emphasis moves away from the human figure and towards how lighting affects the image. The painting shows the clothes worn by the people on the boulevard in detail, from which their social class can be inferred, but their individuality is hidden because Renoir chooses not to show any details of their faces. His focus is on the effect of sunshine on the buildings and trees. The painting shows great detail in the shadows created by the sun shining on the trees, and also the shadows created by the people as well as the horse-drawn carriage. Throughout the painting it is evident that Renoir was influenced by <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionism</a>. The characteristics of impressionism that can be seen in Renoir’s work are short brush strokes and a seemingly out of focus view.</span>
+<br>"It is a very desolate area, but it is totally accessible, and it can be easily visited, making Sun Tunnels more accessible really than art in museums . . . A work like Sun Tunnels is always accessible . . . Eventually, as many people will see Sun Tunnels as would see many works in a city-in a museum anyway."
+<br>
+<br>The work consists of four massive concrete tunnels (18 feet long and nine feet in diameter), which are arranged in an “X” configuration to total a length of 86 feet (26 m). Each tunnel reacts differently to the sun, aligned with the sunrise, sunset, of the summer or winter solstice. Someone visiting the site would see the tunnels immediately with their contrast to the fairly undifferentiated desert landscape. Approaching the work, which can be seen one to one-and-a-half miles away, the viewer’s perception of space is questioned as the tunnels change views as a product of their landscape.
+<br>
+<br>The tunnels not only provide a much-needed shelter from the sweltering desert sun, but once inside the dazzling effect of the play of light within the tunnels can be seen. The top of each tunnel has small holes, forming on each, the constellations of Draco, Perseus, Columba, and Capricorn, respectively. The diameters of the holes differ in relation to the magnitude of the stars represented. These holes cast spots of daylight in the dark interiors of the tunnels, which appear almost like stars. Holt has said of the tunnels, "It’s an inversion of the sky/ground relationship-bringing the sky down to the earth." This is a common theme in Holt’s work. She sometimes creates this relationship with reflecting pools and shadow patterns marked on the ground, like in her work Star Crossed.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
