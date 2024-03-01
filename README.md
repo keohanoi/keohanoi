@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/honore-daumier/chess-players.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00307/images/mierle-laderman-ukeles/second-binding-1964.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chess-Players</h2>
+        <h2 class="artwork-name">Second Binding</h2>
         <h3 class="artist">
-          Honore Daumier
-                    ·  1867
+          Mierle Laderman Ukeles
+                    ·  1964
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Even though Daumier created over 4,000 lithographs throughout his lifetime, he also was a talented painter, as exemplified by The Chess Players. His style was much more impressionistic, including elements of traditional painting, including perspective and shading. Most of Daumier’s work contained elements of satire and a commentary on a social or political situation, and this painting seems to have little to say, other than to present a beautifully painted rendering of two men sitting at a chess game, thoughtfully engaged in their play. Rather than portraying the folly of the bourgeois class, this painting seems to simply illustrate the past time of a friendly game of chess. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Second Binding</i> is an early sculptural work composed of a mass of wrapped, stuffed, bulbous forms, which are dyed black, red, orange, yellow, and brown to give the appearance of something organic and fleshy.<br><br>This work is one of several sculptures that Ukeles made while attending the Pratt Institute. The work caused a lot of controversy at the school, with administration demanding it is removed from the graduate studio as they considered the sculptures "pornography" created by an "oversexed" woman. When Robert Richenberg, her favorite professor, ignored these requests, he was dismissed from his position. Ukeles herself was not expelled as she had feared, however, she was made to feel "extremely unwelcome", which led to her dropping out after one more semester.<br><br>Speaking about leaving the school and these early works she says, "I almost fell apart. But I knew I was onto something very important. The work had value because it was my work." She rejected the idea that these visceral abstract works were "pornographic" and considered these "bindings" to be like "energy pods," stuffed to the point of bursting with rags, "like images of energy captured".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
