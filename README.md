@@ -2,20 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00135/images/jozef-mehoffer/mehoffer-iza-axentowiczowa.jpg"
+        src="https://uploads8.wikiart.org/images/rupert-bunny/bell-dance-1920.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Iza Axentowiczowa née Giełgud</h2>
+        <h2 class="artwork-name">Bell dance</h2>
         <h3 class="artist">
-          Józef Mehoffer
-                    ·  1907
+          Rupert Bunny
+                    ·  1920
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The background for the portrait is a tapestry created according to Mehoffer's design in 1905. Iza Henryka Giełgud (1875-1957) married in 1893 the painter Teodor Axentowicz.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Bell dance' is gloriously coloured, with a rhythmic composition depicting a group of handbell ringers cavalcading across the pictorial surface, with one stooping with the weight of a large bell. Rupert Bunny presents these figures in a flat, decorative style, reminiscent of a Greek frieze or painted vase.
+<br>
+<br>The painting visually encapsulates the vibrancy of modern dance and the exotic splendour of France’s belle époque, as well as the brilliant and unconventional colour combinations used in the costumes and sets of the Ballets Russes. Applying pure colour, Bunny created vibrant patterns using dynamic arabesque lines, interwoven to create vivid tapestry-like surfaces.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
