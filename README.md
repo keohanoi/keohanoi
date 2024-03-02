@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/jean-leon-gerome/pygmalion-and-galatea-1.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00381/images/john-frederick-kensett/eatons-neck-long-island-john-frederick-kensett.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pygmalion and Galatea</h2>
+        <h2 class="artwork-name">Eaton's Neck, Long Island</h2>
         <h3 class="artist">
-          Jean-Leon Gerome
-                    ·  1890
+          John Frederick Kensett
+                    ·  1872
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pygmalion and Galatea (French: Pygmalion et Galatée) is an 1890 painting by the French artist <a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a>. The motif is taken from Ovid's Metamorphoses, and depicts how the sculptor Pygmalion kisses his ivory statue Galatea, after the goddess Venus has brought her to life.
-<br>
-<br><a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a> painted Pygmalion and Galatea in the summer of 1890. In 1891 he made a marble sculpture of the same subject, possibly based on a plaster version also used as model for the painting. He made several alternative versions of the painting, each presenting the subject from a different angle.
-<br>
-<br>The most famous version, where Galatea is seen from behind, was bought by Boussod, Valadon &amp; Cie on 22 March 1892. It was sold several times until it was donated to the Metropolitan Museum of Art by Louis C. Raegner in 1927. The other versions are in private collections or lost.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At once amplifying and simplifying a pictorial design the artist first broached in his Shrewsbury River, New Jersey, compositions of the 1850s, Eaton's Neck is unusual if not unique in Kensett's oeuvre for its Long Island subject. On the other hand, recording the site, on Long Island's north shore near Huntington in Suffolk County, would have required perhaps an hour's sail or less across the Long Island Sound from Kensett's studio off Darien, Connecticut. Like virtually all the paintings found in the studio at the artist's death in 1872, Eaton's Neck is unsigned and undated, and its state of completion is, at best, ambiguous. Kensett, for instance, worked the shoreline foliage into a state of finish comparable to works that he signed and sold, but the apparent sailboats punctuating the distant horizon are plotted without being fully articulated, as they are in finished works. Still, given the reductive character of almost all Kensett's late paintings, this synthesis of uninflected land, water, and sky engages the spectator equally with, if not more than, any in the same gallery by the artist or his Hudson River School colleagues.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
