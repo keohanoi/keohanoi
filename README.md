@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/gustave-dore/paradise-lost-3.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/kuzma-petrov-vodkin/chaos-1906.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paradise Lost</h2>
+        <h2 class="artwork-name">Chaos</h2>
         <h3 class="artist">
-          Gustave Dore
+          Kuzma Petrov-Vodkin
+                    ·  1906
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">John Milton’s epic poem Paradise Lost, describing the Christian story of Adam and Eve in the Garden of Eden, and the ensuing fall of man, is considered one of the greatest pieces of literature in the English language. It has inspired many visual artists to engage in creating the imagery of the poem. The first illustrated version of the poem appeared in the fourth edition of the work, in 1688, and later, other artists, such as William Blake and Salvador Dali have been inspired to create illustrations inspired by the work. Dore’s illustrations of Paradise Lost were some of his later works, and also some of the most famous. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Chaos was one of the first paintings created by Petrov-Vodkin upon his arrival in Paris in 1906. Between the two years he spent in Paris, Petrov-Vodkin produced prolific amounts of work, completing over 900 paintings and drawings. In the Academy Colarossi, he vigorously studied the human form, frenetically sketching in his books, perfecting his depiction of the human body. While in Paris, Petrov-Vodkin was deeply influenced by the painter Puvis de Chavannes, and imitated the artist’s stark palette and simplified composition. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
