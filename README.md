@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/jean-baptiste-greuze/the-village-bride-1761.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00174/images/lucas-cranach-the-elder/lucas-cranach-d-063-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Village Bride</h2>
+        <h2 class="artwork-name">Portrait of Lucas Cranach the Elder</h2>
         <h3 class="artist">
-          Jean-Baptiste Greuze
-                    ·  1761
+          Lucas Cranach the Elder
+                    ·  1550
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">L'Accordée de Village is a painting by the French artist Jean-Baptiste Greuze, first exhibited at the 1761 Salon, where it was unanimously praised by the critics, notably by Diderot. It was the first example of the 'moral painting' genre, to which Greuze often returned. It is now in the Louvre Museum in Paris.
-<br>
-<br>It was part of a series of 6 paintings. Caroline de Valory, a former pupil of Greuze, collaborated with the writer Alexandre Louis Bertrand Robineau to produce L'Accordée de Village, a one-act comedy based on the paintings.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A portrait of Lucas Cranach the Elder aged 77, wearing a cloak of black brocade, which reveals a white shirt at the neckline. Cranach has short grey hair and a long split beard, which together with his steady gaze, his serious expression and voluminous stature lend the portrait great dignity. Cranach's shadow is cast over the upper left corner of the bluish-grey background.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
