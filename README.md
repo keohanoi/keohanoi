@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/stefan-luchian/chiajna-willows.jpg"
+        src="https://uploads6.wikiart.org/images/francis-bacon/landscape-near-malabata-tangier-1963(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chiajna Willows</h2>
+        <h2 class="artwork-name">Landscape near Malabata, Tangier</h2>
         <h3 class="artist">
-          Stefan Luchian
-                    ·  1905
+          Francis Bacon
+                    ·  1963
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Willows at Chiajna (Romanian: Sălciile din Chiajna) is a landscape painting by the Romanian painter <a target="_blank" href="/en/stefan-luchian">Ştefan Luchian</a> from 1905.
-<br>
-<br>The painting has dimensions of 45.8 x 55 centimeters. It is in the collection of the Art Museum Cluj-Napoca.
-<br>
-<br>It depicts a group of willows by the Chiajna village outside Bucharest in the south-eastern Romania, and was painted in one day. The strong colors and thick layers of paint is typical for Luchian's works.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">On the opening day of Bacon's first major retrospective at the Tate Gallery, amidst telegrams of congratulation, one message informed him of the death of Peter Lacy in Tangier. He had parted company with Lacy some years before, and his death from drink had not been difficult to predict, yet Bacon was nonetheless deeply affected. In 1963 he painted the dark and ambiguous Landscape near Malabata, Tangier in memory of Lacy’s final resting place.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
