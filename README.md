@@ -2,20 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/francis-bacon/landscape-near-malabata-tangier-1963(1).jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/el-greco/vincenzo-anastagi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Landscape near Malabata, Tangier</h2>
+        <h2 class="artwork-name">Vincenzo Anastagi</h2>
         <h3 class="artist">
-          Francis Bacon
-                    ·  1963
+          El Greco
+                    ·  1575
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">On the opening day of Bacon's first major retrospective at the Tate Gallery, amidst telegrams of congratulation, one message informed him of the death of Peter Lacy in Tangier. He had parted company with Lacy some years before, and his death from drink had not been difficult to predict, yet Bacon was nonetheless deeply affected. In 1963 he painted the dark and ambiguous Landscape near Malabata, Tangier in memory of Lacy’s final resting place.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Vincenzo Anastagi is a portrait of Vincenzo Anastagi by <a target="_blank" href="/en/el-greco">El Greco</a>, probably painted between 1571 and 1576, during the artist's time in Rome.
+<br>
+<br>It is part of the Frick Collection, which acquired it in 1913.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
