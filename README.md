@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/peter-paul-rubens/ildefonso-altar.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00129/images/grant-wood/american-gothic.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ildefonso Altar</h2>
+        <h2 class="artwork-name">American Gothic</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1630
+          Grant Wood
+                    ·  1930
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ildefonso Altarpiece is a triptych painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, dating to between 1630 and 1631. It is now in the Kunsthistorisches Museum of Vienna.
-<br>
-<br>It is named after the central panel, which shows Saint Ildefonsus's vision of the Virgin Mary, in which she gave him a casula. On the side panels are Isabella Clara Eugenia and Albert VII, regents of the Spanish Netherlands, with their patron saints Albert  and Elisabeth of Hungary. Albert had founded the Ildefonso Brotherhood in the church of Saint Jacques-sur-Coudenberg in Brussels, to encourage loyalty to the Habsburg dynasty - the altarpiece was commissioned for the Brotherhood by his widow shortly after his death.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Grant Wood adopted the precise realism of 15th-century northern European artists, but his native Iowa provided the artist with his subject matter. American Gothic depicts a farmer and his spinster daughter posing before their house, whose gabled window and tracery, in the American gothic style, inspired the painting's title. In fact, the models were the painter's sister and their dentist. Wood was accused of creating in this work a satire on the intolerance and rigidity that the insular nature of rural life can produce; he denied the accusation. American Gothic is an image that epitomizes the Puritan ethic and virtues that he believed dignified the Midwestern character.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
