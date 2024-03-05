@@ -2,29 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/albrecht-durer/portrait-of-barbara-1490.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00142/images/titian/venus-in-front-of-the-mirror.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Barbara</h2>
+        <h2 class="artwork-name">Venus in Front of the Mirror</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1490
+          Titian
+                    ·  1554
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait Diptych of Dürer's Parents (or Dürer's Parents with Rosaries) is the collective name for two late-15th century portrait panels by the German painter and printmaker <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>. They show the artist's parents, Barbara Holper (c. 1451–1514) and Albrecht Dürer the Elder (c. 1427–1502), when she was around 39 and he was 63 years. The portraits are unflinching records of the physical and emotional effects of ageing. The Dürer family was close and Dürer may have intended the panels either to display his skill to his parents or as keepsakes while he travelled soon after as a journeyman painter.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Venus with a Mirror (about 1555) is a painting by <a target="_blank" href="/en/titian">Titian</a>, now in the National Gallery of Art in Washington, DC, and it is considered to be one of the collection's highlights.
 <br>
-<br>They were created either as pendants, that is conceived as a pair and intended to hang alongside each other, or diptych wings. However this formation may have been a later conception; Barbara's portrait seems to have been executed some time after her husband's and it is unusual for a husband to be placed to the viewer's right in paired panels. His father's panel is considered the superior work and has been described as one of Dürer's most exact and honest portraits. They are among four paintings or drawings Dürer made of his parents, each of which unsentimentally examines the deteriorating effects of age. His later writings contain eulogies for both parents, from which the love and respect he felt toward them is evident.
+<br>The pose of the Venus resembles the classical statues of the Venus de' Medici in Florence or the Capitoline Venus in Rome, which Titian may have seen when he wrote that was "learning from the marvelous ancient stones." The painting is said to celebrate the ideal beauty of the female form, or to be a critique of vanity, or perhaps both. It was copied by several later artists, including <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> and <a target="_blank" href="/en/anthony-van-dyck">Anthony van Dyck</a>.
 <br>
-<br>Each panel measured 47.5&nbsp;cm&nbsp;x 39.5&nbsp;cm (18.7&nbsp;in&nbsp;x 15.6&nbsp;in), but the left hand panel has been cut down. They have been separated since at least 1628, until Barbara's portrait—long considered lost—was reattributed in 1977. The panels were reunited in the Germanisches Nationalmuseum's 2012 exhibition "The Early Dürer".
+<br>Titian made a number of paintings of the same subject, but this is the believed to be the earliest and the only version to be entirely by the hand of Titian, without additions by his assistants. it remained in his house until his death in 1576.
 <br>
-<br>The three-quarter view was widely used in southern German portraiture of the late-15th century. Rosary beads were often included to indicate the piousness and modesty of the sitters, although by the 16th century religious motifs and sentiments like this were falling out of fashion. Dürer distinguishes himself from his contemporaries through his tight and detailed focus on his parents' faces, a technique that draws comparison to the work of the first generation of Early Netherlandish painters active 50 years earlier. Albrecht the Elder had travelled to Flanders and from working with Netherlandish artists had acquired a strong appreciation for the work of both <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a> and <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>. That he passed on this influence to his son is evident from the early use of silverpoint, a medium which according to Erwin Panofsky requires "an exceptional degree of confidence, accuracy and sensitive feeling for its successful handling".
+<br>X-rays of the painting have revealed that Titian painted it over a double portrait which he had abandoned. Titian kept the red cloak of one of the figures in the abandoned painting and placed it under Venus's arm. The use of the cloak from the earlier painting probably played a large part in the composition of the new painting.
 <br>
-<br>Dürer would have been aware of Hans Pleydenwurff's portrait of the ageing Count Georg von Lowenstein, through his teacher Michael Wolgemut. Pleydenwurff's portrait was in turn likely influenced by van Eyck's 1438 Portrait of Cardinal Niccolò Albergati. Von Fircks believes the portrait of Dürer's father took from Pleydenwurff's portrait, which she describes as a "highly detailed representation of [a] white haired old man, who defies the pains of growing old with an alert mind and an inner animation".
+<br>Titian is believed to have made another version of this Venus for the Venetian lawyer Niccolo Crasso, who also commissioned Titian to paint the Retable of Saint Nicholas de Bari at about the same time. A drawing of the other version was included by Anthony van Dyck in the sketchbook made during his trip to Italy. This other version is now lost, but a studio copy exists in the Hermitage Museum.
 <br>
-<br>Von Fircks notes that Dürer's 1484 self-portrait was created with the use of a mirror while his most iconic work is a self-portrait; the 1500 Self-Portrait at Twenty-Eight. From these she concludes that the "accurate observation and documentary recording" of both his own and his parents' appearances over time was not just a compulsion, but that is indicative of a deeper interest in the effects of time and age on human appearance. Although Dürer was fascinated by the effects of ageing on others, he seems to have had some hesitancy at examining how it might affect him personally. The self-portraits tend to be idealised and the 1500 portrait was his last. Later self-portraits are far more understated and executed in a 'secondary' media, such as his drawings of the Man of Sorrows and nude drawing of 1505, which depicted an emaciated body during the time of the plague.</span>
+<br>Titian is thought to have made a second copy, which was sent to his regular patron King Philip II of Spain, in 1567. This version was also lost, but a copy of it by Peter Paul Rubens exists, which is in the Thyssen-Bornemisza Museum in Madrid.
+<br>
+<br>In 1581, five years after Titian's death, the contents of his house in Venice, including the Venus with a Mirror, were sold by his son and heir Pomponio Vechellio to Christoforo Barbarigo. In 1850 the Russian Consul-General in Venice, A. Kvostov, purchased the painting, along with a large number of other masterpieces, from the Barbarigo family, for Czar Nicholas I for the sum of 525,000 francs, and it entered the collection of the Hermitage Museum in Saint Petersburg.
+<br>
+<br>In 1931, in order to earn foreign currency for the first of the Five-Year Plans for the National Economy of the Soviet Union, Joseph Stalin and the Soviet government secretly sold the painting, along with a number of other masterpieces, to a syndicate of art dealers, who sold it to the American collector Andrew Mellon, who wished to create a national art museum for the United States. Mellon donated it to the United States Government in 1937. It was one of the first masterpieces to be displayed in the National Gallery of Art in Washington when it opened in 1941.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
