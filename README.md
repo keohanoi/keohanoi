@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00244/images/arne-quinze/dsc-6262.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/david-michael-hinnebusch/200-miles-to-los-angeles-2009.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Rock Strangers, Den Haag</h2>
+        <h2 class="artwork-name">200 Miles to Los Angeles</h2>
         <h3 class="artist">
-          Arne Quinze
-                    ·  2016
+          David Michael Hinnebusch
+                    ·  2009
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">For an artist, public space is an ideal place in which to experiment. There exists a tension between the public and the private, the community and the individual. How would we like to experience the space? Arne Quinze’s large-scale sculptures Natural Chaos Rock Strangers, which are to be found outside on the boulevard side of this museum, are all about this. What are these strange intruders doing here, and how should we react to them? For Quinze it is all about provoking these primal emotions of curiosity and surprise.<br><br>The sculptures symbolize the artist’s view of the growing difference between nature and culture. Our towns and cities are becoming increasingly monotonous, busy and uninhabitable. By placing the sculptures in our everyday environment, Arne Quinze wants us to become more conscious of the importance of nature in our society.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">200 Miles to Los Angeles, 36 x 90 ins., acrylic on inkjet print paper with photographs on wood, was made in Hinnebusch's Santa Monica studio in 2009. In 2008 he purchased a large format printer and began obsessively printing his photographs and self- portraits to use in new works. This painting is a triptych of three images; The left his model and collector Mia Weier; the center an "amazing" frozen frame of a traffic sign on the California Interstate 5 Freeway shot by a reclining Hinnebusch with a small digital camera from the back seat of a moving car (Hinnebusch drawing models Lisa Cherry driving and Chandra Richards front seat passenger); the print on the right a photo-collage of drawings and personal photographs.
+<br>
+<br>
+<br>
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
