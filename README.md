@@ -2,18 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00117/images/banksy/3782631801-d413a10a89-o1.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/raphael/portrait-of-a-cardinal.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Agency Job</h2>
+        <h2 class="artwork-name">Portrait of a Cardinal</h2>
         <h3 class="artist">
-          Banksy
+          Raphael
+                    ·  1510
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Banksy took a copy of Millet’s 1857 painting “The Gleaners,” renamed it “Agency Job,” cutting out one of the three peasant women labouring in the fields and placing her on the frame smoking a cigarette. <br>Millet had been deeply affected by the 1848 revolutions and their promise of democracy. He became the first European painter to portray the peasantry, a doomed class impoverished by advancing capitalism, in such a sympathetic and noble manner. His calm imagery, which declares, “Yes, the world can be changed into a better place,” was castigated by bourgeois society and taken up by the emerging socialist movement.<br>Banksy texted the media regarding his exhibition, “It’s nice to see it’s been so popular but it makes me a bit suspicious. Throughout history all the great artists have been overlooked in their own lifetime and only appreciated once they’ve gone. I’m starting to worry I’m not one of the good guys.”<br>It is right and proper to ask such questions of oneself and one’s work. For something “serious to happen,” which Banksy and any artist should aspire to, then a serious (not humourless) approach to art is required. Whether Banksy’s work progresses in that direction or whether he is merely co-opted to become another bad boy for the art establishment is yet to be decided.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of a Cardinal is a painting by the Italian Renaissance artist <a target="_blank" href="/en/raphael">Raphael</a>. It is housed in the Prado Museum in Madrid.
+<br>
+<br>The Cardinal has been identified as either Alidosi, Bibbiena, Cybo or Trivulzio, in the court of Pope Julius II.
+<br>
+<br>Painted in Rome, Rafael mastered the art of realism in his paintings, the ability to “paint people as more real than they really are,” as his peers put it.
+<br>
+<br>Like Leonardo da Vinci’s Mona Lisa, the subject is seated, with formation of a triangle pyramid by the subjects' body and arms. The contrasts are striking between the red of his hat, whiteness of his sleeve and his face. Meticulous brushstrokes give the audience a three-dimensional character, revealing Rapahel’s interest in sculpture during those years.
+<br>
+<br>The painting was acquired by Carlos IV of Spain (1748–1819) in Rome, while the latter was still a prince.
+<br>
+<br>The picture was attributed to Antonio Moro, due to its technique, considered unusual in Raphael.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
