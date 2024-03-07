@@ -2,20 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/yiannis-tsaroychis/nude-youth-with-oleanders-and-a-bandage-on-his-hand-1940.jpg"
+        src="https://uploads8.wikiart.org/00244/images/arne-quinze/screen-shot-2017-04-10-at-16-26-57.png!Large.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Nude youth with oleanders and a bandage on his hand</h2>
+        <h2 class="artwork-name">Red Beacon</h2>
         <h3 class="artist">
-          Yiannis Tsaroychis
-                    ·  1940
+          Arne Quinze
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'This is a study of a nude from life so that I can look at the model outside the context of academic theories. This is the first painting I did under the influence of my copy of the Medusa. … With this painting I am making a start with a new method which consists of placing the copy next to the work I am painting, in an attempt to check the accuracy of the colour. The Head of Medusa helps me to do what's correct. Accurate imitation of the tones leads to the style of painting that was predominant from the 5th and 4th century BC onwards.' 
-<br>Yannis Tsarouchis</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Arne Quinze’s Red Beacon has been conceived to draw people into the Jing’an Sculpture Park in the heart of Shanghai. The park is part of the Jing’an International Sculpture Project, a governmental public art event in Shanghai. The installation is classic Arne Quinze: 55 tons of wood that make up a vibrant red canopy designed to promote social interaction. The bridge-like form serves to bridge gaps between the people who will come together beneath the sculpture and its surrounding trees.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
