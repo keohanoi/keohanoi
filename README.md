@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00129/images/gabriel-metsu/man-writing-a-letter.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00340/images/caravaggio/the-callinf-of-saint-matthew.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Man Writing a Letter</h2>
+        <h2 class="artwork-name">Calling of Saint Matthew</h2>
         <h3 class="artist">
-          Gabriel Metsu
-                    ·  1666
+          Caravaggio
+                    ·  1600
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Man Writing a Letter is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> on a wood panel by <a target="_blank" href="/en/gabriel-metsu">Gabriël Metsu</a> made at the height of his career. It is assumed to be a pair with Woman Reading a Letter. The two <a target="_blank" href="/en/paintings-by-genre/genre-painting">genre paintings</a> (together with the "Sick Child") are regarded as Metsu's artistic climax. Since 1987 they can be seen in the collection of the National Gallery of Ireland in Dublin.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Calling of Saint Matthew is a masterpiece by <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>, depicting the moment at which Jesus Christ inspires Matthew to follow him. It was completed in 1599–1600 for the Contarelli Chapel in the church of the French congregation, San Luigi dei Francesi in Rome, where it remains today. It hangs alongside two other paintings of Matthew by Caravaggio, The Martyrdom of Saint Matthew (painted around the same time as the Calling) and The Inspiration of Saint Matthew (1602).
 <br>
-<br>The painting shows a young man sitting in front of an open window, writing a letter with a quill pen. He is dressed in a black silk suit with a white linen shirt underneath. The Persian rug and silver writing set on the table also show his wealth. The globe in the corner indicates his interest, as if he is a merchant or scientist. A pastoral landscape by Jacob van der Does the Elder is hanging on the wall; on top of the gilded frame a dove is carved. The Delftware tiles on the baseboard show birds.
+<br>Over a decade before, Cardinal Matthieu Cointerel (in Italian, Matteo Contarelli) had left in his will funds and specific instructions for the decoration of a chapel based on themes related to his namesake, St Matthew. The dome of the chapel was decorated with frescoes by the late <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> artist Cavalier D'Arpino, Caravaggio's former employer and one of the most popular painters in Rome at the time. But as D'Arpino became busy with royal and papal patronage, Cardinal Francesco Del Monte, Caravaggio's patron and also the prefect of the Fabbrica of St Peter's (the Vatican office for Church property), intervened to obtain for Caravaggio his first major church commission and his first painting with more than a handful of figures.
 <br>
-<br>Man Writing a Letter is a companion piece to Woman Reading a Letter, in which the woman has received the young man's letter and is reading it intently. Metsu likely got the idea for a pair of themed paintings from <a target="_blank" href="/en/gerard-terborch">Gerard ter Borch</a>, who had painted a similar pair, Man Writing a Letter and A Woman Sealing a Letter, as he sold his paintings all over for exorbitant prices. The influence of <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>, the light from the left, the marble floor, are also unmistakable in the painting, though Metsu requires more emotional involvement of the viewer.
+<br>The Calling hangs opposite The Martyrdom of Saint Matthew. While the Martyrdom was probably the first to be started, the Calling was, by report, the first to be completed. The commission for these two lateral paintings — the Calling and the Martyrdom — is dated July 1599, and final payment was made in July 1600. Between the two, at the altar, is The Inspiration of Saint Matthew (1602).
 <br>
-<br>Records indicate the paintings have always been owned as a pair. The paintings were owned by Hendrick Sorgh, an art collector in Amsterdam. After his death they were sold for 560&nbsp;guilders on 28 March 1720 to George Bruyn. When this underwriter died they were sold on 16 March 1724 for 785&nbsp;guilders to Johannes Coop, a wealthy cotton printer and dyer. Circa 1744, and for 500 guilders, they came into the possession of Gerrit Braamcamp, a collector who owned no fewer than ten works by Metsu. His heirs benefited from the artist's popularity; on 31 July 1771 the two paintings were bought for 5,205&nbsp;guilders by Jan Hope. In 1898, his descendant Duke Francis Pelham-Clinton-Hope, 8th Duke of Newcastle, sold his entire collection, including the two Metsu paintings, to art dealers Wertheimer and Colnaghi &amp; Co. in London. In 1900 the pair of paintings were bought by Alfred Beit, inherited by his brother Otto Beit (1906) and his son Sir Alfred Beit (1930). Both were among artworks stolen from Russborough House in 1974 and again in 1986, but were eventually recovered. In 1987 both paintings were donated to the National Gallery of Ireland, though they remained missing until 1993.
+<br>The painting depicts the story from the Gospel of Matthew (Matthew 9:9): "Jesus saw a man named Matthew at his seat in the custom house, and said to him, "Follow me", and Matthew rose and followed Him." Caravaggio depicts Matthew the tax collector sitting at a table with four other men. Jesus Christ and Saint Peter have entered the room, and Jesus is pointing at Matthew. A beam of light illuminates the faces of the men at the table who are looking at Jesus Christ.
 <br>
-<br>The pair of paintings are commonly regarded as some of Metsu's best works. Reviewing an exhibition of works by Metsu in The New York Times in 2011, Karen Rosenberg called them "stunning", and Susan Stamberg of NPR dubbed Man Writing a Letter "one of his most important crowd pleasers" and described the pair as "gorgeously painted with fabulous technique and meticulously rendered details".</span>
+<br>There is some debate over which man in the picture is Saint Matthew, as the surprised gesture of the bearded man at the table can be read in two ways.
+<br>
+<br>Most writers on the Calling assume Saint Matthew to be the bearded man, and see him to be pointing at himself, as if to ask "Me?" in response to Christ's summons. This theory is strengthened when one takes into consideration the other two works in this series, The Inspiration of Saint Matthew, and The Martyrdom of Saint Matthew. The bearded man who models as Saint Matthew appears in all three works, with him unequivocally playing the role of Saint Matthew in both the "Inspiration" and the "Martyrdom".
+<br>
+<br>A more recent interpretation proposes that the bearded man is in fact pointing at the young man at the end of the table, whose head is slumped. In this reading, the bearded man is asking "Him?" in response to Christ's summons, and the painting is depicting the moment immediately before a young Matthew raises his head to see Christ. Other writers describe the painting as deliberately ambiguous.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
