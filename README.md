@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00380/images/peter-paul-rubens/the-fall-of-the-damned-peter-paul-rubens.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00330/images/camille-pissarro/het-hooien-ragny-s0520s2010-van-gogh-museum.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Fall of the Damned</h2>
+        <h2 class="artwork-name">The Harvest of Hay in Eragny</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1620
+          Camille Pissarro
+                    ·  1887
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fall of the Damned, conversely known as The Fall of the Rebel Angels is a monumental religious painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It features a jumble of the bodies of the damned, hurled into abyss by archangel Michael and accompanying angels. David Freedberg assessed this painting manner as the "most brilliant assemblages of lusciously naked flesh in Western art".
-<br>
-<br>In 1959 an art vandal threw an acid on the painting. According to him, he did not directly destroy the work, but the acid "relieves one from the work of destruction".
-<br>
-<br>The sketch of The Fall of the Damned was made in black and red chalks, with a grey wash and is kept in the British Museum. It is assumed to be the work of a studio assistant, while Rubens then went over the drawing with brush and oil colour. The dramatic chiaroscuro of the human forms and clouds emphasizes the darkness into which these figures fall, far from the heaven light above.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts a hay harvesting scene in the countryside near Éragny, where the artist lived with his family from 1884 until his death in 1903. In the center of the canvas, a woman uses a hayfork while behind her others do similar work in a brightly lit field punctuated by haystacks.<br><br>Pissarro adopted the <a target="_blank" href="https://www.wikiart.org/en/paintings-by-style/pointillism">Pointillist</a> technique in 1886, saying that "<a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/neo-impressionism">Neo-Impressionism</a> was the next phase in the logical march of <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/impressionism">Impressionism</a>." What set his work apart from the other Neo-Impressionists was his emphasis on rural life and labor. Pissarro's depiction of peasant life along with his own scientific explorations of color speaks to the anarchist theories he adopted in the latter half of the 1870s.<br><br>Pissarro felt that his scientific studies freed him from the Academy's strictures of how to see and depict reality. He also evoked the utopian visions of peasant societies he read about in the writings of anarchists Pierre-Joseph Proudhon and Peter Kropotkin. Pissarro wanted "to educate the public," by portraying the common man, but he also wanted to avoid idealizing and sentimentalizing his subjects. In this work, he depicts the effort of hay harvesting, both in the man at the left arching his back to toss the hay up and in the woman at the center, the strength palpable in her back and shoulders.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
