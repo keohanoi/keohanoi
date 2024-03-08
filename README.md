@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/henri-matisse/bathers-by-a-river-1916.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00380/images/peter-paul-rubens/the-fall-of-the-damned-peter-paul-rubens.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Bathers by a River</h2>
+        <h2 class="artwork-name">The Fall of the Damned</h2>
         <h3 class="artist">
-          Henri Matisse
-                    ·  1916
+          Peter Paul Rubens
+                    ·  1620
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Matisse regarded this picture as one of the most important in his career, and it is certainly one of his most puzzling. He worked on it at intervals over eight years, and it passed through a variety of transformations. The painting evolved out of a commission from Matisse's Russian patron, Sergei Shchuckin, for two decorative panels on the subjects of dance and music, and, initially, the scheme for the picture resembled the idyllic scenes he had previously depicted in paintings such as Joy of Life (1905-06). However, his transformations gradually turned it into more of a confrontation with Cubism, and it is for this reason that the picture has been the subject of intense scrutiny. Although Matisse rejected Cubism, he certainly felt challenged by it, and this picture - along with many he painted from 1913 to 1917 - seems to be influenced by the style, since it is very unlike his previous, more decorative work. It is far more concerned with faithful representation of the structure of the human figure, and its position in space. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fall of the Damned, conversely known as The Fall of the Rebel Angels is a monumental religious painting by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>. It features a jumble of the bodies of the damned, hurled into abyss by archangel Michael and accompanying angels. David Freedberg assessed this painting manner as the "most brilliant assemblages of lusciously naked flesh in Western art".
+<br>
+<br>In 1959 an art vandal threw an acid on the painting. According to him, he did not directly destroy the work, but the acid "relieves one from the work of destruction".
+<br>
+<br>The sketch of The Fall of the Damned was made in black and red chalks, with a grey wash and is kept in the British Museum. It is assumed to be the work of a studio assistant, while Rubens then went over the drawing with brush and oil colour. The dramatic chiaroscuro of the human forms and clouds emphasizes the darkness into which these figures fall, far from the heaven light above.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
