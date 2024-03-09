@@ -2,25 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/raphael/portraits-of-leo-x-cardinal-luigi-de-rossi-and-giulio-de-medici-1518.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/salvador-dali/galatea-of-the-spheres.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portraits of Leo X, Cardinal Luigi de' Rossi and Giulio de Medici</h2>
+        <h2 class="artwork-name">Galatea of the Spheres</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1518
+          Salvador Dali
+                    ·  1952
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Pope Leo X with two Cardinals is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> master <a target="_blank" href="/en/raphael">Raphael</a>, c. 1517. It is housed in the Uffizi Gallery of Florence.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Galatea of the Spheres is a painting by <a target="_blank" href="/en/salvador-dali">Salvador Dalí</a> made in 1952. It depicts Gala Dalí, Salvador Dalí's wife and muse, as pieced together through a series of spheres arranged in a continuous array. The name Galatea refers to a sea nymph of Classical mythology renowned for her virtue, and may also refer to the statue beloved by its creator, Pygmalion.  <br>
 <br>
-<br>In contrast to works depicting classical, idealised Madonnas and figures from antiquity, this portrait shows the sitter in a realistic manner. The Pope is depicted with the weight of late middle age, while his sight appears to be strained. The painting sets up a series of visual contradictions between appearance and reality, intended by Raphael to reflect the unrest of a period of turmoil for the papacy. Martin Luther had recently challenged papal authority, listing among other grievances, Leo X's method of selling indulgences to fund work on St Peter's.
+<br>Measuring 65.0 x 54.0 cm, the painting depicts the bust of Gala composed of a matrix of spheres seemingly suspended in space. It represents a synthesis of Renaissance art and atomic theory and illustrates the ultimate discontinuity of matter, the spheres themselves representing atomic particles.<br>
 <br>
-<br>The pommel on top of the Pope's chair evokes the symbolic abacus balls of the Medici family, while the illuminated Bible open on the table has been identified as the Hamilton Bible.
+<br>Dalí had been greatly interested in nuclear physics since the first atomic bomb explosions of August 1945, and described the atom as his "favourite food for thought". Recognising that matter was made up of atoms which did not touch each other, he sought to replicate this in his art at the time, with items suspended and not contacting each other, such as in The Madonna of Port Lligat. This painting was also symbolic of his attempt to reconcile his renewed faith in Catholicism with nuclear physics. His friend, painter Antoni Pitxot, recalled that Dalí held in high regard the depth of perspective in the painting and the spheres he had painted.<br>
 <br>
-<br>The cardinals are usually identified as Giulio di Giuliano de' Medici and Luigi de' Rossi.</span>
+<br>Dalí wished for this painting to be displayed on an easel, which had been owned by French painter <a target="_blank" href="/en/ernest-meissonier">Jean-Louis-Ernest Meissonier</a>, in a suite of three rooms called the Palace of the Winds (named for the tramontana) in the Dalí Theatre and Museum in Figueres. It remains on display there to this day. It was transported to and exhibited at the National Gallery of Victoria in Melbourne in 2009, along with many other Dalí paintings in the Liquid Desire exhibition.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
