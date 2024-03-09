@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hans-bellmer/the-machine-gunneress-in-a-state-of-grace-1937.jpg"
+        src="https://uploads6.wikiart.org/images/jusepe-de-ribera/jacob-s-dream-1639.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Machine-Gunneress in a State of Grace</h2>
+        <h2 class="artwork-name">Jacob's Dream</h2>
         <h3 class="artist">
-          Hans Bellmer
-                    ·  1937
+          Jusepe de Ribera
+                    ·  1639
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bellmer began creating disturbing dolls in 1933, the year Adolf Hitler assumed power in Germany. Many have interpreted them as acts of political defiance against the Aryan ideals and social norms promoted by the Nazis, whom he openly opposed, and expressions of the personal outrage he felt towards his father, who had joined the Nazi party. Bellmer himself stated, "If the origin of my work is scandalous, it is because for me, the world is a scandal." Made in Berlin one year before the artist left for Paris, where he lived for the better part of the rest of his life, this figure is violently fragmented, its body parts splayed and truncated and its scale distorted. Connected mechanically by ball joints, its appendages offer endless perverse recombinations, made all the more unsettling by suggesting the physical traits of both a mature woman and a prepubescent girl.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jacob’s Dream (Spanish: El sueño de Jacob) is a 1639 oil-on-canvas painting by the Spanish Tenebrist painter <a target="_blank" href="/en/jusepe-de-ribera">José de Ribera</a> (Lo Spagnoletto).
+<br>
+<br>It measures 179 by 233 centimetres (70&nbsp;in ×&nbsp;92&nbsp;in) and is in the Museo del Prado in Madrid.
+<br>
+<br>Jacob appears as a shepherd sleeping, resting on his left shoulder with a tree behind him. In the background on the other side is the ladder that he sees in his dream. It is not a wooden ladder but a ladder of light, by which angels are ascending and descending.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
