@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00324/images/danh-vo/das-beste-oder-nichts-2010.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/paul-werner/seven-sisters-a-group-of-trees-on-knsm-island-in-amsterdam-1997(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Das Beste Oder Nichts</h2>
+        <h2 class="artwork-name">Seven sisters. A group of trees on KNSM island in Amsterdam</h2>
         <h3 class="artist">
-          Danh Vō
-                    ·  2010
+          Paul Werner
+                    ·  1997
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Danh Vo often employs deceptively simple objects and found texts to meld personal biographical narratives with global political histories. For <i>Das Beste oder Nichts</i>, Vo complicates the traditional notions of authorship and demonstrates the centrality of familial relationships within his work. The Mercedes-Benz engine is from a car owned by the artist’s father, a Vietnamese refugee who fled the country by boat with his family, became lost at sea, and emigrated to Denmark after being picked up by a Danish commercial ship. “The Best or Nothing,” an artifact of his father’s determination to achieve success in the West, signifies travel and underlines the artist’s own past, as defined by detours and displacement.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">De Zeven Zusters / Seven Sisters was a group of trees standing diagonally over the harbor-island KNSM-island in Amsterdam, in opposite of the building Loods 6 where Paul Werner had his studio for circa 10 years.
+<br>Between the trunks of the trees one can see a glimpse of  the neighbour-island: Java-island, also a former Amsterdam harbor-area full of cranes.
+<br>Many times Paul Werner pictured the environments of Loods 6 on KNSM-eiland, where he had his studio. This litho print is made after a sketch. 
+<br>
+<br>Owner of this lithography-print 1/2 on paper - including the copyrights - is the Amsterdam City Archives - Beeldbank Amsterdam</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
