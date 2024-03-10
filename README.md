@@ -2,29 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00203/images/hieronymus-bosch/jheronimus-bosch-or-follower-001.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/rogier-van-der-weyden/portrait-of-philippe-de-croy-1460.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ Carrying the Cross</h2>
+        <h2 class="artwork-name">Portrait of Philippe de Croy</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1510
+          Rogier van der Weyden
+                    ·  1460
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Carrying the Cross is a painting attributed to a follower of <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>. It was painted in the early 16th century, presumably between 1500 and 1535.  The work is housed in the Museum of Fine Arts in Ghent, Belgium.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Diptych of Philip de Croÿ with The Virgin and Child consists of a pair of small oil-on-oak panels painted c. 1460 by the Netherlandish artist <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>. While the authorship and dating of both works are not in doubt, it is believed but not proven that they were created as wings of a devotional diptych and that at some unknown time the panels were broken apart. A diptych panel fitting the description of the Mary wing was described in a 1629 inventory of paintings owned by Alexandre d'Arenberg, a descendant of Philip I de Croÿ (1435–1511). Both have been approximately dated to 1460 and are now in Antwerp and San Marino, CA respectively. The reverse of de Croÿ's portrait is inscribed with the family crest and the title used by the sitter from 1454 to 1461.
 <br>
-<br>The work was bought by the Museum of Fine Arts, Ghent in 1902, and was restored in 1956–1957. As for all Bosch related works, the dating is uncertain, although most art historians assigned it to his late career. The catalog of the Bosch exhibition held in Rotterdam in 2001 assigned it 1510–1535, attributing the execution to an imitator. According to one of the authors, Bernard Vermet, it is not as typical for Bosch is generally accepted and he finds it hard to believe that it was painted by the same painter as the Christ Crowned with Thorns (Bosch, London) in National Gallery in London. Moreover the colours remind him of the manierists of the 1530' and he relates the work to the Triptych of the Passion in Valencia and the Christ before Pilate in Princeton, works that were definitely painted after the death of Bosch. Since then the rejection has been accepted by Stephan Fischer and disputed by Fritz Koreny In October 2015 the Bosch Research and Conservation Project, that is doing technical research on most of Bosch's paintings since 2007, confirmed they reject the attribution to Bosch as well and consider it to be made by a follower. The museum's director was quoted on the same occasion as stating that if it was not by Bosch, then by a genius even greater than Bosch.<br>
+<br>The right hand panel depicts Philip I de Croÿ, chamberlain to Philip the Good and comte de Chimay from 1472 until his death, possibly at battle, in 1482. De Croÿ would have been around 25 at the time of the portrait, and the style of his haircut has been used to approximately date the work. The left wing, today in San Marino, shows the Virgin and Child against a gold background depicted in a style indebted to <a target="_blank" href="/en/artists-by-art-movement/byzantine-art">Byzantine</a> Marian icons.
 <br>
-<br>The work depicts Jesus carrying the cross above a dark background, surrounded by numerous heads, most of which are characterized with grotesque faces. There are a total of eighteen portraits, plus one on Veronica's veil. Jesus has a woeful expression, his closed eyes and the head reclinate.<br>
+<br>Van der Weyden underscores the idea of the Virgin panel being an unearthly apparition before the donor by giving her wing a golden background which contrasting sharply with de Croÿ's more muted and ordinary flat backdrop. The artist further establishes a link between the human and divine through the playful manner of given to Christ. As with van der Weyden's other mother and child diptych's the child faces the donor, while his hand is stretched outwards, almost beyond the boundary of the right hand panel, as if to make a connection with the donor to the left. Art historian Martha Wolff suggests the implication of this gesture is to extend the connection to the actual viewer presumably worshiping at the diptych -like de Croÿ- before the mother and child.
 <br>
-<br>In the bottom right corner is the impenitent thief, who sneers against three men who are mocking him. The penitent thief is at top right: he is portrayed with a very pale skin, while being confessed by a horribly ugly monk.<br>
-<br>
-<br>The bottom left corner houses Veronica with the holy shroud, her eyes half-open and the face looking back. Finally, at the top left is Simon of Cyrene, his face upside upturned.<br>
-<br>
-<br>There are two further versions of the subject by Bosch: a previous one from around 1498, now at the Royal Palace of Madrid, and another in the Kunsthistorisches Museum of Vienna from around 1500.<br></span>
+<br>After van der Weyden's appointment as official painter to the city of Brussels in 1436, he became a highly sought after painter of both secular and donor portraits. While the surviving works of his mid career are mainly single religious works and triptychs, by c. 1460 his reputation and the demand for his work was such that he seems to have concentrated on commissions. These panels are amongst four confirmed diptychs where he paired the patron opposite a representation of the Virgin and Child. In all a half-length male patron is represented on the left wing, with the tell-tale motif of hands folded in prayer. The Virgin and Child are always positioned on the right, reflecting the Christian reverence for the right hand side as the "place of honour" alongside the divine. Similarly, the donor's portrait is always set against a flat dark nondescript background, while the Virgin and Child are framed against brilliantly lit golden or gilded backdrops. van der Weyden is widely credited as the first to use the diptych format for donor portraits and for establishing conventions that were to last until the mid 16th century; his are the first to combine a half length portrait (of the donor) with a half length depiction of a saint or saints. The pairing with the Mary panel appeared as if a vision appearing before the donor.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
