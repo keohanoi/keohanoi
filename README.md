@@ -2,24 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/paul-werner/seven-sisters-a-group-of-trees-on-knsm-island-in-amsterdam-1997(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00134/images/henri-matisse/the-windshield-1917.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seven sisters. A group of trees on KNSM island in Amsterdam</h2>
+        <h2 class="artwork-name">The Windshield</h2>
         <h3 class="artist">
-          Paul Werner
-                    ·  1997
+          Henri Matisse
+                    ·  1917
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">De Zeven Zusters / Seven Sisters was a group of trees standing diagonally over the harbor-island KNSM-island in Amsterdam, in opposite of the building Loods 6 where Paul Werner had his studio for circa 10 years.
-<br>Between the trunks of the trees one can see a glimpse of  the neighbour-island: Java-island, also a former Amsterdam harbor-area full of cranes.
-<br>Many times Paul Werner pictured the environments of Loods 6 on KNSM-eiland, where he had his studio. This litho print is made after a sketch. 
-<br>
-<br>Owner of this lithography-print 1/2 on paper - including the copyrights - is the Amsterdam City Archives - Beeldbank Amsterdam</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Matisse painted this canvas in the summer of 1917 while being chauffeured by his son Pierre toward an airport on the outskirts of Paris. Suddenly, Matisse decided to paint the road from inside the car, which proved challenging, as zooming traffic forced the artist to keep the windows shut and constantly rocked the old Renault back and forth. Matisse nonetheless produced a novel view of life in the modern automobile age.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
