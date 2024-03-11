@@ -2,33 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00200/images/ivan-kramskoy/kramskoy-portrait-of-a-woman.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00306/images/josef-albers/study-for-homage-to-the-square-beaming.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of unknown woman</h2>
+        <h2 class="artwork-name">Study for Homage to the Square: Beaming</h2>
         <h3 class="artist">
-          Ivan Kramskoy
-                    ·  1883
+          Josef Albers
+                    ·  1963
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of an Unknown Woman, also known as The Unknown Woman, An Unknown Lady or Stranger (Russian: Неизвестная, tr. Neizvestnaya) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by the Russian artist <a target="_blank" href="/en/ivan-kramskoy">Ivan Kramskoi</a>, painted in 1883. The model, whose identity is unknown, is a woman of "quiet strength and forthright gaze". It is one of Russia's best-known art works, although a number of critics were indignant when the painting was first exhibited and condemned what they saw as a depiction of a haughty and immoral woman. Its popularity has grown with changes in public taste.<br>
-<br>
-<br>The painting hangs in the Tretyakov Gallery, Moscow, while an earlier version, also dated 1883, is housed at the Kunsthalle Kiel.<br>
-<br>
-<br>Portrait of an Unknown Woman combines elements of the genre and portrait traditions in art. She is dressed in a black fur and velvet coat, fur hat, with leather gloves. The woman is seated on an open carriage at the Anichkov Bridge in Saint Petersburg.<br>
-<br>
-<br>Her identity has not been established by art historians. Kramskoi titled the painting Unknown, and did not mention her in any of his letters or diaries, leading to much speculation and the painting's highly enigmatic reputation.<br>
-<br>
-<br>The portrait was painted late in Kramskoi's life. He had begun his career as a rebel working outside of the establishment, and was early on expelled from the Russian Academy. By 1883, he was at the height of his fame and reputation and working at the highest level of patronage, producing portraits of Czar Alexander III and his wife Maria Feodorovna. He was also one of the founders and leaders of The Wanderers.<br>
-<br>
-<br>However, Portrait of an Unknown Woman caused a sensation when first exhibited, more as a result of the subject matter than the aesthetics of the work. A number of critics presumed that the woman was a prostitute. One critic described the painting as a portrayal of "a coquette in a carriage", while another wrote of "a provocatively beautiful woman, all in velvet and fur, throwing you a sneeringly sensuous glance from a luxurious carriage – is this not one of the effluvia of big cities that allow contemptible women dressed in outfits purchased for the price of their female chastity onto the streets". Kramskoi remarked, "Some people have said it is not known who this woman is. Is she decent, or does she sell herself? But within her is an entire epoch."<br>
-<br>
-<br>Pavel Tretyakov refused to buy the painting for his gallery. However, its popularity quickly grew, in part as the beauty of sin became a popular theme amongst the following generation of Russian artists. It has been described as "unusually bright, densely painted, and relaxed. Kramskoi clearly tried to shine with his outstanding painterly mastery."<br>
-<br>
-<br>The painting has been used as the cover for some editions of Leo Tolstoy's Anna Karenina. In 2008, Guggenheim curator Valerie Hillings observed that, "Many people just think she's sort of like Anna Karenina. She has that kind of special feel, that special Russianness".<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Study for Homage to the Square: Beaming</i> (1963) belongs to a large series of over 2,000 square paintings and prints that Josef Albers produced from 1949 and until he died in 1976. The <a target="_blank" href="https://www.wikiart.org/en/josef-albers/all-works#!#filterName:Series_homage-to-the-square,resultType:masonry">series, titled <i>Homage to the Square</i></a> is based on a compositional scheme of squares in different colors and arrangements. In the multiple versions of these paintings, Albers examined how colors interact when placed next to one another. He explained: “If one says ‘red’ and there are 50 listening, it can be expected that there will be 50 reds in their minds. And one can be sure that all these reds will be very different.”<br><br>In chronological terms, <i>Study for Homage to the Square: Beaming</i> approximately falls to the middle period of the square painting series. Painted in the artist’s home in New Haven, Connecticut, <i>Study for Homage to the Square: Beaming</i> depicts three squares set inside one another in different shades of blue: the largest bright blue square contains a smaller square in darker tone of blue, and that one contains a much smaller blue-green square. These isolated flat squares of color create the illusion of receding or advancing. Sometimes, these isolated color planes appear to fuse, generating new colors that seem to hover in front of the picture surface giving the effect of an after-image.<br><br>In <i>Study for Homage to the Square: Beaming</i>, Albers applied paint with a palette knife directly from the tube, having each area painted in a single color. Through such paintings, the artist explored the interaction between different colors, and by adjusting the hues and tones he studied the different optical effects. His experimentation in <i>Homage to the Square</i> series corresponded with his writings in the book <i>Interaction of Color</i> (1963). The book provided a complex explanation of principles of color theory and emphasized that practical exploration and experimentation with color outweighed theoretical considerations. The practical experiments, like <i>Study for Homage to the Square: Beaming</i> allowed him to explore the optical effects on the viewer. Correspondingly, his writings examined the psychological effects produced by these optical experiences. <br><br>Albers explained that in the <i>Homage to the Square</i> series each work had its mechanism and operated differently in terms of color: “This means that they all are of different palettes, and therefore so to speak, of different climates… Choice of the colors used, as well as their order is aimed at an interaction – influencing and changing each other forth and back.” In this way, when presenting many of these paintings together, Albers aimed to show the autonomy of color and how it can function as a means of organization in the painting: “Though the underlying symmetrical and quasi-concentric order of squares remains the same in all paintings - in proportion and placement - these same squares group or single themselves, connect and separate in many different ways.”</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
