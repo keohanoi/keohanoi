@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/ad-reinhardt/abstract-painting-red-1952.jpg"
+        src="https://uploads5.wikiart.org/images/jean-baptiste-greuze/the-village-bride-1761.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Abstract Painting: Red</h2>
+        <h2 class="artwork-name">The Village Bride</h2>
         <h3 class="artist">
-          Ad Reinhardt
-                    ·  1952
+          Jean-Baptiste Greuze
+                    ·  1761
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is one of the paintings belonging to the Red Series. Here the artist immersed himself completely into the exploration of the color red, one of the most expressive among the primary colors. This composition is abstraction par excellence; the squares are arrayed into a rigid pattern with the variations of red hues defining its strict geometry. The artist himself maintained throughout his life that these paintings were completely free of narrative. One cannot help but wonder, however, whether a list of references could be decoded in this canvas due to its expressive palette, impressive size (9'x3.5'), and the almost totemic outline of the squares.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">L'Accordée de Village is a painting by the French artist Jean-Baptiste Greuze, first exhibited at the 1761 Salon, where it was unanimously praised by the critics, notably by Diderot. It was the first example of the 'moral painting' genre, to which Greuze often returned. It is now in the Louvre Museum in Paris.
+<br>
+<br>It was part of a series of 6 paintings. Caroline de Valory, a former pupil of Greuze, collaborated with the writer Alexandre Louis Bertrand Robineau to produce L'Accordée de Village, a one-act comedy based on the paintings.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
