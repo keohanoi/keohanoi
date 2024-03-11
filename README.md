@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/brion-gysin/dreammachine-in-collaboration-with-ian-sommerville-1962.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/el-greco/view-and-plan-of-toledo.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dreammachine (in collaboration with Ian Sommerville)</h2>
+        <h2 class="artwork-name">View and plan of Toledo</h2>
         <h3 class="artist">
-          Brion Gysin
-                    ·  1962
+          El Greco
+                    ·  1610
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The dreamachine (or dream machine) is a stroboscopic flicker device that produces visual stimuli. Artist Brion Gysin and William S. Burroughs's "systems adviser" Ian Sommerville created the dreamachine after reading William Grey Walter's book, The Living Brain. In its original form, a dreamachine is made from a cylinder with slits cut in the sides. The cylinder is placed on a record turntable and rotated at 78 or 45 revolutions per minute. A light bulb is suspended in the center of the cylinder and the rotation speed allows the light to come out from the holes at a constant frequency of between 8 and 13 pulses per second. This frequency range corresponds to alpha waves, electrical oscillations normally present in the human brain while relaxing. A dreamachine is "viewed" with the eyes closed: the pulsating light stimulates the optical nerve and alters the brain's electrical oscillations. The user experiences increasingly bright, complex patterns of color behind their closed eyelids. The patterns become shapes and symbols, swirling around, until the user feels surrounded by colors. It is claimed that using a dreamachine allows one to enter a hypnagogic state. This experience may sometimes be quite intense, but to escape from it, one needs only to open one's eyes.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">View and Plan of Toledo is a work of <a target="_blank" href="/en/el-greco">El Greco</a>, made in 1608 during his last period. It is preserved in the Museum of El Greco of Toledo.
+<br>
+<br>This work moves away from the beautiful and stylized descriptions of Toledo; it shows a great meticulousness. This fostered the assumption that it was commissioned by the city council. The enormous detail that was made on the plane caused many scholars to guess that this is a work of Jorge Manuel, son of the painter and expert in architecture.
+<br>
+<br>At the top of the canvas is the Virgin Mary, accompanied by a court of angels carrying the chasuble of San Ildefonso. In this work it could be read as an anticipation of <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionism</a>, and even <a target="_blank" href="/en/paul-cezanne">Paul Cézanne</a>.
+<br>
+<br>The painting was probably commissioned by Pedro de Salazar y Mendoza. It appeared on an inventories of goods of El Greco in 1614, and Jorge Manuel in 1621. It entered the collection of the Museo del Greco in 1910.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
