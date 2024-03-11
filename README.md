@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/pietro-perugino/marriage-of-the-virgin-1504.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/vardges-sureniants/salome-1907.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Marriage of the Virgin</h2>
+        <h2 class="artwork-name">Salome</h2>
         <h3 class="artist">
-          Pietro Perugino
-                    ·  1504
+          Vardges Sureniants
+                    ·  1907
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Marriage of the Virgin is a painting by the Italian Renaissance master <a target="_blank" href="/en/pietro-perugino">Perugino</a>, although it is now sometimes attributed to his pupil Lo Spagna. It depicts the marriage between Joseph and Mary, and is now in the Musée des Beaux-Arts of Caen, France. Initially commissioned to <a target="_blank" href="/en/pinturicchio">Pinturicchio</a> for the recently completed cathedral of Perugia, Perugino took over the commission and finished the work around 1500-1504, probably after several periods of stasis. A very similar composition was painted by unknown artists (sometimes attributed to Fiorenzo di Lorenzo, probable teacher of <a target="_blank" href="/en/pietro-perugino">Perugino</a> or Rocco Zoppo, assistant of Perugino) for the church of San Girolamo in Spello in 1492. Which (if present scholarship is correct) is about ten years earlier than Perugino's and Raphael's treatments of the same subject. Composition is heavier since it does not show elegant central perspective appearing in Perugino's and later Raphael's more famous works. However the figures in the foreground are very similar to both later paintings, including the unmistakable young man breaking the rod.
-<br>
-<br>Later, in 1797, the picture was looted by Napoleon and was subsequently taken to Caen, Normandy. Attempts by the commune of Perugia, and the personal commitment of <a target="_blank" href="/en/antonio-canova">Antonio Canova</a>, to retrieve the work failed.
-<br>
-<br>The wide perspective of the picture, with at its centre an octagonal edifice and the aligned composition of the figures on the sides, is strongly related to the Perugino's Christ Giving the Keys to St. Peter at the Sistine Chapel. The painting prominently displays the Virgin's engagement ring, which was then kept at the cathedral as a holy relic.
-<br>
-<br><a target="_blank" href="/en/raphael">Raphael</a>, Perugino's pupil, painted a version of his own of the picture in 1504.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Salome  (Greek: Σαλώμη Salōmē, pronounced [salóːmeː]) (c. AD 14 – between 62 and 71) was the daughter of Herod II and Herodias. She is infamous for demanding and receiving the head of John the Baptist, according to the New Testament. According to Flavius Josephus's Jewish Antiquities, Salome was first married to Philip the Tetrarch of Ituraea and Trakonitis. After Philip's death in 34 AD she married Aristobulus of Chalcis and became queen of Chalcis and Armenia Minor. They had three children. Three coins with portraits of Aristobulus and Salome have been found.
+<br> Her name in Hebrew is שלומית (Shlomiẗ, pronounced [ʃlomiθ]) and is derived from the root word שָׁלוֹם (shalom), meaning "peace".
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
