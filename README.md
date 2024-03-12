@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/claude-monet/dandelions.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/raphael/madonna-and-child.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dandelions</h2>
+        <h2 class="artwork-name">Madonna and Child</h2>
         <h3 class="artist">
-          Claude Monet
-                    ·  1900
+          Raphael
+                    ·  1503
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The artwork was in private collection of undisclosed collector since 1953 when it was presented to him by writer Ilya Ehrenburg. There is a label with the text "From the collection of Ilya Ehrenburg" at the back of the canvas. The work had never been exhibited in public before. On October 29, 2011 painting was sold on auction in Kharkiv, Ukraine for $6 million to undisclosed buyer.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna and Child is a painting finished c. 1503 by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/raphael">Raphael</a>. It is housed in the Norton Simon Museum in Pasadena, California.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
