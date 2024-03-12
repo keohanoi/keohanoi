@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/dante-gabriel-rossetti/water-willow-1871.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00299/images/lalla-essaydi/grande-odalisque-2.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water Willow</h2>
+        <h2 class="artwork-name">Grande Odalisque #2</h2>
         <h3 class="artist">
-          Dante Gabriel Rossetti
-                    ·  1871
+          Lalla Essaydi
+                    ·  2008
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Water Willow is an 1871 oil painting by <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>. It depicts Jane Morris in the river landscape near Kelmscott Manor, with the manor in the left background and Kelmscott Church below the hill to the right.
-<br>
-<br>In May 1871, <a target="_blank" href="/en/william-morris">William Morris</a> rented Kelmscott Manor, a 17th-century limestone manor house along the Thames near Kelmscott in Oxfordshire, to be a summer escape from London. Rossetti shared the lease, but the house soon became a retreat for Rossetti and Morris's wife Jane to have a long-lasting and complicated liaison. The two spent an idyllic summer there, with the Morris children, in 1871, while Morris himself travelled to Iceland. Rossetti made a version of Water Willow in coloured chalks at Kelmscott, and then painted the small oil "to fit a beautiful old frame I have" In the chalk study, Jane holds a pansy, symbol of love and remembrance, rather than the willow branches, a symbol of sorrow and longing, of the final painting.
-<br>
-<br>In 1877, facing financial difficulties, Rossetti sold the painting to "a new buyer", William Alfred Turner (1839–1886), a Manchester cotton spinner, who also purchased Proserpine at that time. Rossetti apologized to Jane Morris for selling the work, saying he was "really mortally sorry to part with the Kelmscott picture" but "felt there was no alternative".
-<br>
-<br>After Turner's death, the painting was sold at auction by Christie's on 28 April 1888 and was bought in by his executors. Water Willow was the first Pre-Raphaelite painting acquired by the American collector Samuel Bancroft, who purchased it in 1890. Bancroft later sent the painting back to England to be repaired by Charles Fairfax Murray. Murray asked and received Bancroft's permission to make a copy that he gave to Jane Morris, because "she was to have had the picture, it being a great favourite of hers." The original was bequeathed to the Delaware Art Museum by Bancroft's descendants in 1935.
-<br>
-<br>The painting was exhibited in Manchester in 1882 and again in 1887, London in 1883, and Philadelphia in 1892. It was also exhibited in Wilmington, Delaware in 1917 and 1934, New Haven, Connecticut in 1976, and Liverpool and Amsterdam in 2003.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><i>Les Femmes du Maroc</i> establishes more overt references to <a target="_blank" href="https://www.wikiart.org/en/artists-by-art-movement/orientalism">Orientalism</a> than <a target="_blank" href="https://www.wikiart.org/en/lalla-essaydi/converging-territories-24-2004"><i>Converging Territories</i></a>. Displaying the same subdued palette, focus on veiling and women, and metatextual calligraphy, its images exhibit a more painterly composition and the favorite orientalist fantasies of the odalisque and the harem. The series probes, in Essaydi’s nuanced manner, the West’s problematic exoticization and reductive sexualization of Muslim women. <i>Les Femmes du Maroc</i> unpacks the fiction surrounding life in the harem; its women, clothed and engaged in domestic activities, radically contrast with the lustful universe conjured up, for example, by the octogenarian <a target="_blank" href="https://www.wikiart.org/en/jean-auguste-dominique-ingres">Ingres</a> in his famous orientalist painting, <a target="_blank" href="https://www.wikiart.org/en/jean-auguste-dominique-ingres/the-turkish-bath-1862"><i>The Turkish Bath</i></a> (1862). Essaydi’s counterview emanates from the artist’s own recollections of living in the female quarters of a traditional Muslim home: “My home life was domestic, full of children running through the halls, and moms attending to housework.” Some works in <i>Les Femmes du Maroc</i> reenact and thus reinterpret orientalist “masterpieces” like <a target="_blank" href="https://www.wikiart.org/en/jean-auguste-dominique-ingres/the-grande-odalisque-1814"><i>La Grande Odalisque</i></a> (1814). By appropriating orientalist iconography, Lalla Essaydi lays bare its voyeuristic nature. However, the appropriation also reclaims it as<br>part of her own cultural memory, not only because minoritized subjects internalize stereotypes as w. E. B. du Bois rightly recognized over a hundred years ago<br>in <i>The Souls of Black Folk</i> (1903), but also because orientalist painting captured authentic facets of Islamic culture such as the ornamental artistry of its architecture, ceramics, and textiles. Orientalist art, therefore, constitutes a double signifier for Essaydi.<br>Mirroring her own bicultural vision, it allows her to comment, as both insider and outsider, on Middle Eastern and Western cultures and traditions.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
