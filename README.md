@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/rembrandt/the-syndics.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00135/images/jozef-mehoffer/mehoffer-self-portrait-1897.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Syndics</h2>
+        <h2 class="artwork-name">Self Portrait</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1662
+          Józef Mehoffer
+                    ·  1897
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Sampling Officials (Dutch: De Staalmeesters), also called Syndics of the Drapers' Guild, is a 1662 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/rembrandt">Rembrandt</a>. It is currently owned by the Rijksmuseum in Amsterdam. It has been described as his "last great collective portrait".
-<br>
-<br>The men (with the exception of Bel who is an attendant as indicated by his calotte) are drapers who were elected to assess the quality of cloth that weavers offered for sale to members of their guild. Their one-year terms in office began on Good Friday and they were expected to conduct their inspections thrice weekly. The Dutch word staal means 'sample' and refers to the samples of cloth that were assessed. The inspectors used pliers to press the seals of their city (front) and guild (reverse) into penny-sized slugs of lead that were specially affixed to record the results of the inspection. There were four grades of quality, the highest was indicated by pressing four seals and the lowest by pressing only one.
-<br>
-<br>The men, who are appraising a length of Persian-style fabric against exemplars from a swatch book, are (from left to right):
-<br>
-<br>The guild commissioned this portrait and it hung in their guildhall, the Staalhof (nl), until 1771.
-<br>
-<br>The painting is used on the packaging of Dutch Masters cigars.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a faithful photographic reproduction of a two-dimensional, public domain work of art. The work of art itself is in the public domain for the following reason: <br><br>The author died in 1946, so this work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or less.<br><br>This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1923.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
