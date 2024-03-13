@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/mark-rothko/rothko-chapel-1967.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/norman-rockwell/self-portrait.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Rothko Chapel</h2>
+        <h2 class="artwork-name">Self Portrait</h2>
         <h3 class="artist">
-          Mark Rothko
-                    ·  1967
+          Norman Rockwell
+                    ·  1960
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Rothko Chapel is a non-denominational chapel in Houston, Texas founded by John and Dominique de Menil and opened in 1971. The interior serves not only as a chapel, but also as a major work of modern art. On its walls are fourteen black but color hued paintings by Mark Rothko. The shape of the building, an octagon inscribed in a Greek cross, and the design of the chapel was largely influenced by the artist.
-<br>
-<br>Susan J. Barnes states "The Rothko Chapel...became the world's first broadly ecumenical center, a holy place open to all religions and belonging to none. It became a center for international cultural, religious, and philosophical exchanges, for colloquia and performances. And it became a place of private prayer for individuals of all faiths".
-<br>
-<br>Fourteen of Rothko's paintings are displayed in the chapel. Three walls display triptychs, while the other five walls display single paintings. Beginning in 1964, Rothko began painting a series of black paintings, which incorporated other dark hues and texture effects. A typical question raised by visitors viewing the massive black canvases which adorn the walls of the chapel includes some variant of: "Where are the paintings?" The hue of the paintings vary on the lightning of the moment of the day.
-<br>
-<br>The de Menils offered Rothko a commission for the chapel in 1964. From the fall of 1964 through the spring of 1967, he painted the fourteen large paintings and four alternates, which incorporated many of the characteristics of the earlier 1964 black paintings.
-<br>
-<br>In front of the chapel lies Barnett Newman's sculpture Broken Obelisk.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">One of the works that best shows the relationship between Rockwell's 'mere illustration' art and the high art of museums is his triple self-portrait.<br><br>Attached to the frame of the canvas there are small reproductions of the self-portraits of the great artists of the past: <a target="_blank" href="https://www.wikiart.org/en/albrecht-durer">Durer</a>, <a target="_blank" href="https://www.wikiart.org/en/rembrandt">Rembrandt</a>, <a target="_blank" href="https://www.wikiart.org/en/pablo-picasso">Picasso</a>, <a target="_blank" href="https://www.wikiart.org/en/vincent-van-gogh">Van Gogh</a>. Attached to the top of the easel there is an ancient helmet that Rockwell bought in Paris as if to affirm, together with the painters present, his relation to the art of the past.<br><br>Rockwell presents us with a triple image of himself: as the painter at work shown from behind, as a portrait on the canvass, and as a reflection in the mirror decorated with a large American eagle that holds the US flag in its claws. As if to say: my art is a reflection of America, and all of America is reflected in my illustrations. <br><br>The portrait on the canvass is a large, serene, likable face. It is drawn in black and white, like the first Rockwell magazine covers were drawn, symbolizing the return to the beginning of his art. The artist puts before our eyes what he has done for his whole life: at the end of his artistic production, he puts himself on the cover of the <i>The Saturday Evening Post</i>.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
