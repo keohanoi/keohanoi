@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/willem-de-kooning/seated-woman.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00123/images/jean-francois-millet/pl1-37905-fnt-tr-t99iv.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seated Woman</h2>
+        <h2 class="artwork-name">The Sower</h2>
         <h3 class="artist">
-          Willem de Kooning
-                    ·  1940
+          Jean-Francois Millet
+                    ·  1865
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Seated Woman' originated from a portrait commission and features Elaine Fried, who frequently modeled for de Kooning at the time. Her auburn-colored hair is visible in the painting, where she is portrayed wearing a low-cut yellow dress and seated on a chair with one leg crossed over the other. One of her arms rests in her lap, while the other seems to bend towards her face, but without a hand attached. Curator John Elderfield notes that her body parts appear more like disconnected shapes that float around her body. De Kooning explained in the 1950s that he reduced body parts to interchangeable shapes, like spots of paint or brushstrokes, due to the challenges he faced in painting them.<br><br>The painting reveals de Kooning's artistic influences, such as the fractured form of the figure reminiscent of Picasso and the erasures and unfinished quality similar to <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/the-artist-with-his-mother-1936">Arshile Gorky's 'The Artist and his Mother'</a>. The background, scraped down multiple times to create a smooth surface, contains oranges, greens, and blues that hint at Cubist space and Mondrian's Neo-Plastic paintings. The squares in the painting also suggest the artist's studio walls, covered with various canvases tacked and piled against them. Seated Woman can be viewed as a companion piece to a series of paintings of seated men, and it marked de Kooning's first significant painting of a woman, a subject he would frequently return to over the years.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Millet first gained widespread notoriety with his iconic image of a sower shown at the 1850/51 Paris Salon. In this pastel version, he integrates the sower into the landscape around Barbizon with a harrower, a flock of crows, and the tower of Chailly visible in the distance. Millet built up his composition with a network of black chalk lines before adding his pastels.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
