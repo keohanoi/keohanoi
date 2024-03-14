@@ -2,29 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/hans-memling/st-john-altarpiece-1479.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/rembrandt/the-raising-of-lazarus-1630.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. John Altarpiece</h2>
+        <h2 class="artwork-name">The Raising of Lazarus</h2>
         <h3 class="artist">
-          Hans Memling
-                    ·  1479
+          Rembrandt
+                    ·  1630
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The St John Altarpiece (sometimes the Triptych of the two Saints John or the Triptych of St John the Baptist and St John the Evangelist) is a large oil-on-oak hinged-triptych altarpiece completed around 1479 by the Early Netherlandish master painter <a target="_blank" href="/en/hans-memling">Hans Memling</a>. It was commissioned in the mid-1470s in Bruges for the Old St. John's Hospital (Sint-Janshospitaal) during the building of a new apse. It is signed and dated 1479 on the original frame – its date of installation – and is today at the hospital in the Memling museum.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Raising of Lazarus is an oil-on-panel painting by the Dutch artist <a target="_blank" href="/en/rembrandt">Rembrandt</a> from early in his career; it was probably painted in the late 1620s, or according to the owning institution, between 1630 and 1632. The work depicts the Raising of Lazarus as told in the Gospel of John, Chapter 11. It is in the collection of the Los Angeles County Museum of Art.
 <br>
-<br>The altarpiece consists of five paintings&nbsp;– a central inner panel and two double-sided wings. Those on the reverse of wings are visible when the shutters are closed, and show the hospital donors flanked by their patron saints. The interior has a central panel with the enthroned Virgin and Child flanked by saints; the left wing features episodes from the life of John the Baptist with emphasis on his beheading; the right wing shows the apocalypse as recorded by John the Evangelist, pictured writing on the island of Patmos.
+<br>The painting shows the moment Lazarus re-awakens from death and rises from his tomb as Christ calls him. Lazarus is in the darker half of the painting while the figures at left are far more illuminated than he. Mary and those assembled look on in amazement as Lazarus comes to life. The painting depicts a parable of spiritual life, the miracle of the hardened sinner receiving first grace (sorrow for sins committed in order to seek penitence and redemption).  Rembrandt used chiaroscuro (contrasts of light and dark) in this painting, with the dark interior of the burial cave and the limited torchlight focusing the attention of the viewer and giving the figures impact. This is one of relatively few religious subjects from the New Testament that Rembrandt painted, though there are many such prints.
 <br>
-<br>St John Altarpiece is one of Memling's more ambitious works, and shares near-identical scenes with two other works: the Donne Triptych, in London's National Gallery, and the Virgin and Child with Saints Catherine of Alexandria and Barbara, in the Metropolitan Museum of Art, New York.
+<br>Rembrandt painted The Raising of Lazarus early in his career, while he was still in Leiden, and not long after his apprenticeship under Pieter Lastman, whose influence is clear. Rembrandt made two etchings on the same subject but with differing compositions, one in approximately 1632 and another in 1642 (see gallery below). The 1632 etching shows a different point of view while the 1642 etching shows different figures in the cave. The 1642 etching also depicts Christ as more of a healer, rather than the enchanter of this work. (Sister Wendy Beckett opines that Jesus is portrayed in this work as a weary magician rather than a triumphant savior.) The subject of this painting may draw on an undated <a target="_blank" href="/en/jan-lievens">Jan Lievens</a> etching of the same name. Lievens and Rembrandt were friends and probably worked together. The composition of the painting may derive from a drawing by Rembrandt from the same time as the Burial of Christ. Rembrandt would most closely imitate Raising of Lazarus with his 1635/1639 painting The Resurrection. The placement of the figures is similar and a study of drawings indicates that the latter was developed from the former.
 <br>
-<br><a target="_blank" href="/en/hans-memling">Hans Memling</a> purchased citizenship in Bruges in late January 30, which suggests he was a recent arrival to the city. He probably came from Brussels where he had been apprenticed to <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>. In Bruges he established himself as a painter fairly quickly. Although it appears he was absent from the city for Charles the Bold and Margaret of York's extravagant 1468 wedding celebration, art historian James Weale speculates Memling might have gone to England to execute a bridal portrait, commissioned either by Charles the Bold or his father Philip the Good. According to Weale, Memling's position in Bruges was secured by the Dukes of Burgundy.
-<br>
-<br>Old St. John's Hospital (Sint-Janshospitaal) was one of four public hospitals in the city; one took in lepers, one paupers, and two – including St John's – treated men, women and children. Established in the late 12th century, it was dedicated to John the Evangelist; at an unknown later date the dedication was extended to include John the Baptist. The Bruges civic authorities financed the hospital and oversaw its direction until the 1440s when a fiscal crisis caused them to decrease funding and increase their supervision. At that time, the hospital brothers and sisters placed themselves under the authority of the Bishop of Tournai, Jean Chevrot, and directly aligned themselves with Philip the Good on whose council Chevrot sat. By the 1470s the hospital masters and bursars not only averted bankruptcy, but accrued a surplus to spend on expansion.
-<br>
-<br>The altarpiece was probably commissioned in the mid-1470s for the new apse, and almost certainly completed in 1479. The central frame is inscribed in Latin and reads; OPUS. IOHANNES MEMLING. ANNO. M. CCCC. LXXIX, The date gives clues to the donors on the exterior panels; and because one died in 1475, scholars are confident in a start date before that year. Memling probably began work on the piece as early as 1473, when plans were made to extend the already large 240-bed infirmary, which, with two patients per bed, served about 500 people. As at the Hospices de Beaune, patients in Sint-Janshospitaal could follow the Liturgy of the Hours from their beds.</span>
+<br>Raising of Lazarus was owned by Rembrandt for most of his life; it was sold in his bankruptcy sale in 1656. It was inventoried as being hung in Rembrandt’s anteroom. The painting passed through various owners in Europe until it was bought by Howard F. Ahmanson, Sr. in 1959 and then donated to the LA County Museum of Art.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
