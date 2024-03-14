@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/edward-hopper/office-at-night.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/berthe-morisot/young-girl-in-a-ball-gown-1879.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Office at Night</h2>
+        <h2 class="artwork-name">Young girl in a ball gown</h2>
         <h3 class="artist">
-          Edward Hopper
-                    ·  1940
+          Berthe Morisot
+                    ·  1879
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 'Office at Night', the light comes from three sources: an overhead light, the lamp on the man's desk, which sheds a small puddle of intense light, and from a street-light shining in the open window on the right-hand side. Hopper reported that the overlap of the light from the ceiling fixture and the light from the exterior created particular technical difficulties, since they required him to use different shades of white to convey the idea of degrees of shadow. A careful examination of the corner behind the woman reveals the faint shadow that she casts in the weak light of the ceiling fixture, almost lost by the sharply-etched shadow of the filing cabinet in the brighter light of the street lamp.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Berthe Morisot's painting of an unidentified young woman in a ball gown displays her versatility as an artist. The background, loosely defined floral patterns, and the trimmings on the woman's dress contribute to the highly dynamic feel of the painting. According to Peter J. Gärtner, the dense vegetation serves as a protective shield, shutting out the external world and safeguarding the young woman's innocence and beauty. This intimate connection between the viewer and the sitter is further enhanced by the enclosed background and tight angle.<br><br>The painting's lengthy, unkempt brushwork is a characteristic feature of Morisot's late 1870s work, which creates a "vibration of color and light" that was previously unseen in her paintings, as noted by Nathalia Brodskaia. The painting invites comparison to Mary Cassatt's Woman with a Pearl Necklace in a Loge, painted in the same year, which features a similarly attired woman seated in an upper-level box at the Paris Opera. Cassatt's painting explores the intersection of public and private spaces and the power of 19th-century women to command a public persona. In contrast, Morisot's subject appears apprehensive and distracted, as if she is waiting for someone before leaving the unknown event. The dynamic brushwork underscores the uncertain nature of both the woman's thoughts and the overall scene.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
