@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/william-baziotes/the-room-1945.jpg"
+        src="https://uploads6.wikiart.org/images/hieronymus-bosch/the-concert-in-the-egg-1480.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Room</h2>
+        <h2 class="artwork-name">The Concert in the Egg</h2>
         <h3 class="artist">
-          William Baziotes
-                    ·  1945
+          Hieronymus Bosch
+                    ·  1480
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Baziotes makes allusions in his paintings to the external world of objects, but these remain elusive and changeable. He usually added his titles after the compositions had emerged through intuitive decisions. Although the titles do not identify subject matter, they nevertheless guide interpretation. Thus, the title of the present work may encourage one to experience the mood of an interior space illuminated by diffused twilight. An atmosphere of nostalgic reverie is evoked by scumbled, weathered layers of gouache in which pastel colors predominate. Unlike Baziotes's most characteristic works, in which biomorphic shapes float freely on an indefinite background, The Room (1945) is constructed architectonically. The gridded structure derives from Piet Mondrian and the Cubists, models for Baziotes before his encounter with the Surrealists. (Lucy Flint)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Concert in the Egg is a painting formerly considered to be a copy of a lost work by <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a>, and which is currently considered to be based on one of his drawings. Max Jakob Friedländer called it 'an old copy', without specifying another work it was copied from.
+<br>
+<br>The group of singers form the "yolk" of the egg, which symbolizes "fool" as in "yokel". The eel resembles a form of beer (ale). The scene is reminiscent of the similar Ship of Fools. One of the singers is so intent on his song (pointing towards the book) that he doesn't notice that he is being robbed by the lute player.
+<br>
+<br>Modern attribution of the painting (to an as yet anonymous follower of Bosch) was based on an analysis of the music in the open book, which shows notes by Thomas Crecquillon from 1549. The work was bought in 1890 for 400 francs by the Palais des Beaux-Arts de Lille from Morhange, a parisian art dealer. It was featured with the Dutch title Zangers en musici in een ei in an exhibition in 2008 at the Noordbrabants Museum, 's-Hertogenbosch.
+<br>
+<br>Possible models:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
