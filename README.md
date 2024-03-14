@@ -2,22 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00142/images/57726d7cedc2cb3880b47b1a/caravaggio-medusa-google-art-project.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00246/images/donatello/saint-george.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Medusa</h2>
+        <h2 class="artwork-name">Saint George</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1597
+          Donatello
+                    ·  1417
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Caravaggio (1571-1610) painted two versions of the Head of Medusa. The first in 1596 and the other presumably in 1597/8. The first version also known as Murtula, due to the poet who wrote about it (48x55 cm) is signed Michel A F, (Michel Angelo Fecit) and was found on the painter’s studio only after his dead. Nowadays it belongs to a private collection whilst the second version, slightly bigger (60 x 55 cm) is not signed and it is in the Uffizi Gallery, in Florence. 
-<br>The “Head of Medusa” executed by Caravaggio, in 1598, was commissioned as a cerimonial shield by Cardinal Francesco Maria Del Monte, the Medici family’s agent in Rome, after seeing, on the painters studio, the first version – The Metula painting. The purpose of this commissioned was to symbolize the Grand Duke of Tuscany's courage in defeating his enemies. For its subject matter, Caravaggio drew on the Greek myth of Medusa, a woman with snakes for hair who turned people to stone by looking at them. 
-<br>Medusa was a Gorgon monster, a terrifying female creature from the Greek Mythology. While descriptions of Gorgons vary across Greek literature, the term commonly refers to any of three sisters who had hair of living, venomous snakes, and a horrifying visage that turned those who beheld it to stone. Traditionally, while two of the Gorgons were immortal, Stheno and Euryale , their sister Medusa was not, and was slain by the mythical hero Perseus, the legendary founder of Mycenae and of the Perseid dynasty. According to the story, she was killed by Perseus, who avoided direct eye contact by using a mirrored shield. After Medusa’s death, her decapitated head continued to petrify those that looked at it. 
-<br>Caravaggio plays with this concept by modeling himself for Medusa’s face – making him the only one who is safe from Medusa’s dedly gaze – and having to look at his reflection to paint the shield in the same way that Medusa caught her own image moments before being killed. Although Caravaggio depicts Medusa’s severed head, she remains conscious. He heightens this combination of life and death through Medusa’s intense expression. Her wide-open mouth exudes a silent but dramatic scream and her shocked eyes and furrowed brow all suggest a sense of disbelief, as if she thought herself to be invincible until the moment. But Caravaggio’s Medusa does not have the full effect of scaring the viewer, since she does not look at us, thereby transferring the power of the gaze to the viewer and emphasizing her demise. Caravaggio displays huge technical achievements in this work by making a convex surface look concave and Medusa’s head appear to project outward.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St George is a marble sculpture by <a target="_blank" href="/en/donatello">Donatello</a>. It is one of a cycle of fourteen statues of protectors of the arts of Florence. They were sited in external niches on the facade of the Orsanmichele church. The St George was commissioned by the 'Arte dei Corazzai e Spadai' corporation. It was too big for its niche, leaving it exposed to the north, and so in the 19th century it was moved into the more sheltered tabernacle of the Madonna della Rosa, left empty since 1628 after that work was moved into the church. <br>
+<br>
+<br>A stone thrown at the sculpture in 1858 broke its nose and so since 1891 it has instead been placed in the Bargello Museum in Florence. From 1892 to 2008 a bronze replica was placed in its original niche, to be replaced by a marble replica on 23 April 2008. The original sculpture was stolen from the Villa Medici in Poggio a Caiano, but in May 1945 it was recovered by Frederick Hart in Neumelans and returned to Italy on 20 July 1945. The box base was added back onto the statue in 1976.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
