@@ -2,31 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00129/images/caravaggio/martha-and-mary-magdalene.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/frans-hals/banquet-of-the-officers-of-the-st-george-civic-guard-company-detail.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Martha and Mary Magdalene</h2>
+        <h2 class="artwork-name">Banquet of the Officers of the St. George Civic Guard Company</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1598
+          Frans Hals
+                    ·  1616
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Martha and Mary Magdalene (c. 1598) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>. It is in the Detroit Institute of Arts. Alternate titles include Martha Reproving Mary, The Conversion of the Magdalene and the Alzaga Caravaggio.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Banquet of the Officers of the St George Militia Company in 1616 refers to the first of several large schutterstukken painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.<br>
 <br>
-<br>Caravaggio's Martha and Mary is dated to 1598–99, when he was in the entourage of Cardinal Francesco Maria Del Monte. Little is known of its history between those years and 25 June 1971, when its owners attempted to sell it at Christie's in London (lot 21). It remained unsold at 130,000 guineas, despite the confidence of the restorer Juan Corradini of Buenos Aires. Later converts were Benedict Nicolson and Mina Gregori (as late as January 1974). Today it is generally considered an autograph work. It was acquired by the Detroit Institute of Art in 1973.
+<br>Hals was in his thirties when he painted this piece, and was far from established as a portrait painter. To be safe, he based most of his design on the painting of his predecessor, Cornelis Cornelisz van Haarlem, who painted the same militia company in 1599. <br>
 <br>
-<br>It is thought that the painting was originally in the collection of Caravaggio's patron Ottavio Costa. His will of 6 August 1606, contains a painting by this description and states that Riggerio Tritonio, secretary of Cardinal Montalto, is to choose between the Martha and Mary and a Saint Francis; the painting not selected was to go to Costa's friend and colleague Giovanni Enriquez de Herrera. Since the Saint Francis later appears in the inventory of Tritinio, it has been assumed that the Martha and Mary passed to Herrera, probably in late 1606.
+<br>Given a nearly impossible task, namely to complete his assignment but to add theatrical elements at the same time, Hals must have spent lots of time judging the politics of the group. He knew these men well as he served in the St. Joris militia himself from 1612–1615. In his painting, he indicates the political position of each man in the group as well as managing to give each a characteristic portrait. In Cornelis van Haarlem's piece the figures seem crammed into a tight space, and each face seems to have a similar expression. In Hals' group, an illusion of space and relaxed conversation is given.<br>
 <br>
-<br>Giovanni Enriquez de Herrera died on 1 March 1610, without a will, thus leaving his four sons to decide on the fate of his possessions. It has been speculated that it remained in Rome until the 1620s, but the only firm evidence for its provenance after the Herrera family is a seal and inscriptions on the back of the original canvas with the names Niccolò Panzani, Emilia Panzani and Anna E. Panzani. This family has not been traced.
+<br>Officers were selected by the council of Haarlem to serve for three years, and this group had just finished their tenure and celebrated their end of service with a portrait. The man with the orange sash heads the table and the second in command is on his right. The three ensigns stand and the servant is carrying a plate.<br>
 <br>
-<br>Since its rediscovery, its influence has become apparent, most notably in the number of copies, a now lost work by Carlo Saraceni and a well known version by <a target="_blank" href="/en/orazio-gentileschi">Orazio Gentileschi</a>, today in Munich.
+<br>The men featured are from left to right Provost Johan van Napels, Colonel Hendrick van Berckenrode (wearing the orange sash), Captain Jacob Laurensz, Ensign Jacob Cornelisz Schout (holding the flag), Captain Vechter Jansz van Teffelen, Lieutenant Cornelis Jacobsz Schout, Lieutenant Hugo Mattheusz Steyn, a servant (standing in the back), Ensign Gerrit Cornelisz Vlasman, and Ensign Boudewijn van Offenberg. In the foreground seated in front of the table are Captain Nicolaes Woutersz van der Meer, and Lieutenant Pieter Adriaensz Verbeek.<br>
 <br>
-<br>The painting shows the sisters Martha and Mary from the New Testament. Martha is in the act of converting Mary from her life of pleasure to the life of virtue in Christ. Martha, her face shadowed, leans forward, passionately arguing with Mary, who twirls an orange blossom between her fingers as she holds a mirror, symbolising the vanity she is about to give up. The power of the image lies in Mary's face, caught at the moment when conversion begins.
+<br>Besides portraying the men and the group dynamics, this painting shows off the Haarlem damast tablecloth, brocade pillows on the chairs and the halberds hanging on the wall. It also displays Hals' talents as a painter: Portraiture, Still life, and Landscape.<br>
 <br>
-<br>Martha and Mary was painted while Caravaggio was living in the palazzo of his patron, Cardinal Del Monte. His paintings for Del Monte fall into two groups: the secular genre pieces such as The Musicians, The Lute Player, and Bacchus - all featuring boys and youths in somewhat claustophobic interior scenes - and religious images such as Rest on the Flight into Egypt and Ecstasy of Saint Francis. Among the religious paintings was a group of four works featuring the same two female models, together or singly. The models were two well-known courtesans who frequented the palazzi of Del Monte and other wealthy and powerful art patrons, and their names were Anna Bianchini and Fillide Melandroni. Anna Bianchini appeared first as a solitary Mary Magdalene in the Penitent Magdalene of about 1597. Fillide Melandroni appeared in a secular Portrait of a Courtesan done the same year for Del Monte's friend and fellow art-lover, the banker Vincenzo Giustiniani. In 1598 Caravaggio painted Fillide again as Saint Catherine, capturing a beauty full of intelligence and spirit. In Martha and Mary the two are shown together, Fillide perfectly fitted to the role of Mary, Anna to the mousier but insistent presence as Martha.</span>
+<br>The painting may have been painted on location, as Frans Hals lived in the Peuzelaarsteeg very close to the St. George militia headquarters (St. Jorisdoelen) who commissioned the painting, and managing a canvas of this size would have been a problem in Hals' studio. As an official art restorer employed by the city council, Hals had probably also already worked on paintings there. The premises had previously been the location of the women's convent call the St. Michielsklooster and after the old hall was refurbished in 1577 to house the St. Joris militia, a new hall in renaissance style was built at the north end in 1592.  The paintings by Hals and Cornelis van Haarlem hung in the renaissance building at the corner of the Grote Houtstraat. Today a restaurant, the windows overlook the garden of the Proveniershuis, but in the 17th century this was an area used for target practise.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
