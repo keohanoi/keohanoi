@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/rembrandt/self-portrait-at-the-age-of-34-1640.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00142/images/caravaggio/resurrection-of-lazarus.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-portrait at the Age of 34</h2>
+        <h2 class="artwork-name">Resurrection of Lazarus</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1640
+          Caravaggio
+                    ·  1609
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Self-Portrait at the Age of 34 is a self-portrait by <a target="_blank" href="/en/rembrandt">Rembrandt</a>, dating to 1640 and now in the National Gallery, London. The painting is one of many self-portraits by Rembrandt, in both painting and etching, to show the artist in a fancy costume from the previous century. In this case specific influences in the pose have long been recognised from <a target="_blank" href="/en/raphael">Raphael</a>'s Portrait of Baldassare Castiglione (now Louvre) and <a target="_blank" href="/en/titian">Titian</a>'s A Man with a Quilted Sleeve (in 2017 called Portrait of Gerolamo? Barbarigo) in the National Gallery. Rembrandt saw both of these in Amsterdam, in his day the centre of Europe's art trade, and made a sketch of the Raphael, with its price.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Raising of Lazarus, c. 1609, in the Museo Regionale, Messina, is a painting by the Italian artist <a target="_blank" href="/en/caravaggio">Caravaggio</a> (1571–1610).
 <br>
-<br>He had tried out a similar pose in an etching of 1639, Self Portrait, Leaning on a Stone Wall (B21), looking rather more rakish.
+<br>In August 1608 Caravaggio fled from Malta, where he had been imprisoned for an unknown crime, and took refuge in Sicily with his friend, the artist Mario Minniti. Through Minniti's intercession he procured a number of important commissions, including this for the church of the Padri Crociferi in Messina, where it was presented by the wealthy Genoese merchant Giovanni Battista de' Lazzari on 10 June 1609. The fee was a thousand scudi, more than double any Caravaggio had received previously.
 <br>
-<br>The artist depicted himself at the height of his career, richly dressed and self-secure. It is one of over 40 painted self-portraits by Rembrandt.
+<br>Lazarus, the brother of Martha and Mary, was the patron saint of Giovanni Battista de' Lazzari, to whom Caravaggio was contracted to paint an altarpiece in the church of the Padri Crociferi. The Gospel of John tells how he fell sick, died, was buried and then miraculously raised from the dead by Christ. As in several paintings from this period of Caravaggio's career, the scene is set against blank walls that overwhelm the frieze of human actors. The interaction of the relief of figures caught in corporate effort and emotion, with a large void above, is quite different from the closely focussed individualised dramas of his early and middle periods. As is usual with Caravaggio, light becomes an important element in the drama, picking out crucial details such as Lazarus's hands—one lax and open to receive, the other reaching towards Christ—and the wonder-struck faces of the onlookers.
 <br>
-<br>The scientific analysis of this painting by the scientists at the National Gallery in London revealed the use of the following pigments by Rembrandt: lead white, bone black, charcoal black, ochres and vermilion.
+<br>The old story that Caravaggio had a freshly buried body exhumed for this painting is "probably apocryphal, but not beyond the bounds of possibility" (John Gash, see below). Some of the figures were said to be modelled on members of the community, but Caravaggio has also relied on his memory—the whole design is based on an engraving after Giulio Romano and his Jesus is a reversed image of the Christ who called Matthew to join him in The Calling of Saint Matthew. The painting is in poor condition and much restored, and it's possible that some passages are the work of assistants.
 <br>
-<br> Media related to Self-portrait by Rembrandt (National Gallery, London) at Wikimedia Commons</span>
+<br>According to Francesco Susinno, Caravaggio had produced a first version that he destroyed with a razor after adverse criticism. Subsequently he would have finished in record time the present version, but probably this account is fanciful.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
