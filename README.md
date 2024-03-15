@@ -2,31 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/frans-hals/banquet-of-the-officers-of-the-st-george-civic-guard-company-detail.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/james-mcneill-whistler/nocturne-blue-and-gold-old-battersea-bridge-1875.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Banquet of the Officers of the St. George Civic Guard Company</h2>
+        <h2 class="artwork-name">Nocturne: Blue and Gold – Old Battersea Bridge</h2>
         <h3 class="artist">
-          Frans Hals
-                    ·  1616
+          James McNeill Whistler
+                    ·  1875
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Banquet of the Officers of the St George Militia Company in 1616 refers to the first of several large schutterstukken painted by <a target="_blank" href="/en/frans-hals">Frans Hals</a> for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.<br>
-<br>
-<br>Hals was in his thirties when he painted this piece, and was far from established as a portrait painter. To be safe, he based most of his design on the painting of his predecessor, Cornelis Cornelisz van Haarlem, who painted the same militia company in 1599. <br>
-<br>
-<br>Given a nearly impossible task, namely to complete his assignment but to add theatrical elements at the same time, Hals must have spent lots of time judging the politics of the group. He knew these men well as he served in the St. Joris militia himself from 1612–1615. In his painting, he indicates the political position of each man in the group as well as managing to give each a characteristic portrait. In Cornelis van Haarlem's piece the figures seem crammed into a tight space, and each face seems to have a similar expression. In Hals' group, an illusion of space and relaxed conversation is given.<br>
-<br>
-<br>Officers were selected by the council of Haarlem to serve for three years, and this group had just finished their tenure and celebrated their end of service with a portrait. The man with the orange sash heads the table and the second in command is on his right. The three ensigns stand and the servant is carrying a plate.<br>
-<br>
-<br>The men featured are from left to right Provost Johan van Napels, Colonel Hendrick van Berckenrode (wearing the orange sash), Captain Jacob Laurensz, Ensign Jacob Cornelisz Schout (holding the flag), Captain Vechter Jansz van Teffelen, Lieutenant Cornelis Jacobsz Schout, Lieutenant Hugo Mattheusz Steyn, a servant (standing in the back), Ensign Gerrit Cornelisz Vlasman, and Ensign Boudewijn van Offenberg. In the foreground seated in front of the table are Captain Nicolaes Woutersz van der Meer, and Lieutenant Pieter Adriaensz Verbeek.<br>
-<br>
-<br>Besides portraying the men and the group dynamics, this painting shows off the Haarlem damast tablecloth, brocade pillows on the chairs and the halberds hanging on the wall. It also displays Hals' talents as a painter: Portraiture, Still life, and Landscape.<br>
-<br>
-<br>The painting may have been painted on location, as Frans Hals lived in the Peuzelaarsteeg very close to the St. George militia headquarters (St. Jorisdoelen) who commissioned the painting, and managing a canvas of this size would have been a problem in Hals' studio. As an official art restorer employed by the city council, Hals had probably also already worked on paintings there. The premises had previously been the location of the women's convent call the St. Michielsklooster and after the old hall was refurbished in 1577 to house the St. Joris militia, a new hall in renaissance style was built at the north end in 1592.  The paintings by Hals and Cornelis van Haarlem hung in the renaissance building at the corner of the Grote Houtstraat. Today a restaurant, the windows overlook the garden of the Proveniershuis, but in the 17th century this was an area used for target practise.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Nocturne: Blue and Gold - Old Battersea Bridge is part of Whistler's Nocturnes series, created during the 1870s, which includes etchings, pastels, and paintings depicting London's Thames River at night. The painting portrays Battersea Bridge's pier in the foreground, while the tower of Chelsea Old Church and the newly built Albert Bridge can be seen in the distance. Fireworks appear as dots of color in the sky beyond the bridge. To create these works, Whistler traveled by boat along the river in the early evening, sketching as he went, relying on his memory and rough sketches to produce these thinly painted, atmospheric scenes of serene tranquility.<br><br>Whistler's admiration for the Japanese aesthetic is evident in the painting's composition, which shares similarities with Katsushika Hokusai's Under the Mannen Bridge at Fukagawa, one of Whistler's favorite Ukiyo-e painters. The painting was produced in Whistler's libel suit against John Ruskin as evidence of the artist's successful rendering of an artful impression or memory of a fleeting moment. Whistler argued that the subject matter becomes irrelevant, and the relationship between color and form is of paramount importance.<br><br>The painting was titled "nocturne" after wealthy shipping magnate and patron Frederick Leyland described it as such. It features variations of blues with a golden tinge. Whistler's style of blurring forms and emphasizing subtle tonal differences makes his "nocturnes" among the earliest experiments in abstraction. These works intrigued his Impressionist friends, who were exploring the relationship between different colors, and influenced French composer Claude Debussy, who created an orchestral composition titled Three Nocturnes in 1899.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
