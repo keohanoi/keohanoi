@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00196/images/karl-lessing/1836-lessing-hussitenpredigt-anagoria.JPG!Large.JPG"
+        src="https://uploads7.wikiart.org/00334/images/tania-bruguera/immigrant-movement-international.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Hussite Sermon</h2>
+        <h2 class="artwork-name">Immigrant Movement International</h2>
         <h3 class="artist">
-          Karl Lessing
-                    ·  1836
+          Tania Bruguera
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Hussite Sermon (German - Die Hussitenpredigt) is a painting by the Düsseldorf-based painter <a target="_blank" href="/en/karl-lessing">Carl Friedrich Lessing</a>, showing an open-air sermon being delivered by a Hussite preacher in the 15th century. It is now in the Alte Nationalgalerie in Berlin.<br>
-<br>
-<br>In 1834 Crown Prince Frederick William of Prussia saw an oil sketch on the subject by Lessing in 1834 and commissioned him between 1835 and 1836 to produce a full-scale version. The mainly-Catholic Rhineland had recently been annexed to the Protestant-dominated Kingdom of Prussia by the Congress of Vienna and so the work was seen as a piece of anti-Catholic propaganda for the area's Protestant minority. In the context of the Restoration of the German princes to their thrones and the Vormärz, others also saw it as a criticism of the repressiveness of the states and systems put in place by Metternich and the Congress. Middle-class audiences saw it as an expression of opposition to kingly and church authority alike. It was briefly exhibited in Germany and Paris, spreading the reputation of the Düsseldorf school of painting.<br>
-<br>
-<br><br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Artist statement: "Tania Bruguera's Immigrant Movement International, presented by Creative Time and the Queens Museum of Art, is a Long-Term art project in the form of an artist initiated socio-political movement. Bruguera will spend a year operating a flexible community space in the multinational and transnational neighborhood of Corona, Queens, which will serve as the movement's headquarters.<br><br>Engaging both local and international communities, as well as working with social service organizations, elected officials, and artists focused on immigration reform, Bruguera will examine growing concerns about the political representation and conditions facing immigrants. As migration becomes a more central element of contemporary existence, the status and identity of those who live outside their place of origin increasingly become defined not by sharing a common language, class, culture, or race, but instead by their condition as immigrants. By engaging the local community through public workshops, events, actions, and partnerships with immigrant and social service organizations, Immigrant Movement International will explore who is defined as an immigrant and the values they share, focusing on the larger question of what it means to be a citizen of the world. Bruguera will also delve into the implementation of art in society, examining what it means to create Useful Art, and addressing the disparity of engagement between informed audiences and the general public, as well as the historical gap between the language used in what is considered avant-garde and the language of urgent politics."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
