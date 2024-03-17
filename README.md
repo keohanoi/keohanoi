@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/morris-louis/partition-1962.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/hieronymus-bosch/the-garden-of-earthly-delights-1515-7.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Partition</h2>
+        <h2 class="artwork-name">The Garden of Earthly Delights</h2>
         <h3 class="artist">
-          Morris Louis
-                    ·  1962
+          Hieronymus Bosch
+                    ·  1515
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Partition is one of Louis' so-called Stripe series, all executed in the last months of his life. The vertical stripes evoke Barnett Newman's zip paintings, and, like Newman's work, these canvases are highly systematic and devoid of the painter's own expressive gesture. In these final works, Louis took the simplification of color and form to its extreme end, though he still exhibits interest in optical effects of color relationships and the fusing of paint and ground through his incorporation of the raw canvas into the composition. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">By far the best known and most ambitious work, The Garden of Earthly Delights illustrates Bosch’s individual artistic style, containing the most vivid imagery and complexity of symbolic meaning. The triptych is generally thought to be a warning of the dangers of giving in to temptation, but has been subject to vast amounts of conjecture and scrutiny, and critics and historians are split in two directions. Whereas some believe that the middle panel, which depicts a fantastical world of nudes in sexual engagement, large fruits, and other suggestive elements, is simply an illustration of paradise lost, others believe that it is a moral warning, which will lead you to hell, as it is depicted in the third panel of the series. Although there are many contradictory explanations, it is generally thought to be a warning against lust, one of the seven deadly sins. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
