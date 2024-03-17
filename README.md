@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/sofonisba-anguissola/lucia-minerva-and-europa-anguissola-playing-chess-1555.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/ford-madox-brown/lear-and-cordelia(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lucia, Minerva and Europa Anguissola Playing Chess</h2>
+        <h2 class="artwork-name">Lear and Cordelia</h2>
         <h3 class="artist">
-          Sofonisba Anguissola
-                    ·  1555
+          Ford Madox Brown
+                    ·  1848
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Possibly Anguissola's most recognisable work, The Chess Game is an intimate insight into the domestic, female world of sixteenth century Italy. Three young girls can be seen playing chess in the foreground, while an older woman, perhaps the Anguissola family's maid, is sitting behind them and watching their game. On the left, the artist's younger sister, Elena, gazes calmly towards the viewer while her hands indicate that she has just defeated her sister who sits on the right. Minerva, with her hand raised in defeat and disbelief, gazes with parted lips at the conqueror. The youngest girl, Europa, stands beside Elena and grins cheekily at the despondent loser. Her laughing expression recalls the drawing of the laughing girl in Boy Bitten by a Crawfish that Michelangelo had so admired, and perhaps this was Anguissola's sly way of immortalising her praised work. The painter has masterfully captured the details in the elaborate clothing of her sisters, using her pigments to highlight the braids wrapped around their heads, or the ruffled collars under their chins.<br><br>Through her paintbrush Anguissola has transformed a mundane, everyday interaction between sisters into drama. She used the scene to depict a number of artistic genres and skills including landscapes, fabric textures, and the human face at different stages of life, perhaps to highlight the scope of her talent. The landscape and detail on the oak tree behind the girls display her skill at depicting flora, while the chessboard and table with its Turkish carpet that butts up against the frame and into the viewer's space is not only showcasing her power in depicting still life but also seems to have influenced the later painter, Caravaggio, who often used jutting elbows, table corners and dirty feet to protrude into his audience's space.<br><br>As a woman in Renaissance Italy, it was thought to be too indecent for her to study the naked human form from life, and so the grander historical paintings or Biblical portraits such as St Sebastian, Adam and Eve or the death of Caesar were considered too racy. Thus, many of Anguissola's earlier work focuses on family members and self-portraits. But, like in this case, the subject is often given an unexpected dimension: her sisters here play a game of skill and strategy that hints at their intellectual potential.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the first of three paintings by Brown that illustrate scenes from Shakespeare's tragedy King Lear. All three pictures are based on a series of pen and ink sketches produced during a trip to Paris in 1843-4. On 2 May 1848 Brown saw William Charles Macready (1793-1873) in a production of the play, and began work on this picture in November of the same year.
+<br>The painting illustrates Act IV, Scene VII from the play. Brown used models for most of the figures, but the head of Lear was inspired by 'a cast of Dante's and a drawing of Coulton' . He used his favourite model, Maitland, for the soldiers on the right, and his new pupil and friend, Dante Gabriel Rossetti, for the fool, who holds Lear in his sinister stare. He modelled the head of Cordelia on his own wife-to-be, Emma, but the hands were those of a professional model, Mrs Ashley. In order to render the spirit of Shakespeare's play, he chose to dress his figures in the costume of the 6th century when, according to Brown himself, as noted in his 1865 catalogue, 'paganism was still rife, and deeds were at their darkest.' Behind Lear's head he includes a detail from on of the main scenes in the Bayeux Tapestry.
+<br>The picture was first shown at the Free Exhibition in 1849, where it was well received, but remained unsold. Brown continued to work on the picture intermittently until 1854, when it was bought by John Seddon the architect for 15 guineas.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
