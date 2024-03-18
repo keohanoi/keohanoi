@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/francis-bacon/landscape-near-malabata-tangier-1963(1).jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/pietro-longhi/a-fortune-teller-at-venice.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Landscape near Malabata, Tangier</h2>
+        <h2 class="artwork-name">A Fortune Teller at Venice</h2>
         <h3 class="artist">
-          Francis Bacon
-                    ·  1963
+          Pietro Longhi
+                    ·  1756
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">On the opening day of Bacon's first major retrospective at the Tate Gallery, amidst telegrams of congratulation, one message informed him of the death of Peter Lacy in Tangier. He had parted company with Lacy some years before, and his death from drink had not been difficult to predict, yet Bacon was nonetheless deeply affected. In 1963 he painted the dark and ambiguous Landscape near Malabata, Tangier in memory of Lacy’s final resting place.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In Venice during the 1750’s showmen and quacks would erect booths at the foot of the Doge’s Palace, under the lower outside arcade, usually at a carnival. In this painting, a woman gets her palm read, as some onlookers stand by, and a man wearing a mask stands behind her. An interesting note, almost half of the men in Longhi’s genre paintings were outfitted with the same Venetian carnival masks. This painting also includes two inscriptions, one relating to the Doge Francesco Loredan (1685-1762), who was the Doge at the time of the painting, and the other relating to a vacancy for the parish priest.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
