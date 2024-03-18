@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/christopher-wood/church-at-tr-boul-1930.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00154/images/allan-ramsay/image1.jpeg!Large.jpeg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Church at Tréboul</h2>
+        <h2 class="artwork-name">Rosamund Sargent, née Chambers</h2>
         <h3 class="artist">
-          Christopher Wood
-                    ·  1930
+          Allan Ramsay
+                    ·  1749
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wood spent June and July 1930 painting in Brittany, basing himself in Tréboul, close to Douarnenez. This area was popular with both British and French painters and was close to Pont-Aven, which had been made famous by Gauguin whose work, together with that of Van Gogh, was important to Wood. In the space of forty days Wood painted some sixty canvases both from life and, at night, from postcards, mostly depicting scenes from the daily lives of the fishing community. Moving from the depiction of boats to architecture he claimed helped him to paint a 'quieter composition'.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Allan Ramsay came from Edinburgh. After studying in Italy he settled in London, where his polished but intimate style of portraiture was much admired. In 1749 Ramsay made a pair of portraits to celebrate the marriage of his friends John Sargent and Rosamund Chambers. This portrait of Rosamund is unusual for the bold directness of her gaze and strong lighting from the left. Its intimacy and informality recall Horace Walpole’s words: Ramsay ‘was formed to paint women’.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
