@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00315/images/artemisia-gentileschi/artemisia-gentileschi-judith-and-her-maidservant-with-the-head-of-holofernes-52-253-detroit.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/francis-bacon/landscape-near-malabata-tangier-1963(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Judith and Her Maidservant with the Head of Holofernes</h2>
+        <h2 class="artwork-name">Landscape near Malabata, Tangier</h2>
         <h3 class="artist">
-          Artemisia Gentileschi
-                    ·  1624
+          Francis Bacon
+                    ·  1963
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"><b>Judith and Her Maidservant</b> is one of four paintings by the Italian baroque artist Artemisia Gentileschi that depicts the biblical story of Judith and Holofernes. This particular work, executed in about 1623 to 1625, now hangs in the Detroit Institute of Arts. The narrative is taken from the deuterocanonical <i>Book of Judith</i>, in which Judith seduces and then murders the general Holofernes. This precise moment illustrates the maidservant Abra wrapping the severed head in a bag, moments after the murder, while Judith keeps watch. The other three paintings are now shown in the Museo di Capodimonte in Naples, the Palazzo Pitti in Florence, and the Musee de la Castre, Cannes.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">On the opening day of Bacon's first major retrospective at the Tate Gallery, amidst telegrams of congratulation, one message informed him of the death of Peter Lacy in Tangier. He had parted company with Lacy some years before, and his death from drink had not been difficult to predict, yet Bacon was nonetheless deeply affected. In 1963 he painted the dark and ambiguous Landscape near Malabata, Tangier in memory of Lacy’s final resting place.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
