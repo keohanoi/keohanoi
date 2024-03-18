@@ -2,28 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/auguste-herbin/nude-1960.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00307/images/mierle-laderman-ukeles/word-image-42.jpeg!Large.jpeg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Nude</h2>
+        <h2 class="artwork-name">Dress to Go Out/Undressing to Go In</h2>
         <h3 class="artist">
-          Auguste Herbin
-                    ·  1960
+          Mierle Laderman Ukeles
+                    ·  1973
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This picture, like all Herbin's late works, was painted according to the system which he set out in his book L'Art Non-Figuratif Non-Objectifpublished in 1949; it was based on correspondences between colours, forms, letters of the alphabet and musical notes. His practice was to take the letters of a word such as 'mer', 'non' or 'midi' as his starting-point for a completely abstract composition. In the case of 'NUE' (which Denise Rene says should be translated 'nude' and not 'cloud'):
-<br>
-<br>N = white any kind of form = do, re, mi, fa, sol, la, si
-<br>U = blue = hemispherical forms = sol, la
-<br>E = red = spherical forms = do
-<br>Thus the colours used are blue, red and white, with the addition of black, which according to his theory can accompany any kind of form. There are four semi-circular patches of blue and a circular disc of red (plus single triangles of blue and red). His last works of 1960 also included a picture entitled 'NU', executed in blue, white and black, without any red.
-<br>
-<br>This gouache was one of a series made to be reproduced in an album of 12 screenprints, which was published posthumously under the title 'Herbin', and was also used as the design for a tapestry woven at Aubusson. There is a second, later gouache still in the artist's estate from which he executed an oil painting called 'NUE', which is dated 1960 and measures 92 x 73cm (coll. Mr and Mrs Paul M. Hirschland, New York). The oil includes a broader and longer white band across the centre, a much longer vertical white band on the left (stretching almost from top to bottom of the composition), and slightly smaller circles of colour. According to Denise René, Herbin always painted one, two or three gouaches first and then the oils. However, they were never entirely similar works. He usually painted several variants of the same theme either in gouache or oils (letter of 18 July 1973).
-<br>
-<br>Although Herbin died on 31 January 1960, there are various other oil paintings and gouaches dated 1960. Mme René explained: 'At that time, he was working feverishly for the preparation of an exhibition in the United States and as he only signed his paintings once they were varnished, the number of paintings signed during that month is not at all surprising. Unfortunately, on January 31st, he was struck by a heart attack and met his untimely death. The United States exhibition was, as a consequence, cancelled. The only work unsigned is an unfinished painting in black and white whose theme was constructed on the word "FIN", incredible coincidence. Now, the gouache "FIN" on the same theme is signed and very colourful.' (Ronald Alley, Catalogue of the Tate Gallery's Collection..., 1981)</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Expanding on her <a target="_blank" href="https://www.wikiart.org/en/mierle-laderman-ukeles/manifesto-for-maintenance-art-1969-1969"><i>Maintenance Art Manifesto</i></a>, Ukeles began exploring maintenance as art by documenting her labor in the home and as a mother, including everyday, repetitive tasks like cleaning a dirty diaper or dressing her children to leave the house. By elevating domestic tasks to the realm of art, she brought attention to the importance and difficulty of domestic labor and the work of motherhood.<br><br>This series of photographs provides a moment-to-moment account of the task of dressing and undressing the artist's children, four-and-a-half-year-old Yael, and two-and-a-half-year-old Raquel, in shoes, jackets, and scarves. There is a hurried quality to the sequence, which demonstrates the painstaking, repetitive, invisible work of being a mother as well as the intimacy that exists within her family. Art historian and cultural theorist, Andrea List, writes that "the beautiful interplay of bodies touching, intertwining, and moving apart subtly describes the intersubjective knowledge of a mother who is in the act of working out how much of her own presence and support to give to the ever-changing development of her children ."<br><br>In this work, Ukeles uses black and white, artistic photography techniques to show us her everyday life as a mother. The careful and creative, but repetitive and exhausting work she does in looking after her children is very similar to the kinds of work that artists do, and these photographs tell us this by using the serious, somber black and white colors, composition, and display we usually see in galleries and not family photo albums.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
