@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00380/images/nicolas-poussin/autumn-nicolas-poussin.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/pauline-boty/the-only-blonde-in-the-world-1963.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Autumn (The Spies with the Grapes of the Promised Land)</h2>
+        <h2 class="artwork-name">The Only Blonde in the World</h2>
         <h3 class="artist">
-          Nicolas Poussin
-                    ·  1664
+          Pauline Boty
+                    ·  1963
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Four Seasons is the last set of four oil canvases painted by Poussin between the years of 1660 and 1664, for the son of the Cardinal Richelieu, Duc de Richelieu. They were created during Poussin’s last years of life, during which he suffered hand tremors, which made the execution of the paintings slow and painful, turning Poussin into a virtual recluse. The images in the paintings reflect a philosophical interpretation of the outside world, depicting the power and might of nature. As well as the four seasons, they also revolve through the four times of day: early morning, midday, evening, and moonlight. All four paintings (Spring, Summer, Autumn, Winter) currently reside in the Louvre Museum in Paris, where they enjoy their own room. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pop artists were fascinated by Marilyn Monroe as the most famous of movie stars and the epitome of a new sexuality. Most responses to her were made by men, however. Boty was one of the few women artists working in this vein and perhaps that gave her a different view on Marilyn.Is the figure isolated by being squeezed between fields of abstract forms? Is the title ironic? Boty’s work was sometimes concerned with gender and sexuality and so it is ironic, that she was herself frequently discussed in terms of her appearance.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
