@@ -2,19 +2,26 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00380/images/thomas-eakins/4-swimming-thomas-eakins.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00210/images/james-turrell/turrell-space-that-seescr1-1.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Swimming Hole</h2>
+        <h2 class="artwork-name">Space That Sees</h2>
         <h3 class="artist">
-          Thomas Eakins
-                    ·  1883
+          James Turrell
+                    ·  1992
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Eakins' most accomplished rendition of the nude figure, <i>The Swimming Hole</i> represents the artist and five other naked men, his students, and friends, at the edge of a creek near Philadelphia. It was commissioned by Edward H. Coates, a Philadelphia businessman who was then Chairman of the Committee on Instruction at the Pennsylvania Academy of the Fine Arts, where Eakins taught for a decade. The painting was shown in the Academy's 1885 annual exhibition but was soon returned to the artist by the patron, who exchanged it for a less controversial genre scene, <a target="_blank" href="https://www.wikiart.org/en/thomas-eakins/the-pathetic"><i>The Pathetic Song</i></a> (1881).<br><br>Within months, in 1886, Eakins was dismissed from the Academy, where his demands for the study of the nude offended Victorian propriety. <i>The Swimming Hole</i>, by its subject and provenance closely associated with this painful moment in Eakins' career, was exhibited only once more during his lifetime, in Louisville, Kentucky, in 1886. It remained in the painter's possession until his death thirty years later.<br><br>The painting's well-known title, The Swimming Hole, was first used in 1917, probably at Mrs. Eakins' suggestion. The artist called it <i>Swimming</i> and <i>The Swimmers </i>, emphasizing not the place, but the action and the figures. Eakins took numerous photographs of these young men swimming, and he presents them on the canvas as they appeared in real life without any romanticizing effects. The unsentimental and frank depiction of the male nude in various poses has sparked much debate. The voyeuristic element of the paintings compounded when one learns that Eakins painted himself into the scene as the figure swimming toward the rock. Whether an innocent depiction of male camaraderie and frivolity, an acknowledgment of latent gay desire, a celebration of the nude form focusing on muscle, bone, and anatomy, or a deliberate attempt to court controversy and propel one's reputation, the painting is still a subject of debate more than a century after the artist's death.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Space That Sees belongs to Turrell’s “Skyspace” series, begun in the late 1960s and early 1970s, which can be seen as performance pieces responding to and interacting with environmental conditions and atmospheric fluctuations over time. Observing the shifting hues of the sky from inside a pristine, rectilinear space, viewers experience a connection to their surroundings. But more than that, the artist, by confronting us with the empty space, turns our mind to our own mode of seeing.
+<br>
+<br>For his Jerusalem Skyspace, Turrell chose a semicircular terrace along the western slope of the Art Garden. The site was cut in two and dug out, so that the terrace now enfolds a shrine-like inner space evoking places of worship such as pyramids, mausoleums, or temples. A square opening cut into its ceiling makes a frame for an ever-changing abstract "picture” of the sky, recalling by contrast Baroque illusionist ceilings crowded with painted clouds, saints, and angels.
+<br>
+<br>Space That Sees invites a kind of meditative experience. Twilight conditions yield a particularly startling effect, with the flat surface of the sky turning almost imperceptibly from deep blue to velvet black while the room itself seems to grow increasingly brighter, so that the physical conjunction at the roof opening of interior and exterior becomes a catalyst in the light’s passage from day to night. Turrell saw the installation as an “allegory of light that we generate from inside and light that comes from outside: the emergence into space where light comes forth as in a dream.”
+<br>
+<br>
+<br>Materials: Gray and white concrete, limestone, fluorescent light with dimmers, 700 x 1,000 x 1,000 cm</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
