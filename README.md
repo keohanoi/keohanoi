@@ -2,23 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/andrea-mantegna/portrait-of-francesco-gonzaga.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/david-michael-hinnebusch/twiga-lady-2012(3).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Francesco Gonzaga</h2>
+        <h2 class="artwork-name">Twiga Lady</h2>
         <h3 class="artist">
-          Andrea Mantegna
-                    ·  1461
+          David Michael Hinnebusch
+                    ·  2012
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Francesco Gonzaga (c. 1461) is a painting by the Italian Renaissance artist <a target="_blank" href="/en/andrea-mantegna">Andrea Mantegna</a>. It is housed in the National Museum of Capodimonte, Naples, Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 2006 painter Lisa Adams, moving her long time Mar Vista studio, gave Hinnebusch 10 large paintings on wood panel and plywood. "Twiga Lady" was the left side of a two sided diptych, secured with a long hinge. HInnebusch took the blue circles against the black background and painted it into the head of a figure holding a guitar.  The body of the woman is a collage of photographs of Hinnebusch model Krishena. Also blue and aluminium tape.
 <br>
-<br>Francesco Gonzaga was the second son of Ludovico Gonzaga, Marquess of Mantua, who had been appointed as cardinal by Pope Pius II aged seventeen, just after the Council of Mantua.
-<br>
-<br>The painting is one of the first portraits executed by Mantegna at the Mantuan court, where he had moved in 1460.</span>
+<br>Lisa Adams: www.lisamakesart.com/‎
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
