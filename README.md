@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/sandro-botticelli/annunciation-1500(1).jpg"
+        src="https://uploads0.wikiart.org/images/roni-horn/water-selected-2007.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Annunciation</h2>
+        <h2 class="artwork-name">Water, Selected</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1500
+          Roni Horn
+                    ·  2007
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation is a painting created by Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>. It is a tempera on panel and measures 49.5&nbsp;cm tall and 58.5&nbsp;cm wide. It is in the Kelvingrove Art Gallery and Museum in Glasgow, Scotland.
-<br>
-<br>Its date is not certain though a majority of the critics consider it early, noticing certain elements reminiscent of <a target="_blank" href="/en/andrea-del-verrocchio">Verrocchio</a>. Van Marle, however, dates it circa 1490.
-<br>
-<br>On the lower part there is a note that indicates that it came from the Florentine Church of Saint Barnabas.
-<br>
-<br>The atmosphere is achieved through the succession of columns and sections of flooring that serve to demonstrate the perspective. The solemn architecture overlooks the figures.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Water, Selected is a print of a detailed, physical map of Iceland. Imposed onto its contoured and annotated landscape are twenty-four orange-coloured labels marking Iceland’s glacial sources of water. It is related to a larger project of Roni Horn’s: Vatnasafn/Library of Water, a permanent installation in the small town of Sykkishólmur in Iceland. The project was commissioned by Artangel, and was the first international project of this London-based organisation. It opened in May 2007.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
