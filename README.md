@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/sandro-botticelli/st-augustine-in-his-cell-1490(1).jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/piero-della-francesca/baptism-of-christ-1450(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Augustine in his cell</h2>
+        <h2 class="artwork-name">Baptism of Christ</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1490
+          Piero della Francesca
+                    ·  1450
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint Augustine in His Study, is a painting by the Italian Renaissance master <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, finished around 1490-1494. It is housed in the Uffizi, in Florence.
-<br>
-<br>This work was probably executed for an Augustinian hermit of Santo Spirito, as shown by the fact the saint wears both episcopal and hermit garments.
-<br>
-<br>As many of Botticelli's late works, it is inspired by the preaching of Savonarola.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Baptism of Christ was originally commissioned as a triptych by the Camaldolese abbey of San Sepolcro. Although the exact date of the painting is not known, it is thought to be of his early career, as it exhibits the “light painting” technique of Francesca’s teacher, Domenico Veneziano. The painting illustrates Christ being baptized by John, and three angels are standing to the left of the tree, with hands held, symbolizing the unification of the Eastern and Western Churches. Francesca’s knowledge and execution of geometry can be seen in John’s arm and leg, both of which are two angles of the same size. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
