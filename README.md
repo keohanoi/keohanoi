@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00166/images/olowe-of-ise/nmafa-d20060294-000002.jpg"
+        src="https://uploads2.wikiart.org/images/andrei-rublev/christ-as-saviour.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Bowl</h2>
+        <h2 class="artwork-name">Christ as Saviour</h2>
         <h3 class="artist">
-          Olowe of Ise
+          Andrei Rublev
+                    ·  1410
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This bowl is attributed to Olowe of Ise because of its unique cantilevered bowl within a bowl design and because of the vigorous style of the geometric relief carvings. In particular the "X in a rectangular panel" motif is found on other Olowe sculptures, notably the figures with bowls in this museum's collection. The form of this design has been compared to that of the Yoruba divination board. The function of this bowl is not known, however scholars have suggested that it could have been used by a diviner.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ the Redeemer is an icon discovered by accident in a dilapidated woodshed near Zvenigorod in 1919. With several other icons stored nearby, it was attributed as the work of great <a target="_blank" href="/en/andrei-rublev">Andrei Rublev</a>, painted for one of Zvenigorod cathedrals in the 1420s. It is exhibited in the Tretyakov Gallery of Moscow.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
