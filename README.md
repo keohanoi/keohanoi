@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/jean-arp/danger-of-death-t05007-1954.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/sandro-botticelli/annunciation-1500(1).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Danger of Death (T05007)</h2>
+        <h2 class="artwork-name">Annunciation</h2>
         <h3 class="artist">
-          Jean Arp
-                    ·  1954
+          Sandro Botticelli
+                    ·  1500
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">‘Danger of Death’ is one of a number of drawings by Arp of the 1950s and 1960s with wavering lines, called by Arp ‘Erdbebenlinie’ (‘earthquake’ or ‘seismic lines’). Arp continued in this period to sculpt and draw using the curving, organic shapes for which he is best known. However, in certain drawings and prints he used the tremulous quality of such ‘earthquake lines’ to express the unplanned nature and uncertain development of his imagery, and also to explore the distinction between abstract and representational marks.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation is a painting created by Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>. It is a tempera on panel and measures 49.5&nbsp;cm tall and 58.5&nbsp;cm wide. It is in the Kelvingrove Art Gallery and Museum in Glasgow, Scotland.
 <br>
-<br>The apparently random, non-representational quality of many of the lines in T05007 appears to suggest that the artist let his pencil move across the paper in an ‘automatic’ fashion, in the manner of the ‘automatic drawings’ produced by the Paris-based Surrealist group from the mid-1920s. However, the fainter pencil marks and partial erasures, which are plainly visible in T05007, are proof of preliminary work, and suggest a degree of premeditation.
+<br>Its date is not certain though a majority of the critics consider it early, noticing certain elements reminiscent of <a target="_blank" href="/en/andrea-del-verrocchio">Verrocchio</a>. Van Marle, however, dates it circa 1490.
 <br>
-<br>The ‘mortal danger’ referred to in the title of T05007 may be related to Arp's discussion here of the risk of spiritual atrophy within ‘pure’ abstraction, and of the dangers of global destruction at the time of the Cold War. However, the title may also have had a more personal meaning. Following the accidental death of his wife Sophie Taeuber-Arp in 1943, Arp had been drawn increasingly to religion and mysticism, and much of his subsequent work can be seen as meditations on life and death. He suffered severe bouts of depression, and in 1952 he had a heart attack, from which he was slow to recover. With his own health fragile, he was perhaps striving in this period to come to terms with the idea of his own death.</span>
+<br>On the lower part there is a note that indicates that it came from the Florentine Church of Saint Barnabas.
+<br>
+<br>The atmosphere is achieved through the succession of columns and sections of flooring that serve to demonstrate the perspective. The solemn architecture overlooks the figures.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
