@@ -2,29 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/hans-memling/mystic-marriage-of-st-catherine-1480.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/pieter-bruegel-the-elder/the-beggars-1568.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mystic marriage of St Catherine</h2>
+        <h2 class="artwork-name">The Beggars</h2>
         <h3 class="artist">
-          Hans Memling
-                    ·  1480
+          Pieter Bruegel the Elder
+                    ·  1568
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Mystic Marriage of St. Catherine (or Virgin and Child with Saints Catherine of Alexandria and Barbara) is a c. 1480 oil-on-oak painting by the Early Netherlandish painter <a target="_blank" href="/en/hans-memling">Hans Memling</a>, now in the Metropolitan Museum of Art, New York. The panel shows an enthroned Virgin holding the Child. St Catherine of Alexandria and St Barbara are seated alongside. Angels playing instruments flank the throne, while the left hand male figure is presumably the donor. The scene is set before a landscape.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Beggars or The Cripples is an oil-on-panel by the Netherlandish Renaissance artist <a target="_blank" href="/en/pieter-bruegel-the-elder">Pieter Bruegel the Elder</a>, painted in 1568. It is now in the Louvre in Paris.
 <br>
-<br>Intended as a devotional donor portrait, the panel combines elements of a Hortus conclusus, sacra conversazione and Virgo inter Virgines – the latter of which always presents Mary with Saints Catherine and Barbara. The work is characteristic of Memling's serene style, with structure and colors in harmony. The painting reflects techniques Memling probably learned from his predecessors <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>, to whom he was almost certainly apprenticed, and <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>, synthesizing elements of the earlier artists' work.
+<br>This work is the only painting by Bruegel in the Louvre, received as a gift in 1892.
 <br>
-<br>The composition is an almost exact copy of Memling's central panel in the St John Altarpiece. It is unknown when Memling painted the Mystic Marriage; 1480 seems a probable date according to tree ring analysis. The arbor arching over the Virgin's throne was added at a later date, probably in the 16th century.
+<br>Attempts have been made to interpret the picture of six cripples and a beggar-woman as an allusion to a historical event: the badger's tails, or foxes' tails, on their clothes might refer to the Gueux, a rebel party formed against the government of Philip II of Spain and Granvelle; but these also occur in Bruegel's The Fight Between Carnival and Lent in Vienna, dated 1559. Still, the beggars are not quite ordinary beggars, as they wear carnival headgear representing various classes of society: a cardboard crown (the king), a paper shako (the soldier), a beret (the bourgeois), a cap (the peasant), and a mitre (the bishop). The work clearly has some satirical meaning, which has so far eluded interpretation. Perhaps physical imperfections are meant to symbolise moral decrepitude, which can affect all men irrespective of class.
 <br>
-<br>The painting depicts the Virgin and Child flanked by saints and angels; the donor kneels to the left of the holy figures. The Virgin sits on a throne beneath a baldachin (canopy of honor) of rich brocade with the child on her lap. In the garden behind her emblem, an iris, is visible. Two angels dressed in liturgical garments with musical instruments stand to either side of the throne; the one to the left plays a portable organ and the one on right plays a harp. The martyr virgin saint, St Catherine of Alexandria kneels in front of Mary to the left; opposite is St Barbara, who sits to the right, reading a missal. The donor kneels behind St Catherine, a set of rosary beads in his hands. Attached to his hip, barely visible, is either a small purse or a coat-of-arms.
+<br>On the back of the painting are two inscriptions which seem to date from the 16th century. One is in Flemish, and in a very fragmentary state; the other is in Latin and records the admiration some humanist felt for Bruegel, whose art surpasses Nature itself.
 <br>
-<br>St Catherine was highly venerated in the Middle Ages, second only in popularity to the Magdelen. Emperor Maxentius tortured Catherine on an iron-spiked wheel and later, when she proclaimed herself married to Christ, cut off her head. According to her legend the mystic marriage occurred in a dream from which she awoke with a ring on her finger. Her emblems are the breaking wheel and sword, seen in the foreground, peeking out from beneath the voluminous folds of her ermine-lined skirt.
+<br>The painting dates from the end of Bruegel's career, when he showed a keener interest in the natural world. Tiny though it is, the landscape seen through the opening is bathed in a delicate light which simmers like dew on the foliage.
 <br>
-<br>To denote her royal birth, Catherine wears a crown on her head and is dressed in rich clothing – a white tabard, red velvet sleeves, and a richly patterned brocade skirt. She extends her left hand to the Christ Child who places the ring on her finger, symbolizing their spiritual or mystical betrothal. James Snyder writes that typical of Memling's art, "the drama of the moment is in no way reflected by the expressions on the faces of the participants."</span>
+<br>On the back of the painting is written:
+<br>
+<br>Modern eyes may be inclined to conclude that Brugel intended to invoke sympathy for the plight of the crippled figures, but from a historical perspective this is unlikely. Europeans of Bruegel's time gave little regard to beggars, and the painting provides hints that Bruegel shared this denigration: the figures are outside the town walls and are posed in such ways as to provoke contempt and amusement. The foxtail on some of the figures was a symbol at the time of ridicule in political caricature and real life. The woman behind them bears an empty bowl and may appear to be ignoring the beggars.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
