@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/edward-hopper/hotel-lobby.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/ende/saint-john-with-the-witness.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Hotel Lobby</h2>
+        <h2 class="artwork-name">Saint John with the witness</h2>
         <h3 class="artist">
-          Edward Hopper
-                    ·  1943
+          Ende
+                    ·  975
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Hotel Lobby' is a signature piece in Hopper's work, displaying his classic themes of alienation and brevity. The Hoppers traveled frequently, staying in many motels and hotels throughout his career. This is one of two works in his catalog that depicts a hotel, the other being 'Hotel Window' (1955). It is also one of the two paintings that he created in 1952, both of which dealt with alienated couples. The older couple are believed to represent Hopper and his wife, at that date in their 60s. The hotel guests have been described as being "both traveling and suspended in time," reflecting a stoic and dramatic feeling, reminiscent of the film noir movies Hopper might have seen and the complex structure and feeling of works by Edgar Degas. The painting utilizes harsh light and rigid lines to create a "carefully constructed" uncomfortable environment. The elevated and theatrical vantage point of the painting may be derived from Hopper's love of Broadway theatre which he often watched from the balcony.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Beatus manuscripts and certain European codices mentioned earlier often depict the beloved disciple differently from the others, seated almost in profile with his feet resting on a footstool on the right of the composition, with the witness on the left. The disciple, with a golden phylactery in his hand, points at his companion carrying a codex containing the good news in order to preach God’s word. They are separated by an element similar to the column seen previously in the image of St Mark’s angels. Inside the arch, strangely enough, is not the symbol of the eagle but a winged man with a book more fitting as a reference to St Matthew.
+<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
