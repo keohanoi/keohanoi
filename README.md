@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/joshua-reynolds/self-portrait-3.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/francisco-goya/the-clothed-maja-1800.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-portrait shading the Eyes</h2>
+        <h2 class="artwork-name">The Clothed Maja</h2>
         <h3 class="artist">
-          Joshua Reynolds
-                    ·  1749
+          Francisco Goya
+                    ·  1800
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Reynolds' early self-portrait is a subject that he frequently revisited throughout his career. It is believed to have been painted prior to his trip to Europe and depicts the artist turning towards the viewer, his left hand positioned at his forehead, as if aiding his vision or shielding himself from bright light. In his right hand, he holds an artist's palette and mahlstick. This unique portrayal of the artist with the tools of his profession sets it apart as the only self-portrait of Reynolds in this style. The painting serves as evidence of his pride in his career and his skill as a self-promoter from a young age.<br><br>In contrast to typical portraiture of the time, where sitters were depicted formally and in established poses, Reynolds chose to depict himself as a man of action caught in the moment of painting. Art historian Mark Hallett notes that this departure from convention demonstrates Reynolds' experimentation with movement and non-traditional poses, which would go on to influence his later portraits. Originally a vertical composition, the painting was later reduced at the top and bottom, likely in the 19th century.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Clothed Maja (Spanish: La maja vestida [la ˈmaxa βesˈtiða]) is a pendant painting by the Spanish painter <a target="_blank" href="/en/francisco-goya">Francisco de Goya</a> between 1800 and 1805. It is a clothed version of the earlier La maja desnuda (1797–1800) and is exhibited next to it in the same room at the Prado Museum in Madrid.
+<br>
+<br>The painting was first owned by Prime Minister Manuel de Godoy, who was known as an avid womanizer, and originally hung in his home in front of the Naked Maja in such a manner that the Naked Maja could be revealed at any time with the help of a pulley mechanism.
+<br>
+<br>It was twice in the collection of the <a target="_blank" href="/en/artists-by-art-institution/real-academia-de">Royal Academy of Fine Arts of San Fernando</a>, also in Madrid, being "sequestered" by the Spanish Inquisition between 1814 and 1836, and has been in the Museo del Prado since 1901.
+<br>
+<br>The word maja is the feminine form of majo, a low class Spaniard of the 18th and 19th century. The model is identifiable as a maja by her costume, but her identity is not known; it has been suggested that she looks like Godoy's mistress Pepita Tudó.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
