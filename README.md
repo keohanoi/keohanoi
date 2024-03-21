@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/edouard-manet/the-luncheon-on-the-grass-1863.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/edward-hopper/hotel-lobby.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Luncheon on the Grass</h2>
+        <h2 class="artwork-name">Hotel Lobby</h2>
         <h3 class="artist">
-          Edouard Manet
-                    ·  1863
+          Edward Hopper
+                    ·  1943
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Luncheon in the Grass, with its depiction of a nude female with fully clothed men was a controversial piece when it was displayed at the Salon de Refuses in 1863. It was considered an affront to the times, not only because of the stark nudity of the woman in contrast to the men but also because Manet used familiar models for the figures in the painting. The nude woman is a combination of both his wife, Suzanne Leenhoff, and one of his other female models, Victorine Meurent. The men, on the other hand, are his brother, Eugene Manet, and his brother in law, Ferdinand Leenhoff. It was also considered controversial because it illustrated the rampant prostitution in Paris at the time, which was a taboo subject just to mention, much less display in an oversized canvas. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Hotel Lobby' is a signature piece in Hopper's work, displaying his classic themes of alienation and brevity. The Hoppers traveled frequently, staying in many motels and hotels throughout his career. This is one of two works in his catalog that depicts a hotel, the other being 'Hotel Window' (1955). It is also one of the two paintings that he created in 1952, both of which dealt with alienated couples. The older couple are believed to represent Hopper and his wife, at that date in their 60s. The hotel guests have been described as being "both traveling and suspended in time," reflecting a stoic and dramatic feeling, reminiscent of the film noir movies Hopper might have seen and the complex structure and feeling of works by Edgar Degas. The painting utilizes harsh light and rigid lines to create a "carefully constructed" uncomfortable environment. The elevated and theatrical vantage point of the painting may be derived from Hopper's love of Broadway theatre which he often watched from the balcony.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
