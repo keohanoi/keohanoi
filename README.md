@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/domenico-ghirlandaio/portrait-of-giovanna-tornabuoni-1490.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/caravaggio/portrait-of-maffeo-barberini(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Giovanna Tornabuoni</h2>
+        <h2 class="artwork-name">Portrait of Maffeo Barberini</h2>
         <h3 class="artist">
-          Domenico Ghirlandaio
-                    ·  1490
+          Caravaggio
+                    ·  1598
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Giovanna Tornabuoni is a painting by the Italian Renaissance painter <a target="_blank" href="/en/domenico-ghirlandaio">Domenico Ghirlandaio</a>, executed in 1488 and located in the Museo Thyssen-Bornemisza, Madrid.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of Maffeo Barberini (c. 1598) is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/baroque">Baroque</a> master <a target="_blank" href="/en/caravaggio">Michelangelo Merisi da Caravaggio</a>.
 <br>
-<br>The painting portrays Giovanna degli Albizzi, a Florentine noblewoman who was married to Lorenzo Tornabuoni. She died in childbirth in 1488, year on the cartolina (Italian for a slip of paper in the background). The painting was actually painted after her death, around 1489-90. She has been identified thanks to her other portraits in the Tornabuoni Chapel, where she has the same hair style.
+<br>It is held in a private collection in Florence.
 <br>
-<br>It depicts the young woman from the side, wearing precious clothes including a gamurra vest. On the right, behind her, are a hanging coral necklace (perhaps a rosary), a partly closed prayers book and a Latin inscription, taken from an epigram by the 1st century AD poet Martial.</span>
+<br>Barberini, 30 years old and from the eminent Florentine Barberini family, was a rapidly rising Church prelate, a friend of Caravaggio's patron Cardinal Francesco Maria Del Monte, and himself a poet and patron of the arts.
+<br>
+<br>Barberini's support would continue into later years – in 1603 he commissioned a Sacrifice of Isaac from Caravaggio. In 1623 he became Pope as Urban VIII.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
