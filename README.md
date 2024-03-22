@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/salvador-dali/the-swallow-s-tail.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00233/images/bernardino-luini/bernardino-luini-madonna-del-roseto.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Swallow's Tail</h2>
+        <h2 class="artwork-name">Madonna of the Rose-bush</h2>
         <h3 class="artist">
-          Salvador Dali
-                    ·  1983
+          Bernardino Luini
+                    ·  1510
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Swallow’s Tail completed in the spring in 1983, the last in a series based of paintings based on catastrophe theory, and was Salvador Dali’s last painting. Catastrophe theory, based on the thinkings of Rene Thom, posited that there are seven equilibrium surfaces: fold, cusp, swallowtail, butterfly, hyperbolic umbilic, elliptic umbilic, and parabolic umbilic. Dali incorporated each one of these surfaces into his painting, alongside the gentle and elegant curves of the cello. Set against a gentle blue background, the painting is more than just a series of shapes and curves; it is a precise representation of Dali’s understanding of and interest in mathematical theory. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The panel reveals the intensity of the links that this artist from Varese maintained with the Lombard Late Gothic tradition which is responsible, for example, for his meticulous depiction of plants and flowers in the background. At the same time, however, we see Luini subscribing to the style of Leonardo da Vinci, not only in the Virgin’s facial features but also in the pose of the Christ Child, whom several scholars have likened to Leonardo’s study of a Madonna and Child with a Cat. Jesus is clutching a columbine whose colour alludes both to the blood of Christ and to the grief of his mother.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
