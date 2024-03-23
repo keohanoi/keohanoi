@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00328/images/louise-bourgeois/femme-maison-1946-1947-1.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00301/images/ambrogio-bergognone/bergognone-madonna-del-velo-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman-House</h2>
+        <h2 class="artwork-name">Madonna and Sleeping Child (Madonna of the Veil)</h2>
         <h3 class="artist">
-          Louise Bourgeois
-                    ·  1947
+          Ambrogio Bergognone
+                    ·  1515
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is titled <i>Femme Maison</i>. And that meant to Louise Bourgeois either “woman house” or “house woman” in French. She was a native of France and always went back and forth between English and French.<br>In this period in the 1940s, she was raising three small boys, and so she was certainly thinking of how she felt trying to be an artist and also a stay at home mother. She chose architectural imagery to, in effect, suffocate this woman. It’s kind of dire, in a way. But on the other hand, the woman stands very upright with a certain dignity. And we can tell it's a self-portrait because the hair that comes out of the house was a signifier of Bourgeois’ own long hair.<br><br>Architecture was a motif she used throughout her career to symbolize her feelings. She saw architectural structures as a place of refuge. On the other hand, she saw that an architectural structure could also be a trap.<br><br>Bourgeois' <i>Femme Maison</i> imagery became a symbol of the feminist art movement in the late 60s and in the 70s. Women, in particular, brought attention to the body and to issues of biography and personal feelings into artworks. Bourgeois had always been dealing with these things, so the Femme Maison image was very resonant with feminist artists, and I find that it's still resonant with women.<br><br><u>Deborah Wye for MOMA</u></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Set in a shadowy interior, the Virgin has momentarily ceased praying to cover Jesus with a transparent veil as he sleeps in her lap. The iconography alludes to the Passion and death of Christ and to the shroud that will swathe his body, a theme also echoed by the cherries slipping from his hand, prompting us to meditate on this mystery. The window opens out onto a scene of everyday life on a canal, hinting at the presence of the divine in our daily lives.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
