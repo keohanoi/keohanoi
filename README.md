@@ -2,33 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00291/images/donato-bramante/1.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00108/images/ende/2.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Basilica of Sant'Ambrogio - Bramante's arcades</h2>
+        <h2 class="artwork-name">The two witnesses</h2>
         <h3 class="artist">
-          Donato Bramante
-                    ·  1492
+          Ende
+                    ·  975
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Basilica of Sant'Ambrogio (official name: Basilica romana minore collegiata abbaziale prepositurale di Sant'Ambrogio) is a church in the centre of Milan, northern Italy.<br>
-<br>
-<br>One of the most ancient churches in Milan, it was built by St. Ambrose in 379–386, in an area where numerous martyrs of the Roman persecutions had been buried. The first name of the church was in fact Basilica Martyrum.<br>
-<br>
-<br>When St. Ambrose arrived in Milan, the local churches were in conflict with each other over the conflict between Arianism and the Nicene Creed as well as numerous local issues.  He was firmly in support of the Nicene side of the conflict, and wanted to make northern Italy into a pro-Rome stronghold.  He did this through both preaching and construction.  He built three or four churches surrounding the city; Basilica Apostolorum (now San Nazaro in Brolo), Basilica Virginum (now San Simpliciano), and Basilica Martyrum (which was later renamed in his honor).  A fourth church, Basilica Salvatoris (now San Dionigi) is attributed to him as well, but may not actually be from the 4th century.  These churches were dedicated with anti-Arian language and as symbols of the wealth and power of the pro-Nicene faction in Milan.<br>
-<br>
-<br>In the centuries after its construction, the edifice underwent several restorations and partial reconstructions, assuming the current appearance in the 12th Century, when it was rebuilt in the Romanesque style.<br>
-<br>
-<br>Initially, the basilica was outside the city of Milan, but over the following centuries, the city grew up around it.  It became a center of religious life and a community of canons developed in the church.  In 789, a monastery was established within the basilica grounds.  The canons, however, retained their own community and identity instead of fading away.  Two, separate, distinct religious communities shared the basilica.  In the 11th century, the canons adopted orders and became Canons Regular.  There were now two separate monastic orders following different rules living in the basilica.  The canons were in the northern building, the cloister of the canons, while the monks were in the two southern buildings.<br>
-<br>
-<br>The two towers symbolize the division in the basilica. The 9th-century Torre dei Monaci ("Tower of the Monks") tower was used by the monks to call the faithful to the monks' mass. The monks supported themselves, partly, from the offerings given after mass. However, the canons did not have a bell tower and were not allowed to ring bells until they finished their own tower (on the north side) in the 12th century.<br>
-<br>
-<br>The monastery and church became a large landholder in northern Italy and into what is now the Swiss Canton of Ticino. On 4 August 1528 it was the so-called "Peace of St. Ambrose", between the noble and popular factions of the city, was signed here. In 1492 the Benedictines commissioned <a target="_blank" href="/en/donato-bramante">Donato Bramante</a>, structural architect of St. Peter's Basilica, to renovate the new rectory.<br>
-<br>
-<br>In August 1943 the Allied bombings heavily damaged the basilica, in particular the apse and surrounding area. As a result of this a new building,  painted in pink, was constructed to house the Abbot's offices and the museum.<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This full-folio illustration depicts only the description of the two figures but not their power or what is to happen to them subsequently. The Gerona Beatus features several exclusive aspects: firstly, the size of the image, followed by the large horseshoe arch with plant decorative motifs on its extrados, set above the two men shown facing completely forward, standing upon trapezoidal podiums – a new aspect only appearing in Gerona– wearing garments with hoods fastened under the chin by a round fastener reminiscent of Visigothic, disk-shaped fibulas, possibly in reference to the cilices alluded to in the storia, and with a crosier in their hands –the last element exclusive to this manuscript– representing the power they received to control nature whilst preaching (Rev. 11: 6). The end of the staff held by the witness on the left, called “ELIAS” according to the legend overhead, is curved, whilst that of the one on the right, called “ENOC”, is straight. The Gerona Beatus is the only extant manuscript in stemma II to show the witnesses with such attributes, for they are usually each shown with a book symbolizing their preaching in line with the iconography of the prophet portrait, antecedents of which are to be found in the portraits of authors in Antiquity. Above them are two very ancient looking lamps each with four candlesticks flanked by two schematic trees bearing fruit, in allusion to the lamps and the olive trees mentioned in the storia and the legend at the top: “ISTI SVNT DVE OLIBE/ET DVE CANDE-/LABA”. Mention must first be made of the partial influence of the explanatio upon the images or, at least, upon the legends, because the storia makes no mention of the witnesses’ names. Beatus however, in keeping with St Jerome’s version of Victorinus of Pettau, calls one Elijah – the prophet who ascended to heaven in a chariot of fire (2 Rev. 2: 11). He seems unable to conciliate the sources about the other, however, calling him by two names: Jeremiah –according once again to Victorinus as per St Jerome– a name to be found at the end of the explanatio and used for the second witness in the legend in the only manuscript to include this identification i.e. the Vitr. 14-1 Beatus (f. 104r); and Enoch – the name most common in patristic writings and appearing in historia dicendorum. The position of the candelabras and olive trees in Gerona complies with branch IIa, since the lamps are not interspersed as in IIb.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
