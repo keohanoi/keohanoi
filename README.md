@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/john-constable/the-vale-of-dedham-1828.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/ad-reinhardt/abstract-painting-1961.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Vale of Dedham</h2>
+        <h2 class="artwork-name">Abstract Painting</h2>
         <h3 class="artist">
-          John Constable
-                    ·  1808
+          Ad Reinhardt
+                    ·  1961
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At the age of 26, Constable painted one of his earliest major works during a brief lull between the end of the French Revolutionary Wars and the start of the Napoleonic Wars the following year. Despite the wider political turmoil, the painting exudes tranquility. Although Constable's signature techniques were not yet fully developed, his commitment to observing nature is already evident in the detailed depiction of the trees and sky.<br><br>The painting guides the viewer's gaze from the foreground, following the river to the distant Dedham church tower, which serves as a clear focal point. The trees on either side of the canvas frame the central image, like a small cameo, further directing attention to the building that would have been a notable feature of Constable's childhood.<br><br>The composition, with the trees in the foreground framing the image to the right, closely resembles the arrangement in Lorrain's work, "Hagar and the Angel" (1646). It is probable that Constable was influenced by this piece, which played a formative role in his early appreciation and education of art.<br><br>Twenty-six years later, Constable painted a second image of the same view titled "The Vale of Dedham" (1828). Although similar in appearance, there are several minor differences that set the two apart, notably the inclusion of figures in the later painting.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">At first glance this painting presents a flat black surface. But longer viewing reveals more than one shade of black and an underlying geometric structure. Reinhardt has divided the canvas into a three-by-three grid of squares. The black in each corner square has a reddish tone; the shape between them formed by the center squares is bluish-black in its vertical bar and greenish-black in its horizontal bar. Reinhardt tried to produce what he described as "a pure, abstract, non-objective, timeless, spaceless, changeless, relationless, disinterested painting—an object that is self-conscious (no unconsciousness), ideal, transcendent, aware of no thing but art."
+<br>
+<br>(Text: MoMA)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
