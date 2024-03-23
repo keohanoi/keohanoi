@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/img-4040.jpg"
+        src="https://uploads5.wikiart.org/00340/images/nicolas-poussin/spring-the-earthly-paradise.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Au bout de la nuit - landscape V</h2>
+        <h2 class="artwork-name">Spring (The Earthly Paradise)</h2>
         <h3 class="artist">
-          Gian Maria Tosatti
-                    ·  2007
+          Nicolas Poussin
+                    ·  1664
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This performance was created to close the Nuit Blanche in Rome in 2007. It was a concert of music boxes that started at 5.30 am and finished at 6.30 am, during that specific hour in which the color of the sky turns from black to white. People who walked around the city all night could see the performance on 100 old mattresses.<br><br>(Via del Boschetto, Roma)</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Four Seasons is the last set of four oil canvases painted by Poussin between the years of 1660 and 1664, for the son of the Cardinal Richelieu, Duc de Richelieu. They were created during Poussin’s last years of life, during which he suffered hand tremors, which made the execution of the paintings slow and painful, turning Poussin into a virtual recluse. The images in the paintings reflect a philosophical interpretation of the outside world, depicting the power and might of nature. As well as the four seasons, they also revolve through the four times of day: early morning, midday, evening, and moonlight. All four paintings (Spring, Summer, Autumn, Winter) currently reside in the Louvre Museum in Paris, where they enjoy their own room. </span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
