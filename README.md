@@ -2,25 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00142/images/57726d86edc2cb3880b48f87/vermeer-girl-with-a-red-hat.JPG!Large.JPG"
+        src="https://uploads3.wikiart.org/images/ohara-koson/cat-and-bowl-of-goldfish-1933.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Girl with the red hat</h2>
+        <h2 class="artwork-name">Cat and Bowl of Goldfish</h2>
         <h3 class="artist">
-          Johannes Vermeer
-                    ·  1667
+          Ohara Koson
+                    ·  1931
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Girl with a Red Hat is a rather small painting, signed by the Dutch painter <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>. It is seen as one of a number of Vermeer's tronies – depictions of models fancifully dressed that were not (as far as is known) intended to be portraits of specific, identifiable subjects. Others believe it is a portrait. Whether Vermeer chose family members as models or found them elsewhere in Delft is irrelevant to the appreciation of his paintings. Its attribution to Vermeer – as it is on a (recycled) wood panel and not on canvas – has been a matter of controversy with scholars on both sides of the argument.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ohara Koson (小原 古邨, Kanazawa 1877 – Tokyo 1945) was a Japanese painter and print designer of the late 19th and early 20th centuries, part of the  shin-hanga ("new prints") movement.<br>
 <br>
-<br>The painting, supposed to be executed 1665–1666, may have been among those owned by Vermeer's patron, Pieter Claesz van Ruijven and possibly, through inheritance it may have been passed on to his wife, Maria de Knuijt who died 1681; her daughter, Magdalena van Ruijven; and Magdalena's husband, Jacob Abrahamsz Dissius. It is thought to have been sold on an auction in Amsterdam on May 16, 1696 (probably no. 38, 39 or 40).
+<br>He was born Ohara Matao; it is thought that he started training in painting and design at the Ishikawa Prefecture Technical School in 1889–1893. He also studied painting with Suzuki Kason (1860–1919), although accounts differ on whether this happened during his school years or after he moved to Tokyo in the middle to late 1890s.<br>
 <br>
-<br>It was bought at a sale at the Hôtel de Bouillon, in Paris on December 10, 1822 (no. 28.) by Baron Louis Marie Baptiste Atthalin for 200 French francs. After his death it came to his nephew and adopted son, Laurent Atthalin; by inheritance to Baron Gaston Laurent-Atthelin and by inheritance to his wife, Baroness Laurent-Atthelin. The painting was sold by M. Knoedler &amp; Co., New York and London, in November 1925 to Andrew W. Mellon for $290.000, who deeded it on March 30, 1932 to The A.W. Mellon Educational and Charitable Trust in Pittsburgh (a holding-place for Mellon's pictures while the National Gallery of Art was being established). The trust gave it to the NGA in 1937.
+<br>In Tokyo, he produced some ukiyo-e triptychs illustrating episodes of the Russo-Japanese War, but most of his production was prints of birds-and-flowers (kachō-e). He worked at first with publishers Akiyama Buemon (Kokkeidō) and Matsuki Heikichi (Daikokuya), signing his work Koson. Starting around 1926, he became associated with the publisher Watanabe Shōzaburō, and signed his work Shōson. He also worked with the publisher Kawaguchi, signing his works Hōson.<br>
 <br>
-<br>The older pigment analysis by H. Kuhn was supplemented by a more recent investigation. The red hat is painted in two layers: the lower layer consists of vermilion mixed with a black pigment, the upper layer is a madder lake glaze. Vermeer used a mixture of azurite and yellow ochre for the green areas and umber (umbra) for the browns in the wall.</span>
+<br>Through his association with Watanabe, Ohara's work was exhibited abroad, and his prints sold well, particularly in the United States. He was active designing prints until at least 1935, and died at his home in Tokyo in 1945.<br>
+<br>
+<br> Media related to Ohara Koson at Wikimedia Commons<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
