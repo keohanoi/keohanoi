@@ -2,29 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/johannes-vermeer/the-love-letter.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00291/images/donato-bramante/1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Love Letter</h2>
+        <h2 class="artwork-name">Basilica of Sant'Ambrogio - Bramante's arcades</h2>
         <h3 class="artist">
-          Johannes Vermeer
-                    ·  1669
+          Donato Bramante
+                    ·  1492
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Love Letter (Dutch: De liefdesbrief) is a 17th-century <a target="_blank" href="/en/paintings-by-genre/genre-painting">genre painting</a> by <a target="_blank" href="/en/johannes-vermeer">Jan Vermeer</a>. The painting shows a servant maid handing a letter to a young woman with a cittern. The painting is in the Rijksmuseum Amsterdam.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Basilica of Sant'Ambrogio (official name: Basilica romana minore collegiata abbaziale prepositurale di Sant'Ambrogio) is a church in the centre of Milan, northern Italy.<br>
 <br>
-<br>The tied-up curtain in the foreground creates the impression that the viewer is looking at an intensely private, personal scene. There is also an element of <a target="_blank" href="/en/paintings-by-genre/trompe-loeil">trompe l'oeil</a> as Dutch paintings were often hung with little curtains to conserve them, and the device of painted curtains is seen in other Dutch works of the period. The diagonals on the chequered floor create the impression of depth and three-dimensionality. The fact that it is a love letter that the woman has received is made clear by the fact that she is carrying a lute (more specifically, a cittern, a member of the lute/guitar family). The lute was a symbol of love - often carnal love; luit was also a slang term for vagina. This idea is further reinforced by the slippers at the very bottom of the picture. The removed slipper was another symbol of sex. The floor brush would appear to represent domesticity, and its placement at the side of the painting may suggest that domestic concerns have been forgotten or pushed aside.
+<br>One of the most ancient churches in Milan, it was built by St. Ambrose in 379–386, in an area where numerous martyrs of the Roman persecutions had been buried. The first name of the church was in fact Basilica Martyrum.<br>
 <br>
-<br>The colors blue and gold are important in the composition of the painting - the gold is located on the woman's dress, the top of the fireplace, and many of the objects, which complements the blue on the floor, the maid's dress, the picture frames, etc. Classical influence is also apparent in the ionic columns of the fireplace.
+<br>When St. Ambrose arrived in Milan, the local churches were in conflict with each other over the conflict between Arianism and the Nicene Creed as well as numerous local issues.  He was firmly in support of the Nicene side of the conflict, and wanted to make northern Italy into a pro-Rome stronghold.  He did this through both preaching and construction.  He built three or four churches surrounding the city; Basilica Apostolorum (now San Nazaro in Brolo), Basilica Virginum (now San Simpliciano), and Basilica Martyrum (which was later renamed in his honor).  A fourth church, Basilica Salvatoris (now San Dionigi) is attributed to him as well, but may not actually be from the 4th century.  These churches were dedicated with anti-Arian language and as symbols of the wealth and power of the pro-Nicene faction in Milan.<br>
 <br>
-<br>The two paintings on the wall are also significant. The lower painting is of a stormy sea, a clear metaphor for tempestuous love. Above it is a landscape painting of a traveler on a sandy road. This may refer to the absence of the man who is writing to the lady.
+<br>In the centuries after its construction, the edifice underwent several restorations and partial reconstructions, assuming the current appearance in the 12th Century, when it was rebuilt in the Romanesque style.<br>
 <br>
-<br>In the second half of the 17th century, the painting probably found its place in the collection of the Polish–Lithuanian Commonwealth's monarch John III Sobieski. The 1696 inventory of the Wilanów Palace in Warsaw lists among Dutch paintings "a painting of a lady, playing a lute in a golden robe, while a girl gives her a letter in the black frames (obraz damy, grającej na lutni w złotej szacie, a dziewczyna list jey oddaje w ramach czarnych)".
+<br>Initially, the basilica was outside the city of Milan, but over the following centuries, the city grew up around it.  It became a center of religious life and a community of canons developed in the church.  In 789, a monastery was established within the basilica grounds.  The canons, however, retained their own community and identity instead of fading away.  Two, separate, distinct religious communities shared the basilica.  In the 11th century, the canons adopted orders and became Canons Regular.  There were now two separate monastic orders following different rules living in the basilica.  The canons were in the northern building, the cloister of the canons, while the monks were in the two southern buildings.<br>
 <br>
-<br>On September 23, 1971, the painting was stolen from its display at The Centre for Fine Arts, Brussels, where it was on loan from the Rijksmuseum. The thief, 21-year-old Mario Pierre Roymans, had locked himself in an electrical closet till the museum was closed. He then took the painting off the wall and tried to escape out of a window. However, when the frame failed to fit through the window, he cut the canvas from its frame with a potato peeler and hid the strip in his back pocket. Roymans first concealed the painting in his room at his place of work, The Soetewey (or Soete-Wey) Hotel. Later he buried it in a forest, but when it started to rain, he recovered it and hid it in his room inside his pillowcase.</span>
+<br>The two towers symbolize the division in the basilica. The 9th-century Torre dei Monaci ("Tower of the Monks") tower was used by the monks to call the faithful to the monks' mass. The monks supported themselves, partly, from the offerings given after mass. However, the canons did not have a bell tower and were not allowed to ring bells until they finished their own tower (on the north side) in the 12th century.<br>
+<br>
+<br>The monastery and church became a large landholder in northern Italy and into what is now the Swiss Canton of Ticino. On 4 August 1528 it was the so-called "Peace of St. Ambrose", between the noble and popular factions of the city, was signed here. In 1492 the Benedictines commissioned <a target="_blank" href="/en/donato-bramante">Donato Bramante</a>, structural architect of St. Peter's Basilica, to renovate the new rectory.<br>
+<br>
+<br>In August 1943 the Allied bombings heavily damaged the basilica, in particular the apse and surrounding area. As a result of this a new building,  painted in pink, was constructed to house the Abbot's offices and the museum.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
