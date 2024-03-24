@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/paul-gauguin/arearea-i-1892.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/edouard-manet/effect-of-snow-at-petit-montrouge-1870.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Arearea I</h2>
+        <h2 class="artwork-name">Effect of Snow at Petit-Montrouge</h2>
         <h3 class="artist">
-          Paul Gauguin
-                    ·  1892
+          Edouard Manet
+                    ·  1870
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Arearea is a 1892 work by French painter <a target="_blank" href="/en/paul-gauguin">Paul Gauguin</a>. It was one of the works Gauguin exhibited at his 1893 Durand-Ruel exhibition in Paris. It was bequeathed to the French state in 1961, and was in the collection of the Louvre. From 1986, the painting has been in the collection of the Musée d'Orsay. The prominence in his paintings of collarless free range dogs has been the subject of much speculation as to their symbolic or metaphorical meaning.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Effect of Snow on Petit-Montrouge (French: Effet de neige à Petit-Montrouge) is an 1870 landscape painting by the French painter <a target="_blank" href="/en/edouard-manet">Édouard Manet</a>.
+<br>
+<br>The oil on canvas painting shows a winter view of Petit-Montrouge, an area in the 14th arrondissement of Paris. Manet painted this picture while a member of the National Guard during the 1870–71 Siege of Paris of the Franco-Prussian War. As opposed to the <a target="_blank" href="/en/paintings-by-genre/history-painting">history painters</a> of his time, Manet does not show a heroic view of battle, but rather the dusky ambiance of a looming battle. The image reflects Manet's loss of hope about the military situation, his profound loneliness, and the deprivation he suffered during this time. It is one of the few landscapes in Manet's oeuvre, and is one of Manet's first plein air paintings. Today it is in the collection of the National Museum Cardiff.
+<br>
+<br>Manet uses earthly and muted tones to illustrate an urban snow landscape; between the large peaks of white and diagonals of murky brown the Paris district of Petit-Montrouge is illustrate, overshadowed by the brown dirty snow and bleak beige sky. The buildings in the background were painted with muted colours to give an appearance of balancing precariously on a huge expanse of brown.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
