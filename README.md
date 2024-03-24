@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/max-beckmann/not-detected-259775.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00134/images/jan-van-goyen/winter.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-Portrait as a Nurse</h2>
+        <h2 class="artwork-name">Winter</h2>
         <h3 class="artist">
-          Max Beckmann
-                    ·  1915
+          Jan van Goyen
+                    ·  1625
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Beckmann served in the medical services in eastern Prussia, then in Flanders and at Strasbourg. He was a witness to the first mustard gas attacks around Ypres. At Courtrai, he was present at operations that surgeons attempted on the wounded and made detailed drawings of them. His self portrait is built around three elements: the eye that scrutinises, the hand that draws, and the red cross. There is hardly any colour. A few months later, Beckmann was sent home to Germany after suffering a serious mental breakdown. He sought refuge in Frankfurt where he slowly took up painting again.
-<br>
-<br>"On my left the shooting had the sharp explosion of the infantry artillery, on my right could be heard the sporadic cannon shots thundering from the front, and up above the sky was clear and the sun bright." (Max Beckmann)</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting is the pendant of the equally large roundel of Summer, likewise dated 1625. As might be expected, for Winter the artist painted a crowd of people enjoying themselves on a frozen canal near an – imaginary – castle. However, even though Van Goyen’s winter is frosty, there is no snow on the ground. A Dutch winter landscape without snow is rare indeed!</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
