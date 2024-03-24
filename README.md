@@ -2,25 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/raphael/st-catherine-of-alexandria-1508.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00475/images/ilya-repin/unexpected-visitors-1884-1888.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Catherine of Alexandria</h2>
+        <h2 class="artwork-name">Unexpected Visitors</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1508
+          Ilya Repin
+                    ·  1888
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint Catherine of Alexandria is a painting by the Italian Renaissance artist <a target="_blank" href="/en/raphael">Raphael</a>. In the painting, Catherine of Alexandria is looking upward in ecstasy and leaning on a wheel - an allusion to the breaking wheel (or Catherine wheel) of her martyrdom.
-<br>
-<br>It was painted c. 1507, towards the end of Raphael's sojourn in Florence and shows the young artist in a transitional phase. The depiction of religious passion in the painting is still reminiscent of <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>. But the graceful contrapposto of Catherine's pose is typical of the influence of <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a> on Raphael, and is believed to be an echo of Leonardo's lost painting Leda and the Swan.
-<br>
-<br>Raphael employed the usual Renaissance pigments such as natural ultramarine, madder lake, ochres and lead-tin yellow. He also mixed a special kind of finely powdered glass into several pigments to speed up the drying of the oil paints.
-<br>
-<br>This picture was partially used on the cover of The Smashing Pumpkins album Mellon Collie and the Infinite Sadness.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the second (and most known) version of the Unexpected Visitors. The first one was painted by Repin in 1883; it was significantly smaller both by size and by quantity of personages (the main character was a girl accompanied by a woman and two more girls, supposedly her mother and sisters). 
+<br>Before long, Repin started to paint the second version. He worked in his country house not far from St.Petersburg; the room portrayed in the picture was artist’s living room. As models for female characters, he used his wife, mother-in-law, and his daughter.
+<br>In a year Unexpected Visitors was exposed in a Traveling Art Exhibition. However, the artist continued to improve this picture within next four years. In particularly, he repainted the face of the young man (a political exile who unexpectedly came back home) four times in search of a proper expression. It is generally believed that by depicting various reaction of young man’s household Repin tried to show diverse but mostly positive attitude of society toward revolutionary movements of that time. Actually, under strict censorship of Czarist Russia, it was a political declaration disguised as an everyday genre scene. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
