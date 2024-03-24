@@ -2,27 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/theodore-gericault/portrait-of-a-kleptomaniac-1822.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/hieronymus-bosch/death-and-the-miser-1516.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a Kleptomaniac</h2>
+        <h2 class="artwork-name">Death and the Miser</h2>
         <h3 class="artist">
-          Théodore Géricault
-                    ·  1822
+          Hieronymus Bosch
+                    ·  1516
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Kleptomaniac or Portrait of an Insane Person (French&nbsp;: L'Aliéné or Le Kleptomane) is an 1822 oil painting by <a target="_blank" href="/en/theodore-gericault">Théodore Géricault</a>. It is part of series of ten portraits made for the psychiatrist Étienne-Jean Georget and is currently kept in the Museum of Fine Arts, Ghent, Belgium.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Death and the Miser is a <a target="_blank" href="/en/hieronymus-bosch">Hieronymus Bosch</a> painting. It is currently in the National Gallery of Art in Washington, D.C. The painting is the inside of the right panel of a divided triptych. The other existing portions of the triptych are The Ship of Fools and Allegory of Gluttony and Lust, while The Wayfarer was painted on the external right panel.
 <br>
-<br>The painting belongs to a series of ten portraits of the insane inmates of Salpêtrière asylum in Paris. Géricault made it nearly the end of his career and the five remaining portraits from the series represent the painter's last triumph. Psychiatrist Étienne-Jean Georget, one of the founders of social psychiatry, asked Géricault to do this painting which would represent each clinical models of disease. Georget believed that dementia was a modern disease, which depended in large part of social progress in industrialized countries. He believed that the madmen who were mentally ill need help. Instead of bringing the ill persons in a class room to examine their physical characteristics, the doctor instructed Géricault to paint models representing different types of madness. Dr. Georget much appreciated the objectivity in this series of works that established a link between romantic art and empirical science.
+<br>Death and the Miser belongs to the tradition of the memento mori, works that remind the viewer of the inevitability of death. The painting shows the influence of popular 15th-century handbooks on the art of dying (Ars moriendi), intended to help Christians choose Christ over sinful pleasures. As Death looms, the miser, unable to resist worldly temptations, reaches for the bag of gold offered by a demon, even while an angel points to a crucifix from which a slender beam of light descends.
 <br>
-<br>The work was made quickly, which prefigured the concerns of the Impressionists. However, the painting did not belong to <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionism</a>. At the time, to give dignity to those who were mentally ill was new: they were generally excluded from society, and the previous works represented madmen as possessed creatures or ludicrous people, according to a medieval belief.
+<br>There are references in the painting to dichotomous modes of life. A crucifix is set on the only (small) window of the room. A thin ray of light is directed down to the bottom of the large room, which is darkened. A demon holding an ember lurks over the dying man, waiting for his hour. Death is dressed in flowing robes.
 <br>
-<br>Géricault tried to show objectively the patient's face: the empty gaze of the kleptomaniac goes to infinity and his face is rigid, with a neglected beard and dirty neck. The paintings are noteworthy for their bravura style, expressive realism, and for their documenting of the psychological discomfort of individuals, made all the more poignant by the history of insanity in Géricault's family, as well as the artist's own fragile mental health.
+<br>In the foreground, Bosch possibly depicts the miser as he was previously, in full health, storing gold in his money chest (which abounds with demons) while clutching his rosary. Symbols of worldly power such as a helmet, sword and shield allude to earthly follies — and hint at the station held by this man during his life, though his final struggle is one he must undergo naked, without arms or armor. The depiction of such still-life objects to symbolize earthly vanity, transience or decay would become a genre in itself among 17th-century Flemish artists.
 <br>
-<br> Media related to Portrait of a Kleptomaniac at Wikimedia Commons</span>
+<br>Whether or not the miser, in his last moments, will embrace the salvation offered by Christ or cling to his worldly riches, is left uncertain.
+<br>
+<br>Bosch's familiarity with the visual tradition of the Ars Moriendi can be seen in the top left roundel depicting the death of a sinner in The Seven Deadly Sins and the Four Last Things. There are several points of similarity, such as the figure of Death and the juxtaposition of an angel and devil at the headboard.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
