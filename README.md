@@ -2,27 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/albrecht-durer/suicide-of-lucretia-1518.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00211/images/francisco-goya/peregrinaci-n-a-la-fuente-de-san-isidro.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Suicide of Lucretia</h2>
+        <h2 class="artwork-name">Pilgrimage to the Fountain of San Isidro / The Holy Office</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1518
+          Francisco Goya
+                    ·  1823
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Suicide of Lucretia is an oil on lime panel painting by <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>, signed and dated 1518, in the collection of the Alte Pinakothek, Munich. It shows the Ancient Romean heroine Lucretia (died c. 510 BC), wife of Lucius Tarquinius Collatinus, in a tall and narrow framing, in the act of killing herself rather than face the shame of being raped by her cousin Sextus Tarquinius. Lucretia stands in front of a cramped and harshly lit room containing the bridal bed on which she was raped. She looks to the sky, as if asking the gods to witness her suicide. Her face betraying feelings of disgrace, as she stabs herself with a sword to the belly. Dürer has earlier completed a 1508 pencil on green paper drawing of Lucretia, now in the Albertina Museum, Vienna.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pilgrimage to the Fountain of San Isidro or The Holy Office (Spanish: Peregrinación a la fuente de San Isidro or El Santo Official) are names given to an oil <a target="_blank" href="/en/paintings-by-genre/mural">mural</a> by the Spanish artist <a target="_blank" href="/en/francisco-goya">Francisco Goya</a> (1746–1828), probably completed between 1821 and 1823. The mural is one of the fourteen Black Paintings that Goya applied in oil on the plaster walls of his house. Between 1874 and 1878 the paintings  were transferred to canvas supports under the direction of the art restorer of the Museo del Prado, Salvador Martinez Cubells.<br>
 <br>
-<br>Her wound is not at the center of her belly, as in the 1508 drawing, but below her right breast, echoing Christ's lance wound. Critics have mentioned how the act is bloodless, without any of the spatterings on bed sheets usually associated with similar treatments from the time. However the painting was executed with finesse, with the brush strokes representing the cloths especially detailed, and composed of a variety of red, blue, and green pigments. The white drapery around her hips is a later addition, from around 1600.
-<br>
-<br>The panel is Dürer's second treatment of Lucretia, following a very similar 1508 drawing. Art historians tend not to view it as one of his best paintings, and it is often compared, unfavourably, to a similar work by <a target="_blank" href="/en/lucas-cranach-the-elder">Lucas Cranach the Elder</a>. However, art historians see the Dürer as a less formal treatment, more inward and concerned with confronting death and dying. Between 1959-60, <a target="_blank" href="/en/alberto-giacometti">Alberto Giacometti</a> completed a Sketch after Durer's Lucretia using ball-point pen on paper.
-<br>
-<br>Her face bears elements of idealisation, although for the most part she is presented as a real woman. Her expression, near identical to the 1508 drawing, is difficult to interpret, as it contains none of the passivity, chastity, or sly sidelong glances usually associated with contemporary depictions of her. She is given a monumental and statuesque pose, but without the sense of pagan sensuality present in the his 1507 Adam and Eve in the Prado, Madrid. Critics have remarked unfavourably on her sour expression, unnaturally elongated and disproportional figure, and uncomfortable contrapposto pose. The painting has been described as one of Dürer's most unpopular works, with many art historians, including Max Friedländer and Erwin Panofsky, commenting unfavourably on apparent qualities such as "austerity and awkwardness". Art historian Fedja Anzelewsky described her as "a parody rather than an exaltation of the classical feminine figure."
-<br>
-<br>The feminist scholar Linda Hults observes how "there is a mechanical quality to Lucretia's suicidal gesture; it seems to operate apart from her facial expression, and it does not seem to require the assistance of her other arm, which is oddly placed behind her back."</span>
+<br>Pilgrimage depicts a procession headed by a group of eight more discernible people. One man wears clothing from the 17th century and carries a glass; another is a monk or a nun. The left half of the painting with its bright sky is among the lighter passages of the Black Paintings, which are dominated by browns, greys, and blacks. Another Black Painting, A Pilgrimage to San Isidro, seems of a piece with Pilgrimage except for its darker tone. Both may depict processions to the shrine of San Isidro—a thought reflected in their titles (none given by Goya)—which was close to his home, Quinta del Sordo.<br></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
