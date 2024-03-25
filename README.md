@@ -2,20 +2,22 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/roni-horn/water-selected-2007.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/el-greco/vincenzo-anastagi.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water, Selected</h2>
+        <h2 class="artwork-name">Vincenzo Anastagi</h2>
         <h3 class="artist">
-          Roni Horn
-                    ·  2007
+          El Greco
+                    ·  1575
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Water, Selected is a print of a detailed, physical map of Iceland. Imposed onto its contoured and annotated landscape are twenty-four orange-coloured labels marking Iceland’s glacial sources of water. It is related to a larger project of Roni Horn’s: Vatnasafn/Library of Water, a permanent installation in the small town of Sykkishólmur in Iceland. The project was commissioned by Artangel, and was the first international project of this London-based organisation. It opened in May 2007.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Vincenzo Anastagi is a portrait of Vincenzo Anastagi by <a target="_blank" href="/en/el-greco">El Greco</a>, probably painted between 1571 and 1576, during the artist's time in Rome.
+<br>
+<br>It is part of the Frick Collection, which acquired it in 1913.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
