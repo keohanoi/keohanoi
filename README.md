@@ -2,19 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/hieronymus-bosch/crucifixion-with-a-donor-1485.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00142/images/titian/emperor-charles.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Crucifixion with a Donor</h2>
+        <h2 class="artwork-name">Emperor Charles V at Muhlberg</h2>
         <h3 class="artist">
-          Hieronymus Bosch
-                    ·  1485
+          Titian
+                    ·  1548
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bosch is known for his works peopled with demonic beings, revealing an exceptional independence from the pictorial tradition of his time. However,the Crucifixion with a Donor, which is attributed to him, is perfectly in line with the iconographic tradition of the 15th century.<br><br>The composition shows a sort of hierarchical intercession procedure. The kneeling donor is praying for his salvation. He is accompanied by his patron, St Peter, identified by the key in his hand. Turning towards St John the Evangelist, St Peter presents his protégé. St John then looks towards the Virgin, asking her to intercede with her Son, which she does by praying. Christ figures on the cross as a sign of redemption, his sacrifice having made possible the salvation of the human race. The scene is portrayed in the place reserved for the torture of condemned criminals, on the edge of a Brabant city which is visible in the distance. Midway, a broken gibbet lies on the ground, surrounded by scattered bones and crows. Some figures are walking along the paths leading towards a mill to the left and a castle to the right.<br><br>The donor's identity is not known. Only his first name, Peter, is indicated by the presence of his patron saint. He is dressed in a white shirt and a brown pourpoint. Over this he wears a black cape and a hat on his head. His legs are dressed in striped black and red breeches and stockings decorated with the same motif. A sword shows out from under the cape. This costume, which was worn in the Low Countries during the last 20 years of the 15th century, could indicate that the donor was in a lord's service.<br><br>We do not know whether this panel originally had wings. No other crucifixion by Hieronymus Bosch is known, although the theme returns as a secondary motif in others of his paintings. It is also one of the master's few works containing a donor portrait. The style displays a striking balance and serenity. The flesh colours of Christ's body are softened and the draperies sober. The countryside shows a very gentle gradation of greens, producing a successful effect of depth.<br><br><a target="_blank" href="https://www.wga.hu/">WGA</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Equestrian Portrait of Charles V (also Emperor Charles V on Horseback or Charles V at Mühlberg) is an oil-on-canvas painting by the Italian Renaissance artist <a target="_blank" href="/en/titian">Titian</a>. Created between April and September 1548 while Titian was at the imperial court of Augsburg, it is a tribute to Charles V, Holy Roman Emperor, following his victory in the April 1547 Battle of Mühlberg against the Protestant armies.
+<br>
+<br>The portrait in part gains its impact by its directness and sense of contained power: the horse's strength seems just in check, and Charles' brilliantly shining armour and the painting's deep reds are reminders of battle and heroism. Titian recorded all of the foreground elements—the horse, its caparison, and the rider's armour—from those used in the actual battle. Both the armour and harness survive, and are kept at the Royal Armoury in Madrid.
+<br>
+<br>It was acquired by the Museo del Prado in 1827.
+<br>
+<br>The portrait was commissioned by Mary of Austria, Queen of Hungary, with Charles specifying how he wished to be presented. The emperor was very aware of the importance of portraiture in determining how he was seen by others, and appreciated not only Titian's mastery as a painter, but also the artist's manner of presenting him as a ruler.
+<br>
+<br>Titian came to know Charles V personally, and had painted a number of portraits of him by this time. A highly intelligent man, Titian was quick witted, humorous and easy company. He had developed such a strong friendship with Charles by the time of this portrait that the emperor's courtiers were uneasy at the extent that a lowly painter was allowed into his confidence. While in Augsburg, Titian was given an apartment close to Charles' own, and allowed easy access and frequent meetings with the emperor.
+<br>
+<br>The painting contains a mix of styles; passages such as the armor and harness display the realism of Titian's early work, while the trees, landscape and sky are built from the broad stretches of colour and strong brushstrokes associated with his work from the 1540s on. It contains surprisingly few iconographic elements. Pietro Aretino, a contemporary writer whom Titian painted, suggested that he incorporate conventional references to religion and fame. Symbolism and iconography are not absent; the lance alludes to Saint George, the exemplar of the "traditional image of a military knight-saint". The red around Charles' helmet, his sash and on the horse's trim, represents the Catholic faith in the wars of the 16th century. Titian was so keen to capture such vivid reds that he requested a half pound of red lake be brought from Venice to Augsburg. His instruction reveals that he regarded that pigment "so burning and so splendid...that in comparison the crimson on velvet and silk will become less beautiful".
+<br>
+<br>Drawing on sources such as Roman military art (the statue of Marcus Aurelius on horseback), Renaissance equestrian imagery such as the engravings of Hans Burgkmair, and possibly <a target="_blank" href="/en/albrecht-durer">Dürer</a>'s 1513 engraving Knight, Death and the Devil, Titian departs from the traditional rendering of rider on horse, in which one of the horse's front legs is raised (as seen in the gallery of Roman and Renaissance works below). Instead, the horse rears slightly, or may be striking off into a canter, with only its hind legs touching the ground, while Charles still holds the reins lightly, upright but at ease, implying his advanced horsemanship. The influence of the Dürer engraving is subtle. Dürer's knight rides through dark woods, passing figures representing evil and mortality, including a pig-snouted devil and death riding a pale horse. In contrast Charles emerges from a dark wood into an open, though brooding landscape.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
