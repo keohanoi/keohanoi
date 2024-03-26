@@ -2,21 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/julian-ashton/aboriginal-family-group-1886.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/raphael/niccolini-cowper-madonna-1508.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Aboriginal family group</h2>
+        <h2 class="artwork-name">Niccolini-Cowper Madonna</h2>
         <h3 class="artist">
-          Julian Ashton
-                    ·  1886
+          Raphael
+                    ·  1508
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Julian Ashton was born in England and studied at the Royal Academy School, London, and at the Académie Julian, Paris, before coming to Australia in 1878 to work for the 'Illustrated Australian News' and 'Australasian Sketcher' in Melbourne. He moved to Sydney in 1883 to work on 'The picturesque atlas of Australasia'. Ashton was a major influence on the appreciation and teaching of art in Sydney, establishing his own art school, which still operates today. He was President of the Art Society of NSW and a trustee of the AGNSW.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Niccolini-Cowper Madonna, also known as the Large Cowper Madonna, is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> artist <a target="_blank" href="/en/raphael">Raphael</a>, depicting Mary and Child, against a blue sky.
 <br>
-<br>According to his autobiography, 'Now came still evening on' (1941) pg 53 Ashton visited an Aboriginal camp some miles out of Kiama on the south coast of NSW, where he remembered seeing "a fine looking native and his two lubras… They lived in a little construction something like an Indian wigwam. They had two children – a boy of about six years and the other just out of babyhood. I persuaded the father to allow me to make a drawing of them. He stood with his hand out and holding the younger child in his arms."</span>
+<br>The painting may have been the last of Raphael's Florentine paintings before he left for Rome. It is more complex than a similar painting the Small Cowper Madonna of a few years earlier. The Virgin and Child fill the canvas, creating an imposing effect. The two are more closely related, both by positioning of their bodies and their intimacy. Raphael may have derived the talent for creating a natural intimacy through <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>. The portrayal of the infant's energy is reminiscent of works of <a target="_blank" href="/en/michelangelo">Michelangelo</a>. The compelling, playful Child reaches for the Madonna's top as if wanting to nurse. Both paintings bear the name of their former owners.
+<br>
+<br>An inscription on the painting, center right on the border of Madonna's bodice: MDVIII.R.V.PIN tells that it was painted in 1508 by Raphael of Urbino.
+<br>
+<br>Cowper's art collection absorbed a great deal of his time and money. His most notable possessions are probably the two Cowper Madonna paintings <a target="_blank" href="/en/raphael">Raphael</a>: Small Cowper Madonna and this painting, the Niccolini-Cowper Madonna. Tribuna of the Uffizi shows Cowper looking at the Niccolini-Cowper Madonna painting as it is offered by Johann Zoffany. Zoffany had purchased the painting from the Niccolini family in 1782 and sold it to Cowper in 1785.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
