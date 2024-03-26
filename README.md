@@ -2,31 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00142/images/titian/emperor-charles.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/claude-monet/the-grenouillère.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Emperor Charles V at Muhlberg</h2>
+        <h2 class="artwork-name">The Grenouillère</h2>
         <h3 class="artist">
-          Titian
-                    ·  1548
+          Claude Monet
+                    ·  1869
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Equestrian Portrait of Charles V (also Emperor Charles V on Horseback or Charles V at Mühlberg) is an oil-on-canvas painting by the Italian Renaissance artist <a target="_blank" href="/en/titian">Titian</a>. Created between April and September 1548 while Titian was at the imperial court of Augsburg, it is a tribute to Charles V, Holy Roman Emperor, following his victory in the April 1547 Battle of Mühlberg against the Protestant armies.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bain à la Grenouillère is a painting by the <a target="_blank" href="/en/artists-by-art-movement/impressionism">impressionist</a> painter, <a target="_blank" href="/en/claude-monet">Claude Monet</a>. (Oil on canvas, 74.6&nbsp;cm x 99.7&nbsp;cm)
 <br>
-<br>The portrait in part gains its impact by its directness and sense of contained power: the horse's strength seems just in check, and Charles' brilliantly shining armour and the painting's deep reds are reminders of battle and heroism. Titian recorded all of the foreground elements—the horse, its caparison, and the rider's armour—from those used in the actual battle. Both the armour and harness survive, and are kept at the Royal Armoury in Madrid.
+<br>Monet wrote on September 25, 1869 in a letter to Frédéric Bazille, "I do have a dream, a painting (tableau), the baths of La Grenouillère, for which I have made some bad sketches (pochades), but it is only a dream. <a target="_blank" href="/en/pierre-auguste-renoir">Pierre-Auguste Renoir</a>, who has just spent two months here, also wants to do this painting." Monet and Renoir, both desperately poor, were quite close at the time.
 <br>
-<br>It was acquired by the Museo del Prado in 1827.
+<br>The painting here and one in the London National Gallery (Bathers at La Grenouillere, oil on canvas, 73 x 92&nbsp;cm) are probably the sketches mentioned by Monet in his letter. A bigger size painting, now lost but formerly in the Arnhold collection in Berlin, may well have been the "tableau" that he dreamed of. The broad, constructive brushstrokes here are clearly those of a sketch. For his exhibition pictures Monet usually sought a more delicate and carefully calibrated surface at this time. An almost identical composition of the same subject by Renoir is in the Nationalmuseum, Stockholm. The two friends were undoubtedly working side by side.
 <br>
-<br>The portrait was commissioned by Mary of Austria, Queen of Hungary, with Charles specifying how he wished to be presented. The emperor was very aware of the importance of portraiture in determining how he was seen by others, and appreciated not only Titian's mastery as a painter, but also the artist's manner of presenting him as a ruler.
+<br>La Grenouillère was a popular middle-class resort consisting of a spa, a boating establishment and a floating café. Optimistically promoted as "Trouville-sur-Seine", it was located on the Seine near Bougival, easily accessible by train from Paris and had just been favoured with a visit by Emperor Napoleon III with his wife and son. Monet and Renoir both recognized in La Grenouillère an ideal subject for the images of leisure they hoped to sell.
 <br>
-<br>Titian came to know Charles V personally, and had painted a number of portraits of him by this time. A highly intelligent man, Titian was quick witted, humorous and easy company. He had developed such a strong friendship with Charles by the time of this portrait that the emperor's courtiers were uneasy at the extent that a lowly painter was allowed into his confidence. While in Augsburg, Titian was given an apartment close to Charles' own, and allowed easy access and frequent meetings with the emperor.
+<br>As in his earlier picture of the Garden at Sainte-Adresse, Monet concentrated on repetitive elements – the ripples on the water, the foliage, the boats, the human figures – to weave a fabric of brushstrokes which, although emphatically brushstrokes, retain a strong descriptive quality.
 <br>
-<br>The painting contains a mix of styles; passages such as the armor and harness display the realism of Titian's early work, while the trees, landscape and sky are built from the broad stretches of colour and strong brushstrokes associated with his work from the 1540s on. It contains surprisingly few iconographic elements. Pietro Aretino, a contemporary writer whom Titian painted, suggested that he incorporate conventional references to religion and fame. Symbolism and iconography are not absent; the lance alludes to Saint George, the exemplar of the "traditional image of a military knight-saint". The red around Charles' helmet, his sash and on the horse's trim, represents the Catholic faith in the wars of the 16th century. Titian was so keen to capture such vivid reds that he requested a half pound of red lake be brought from Venice to Augsburg. His instruction reveals that he regarded that pigment "so burning and so splendid...that in comparison the crimson on velvet and silk will become less beautiful".
-<br>
-<br>Drawing on sources such as Roman military art (the statue of Marcus Aurelius on horseback), Renaissance equestrian imagery such as the engravings of Hans Burgkmair, and possibly <a target="_blank" href="/en/albrecht-durer">Dürer</a>'s 1513 engraving Knight, Death and the Devil, Titian departs from the traditional rendering of rider on horse, in which one of the horse's front legs is raised (as seen in the gallery of Roman and Renaissance works below). Instead, the horse rears slightly, or may be striking off into a canter, with only its hind legs touching the ground, while Charles still holds the reins lightly, upright but at ease, implying his advanced horsemanship. The influence of the Dürer engraving is subtle. Dürer's knight rides through dark woods, passing figures representing evil and mortality, including a pig-snouted devil and death riding a pale horse. In contrast Charles emerges from a dark wood into an open, though brooding landscape.</span>
+<br>The painting is now in the New York Metropolitan Museum of Art. It was bequeathed by Mrs. H. O. Havemeyer in 1929.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
