@@ -2,29 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/paul-cezanne/boy-in-a-red-vest-1889.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/hans-baldung/the-trinity-and-mystic-pietà.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Boy in a Red Vest</h2>
+        <h2 class="artwork-name">The Trinity and Mystic Pietà</h2>
         <h3 class="artist">
-          Paul Cezanne
-                    ·  1889
+          Hans Baldung
+                    ·  1512
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Boy in the Red Vest (Le Garçon au gilet rouge), also known as The Boy in the Red Waistcoat, is a painting (Venturi 681) by <a target="_blank" href="/en/paul-cezanne">Paul Cézanne</a>, painted in 1889 or 1890. It is a fine example of Cézanne's skilled, nuanced, and innovative mature work after 1880.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Trinity and Mystic Pietà is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on oak</a> painting undertaken in 1512 by the German artist <a target="_blank" href="/en/hans-baldung">Hans Baldung</a>.
 <br>
-<br>Cézanne painted four oil portraits of this Italian boy in the red vest, all in different poses, which allowed him to study the relationship between the figure and space. The most famous of the four, and the one commonly referred to by this title, is the one which depicts the boy in a melancholic seated pose with his elbow on a table and his head cradled in his hand. It is currently held in Zürich, Switzerland. The other three portraits, of different poses, are in museums in the US.
+<br>The painting shows God supporting his son, with the Holy Spirit above them, represented by a dove; the holy trinity are joined by the weeping figures of St. John and the Virgin Mary. The inclusion of God supporting his crucified son within the picture was popular during the late fourteenth and early fifteenth centuries, but is otherwise rare in art history. Beneath the holy figures are a series of smaller individuals, who are assumed by art historians to be the family who commissioned the painting; this is likely to be the Bettschold and Rothschild families, given the coats of arms present in the lower corners. The donors were often depicted during the Middle Ages as much smaller than the holy figures, in order to emphasise the difference between them.
 <br>
-<br>The Foundation E.G. Bührle, which currently owns the work, notes the painting's picturesqueness, adding that "There is a perfect balance here of high compositional intelligence and spontaneous painterly intuition." In 1895, art critic Gustave Geffroy said it could stand comparison with the finest figure paintings of the Old Masters.
-<br>
-<br>The colors of the painting are rich, dense, and festive. The composition is organized with three main diagonals: the angle of the boy's tilted back and head, the angle of the deep-green curtain behind the boy, and the long angle of the seat and table rising from the lower left. These three angles are countered by the angles of the boy's thighs and arms, creating a tightly articulated structure of intersecting diagonals.
-<br>
-<br>This painting was acquired from Cézanne by art dealer Ambroise Vollard, probably in 1895, and successively acquired by art collectors Marcell Nemes in 1909 and Gottlieb Reber in 1913. Art collector and patron Emil Georg Bührle purchased it from Beber in 1948. Following Bührle's death in 1956, his heirs donated the painting to the Foundation E.G. Bührle in 1960.
-<br>
-<br>In February 2008, the painting was stolen from the Foundation E.G. Bührle in Zurich. It was the museum's most valuable painting and was valued at $91 million. It was recovered in Serbia in April 2012.</span>
+<br>The painting was acquired in 1894 by the National Gallery, London, who still hold the piece as at 2015. The gallery consider that "Baldung's painting invites our imaginative participation by stressing the human emotions of the mourners, and presenting even God the Father simply as a grieving parent."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
