@@ -2,35 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/ford-madox-brown/the-last-of-england-1860.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00380/images/caspar-david-friedrich/abbey-in-the-oakwood-caspar-david-friedrich-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Last of England</h2>
+        <h2 class="artwork-name">The Abbey in the Oakwood</h2>
         <h3 class="artist">
-          Ford Madox Brown
-                    ·  1860
+          Caspar David Friedrich
+                    ·  1810
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Last of England is an 1855 oil-on-panel painting by <a target="_blank" href="/en/ford-madox-brown">Ford Madox Brown</a> depicting two emigrants leaving England to start a new life in Australia with their baby.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Abbey in the Oakwood (German: Abtei im Eichwald) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/caspar-david-friedrich">Caspar David Friedrich</a>. It was painted between 1809 and 1810 in Dresden and was first shown together with the painting The Monk by the Sea in the Prussian Academy of Arts exhibition of 1810. On Friedrich's request The Abbey in the Oakwood was hung beneath The Monk by the Sea. This painting is one of over two dozen of Friedrich's works that include cemeteries or graves. 
 <br>
-<br>Brown began the painting in 1852 inspired by the departure of his close friend, the Pre-Raphaelite sculptor, Thomas Woolner, who had left for Australia in July of that year. Emigration from England was at a peak, with over 350,000 people leaving that year. Brown, who at the time considered himself "very hard up and a little mad", was himself thinking of moving to India with his new family.
+<br>After the exhibition both pictures were bought by king Frederick Wilhelm III for his collection. Today the paintings hang side by side in the Alte Nationalgalerie, Berlin.
 <br>
-<br>Although Ford Madox Brown was never a member of the Pre-Raphaelite Brotherhood, The Last of England, like many of his paintings, exhibits all the characteristics of the movement. The painting depicts a man and his wife seeing England for the last time. The two main figures, based on Brown and his wife, <a target="_blank" href="/en/ford-madox-brown">Emma</a>, stare ahead, stony-faced, ignoring the white cliffs of Dover which can be seen disappearing behind them in the top right of the picture. The family's clothing indicates that they are middle class, and so they are not leaving for the reasons that would force the emigration of the working classes; Brown's writing touched on the same theme:
+<br>A procession of monks, some of whom bear a coffin, head toward the gate of a ruined Gothic church in the center of the painting. Only two candles light their way. A newly dug grave yawns out of the snow in the foreground, near which several crosses can be faintly discerned. This lower third of the picture lies in darkness—only the highest part of the ruins and the tips of the leafless oaks are lit by the setting sun. The waxing crescent moon appears in the sky.
 <br>
-<br>The fair-haired child in the background behind the man's shoulder is Brown and Emma's child, Catherine, who was born in 1850. The baby concealed under the woman's cloak, and whose hand she is clasping, is supposedly their second child, Oliver.
+<br>The picture appeared at a time when Friedrich had his first public success and critical acknowledgment with the controversial Tetschener Altar. Although Friedrich's paintings are landscapes, he designed and painted them in his studio, using freely drawn plein air sketches, from which he chose the most evocative elements to integrate into an expressive composition. The Abbey in the Oakwood is based upon studies of the ruins of Eldena Abbey, which reappear in several other paintings. The same trees, in slightly altered forms, can also be seen in other works.
 <br>
-<br>In order to mirror the harsh conditions in the painting Brown worked mostly outside in his garden, and was happy when the weather was poor — he recorded his feelings of delight when the cold turned his hand blue, as this was how he wanted it to appear in the painting. He was seen as strange by his neighbours who saw him out in all kinds of weather. He composed a short verse to accompany the painting in which the woman is depicted as hopeful for the future:
+<br>Eldena Abbey may well have had personal meaning for Friedrich, as it was destroyed during the Thirty Years War by invading Swedish troops, who later used bricks from the abbey to construct fortifications. In the painting Friedrich draws a parallel between those actions and the use of Greifswald churches as barracks by occupying French soldiers. Thus, the funeral becomes a symbol of "the burial of Germany's hopes for resurrection".
 <br>
-<br>Brown's painting room was above a china shop at 33 High Street, Hampstead and sittings took place in the house's garden. His diary noted that the 'ribbons of the bonnet took me 4 weeks to paint'.
-<br>
-<br>Two finished versions of the picture exist, one in Birmingham Museum and Art Gallery and the other in the Fitzwilliam Museum in Cambridge. A reduced watercolour replica of the painting in Birmingham produced between 1864–66 is in Tate Britain. A fully worked study also exists, and a detailed compositional drawing. All are in the form of round panels, a rarely revived Renaissance format called a tondo, but differ in colouring.
-<br>
-<br>In March 1859 The Last Sight of England as it was then known, was sold by Benjamin Windus to Ernest Gambart for 325 guineas (2010: £26,700).
-<br>
-<br>The picture was voted Britain's eighth-favourite picture in a poll carried out by BBC Radio 4. In 2013 it was voted 32 out of 57 paintings chosen by the British public from national collections, which were used for Art Everywhere The World's Largest Public Art Exhibition.</span>
+<br>Friedrich may have begun work on The Abbey in the Oakwood in June 1809 after a stay in Rügen, Neubrandenburg. On 24 September 1810, shortly before the Berlin Academy exhibition, Carl Frederick Frommann described the setting sun and half-moon of the nearly-finished painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
