@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/jean-metzinger/dancer-in-a-caf-1912.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00381/images/peter-paul-rubens/diana-and-callisto-c1638-40-oil-on-canvas-peter-paul-rubens.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Dancer in a café</h2>
+        <h2 class="artwork-name">Diana and Callisto</h2>
         <h3 class="artist">
-          Jean Metzinger
-                    ·  1912
+          Peter Paul Rubens
+                    ·  1639
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Despite Metzinger's conceptualism of Cubist painting—the reflexive function of complex geometry, juxtaposed multiple perspectives, planar fragmentation suggesting motion and rhythmic play with various symmetry types—there does manifest itself in Danseuse a certain spatial depth or perspective reminiscent of the optical illusion of space of the Renaissance; in the way, for example, the wall-mounted lighting fixtures become smaller with distance, and so too the man at the upper left appearing smaller in the background than his counterparts in the foreground. It shows that non-Euclidean geometry does not imply the absolute destruction of classical perspective, or that simply, the breakdown of classical perspective need not be complete.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana and Callisto is a painting produced by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> between 1637 and 1638. It was one of a number of paintings commissioned from the artist by Philip IV of Spain for his new hunting lodge, the Torre de la Parada. It measures 202 by 303 cm and is now in the Museo del Prado. It shows Diana and Callisto.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
