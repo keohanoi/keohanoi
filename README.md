@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00381/images/peter-paul-rubens/diana-and-callisto-c1638-40-oil-on-canvas-peter-paul-rubens.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00127/images/eric-gill/ecstasy-1911.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Diana and Callisto</h2>
+        <h2 class="artwork-name">Ecstasy</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1639
+          Eric Gill
+                    ·  1911
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana and Callisto is a painting produced by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> between 1637 and 1638. It was one of a number of paintings commissioned from the artist by Philip IV of Spain for his new hunting lodge, the Torre de la Parada. It measures 202 by 303 cm and is now in the Museo del Prado. It shows Diana and Callisto.</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gill wanted to return to ‘direct carving’ of stone and worked on this relief over a period of seven months. He was influenced by the graceful, simplified forms of carved, medieval religious sculptures in Europe and India. Some Indian temple sculpture showed embracing couples and British artists such as Gill became more informed about such sculpture through the India Society, founded in 1910. Gill did not exhibit this work, selling it in 1912 to Edward Warren, who already owned a version of Rodin’s <i><a target="_blank" href="https://www.wikiart.org/en/auguste-rodin/the-kiss-1904">The Kiss</a></i>.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
