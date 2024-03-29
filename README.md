@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00328/images/louise-bourgeois/femme-maison-1946-1947-1.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00244/images/arne-quinze/arnequinze-valencia-mysecretgarden09.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman-House</h2>
+        <h2 class="artwork-name">My Secret Garden, Valencia</h2>
         <h3 class="artist">
-          Louise Bourgeois
-                    ·  1947
+          Arne Quinze
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This work is titled <i>Femme Maison</i>. And that meant to Louise Bourgeois either “woman house” or “house woman” in French. She was a native of France and always went back and forth between English and French.<br>In this period in the 1940s, she was raising three small boys, and so she was certainly thinking of how she felt trying to be an artist and also a stay at home mother. She chose architectural imagery to, in effect, suffocate this woman. It’s kind of dire, in a way. But on the other hand, the woman stands very upright with a certain dignity. And we can tell it's a self-portrait because the hair that comes out of the house was a signifier of Bourgeois’ own long hair.<br><br>Architecture was a motif she used throughout her career to symbolize her feelings. She saw architectural structures as a place of refuge. On the other hand, she saw that an architectural structure could also be a trap.<br><br>Bourgeois' <i>Femme Maison</i> imagery became a symbol of the feminist art movement in the late 60s and in the 70s. Women, in particular, brought attention to the body and to issues of biography and personal feelings into artworks. Bourgeois had always been dealing with these things, so the Femme Maison image was very resonant with feminist artists, and I find that it's still resonant with women.<br><br><u>Deborah Wye for MOMA</u></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">“My Secret Garden Valencia” presents a series of six public sculptures that will enter into dialogue with the powerful architecture of Santiago Calatrava. Each sculpture of the series addresses the rich diversity of forms, structures and colours found in the Plantea. With “My Secret Garden Valencia”, Arne Quinze calls for a more profound dialogue between nature and culture in the development of our modern society. By challenging his public with unconventional sculptures, he encourages a sociocultural conversation that stimulates creativity and embraces diversity. <br><br>Arne Quinze is honoured to be invited by president Cris Gabarrón and curator Juan García Sandoval of The Gabarron Foundation to exhibit his work in Valencia. The Gabarron Foundation and the City of Arts and Sciences of Valencia have been collaborating since 2010 to create this wonderful museum space, dedicated to sculptural art: the Umbracle, an open artistic space - designed by world renowned architect Santiago Calatrava - and an extension of the museum itself, known by many as the Paseo del Arte. It was with deep respect that Quinze accepted their invitation and created six sculptures for this exhibition.<br><br>Arne Quinze explicitly wishes to thank<br>• Cris Gabarrón and Juan Garcia Sandoval of the Gabarron Foundation<br>• Enrique Vidal, General Manager, and Miriam Atienza, Contents Director of the City Of Arts &amp; Sciences museum<br>• François Fornieri, private collector<br>• Maruani Mercier gallery</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
