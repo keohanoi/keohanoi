@@ -2,19 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/sandro-botticelli/portrait-of-simonetta-vespucci(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/rogier-van-der-weyden/saint-john-altarpiece-1460.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Simonetta Vespucci (Portrait of a Young Woman)</h2>
+        <h2 class="artwork-name">Saint John Altarpiece</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1480
+          Rogier van der Weyden
+                    ·  1460
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Simonetta Vespucci was an inspiration for several female characters of Sandro Botticelli’s artworks. Viewed as a female ideal, the woman in this portrait has features considered to be perfect at that time. Until the present day, it has been speculated that the portrait of Simonetta is actually just an idealized version of the actual living muse of Florence, transpired into perfection through Botticelli’s mind eye. <br><br>The lore says that the maestro was in love with the young beauty, but never quite being able to fulfill this loving desire as she was a married woman. It is said that he painted her image to resemble how perfect she was to him, rather than to show her real beauty. He did not miss a chance to worship her by giving her the roles of high goddesses in his mythological themed paintings. Allegedly, Simonetta’s visage served as main inspiration for Pallas Athena (<a target="_blank" href="https://www.wikiart.org/en/sandro-botticelli/pallas-and-centaur"><i>Pallas and Centaur</i></a>, c.1482), Flora (<a target="_blank" href="https://www.wikiart.org/en/sandro-botticelli/primavera-1478"><i>Primavera</i></a>, 1478), and even for the infamous Venus in numerous instances (<a target="_blank" href="https://www.wikiart.org/en/sandro-botticelli/the-birth-of-venus-1485"><i>The birth of Venus</i></a>, 1485; <a target="_blank" href="https://www.wikiart.org/en/sandro-botticelli/venus-and-mars-1483-1"><i>Venus and Mars</i></a>, 1483); she also possibly was a prototype for <a target="_blank" href="https://www.wikiart.org/en/piero-di-cosimo">Piero di Cosimo</a>’s  <a target="_blank" href="https://www.wikiart.org/en/piero-di-cosimo/portrait-of-simonetta-vespucci-as-cleopatra-1490"><i>Portrait of a Woman</i></a> (1490).<br><br>Botticelli’s portrait of “la bella Simonetta” reveals a specific technique developed in the early Renaissance years. In order to obtain the flawless complexion of the character, the artist uses a special mixture, terre verte - a green, earthy tone - to under paint, and afterward layers the flesh- like tones over it to create diverse shades of pink, yellow, and orange. Botticelli shows brilliant control of the tempera painting technique making use of fine lines and shapes to discreetly build up contrasts and create the depth and texture of the portrait.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Altar of St. John is a c. 1455 oil-on-oak wood panel altarpiece by the Early Netherlandish painter <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>, now in the Gemäldegalerie, Berlin. The triptych is linked to the artist's earlier Miraflores Altarpiece in its symbolic motifs, format and intention.
+<br>
+<br>The panels show – from left to right – the birth of Saint John, the baptism of Christ by John in Jordan, and the beheading of John, with the rather attractive Salome receiving the disembodied head on a plate. Each panel is set within painted archivolts, which contain painted reliefs depicting statuettes of the apostles, and scenes from the lives of both Christ and John, with the overall theme of salvation. The faux sculptural reliefs are painted in grisaille, and give the impression that the scenes are set within a church.
+<br>
+<br>There are two extant versions of the altarpiece, almost equal in size, leading to complexities in establishing attribution and authenticity. The version in Berlin is considered the original, that in Frankfurt a near contemporary copy.
+<br>
+<br>The three panels describe the major events in John's life: his birth, baptism of Christ, and his decapitation at the hands of Salome. The reliefs in the archivolts detail secondary events from his life. The overall theme is of the sacraments, each panel can be associated with a specific liturgical ceremony. Of the six archivolt scenes, four detail scenes of Mary's life, including the "Marriage of the Virgin", the "Annunciation" and the "Birth of Christ".
+<br>
+<br>The archivolts of this panel show the angel appearing to John's father Zacharias, in the temple. According to Luke 1:12–17, an angel of the Lord had earlier appeared and announced to Zechariah that his wife would give birth to a son, whom he was to name John, and that this son would be the forerunner of the Lord. Citing their advanced age, Zechariah asked with disbelief for a sign so he would know the truth of this prophecy. In reply, the angel identified himself as Gabriel, sent by God, and stated that because of Zechariah's doubt he would be struck dumb and "not able to speak, until the day that these things shall be performed". This punishment of muteness is referred to in the archivolt reliefs.
+<br>
+<br>Zacharias appears in the main panel sitting in the foreground with a pen and scroll. To his right, Mary presents his son to him. By including the Virgin, Rogier strays from the Gospel account of the scene, referring instead to the apocryphal version popularised by the Golden Legend and the Meditations on the Life of Christ, both of which have Mary presenting the child John. Erwin Panofsky suggests that Rogier might have been influenced by Andrea Pisano's relief The Naming of the Baptist at the Florence Baptistery, which shows a similar scene of Mary presenting to Zechariah, who sits holding a pen and scroll.
+<br>
+<br>In the central panel John can be identified by his red robe. This panel shows the apparition of God in the sky above painted in red hues, from which emanates a curved Latin script, above a dove. The panels are typical of the harmony and unity characteristic of Rogier; especially in the manner in which the figures echo each other. This is most evident in the figure of the woman in the birth panel, who occupies the same space and resembles Salome to the far right.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
