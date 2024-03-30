@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/katsushika-hokusai/fishing-by-torchlight-in-kai-province-from-oceans-of-wisdom-1833.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00142/images/anna-ancher/living-room-with-lilac-curtins-and-blue-clematis.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Fishing by Torchlight in Kai Province, from Oceans of Wisdom</h2>
+        <h2 class="artwork-name">Living Room with Lilac Curtins and Blue Clematis</h2>
         <h3 class="artist">
-          Katsushika Hokusai
-                    ·  1833
+          Anna Ancher
+                    ·  1913
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Many of Hokusai’s prints emit a surreal quality, at the same time as depicting a real life episode. This print does just that. Eight fishermen in the foreground of the painting are struggling against the smoothly rippling waves, trying to pull fish from the water. Although night sky is black, it gives off a strange yellow glow, which allows the fishermen to see what they are doing. Hokusai’s method of creating swirling lines in the water make it seem as if it contains a quickly moving current, which threatens to pull the fishermen down, and let their newly-caught prey escape. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Anna Ancher has painted her own studio in Anchers Hus in this picture, but it looks more like a living room without any indications that this is an artist’s working space: There is no easel, no paintbrushes and most importantly, no paintings. Instead, she has chosen to focus on the table and the arrangement of clematis flowers on the table, and the window framed by the light blue curtains. In 1913, the architect Ulrik Plesner designed an extension to Anchers Hus with studios for both Anna Ancher and her husband Michael Ancher. Anna Ancher probably painted this picture shortly after the completion of the extension. The painting gets its title from the clematis in the vase on the table. The clematis is of the Jackmanii variety, which still grows in the gardens at Anchers Hus and Skagens Museum.<br><br><a target="_blank" href="https://skagenskunstmuseer.dk/en/works/interior-with-clematis/
+">skagenskunstmuseer</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
