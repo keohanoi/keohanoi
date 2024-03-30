@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/clara-peeters/still-life-with-cheeses-almonds-and-pretzels-1615.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00161/images/vincent-van-gogh/white-house-at-night.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Still Life with Cheeses, Almonds and Pretzels</h2>
+        <h2 class="artwork-name">White House at Night</h2>
         <h3 class="artist">
-          Clara Peeters
-                    ·  1615
+          Vincent van Gogh
+                    ·  1890
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Still Life with Cheeses, Almonds and Pretzels (Dutch: Stilleven met kazen, amandelen en krakelingen) is a painting by the Dutch artist <a target="_blank" href="/en/clara-peeters">Clara Peeters</a>. It seems to have been made circa 1615. It is a <a target="_blank" href="/en/paintings-by-genre/still-life">still life</a>, painted in oils on a wooden panel. This is 34,5&nbsp;cm high and 49,5&nbsp;cm wide. Clara Peeters has painted her signature in the handle of the depicted knife. The painting is displayed in the Mauritshuis museum in The Hague.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">White House at Night is an oil on canvas painting created on 16 June 1890 in the small town of Auvers-sur-Oise by <a target="_blank" href="/en/vincent-van-gogh">Vincent van Gogh</a>, six weeks before his death. It is displayed at the Hermitage Museum, St. Petersburg.
 <br>
-<br><a target="_blank" href="/en/clara-peeters">Clara Peeters</a> specialised in <a target="_blank" href="/en/paintings-by-genre/still-life">still lifes</a> with beautiful objects, delicious fruits and expensive food. This type of still life is called "banketje" (banquet) in Dutch. The symbolism of these paintings is not fully known. It could be an encouragement to temperance, or a reference to The Last Supper. Or it might simply be a display of opulence and wealth.
+<br>According to the Hermitage Museum, the painting "expresses the great psychological tension under which Van Gogh found himself"; two of the windows, considered the "eyes" of a home, are rendered with "alarming" red splashes, while the star, a sign of fate, is seen as symbolic of van Gogh's anguish.
 <br>
-<br>In this painting, in addition to the objects named in the title, there are also curls of butter, figs and a bread roll. In the background is a gold-plated Venetian glass. The almonds and figs are lying in a dish of Chinese Wanli porcelain. Peeters often used the objects in this painting in her still lifes.
+<br>It is thought that van Gogh painted White House at Night around 8:00 PM due to the position of the "star" in the painting. Astronomers Donald Olson and Russell Doescher from the Texas State University-San Marcos calculated that the star in the painting must be Venus which was bright in the evening sky in June 1890. The house is the same one depicted in Blossoming Chestnut Tree.
 <br>
-<br>In the reflective cover of the "bartmann" jug behind the cheese Clara Peeters painted her own portrait. She thus followed the example of <a target="_blank" href="/en/jan-van-eyck">Jan van Eyck</a>, who painted his self-portrait in 1434 in his famous double portrait of the Arnolfini Portrait couple. Clara Peeters made a total of seven self-portraits, including this one.
+<br>The painting has a turbulent history. It was exhibited in Switzerland several times during the 1920s, but in the late 1920s disappeared into the private collection of German industrialist Otto Krebs, Many of his acquisitions were of a style which was soon to be labelled "degenerate art" by the Nazis, which contributed towards the already publicity-shy Krebs keeping his collection secret.
 <br>
-<br>The Mauritshuis museum in The Hague has the still life of Clara Peters, which it acquired in June 2012. The sale was made possible by the support of the Vereniging Rembrandt, the A.M. Roeters van Lennep Fonds, the Utrechtse Rembrandt Cirkel and the Caius Fonds.
-<br>
-<br>On June 22, 2014 a special episode of the TV show Kunstuur described the renovated Mauritshuis. The Dutch minister Jet Bussemaker explained why Still Life with Cheeses, Almonds and Pretzels was her favorite painting in the museum.</span>
+<br>Thought to have been lost after World War II, the painting languished in the Hermitage archives for fifty years before resurfacing in 1995 as part of an exhibition displaying artworks looted by the Soviets at the end of the war. Three other van Gogh's from Kreb's collection were also shown: Landscape with House and Ploughman, Morning: Going out to Work (After Millet), and the Portrait of Madame Trabuc.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
