@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/kenzo-okada/decision-1956.jpg"
+        src="https://uploads4.wikiart.org/00422/images/jeff-koons/jeff-koons-ushering-in-banality-1988-polychromed-wood-38-x-62-x-30-inches-96-dot-5-x-157-dot-5-x.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Decision</h2>
+        <h2 class="artwork-name">Ushering in Banality</h2>
         <h3 class="artist">
-          Kenzo Okada
-                    ·  1956
+          Jeff Koons
+                    ·  1988
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">After Kenzo Okada relocated from Tokyo to New York in 1950, his work came to represent a melding of Japanese traditions and American abstract trends. Rather than striving for pure abstraction, his work from the 1950s could be called “semi-abstract,” evoking the natural world through carefully composed form and a decidedly muted palette. These works are subtle, quiet, and poetic—more meditative in nature than the energetic gestural abstractions of some of his American-born counterparts. The composition of Decision (1956) is also organized to suggest natural topography. Blocky, softly defined shapes organically arrange the canvas into rough horizontal registers, creating a panoramic quality reminiscent of landscape painting. Meanwhile, small, irregular shapes hover and tumble rhythmically across the stable ground. Okada thus seeks a balance between heavy and delicate, tangible and abstract.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A pig with a green ribbon is being pushed by two young angels (alongside it) with a young boy dressed in a tracksuit behind it.[27] Ushering in Banality was ruled to have "deliberately and exactly copied" a photograph by Barbara Campbell. Koons had instructed his Italian studio to replicate Campbell's Boys with Pig using it as a model for the design.[6]<br><br>At a Sotheby's auction in November 2001 one of the three editions of Ushering in Banality sold for US$1,875,750.[31]</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
