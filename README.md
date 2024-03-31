@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00422/images/jeff-koons/jeff-koons-ushering-in-banality-1988-polychromed-wood-38-x-62-x-30-inches-96-dot-5-x-157-dot-5-x.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/gustave-caillebotte/a-balcony-in-paris-1881.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ushering in Banality</h2>
+        <h2 class="artwork-name">A Balcony in Paris</h2>
         <h3 class="artist">
-          Jeff Koons
-                    ·  1988
+          Gustave Caillebotte
+                    ·  1881
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A pig with a green ribbon is being pushed by two young angels (alongside it) with a young boy dressed in a tracksuit behind it.[27] Ushering in Banality was ruled to have "deliberately and exactly copied" a photograph by Barbara Campbell. Koons had instructed his Italian studio to replicate Campbell's Boys with Pig using it as a model for the design.[6]<br><br>At a Sotheby's auction in November 2001 one of the three editions of Ushering in Banality sold for US$1,875,750.[31]</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Balcony in Paris (French: Un balcon à Paris) is an oil on canvas painting by the French <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionist</a> painter <a target="_blank" href="/en/gustave-caillebotte">Gustave Caillebotte</a>. It was completed ca. 1880–81. The dimensions of the painting are 55.2 by 39 centimeters. It is housed in a private collection.
+<br>
+<br>This painting is one of several by Caillebotte in which an urban street, viewed from a balcony, is seen through the spaces of an ornate iron grill in the foreground, differentiating the space of the street from the interior of his bourgeois home, 31 boulevard Haussmann in Paris. The motif may have been inspired by similar juxtapositions seen in many Japanese ukiyo-e prints.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
