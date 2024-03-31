@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/gwen-john/chloe-boughton-leigh-1908.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00381/images/peter-paul-rubens/diana-and-callisto-c1638-40-oil-on-canvas-peter-paul-rubens.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Chloe Boughton Leigh</h2>
+        <h2 class="artwork-name">Diana and Callisto</h2>
         <h3 class="artist">
-          Gwen John
-                    ·  1908
+          Peter Paul Rubens
+                    ·  1639
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gwen John trained at the Slade School of Art in London, where her brother Augustus was also a student. She settled in Paris in 1904, working as a model, becoming Rodin's mistress and immersing herself in the artistic world of the metropolis. She lived in France for the rest of her life, exhibiting on both sides of the Channel. The portrait shown here is of a Paris friend, Chloë Boughton-Leigh. The subdued colouring, short foreground and self-absorption of the sitter create a deeply intense atmosphere. John showed it in London, at the New English Art Club.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Diana and Callisto is a painting produced by <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a> between 1637 and 1638. It was one of a number of paintings commissioned from the artist by Philip IV of Spain for his new hunting lodge, the Torre de la Parada. It measures 202 by 303 cm and is now in the Museo del Prado. It shows Diana and Callisto.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
