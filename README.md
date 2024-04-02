@@ -2,22 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/jean-baptiste-greuze/the-village-bride-1761.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/otto-piene/olympic-rainbow-1972.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Village Bride</h2>
+        <h2 class="artwork-name">Olympic Rainbow</h2>
         <h3 class="artist">
-          Jean-Baptiste Greuze
-                    ·  1761
+          Otto Piene
+                    ·  1972
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">L'Accordée de Village is a painting by the French artist Jean-Baptiste Greuze, first exhibited at the 1761 Salon, where it was unanimously praised by the critics, notably by Diderot. It was the first example of the 'moral painting' genre, to which Greuze often returned. It is now in the Louvre Museum in Paris.
-<br>
-<br>It was part of a series of 6 paintings. Caroline de Valory, a former pupil of Greuze, collaborated with the writer Alexandre Louis Bertrand Robineau to produce L'Accordée de Village, a one-act comedy based on the paintings.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">1967 marks Piene's involvement with Sky art, a term he coined in 1969 and which allowed him to use landscape and cities themselves as the focal point of his work. For the closing of the 1972 Summer Olympics in Munich, Piene created the sky work Olympic Rainbow, made up of five differently coloured helium-filled polythene tubes, each one 600 m long.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
