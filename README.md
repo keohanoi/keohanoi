@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/pietro-falca/the-rhinoceros-1751.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00142/images/danny-dimauro/witching-hour.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Clara the Rhinoceros</h2>
+        <h2 class="artwork-name">Knighting of Danny diMauro</h2>
         <h3 class="artist">
-          Pietro Longhi
-                    ·  1751
+          di Mauro
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">According to the story, Clara was abandoned when she was a baby in India, after her mother was killed by Indian hunters. She was then adopted by the director of the Dutch East India Company, who sold her to Douvement van der Meer, a Dutch sea captain, who then took her to the Netherlands in 1740. Van der Meer began publicly exhibiting Clara upon his return to Belgium, and became so successful that he toured all of Europe with the rhinoceros. Longhi painted two versions of this painting, which are almost exactly the same, except for the men in the foreground, who in one version are masked, the other version unmasked. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Awoke from a dream reminding him of his Knighting in Casa Loma at four am he painted the memory on wood.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
