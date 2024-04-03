@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/ivan-albright/the-picture-of-dorian-gray-1944.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/charles-rennie-mackintosh/cintra-1908.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Picture of Dorian Gray</h2>
+        <h2 class="artwork-name">Cintra</h2>
         <h3 class="artist">
-          Ivan Albright
-                    ·  1944
+          Charles Rennie Mackintosh
+                    ·  1908
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ivan Albright painted this lurid portrait for the Oscar-winning movie adaptation of Oscar Wilde's 1891 novel The Picture of Dorian Gray. In Wilde's tale, Dorian Gray commissions a portrait of himself as an attractive young man and later trades his soul for an ever-youthful appearance. As the still-handsome Gray leads an increasingly dissolute and evil life, his painted representation rots and decays, revealing the extent of his moral corruption. Albright's renown as a painter of the macabre made him the ideal choice of Albert Lewin, the director of the movie, to paint the horrific image of Gray. Although the movie was shot in black and white, Lewin filmed the painted portrait in color to emphasize Gray's shocking transformation.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Mackintoshes visited Cintra in Portugal in 1908, presumably on holiday. This is one of the most elegant compositions of Mackintosh's flower studies, combining pencil drawings of the plant's leaves and a dissection of its seed pod, overlaid with a watercolour depiction of the flower in various stages of its life. This layering of different views and elements within a composition had been used regularly in his pencil architectural sketches from about 1900 onwards and can be seen in other drawings of Cintra buildings made at this time. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
