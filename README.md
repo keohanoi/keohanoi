@@ -2,31 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/john-trumbull/the-surrender-of-lord-cornwallis-1820.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/lorenzo-lotto/andrea-odoni-1527.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Surrender of Lord Cornwallis</h2>
+        <h2 class="artwork-name">Andrea Odoni</h2>
         <h3 class="artist">
-          John Trumbull
-                    ·  1820
+          Lorenzo Lotto
+                    ·  1527
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Surrender of Lord Cornwallis is an oil painting by John Trumbull. The painting was completed in 1820, and hangs in the rotunda of the United States Capitol in Washington, D. C.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Andrea Odoni is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, dating to 1527. It is housed in the Royal Collection of Buckingham Palace, London, United Kingdom.
 <br>
-<br>The painting depicts the surrender of British Major General Charles, Earl Cornwallis at Yorktown, Virginia on October 19, 1781, ending the Siege of Yorktown, and virtually guaranteeing American independence. Included in the depiction are many leaders of the American troops that took part in the siege.
+<br>The work is mentioned in 1532 by Marcantonio Michiel as part of Andrea Odoni's collection. It was also seen by the contemporary art biographer <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>, and it entered the English royal collection in 1660, having been bought at Amsterdam. In the past it has been attributed also to <a target="_blank" href="/en/titian">Titian</a> and <a target="_blank" href="/en/correggio">Correggio</a>.
 <br>
-<br>The artist spent the early part of the American Revolutionary War as a soldier, serving as an aide to both George Washington and Horatio Gates. After resigning from the army in 1777, he pursued a career as an artist. In 1785 he began sketching out ideas for a series of large-scale paintings to commemorate the major events of the American Revolution. After spending a time in England, he returned to New York City in 1789, where he sketched a number of dignitaries whose portraits he intended to use in these paintings. In 1791 he traveled to Yorktown, Virginia, where he sketched the landscape of the surrender site.
+<br>The style is typical of Lotto's Venetian period, with denser tones, a softer chromatic range and atmospheric effects at the boundaries.
 <br>
-<br>Upon his return from Britain after the end of the War of 1812, he promoted this idea to the United States Congress. On the strength of his application and the successful exhibition of Battle of Bunker's Hill, Death of Montgomery, as well as studies for other proposed paintings, the Congress in 1817 voted to commission four large paintings from him, to be hung in the United States Capitol rotunda.
+<br>The horizontal format, which Lotto had already experimented for portraits of couples, in this case was adopted also for a single subject, a Humanist portrayed among his collection of antiques marbles. It has been however supposed that the pieces shown were not real, but, more likely, models that have a symbolic role alluding to the nature and the virtues of the subject.
 <br>
-<br>The price was set at $8,000 per painting, with the size and subject matter to be determined by President James Madison. A size of twelve by eighteen feet (370 cm × 550 cm) was agreed, as was the subject matter for the four paintings: the Declaration of Independence, the Surrender of General Burgoyne, the Surrender of Lord Cornwallis, and Washington Resigning his Commission. Trumbull spent the next eight years executing the commission, completing this painting in 1820. It was displayed in New York City, Boston, and Baltimore before coming to Washington, D. C., and Trumbull supervised its hanging in the Capitol rotunda in late 1820. It has remained there ever since. Trumbull himself cleaned and varnished the painting in 1828, and it has been periodically maintained since. In 1971, damage from a penny that was thrown hard enough to pierce the canvas was repaired. All of the Rotunda paintings were most recently cleaned in 2008.
+<br>The man sits next to a table, with a rich fur-lined jacket, and holds a statuette, which perhaps portrays a Diana of Ephesus. The hands touching the chest is a sentimental theme typical of Lotto's works. The tables has also a book and some ancient coins.
 <br>
-<br>The subject of this painting is the surrender of the British army at Yorktown, Virginia, in 1781, which ended the last major campaign of the Revolutionary War. The blue sky filled with dark clouds and the broken cannon suggest the battles that led to this event. In early September, entrenched with a force of 7,000 men, Cornwallis had hoped for rescue from the sea, but the British vessels were repelled by a French fleet. Within weeks General Washington had deployed a much larger army, and his artillery bombarded the British positions in early October. After American and French troops overran two British strongholds, Cornwallis surrendered on October 19.
-<br>
-<br>In the center of the scene, American General Benjamin Lincoln appears mounted on a white horse. He extends his right hand toward the sword carried by the surrendering British officer, who heads the long line of troops that extends into the background. To the left, French officers appear standing and mounted beneath the white banner of the royal Bourbon family. On the right are American officers beneath the Stars and Stripes; among them are the Marquis de Lafayette and Colonel Jonathan Trumbull, the brother of the painter. General George Washington, riding a brown horse, stayed in the background because Lord Cornwallis himself was not present for the surrender.</span>
+<br>According to the Royal Collection archives, the painting was in the possession of Andrea Odoni, then his brother, Alvise Odoni by 1555, then Lucas van Uffelen, probably by 1623, then Gerrit Reynst, 1639, then the States of Holland and West Friesland for presentation to Charles II as part of the Dutch Gift, 1660. When the painting was in Amsterdam in the Van Uffelen collection (Van Uffelen returned to live there in 1630) or the Reynst Collection, it was engraved by Cornelis Visscher in reverse.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
