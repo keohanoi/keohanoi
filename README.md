@@ -2,29 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/lorenzo-lotto/andrea-odoni-1527.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/antonello-da-messina/annunciation-1474.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Andrea Odoni</h2>
+        <h2 class="artwork-name">Annunciation</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1527
+          Antonello da Messina
+                    ·  1474
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of Andrea Odoni is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/high-renaissance">High Renaissance</a> painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, dating to 1527. It is housed in the Royal Collection of Buckingham Palace, London, United Kingdom.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Annunciation is a painting by the Italian Renaissance master <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a>, executed in 1474. It is housed in the Bellomo Palace Regional Gallery, in the historical center of Syracuse, Sicily.
 <br>
-<br>The work is mentioned in 1532 by Marcantonio Michiel as part of Andrea Odoni's collection. It was also seen by the contemporary art biographer <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>, and it entered the English royal collection in 1660, having been bought at Amsterdam. In the past it has been attributed also to <a target="_blank" href="/en/titian">Titian</a> and <a target="_blank" href="/en/correggio">Correggio</a>.
+<br>The contract for the realization of the work was signed in the August 1474 by Antonello and Giuliano Maniuni, a priest from Palazzolo Acreide, for the local church of Santa Maria Annunziata. the work is subsequently not documented until it was rediscovered in 1897 by Enrico Mauceri, an employee of the Archaeological Museum of Syracuse. In 1902 a document esplicitly attributing the work to Antonello was found.
 <br>
-<br>The style is typical of Lotto's Venetian period, with denser tones, a softer chromatic range and atmospheric effects at the boundaries.
+<br>The painting, which was in a poor state of preservation, was restored in 2006.
 <br>
-<br>The horizontal format, which Lotto had already experimented for portraits of couples, in this case was adopted also for a single subject, a Humanist portrayed among his collection of antiques marbles. It has been however supposed that the pieces shown were not real, but, more likely, models that have a symbolic role alluding to the nature and the virtues of the subject.
+<br>The scene is set in a small room with a decorated beamed ceiling, supported by two columns which separate the right half of the painting (with the Virgin) from the left one (with the Angel). The background wall has two windows, with a third in another room visible on the right, according to an iconography derived from the Flemish painting, using different light sources and spatial openings also in interiors.
 <br>
-<br>The man sits next to a table, with a rich fur-lined jacket, and holds a statuette, which perhaps portrays a Diana of Ephesus. The hands touching the chest is a sentimental theme typical of Lotto's works. The tables has also a book and some ancient coins.
+<br>The objects and the furnitures, as usually in Antonello's works, are finely detailed. They include the Virgin's bed in the background room, the prie-dieu on which she is kneeling, the vase with a blue and white decoration in the foreground (now damaged). Mary has crossed hands while being reached by the dove of the Holy Spirit, sent by God through the opened window. She wears a typical blue mantle above a red dress. The angel, who holds the traditional lily (which is however hidden by a column) and blesses the Virgin, has a rich damask decoration. The face, crowned by long blonde hair, is adorned with a blue diadem, pearls and a ruby, typical details of the Flemish school.
 <br>
-<br>According to the Royal Collection archives, the painting was in the possession of Andrea Odoni, then his brother, Alvise Odoni by 1555, then Lucas van Uffelen, probably by 1623, then Gerrit Reynst, 1639, then the States of Holland and West Friesland for presentation to Charles II as part of the Dutch Gift, 1660. When the painting was in Amsterdam in the Van Uffelen collection (Van Uffelen returned to live there in 1630) or the Reynst Collection, it was engraved by Cornelis Visscher in reverse.</span>
+<br>Below is also the figure of a devout, the priest mentioned in the commission contract.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
