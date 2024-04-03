@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/tintoretto/battle-of-asola.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00234/images/bernardino-luini/st-catherine.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Battle of Asola</h2>
+        <h2 class="artwork-name">Saint Catherine</h2>
         <h3 class="artist">
-          Tintoretto
-                    ·  1544
+          Bernardino Luini
+                    ·  1527
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Siege of Asola is a painting by the Italian late Renaissance master <a target="_blank" href="/en/tintoretto">Tintoretto</a>, executed in 1544-1545. It is in a private collection.
-<br>
-<br>The canvas portrays two scenes. From the left to the middle is, in the foreground, a clash of knights occurred during the siege of the Venetian town of Asola by the troops of the Austrian emperor Maximilian I in 1516. Among the clashing soldiers is the banner of Asola, the fortress itself being shown in the background.
-<br>
-<br>On the right is depicted to homage of the citizens of Asola to the Venetian provveditore (curator) Francesco Contarini, the nobleman who organized the city's defence and forced Maximilian's troop to withdraw.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Luini was one of the most famous artists of the Milan school of painting, a follower of Leonardo da Vinci. He repeated Leonardo's favourite themes and types, making virtuoso use of sfumato, the soft misty chiaroscuro which seems to surround objects. The colouring of this picture is deep and calm brown and golden tones emphasizing the dense noble crimson colour of the saint's clothing. At her sides are two small angels holding palm branches, the attributes of martyrdom, and a spiked wheel on which, according to legend, Roman Emperor Maximinus ordered to torture St Catherine for her loyalty to the Christian faith .</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
