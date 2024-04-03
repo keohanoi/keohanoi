@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/theodore-gericault/portrait-of-a-kleptomaniac-1822.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/00451/images/pablo-picasso/1900first-communion.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of a Kleptomaniac</h2>
+        <h2 class="artwork-name">First Communion</h2>
         <h3 class="artist">
-          Théodore Géricault
-                    ·  1822
+          Pablo Picasso
+                    ·  1896
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Kleptomaniac or Portrait of an Insane Person (French&nbsp;: L'Aliéné or Le Kleptomane) is an 1822 oil painting by <a target="_blank" href="/en/theodore-gericault">Théodore Géricault</a>. It is part of series of ten portraits made for the psychiatrist Étienne-Jean Georget and is currently kept in the Museum of Fine Arts, Ghent, Belgium.
-<br>
-<br>The painting belongs to a series of ten portraits of the insane inmates of Salpêtrière asylum in Paris. Géricault made it nearly the end of his career and the five remaining portraits from the series represent the painter's last triumph. Psychiatrist Étienne-Jean Georget, one of the founders of social psychiatry, asked Géricault to do this painting which would represent each clinical models of disease. Georget believed that dementia was a modern disease, which depended in large part of social progress in industrialized countries. He believed that the madmen who were mentally ill need help. Instead of bringing the ill persons in a class room to examine their physical characteristics, the doctor instructed Géricault to paint models representing different types of madness. Dr. Georget much appreciated the objectivity in this series of works that established a link between romantic art and empirical science.
-<br>
-<br>The work was made quickly, which prefigured the concerns of the Impressionists. However, the painting did not belong to <a target="_blank" href="/en/artists-by-art-movement/impressionism">Impressionism</a>. At the time, to give dignity to those who were mentally ill was new: they were generally excluded from society, and the previous works represented madmen as possessed creatures or ludicrous people, according to a medieval belief.
-<br>
-<br>Géricault tried to show objectively the patient's face: the empty gaze of the kleptomaniac goes to infinity and his face is rigid, with a neglected beard and dirty neck. The paintings are noteworthy for their bravura style, expressive realism, and for their documenting of the psychological discomfort of individuals, made all the more poignant by the history of insanity in Géricault's family, as well as the artist's own fragile mental health.
-<br>
-<br> Media related to Portrait of a Kleptomaniac at Wikimedia Commons</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"First Communion" was Picasso’s first large-scale work. The canvas was painted in the atelier of José Garnelo Alda, where Picasso was completing his training following the advice of his father. Garnelo, a friend of José Ruiz’s and the brother of a fellow student of Picasso’s at La Llotja, was himself an art teacher who specialised in religious and moralising subject matter, so Picasso had a range of liturgical objects at his disposal on which to base his composition. In all likelihood, José Garnelo and Picasso’s father chose the motif of this oil painting that would be presented at the Exposition of Fine Arts and Crafts held in Barcelona in 1896, for such subject matter was usually distinguished with the prizes that José Ruiz hoped his son would win at the official salons. Furthermore, Garnelo was very familiar with the theme, for three years before he had painted a similar scene of a young girl, portrayed from the front and dressed for the occasion. The painting is balanced as befits academic standards, and presents a group of figures comprising the little girl dressed for the ceremony, kneeling before a missal on a prie-dieu (in whom we recognise Lola, the artist’s sister), the male character acting as godfather (who has been identified as Doctor Vilches, a friend of Picasso’s father’s) and the godmother (the latter’s wife, according to Palau i Fabre). The three figures appear in profile on three different planes, thereby giving depth to the composition, which is balanced by the figure of the altar boy (the couple’s son). The light source for the scene is located outside the picture plane and reveals Picasso’s technical command, surprising for his age, which is also evinced by the translucence of the girl’s veil, the altar boy’s surplice and the altar cloth, despite their conventionalism. The colour of the painting is also characteristic of the period and befits the religious subject matter: red hues for the walls and the prie-dieu, forming a contrast with the brilliant white of the girl’s dress. The discreet motifs of the carpet and the striped cloth, along with the bright cheerful colours of the altar flowers enhance the colouring of the ensemble. Two studies for First Communion in a sketchbook in the museum’s collection show the figure of Lola kneeling before the prieu-dieu reading the missal, and other sketches and depictions of the altar boy are also kept in the museum.<br><br><a target="_blank" href="https://museupicassobcn.cat/en/node/1024">museupicasso</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
