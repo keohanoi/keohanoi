@@ -2,31 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00129/images/caravaggio/the-seven-works-of-mercy.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/00221/images/richard-eurich/withdrawal-from-dunkirk-june-1940.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Seven Works of Mercy</h2>
+        <h2 class="artwork-name">Withdrawal from Dunkirk, June 1940</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1607
+          Richard Eurich
+                    ·  1940
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Seven Works of Mercy (Italian: Sette opere di Misericordia), also known as The Seven Acts of Mercy, is an oil painting by Italian painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>, circa 1607. The painting depicts the seven corporal works of mercy in traditional Catholic belief, which are a set of compassionate acts concerning the material needs of others.
-<br>
-<br>The painting was made for, and is still housed in, the church of Pio Monte della Misericordia in Naples. Originally, it was meant to be seven separate panels around the church; however, Caravaggio combined all seven works of mercy in one composition which became the church's altarpiece. The painting is better seen from il "coreto" (little choir) in the first floor.
-<br>
-<br>The titular seven works/acts of mercy are represented in the painting as follows:
-<br>
-<br>American art historian John Spike notes that the angel at the center of Caravaggio’s altarpiece transmits the grace that inspires humanity to be merciful.
-<br>
-<br>Spike also notes that the choice of Samson as an emblem of Giving Drink to the Thirsty is so peculiar as to demand some explanation. The fearsome scourge of the Philistines was a deeply flawed man who accomplished his heroic tasks through the grace of God. When Samson was in danger of dying of thirst, God gave him water to drink from the jawbone of an ass. It is difficult to square this miracle with an allegory of the Seven Acts of Mercy since it was not in fact the work of human charity.
-<br>
-<br>Regarding the sharp contrasts of the painting’s chiaroscuro, the German art historian Ralf van Bühren explains the bright light as a metaphor for mercy, which "helps the audience to explore mercy in their own lives".. Current scholarship has also established the connection between the iconography of "The Seven Works of Mercy" and the cultural, scientific and philosophical circles of the painting's commissioners..
-<br>
-<br>The Seven Works of Mercy was adapted for the theatre in 2016 by the Royal Shakespeare Company. Written by Anders Lustgarten, The Seven Acts of Mercy was directed by Erica Whyman, the Deputy Artistic Director at the Royal Shakespeare Company.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Dunkirk Evacuation, also known as the Dunkirk Miracle, is one of the most dramatic events of the Second World War. In the face of overwhelming German advance, between 26 May and 4 June 1940, 366,162 Allied soldiers were evacuated from Dunkirk. Some 800 boats had been involved in the gigantic rescue operation, not just naval destroyers and other large vessels, but also hundreds of the now so-called ‘little ships of Dunkirk’, which had risen to the occasion, ranging from pleasure and fishing crafts to merchant vessels.<br><br>Although this retreat could be seen as a defeat for the Allied forces, it was also recognised it as one of the greatest feats of the war, notably by the artist Richard Eurich.  He was one of the artists commissioned by the War Artists Advisory Committee, which had been set up at the beginning of the war to ‘secure pictures of artistic worth likely to be of historic interest as war records for future generations’. In addition to propaganda purposes and posterity, the Committee aimed to keep British artists in employment during wartime. The painting <i>Withdrawal from Dunkirk, June 1940</i> was used by the Navy as its Christmas card for 1940.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
