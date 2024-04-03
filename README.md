@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01605-72-dpi.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/petro-kholodny-older/icon-of-archangel-gabriel-1920.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">I have the right to be forgotten</h2>
+        <h2 class="artwork-name">Icon of Archangel Gabriel</h2>
         <h3 class="artist">
-          Jarik Jongman
-                    ·  2019
+          Petro Kholodny (Elder)
+                    ·  1920
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The iconostasis in the Holy Spirit Chapel of the Greek Catholic Theological Seminary in Lviv (1920s).</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
