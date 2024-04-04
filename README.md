@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00334/images/tania-bruguera/c-tedra-arte-de-conducta-1.png!Large.png"
+        src="https://uploads1.wikiart.org/images/christopher-wood/church-at-tr-boul-1930.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cátedra Arte de Conducta</h2>
+        <h2 class="artwork-name">Church at Tréboul</h2>
         <h3 class="artist">
-          Tania Bruguera
-                    ·  2009
+          Christopher Wood
+                    ·  1930
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Behavior Art School (Cátedra Arte de Conducta), conceived in 1998 by Tania Bruguera and implemented during 2002-2009 in Havana, is a public art framework, institutional framework, and long-term intervention "intended to create a space of alternative training to the system of art studies in contemporary Cuban society". It was focused on "the discussion and analysis of sociopolitical behavior and the understanding of art as an instrument for the transformation of ideology through the activation of civic action on its environment", aiming to transform certain spaces of society through art, understood not as symbolic representation, but as continuous transdisciplinary activity.<br><br>The project, involving guest professors from various artistic fields as well as sociology, engineering, and other professional areas, included free of charge activities such as workshops, debates, the creation of an international contemporary art archive, as well as thematic exhibitions consisting of pieces made by members who participated in events organized by guest curators. As Tania Bruguera states, "members of the project manage a flow of information allowing them to understand and choose their position vis-à-vis art and society."<br><br>Bruguera's project "has become a model for educational projects of a social and artistic nature and for artistic projects focused in offering educational activities".</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wood spent June and July 1930 painting in Brittany, basing himself in Tréboul, close to Douarnenez. This area was popular with both British and French painters and was close to Pont-Aven, which had been made famous by Gauguin whose work, together with that of Van Gogh, was important to Wood. In the space of forty days Wood painted some sixty canvases both from life and, at night, from postcards, mostly depicting scenes from the daily lives of the fishing community. Moving from the depiction of boats to architecture he claimed helped him to paint a 'quieter composition'.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
