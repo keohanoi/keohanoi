@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00294/images/aztec-art/head-of-a-water-deity-chalchiuhtlicue.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00281/images/sergio-illuminato/lari.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Head of a Water Deity (Chalchiuhtlicue)</h2>
+        <h2 class="artwork-name">LARI</h2>
         <h3 class="artist">
-          Aztec Art
-                    ·  1521
+          Sergio Mario Illuminato
+                    ·  2019
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Aztecs carved thousands of images of their gods in stones ranging from much-valued greenstones to ordinary volcanic rock. Sculptures like the present example were probably set up in household shrines where they were worshipped in family settings rather than in public ceremonies. Frequently portrayed Aztec deities are fertility goddesses, which include the water goddess <i>Chalchiuhtlicue</i> ("she of the jade skirt") depicted here. Identifying elements of the water goddess are the distinctive headdress consisting of multiple (in life probably cotton) bands wound about the head, the thick tassels attached to each side of the head, and the pleated (in life bark paper) ornament (amacuexpalli) in back of the head. Male counterparts of the water goddess, including the rain god Tlaloc, are often shown wearing the pleated bow at the neck. Shell and/or obsidian inlays in the eyes would once have lent the face a lifelike expression.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lari is the hominoid that should be able to look at the indefinable abyss that is generated between the content that each one tries to give to its existence and the reality that it will never succeed in bridging intentions. Steel and Titan white tell a timeless space, while the bordeaux of the profile recall the primitive colors extract by man. Finally, the style would like to be that of rock painting.<br><br>Lari è l’ominide che dovrebbe saper guardare l’indefinibile abisso che si genera tra il contenuto che ciascuno tenta di dare alla propria esistenza e la realtà che non riuscirà mai a colmare le intenzioni. L’acciaio e il bianco titano raccontano uno spazio senza tempo, mentre il bordeaux del profilo richiama i colori primitivi ricavati dall’uomo. Lo stile infine vorrebbe essere quello della pittura rupestre.<br><br>Lari est l'hominidé qui doit savoir regarder l'abîme indéfinissable généré entre le contenu que chacun tente de donner à son existence et la réalité qu'il ne réussira jamais à remplir ses intentions. L'acier et le blanc de titan révèlent un espace intemporel, tandis que le profil bordeaux rappelle les couleurs primitives obtenu par l'homme. Enfin, le style voudrait être celui de la peinture rupestre.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
