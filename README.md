@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00223/images/banksy/51q4xj7dnml-sy679.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00334/images/tania-bruguera/c-tedra-arte-de-conducta-1.png!Large.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Girl with Balloon</h2>
+        <h2 class="artwork-name">Cátedra Arte de Conducta</h2>
         <h3 class="artist">
-          Banksy
+          Tania Bruguera
+                    ·  2009
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Girl with Balloon (also, Balloon Girl or Girl and Balloon) is a 2002-started London series of stencil murals by the graffiti artist Banksy, depicting a young girl with her hand extended toward a red heart-shaped balloon carried away by the wind. The first work was on Waterloo Bridge, and other murals were around London, though none remain there. Banksy has several times used variants of this design to support social campaigns: in 2005 about the West Bank barrier, in 2014 about the Syrian refugee crisis, and also about the 2017 UK election. A 2017 Samsung poll ranked Girl with Balloon as the United Kingdom's number one favourite artwork.<br><br>In 2018, a framed copy of the work spontaneously shredded during an auction, by way of a mechanical device Banksy had hidden in the frame. Banksy authenticated he was responsible for the shredding and gave the altered piece a new name, Love Is in the Bin. Sotheby said it was "the first work in history ever created during a live auction."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Behavior Art School (Cátedra Arte de Conducta), conceived in 1998 by Tania Bruguera and implemented during 2002-2009 in Havana, is a public art framework, institutional framework, and long-term intervention "intended to create a space of alternative training to the system of art studies in contemporary Cuban society". It was focused on "the discussion and analysis of sociopolitical behavior and the understanding of art as an instrument for the transformation of ideology through the activation of civic action on its environment", aiming to transform certain spaces of society through art, understood not as symbolic representation, but as continuous transdisciplinary activity.<br><br>The project, involving guest professors from various artistic fields as well as sociology, engineering, and other professional areas, included free of charge activities such as workshops, debates, the creation of an international contemporary art archive, as well as thematic exhibitions consisting of pieces made by members who participated in events organized by guest curators. As Tania Bruguera states, "members of the project manage a flow of information allowing them to understand and choose their position vis-à-vis art and society."<br><br>Bruguera's project "has become a model for educational projects of a social and artistic nature and for artistic projects focused in offering educational activities".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
