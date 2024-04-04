@@ -2,25 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/john-everett-millais/the-blind-girl-1856.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/frank-stella/harran-ii-1967.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Blind Girl</h2>
+        <h2 class="artwork-name">Harran II</h2>
         <h3 class="artist">
-          John Everett Millais
-                    ·  1856
+          Frank Stella
+                    ·  1967
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Blind Girl (1856) is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> which depicts two itinerant beggars, presumed to be sisters, one of whom is a blind musician, her concertina on her lap. They are resting by the roadside after a rainstorm, before travelling to the town of Winchelsea, visible in the background.
-<br>
-<br>The painting has been interpreted as an allegory of the senses, contrasting the experiences of the blind and sighted sisters. The former feels the warmth of the sun on her face, and fondles a leaf of grass, while the latter shields her eyes from the sun or rain and looks at the unusual spectacle of a double rainbow that has just appeared. Some critics have interpreted the rainbow in Biblical terms, as the sign of God's covenant described in Genesis 9:16.
-<br>
-<br>When the painting was first exhibited in 1856 it was pointed out to Millais that in double rainbows the inner rainbow inverts the order of the colours. Millais had originally painted the colours in the same order in both rainbows. He altered it for scientific accuracy.
-<br>
-<br>A tortoiseshell butterfly rests on the blind girl's shawl, implying that she is holding herself extremely still. The sheet around her neck is captioned "Pity the Blind".</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In his exploration of formal issues, Stella habitually worked in series, developing increasingly complicated variations on selected themes. In contrast to the monochrome Black Paintings, the Protractor series, to which Harran II belongs, deploys a vivid palette and composition consisting of rectangular shapes superimposed on curving and circular forms. As in The Marriage of Reason and Squalor, Harran II's stripes emphasize the flatness of the composition, reminding the viewer that a painting is merely canvas covered with paint. This concept is reinforced by the use of the shaped canvas, which, challenging the conventional rectangular format, further denies the painting's status as illusionistic window and enhances its "object-like" quality. Harran II - whose title comes from the name of an ancient city in Asia Minor - invites parallels with sculpture as well as architecture. Measuring a massive 10 x 20 feet, the work is architectural in scale, while its composition was based on the semicircular drafting tool for measuring and constructing angles.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
