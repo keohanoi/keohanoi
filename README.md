@@ -2,25 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/antonello-da-messina/st-sebastian-1477.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/jean-leon-gerome/the-duel-after-the-masquerade.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Sebastian</h2>
+        <h2 class="artwork-name">The Duel After the Masquerade</h2>
         <h3 class="artist">
-          Antonello da Messina
-                    ·  1477
+          Jean-Leon Gerome
+                    ·  1859
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St. Sebastian is a painting, once part of a triptych by the Italian Renaissance artist <a target="_blank" href="/en/antonello-da-messina">Antonello da Messina</a>, completed in 1477-9. It is housed in the Gemäldegalerie Alte Meister, Dresden, Germany.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Duel After the Masquerade is a painting by the French artist <a target="_blank" href="/en/jean-leon-gerome">Jean-Léon Gérôme</a>, currently housed in the Musée Condé in Chantilly, France.
 <br>
-<br>The visit of the Sicilian artist Antonello da Messina to Venice in 1475–6 has traditionally been seen as turning point in the history of the city's painting – <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a> crediting him with introducing oil painting to Venice. Antonello painted two altarpieces for Venetian churches, one for the church of San Cassiano, and the other, of which the St Sebastian once formed part, for the altar of the Scuola di San Rocca in the parish church of San Giuliano. It has often been assumed to have been painted in Venice in 1476, but it may have been painted only after Antonella's return to Sicily in the autumn of that year. A description by Francesco Sansovino, dating from 1581, indicates that the altarpiece consisted of a wooden statue of St Roche, flanked by painted panels showing St Christopher and St Sebastian. Sansovino describes the panel of St Christopher as being by Antonello, and that of St Sebastian as being by "Pino da Messina" (i.e. his son Jacobello or "Jacopino"). However art historians have generally accepted Antonello's authorship of the St Sebastian. The statue and the painting of St Christopher are now lost.
+<br>In 1859, William Thompson Walters purchased The Duel After the Masquerade at the National Academy of Design in New York for $2,500. The painting is a replica by Gérôme of his 1857 work Suite d'un bal masqué, painted for the duc d'Aumale. The original is part of the collection of the Musée Condé in Chantilly, France. It was not unusual for artists to replicate their own paintings and other versions had also been painted for Prince Alexander of Russia and for the Ali Pacha. Walters asked the manager of the exhibition at the National Academy of Design for a letter of authentication from Gérôme and a comparison of the work he had purchased to the original.
 <br>
-<br>This picture, dominated by the vertical figure of the saint, shows a marked influence by <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a>: this can be seen in particular in the perspective of the floor and in the "mathematical" disposition of the figurative elements. Original to Antonello is the smooth rendering of the body of St. Sebastian (defying any geometrical break-down) and the passion for the details of landscape, seen for example in Umbrian school painters like <a target="_blank" href="/en/carlo-crivelli">Carlo Crivelli</a>.
+<br>The original became famous almost overnight with the critics of the Salon speculating about Gerome's sources for the incident depicted in the painting. In a poll taken in the winter of 1909–1910, Baltimoreans were asked to identify their fifty-five favorite works of art and The Duel After the Masquerade topped the list.
 <br>
-<br>Famous details include the man reclining on the left, the typical Venetian-style chimneys, the columns and the monumental appearance of the buildings (probably inspired by some of <a target="_blank" href="/en/andrea-mantegna">Mantegna</a>'s works) and the debating pairs of men on the right side, forming an interesting mixing of late <a target="_blank" href="/en/artists-by-art-movement/gothic-art">Gothic</a> elements with Venetian, Flemish and advanced Renaissance ones.</span>
+<br>The scene is set on a gray winter morning in the Bois de Boulogne, trees bare and snow covering the ground. A man dressed as a Pierrot has been mortally wounded in a duel and has collapsed into the arms of a Duc de Guise. A surgeon, dressed as a doge of Venice, tries to stop the flow of blood, while a Domino clutches his own head.
+<br>
+<br>The survivor of the duel, dressed as an American Indian, walks away with his second, Harlequin, leaving behind his weapon and some feathers of his headdress, towards his carriage, shown waiting in the background.
+<br>
+<br>The bizarreness of the scene in regard to the brightly colored costumes turns to pathos at the sight of blood on the Pierrot.
+<br>
+<br>The Walters indicates that the work has been included in the following exhibitions:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
