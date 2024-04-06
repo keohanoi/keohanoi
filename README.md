@@ -2,32 +2,29 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00138/images/joseph-anton-koch/inf-33-joseph-anton-kock-ugolino-con-i-figli-nella-torre-della-fame.jpg"
+        src="https://uploads7.wikiart.org/images/jacob-isaakszoon-van-ruisdael/the-ray-of-sunlight-1660.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Antenora, Ugolino with his sons in the Tower of Hunger</h2>
+        <h2 class="artwork-name">The Ray of Sunlight</h2>
         <h3 class="artist">
-          Joseph Anton Koch
+          Jacob van Ruisdael
+                    ·  1660
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Count Ugolino della Gherardesca (c. 1220&nbsp;– March 1289), count of Donoratico, was an Italian nobleman, politician and naval commander. He was frequently accused of treason and features prominently in Dante's Divine Comedy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Ray of Light, also known as Le Coup de Soleil, (c. 1665) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch painter Jacob van Ruisdael. It is an example of Dutch Golden Age painting and is now in the collection of the Louvre Museum.
 <br>
-<br>In the 13th century, Italy was beset by the strife of two parties, the Ghibellines and the Guelphs. While the conflict was local and personal in origin, the parties had come to be associated with the two universal powers: the Ghibellines sided with the Holy Roman Emperor and his rule of Italy, while the Guelphs sided with the Pope, who supported self-governing city-states.
+<br>This painting was documented by Hofstede de Groot in 1911, who wrote; "664. THE BURST OF SUNSHINE (" Le Coup de Soleil ").
 <br>
-<br>Pisa was controlled by the Ghibellines, while most of the surrounding cities were controlled by the Guelphs, most notably Pisa's trading rivals Genoa and Florence. Under the circumstances, Pisa adopted the "strong and vigilant government" of a podestà "armed with almost despotic power"
+<br>Sm. 11. A road leads diagonally across the picture from the left foreground to the right distance. On the left a horseman in a red cloak rides forward&nbsp;; a beggar asks him for alms. A dog runs in front. In the centre the road crosses a stone bridge of four arches over a river to a ruined square tower with an archway. The broad river flows to the right, where three persons bathe near rocks in mid stream. On the farther bank are hills, with a ruined castle half-way up the slope. To the right is a wind-mill; farther back is a village with a church tower. A ray of sunlight, breaking through thick clouds, falls on a field in the left middle distance. The figures, though ascribed in the catalogue to Ph. Wouwerman, are by Ruisdael himself. The picture is strongly influenced by <a target="_blank" href="/en/rembrandt">Rembrandt</a>'s landscapes, especially in composition. [Cf. 788.] Signed with the monogram on the left&nbsp;; canvas, 33 inches by 39 inches.
 <br>
-<br>Ugolino was born in Pisa into the della Gherardesca family, a noble family of Germanic origins whose alliance with the Hohenstaufen Emperors had brought to prominence in Tuscany and made them the leaders of the Ghibellines in Pisa.
+<br>Engraved by Laurent in the Musée Français. In the collection of King Louis XVI.
 <br>
-<br>Between 1256 and 1258 he participated in the war against the filo-genoese giudicato of Cagliari, in Sardinia. Ugolino then obtained the south-western portion of the former giudical territory, with its rich silver mines, where he founded the important city of Villa di Chiesa, today Iglesias.
+<br>In the Louvre, Paris, 1902 catalogue, No. 2560; it was valued by the experts in 1816 (at 15,000 francs)".
 <br>
-<br>As head of his family, the Ghibelline party and podestà of Pisa, Ugolino took action to preserve his power in the face of the political hostility of Pisa's neighbours. In 1271, through a marriage of his sister with Giovanni Visconti, judge of Gallura, he allied himself with the Visconti, the leaders of the Guelphs in Pisa. In doing so, he aroused the suspicions of his fellow Ghibellines.
-<br>
-<br>The subsequent disorders in the city in 1274 led to the arrest of both Ugolino and Giovanni, who were accused of plotting to undermine Pisa's government and, with the support from Tuscany's Guelphs, share power among themselves. Ugolino was imprisoned and Giovanni banished from Pisa. Giovanni Visconti died soon afterwards, and Ugolino, no longer regarded as a threat, was set free and banished. In exile, Ugolino immediately began to intrigue with the Guelph cities of Florence and Lucca. With the help of Charles I of Anjou, he attacked his native city and forced it to make peace on humiliating terms, pardoning him and all the other Guelph exiles. After his return, Ugolino at first remained aloof from politics but quietly worked to reassert his influence.
-<br>
-<br>In 1284, war broke out between Pisa and Genoa and both Ugolino and Andreotto Saracini were appointed as captains of two divisions of fleets by Alberto Morosini, the Podestà of Pisa. The two fleets met in August in the Battle of Meloria. The Genoese fought valiantly and destroyed seven Pisan galleys and captured twenty-eight. Among the eleven thousand captives was the Podestà. Ugolino and his division set the sign of surrender and withdrew, deciding the battle in favour of Genoa. This flight was later interpreted as treachery but not by any writer earlier than the 16th century.</span>
+<br>Influences:</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
