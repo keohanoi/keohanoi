@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00237/images/ancient-greek-painting/pair-of-eyes-450.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/canaletto/capriccio-a-palladian-design-for-the-rialto-bridge-with-buildings-at-vicenza.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pair of Eyes</h2>
+        <h2 class="artwork-name">Capriccio: a Palladian Design for the Rialto Bridge, with Buildings at Vicenza</h2>
         <h3 class="artist">
-          Ancient Greek Painting and Sculpture
-                    ·  -450
+          Canaletto
+                    ·  1745
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Greek and Roman statues were designed to give a colorful lifelike impression. Marble and wood sculptures were brightly painted, and bronze statues were originally a pale fleshlike brown. Lips and nipples were often inlaid with copper, and teeth with silver. Eyes were usually made separately and set into prepared sockets. This pair, designed for an over-lifesize statue, gives a sense of the potent immediacy that ancient sculpture could convey.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/255977">The MET</a></span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Capriccio with Palladian buildings (Italian: Capriccio con edifici palladiani) is an oil painting on canvas (58x82 cm) by Canaletto, dating from about 1756 to 1759 and stored in the Galleria Nazionale Di Parma.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
