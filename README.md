@@ -2,28 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/pietro-perugino/madonna-in-glory-with-the-child-and-saints.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/jean-tinguely/m-ta-matic-no-14-1959.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna in Glory with the Child and Saints</h2>
+        <h2 class="artwork-name">Méta-Matic No. 14</h2>
         <h3 class="artist">
-          Pietro Perugino
-                    ·  1496
+          Jean Tinguely
+                    ·  1959
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna in Glory with Saints is a painting by the Italian Renaissance painter <a target="_blank" href="/en/pietro-perugino">Pietro Perugino</a>, dating to c. 1500–1501. It is housed in the Pinacoteca Nazionale of Bologna, Italy.
-<br>
-<br>It was originally located in the Scarani Chapel of the church of San Giovanni in Monte.
-<br>
-<br>The scheme of the composition, typical of Perugino's mature works (based on the lost Assumption of the Sistine Chapel and used in numerous works of the period, such as the San Francesco al Prato Resurrection and the Vallombrosa Altarpiece), includes two different levels. The Madonna with Child, depicted within an almond in the upper part; and a group of four saints above a hilly landscape in the lower one.
-<br>
-<br>The saints are, from the left: the Archangel Michael (with a decorated armor), Catherine of Alexandria (with her traditional attributed of the torture wheel), Apollonia (with the pincer of her martyrdom) and John the Evangelist, who has the Tetramorph eagle).
-<br>
-<br>Perugino's signature (PETRUS PERUSINUS PINXIT) can be seen on Catherine's wheel.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The portable and hand-driven “Méta-Matic No. 14” emphasises the happening aspect even more dramatically than the other drawing machines. Here it becomes particularly obvious that it is the moment of drawing, the interaction between art viewer (art user) and machine sculpture that actually constitutes the artwork, and that the drawing produced in the process is more like a document of a lived interaction than an artwork in its own right.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
