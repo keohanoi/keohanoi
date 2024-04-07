@@ -2,33 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/fra-angelico/san-domenico-altarpiece-1430.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/diego-rivera/dream-of-a-sunday-afternoon-in-alameda-park-1948.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">San Domenico Altarpiece</h2>
+        <h2 class="artwork-name">Dream of a Sunday Afternoon in Alameda Park</h2>
         <h3 class="artist">
-          Fra Angelico
-                    ·  1430
+          Diego Rivera
+                    ·  1948
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Fiesole Altarpiece is a painting by the Italian early Renaissance master <a target="_blank" href="/en/fra-angelico">Fra Angelico</a>, executed around 1424–1425. It is housed in the Convent of San Domenico, Fiesole, central Italy. The background was repainted by Lorenzo di Credi in 1501.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sueño de una tarde dominical en la Alameda Central or Dream of a Sunday Afternoon in the Alameda Central is a mural created by <a target="_blank" href="/en/diego-rivera">Diego Rivera</a>. It was painted between the years 1946 and 1947, and is the principal work of the Museo Mural Diego Rivera adjacent to the Alameda in the historic center of Mexico City.
 <br>
-<br>The altarpiece is among the earliest known works by Fra Angelico. It was originally commissioned for the high altar in the convent's church, but was later moved to a side altar where it is currently visible.
+<br>The mural was originally created at the request of architect Carlos Obregón Santacilia, and displayed in the Versailles restaurant at the hotel Prado. When the hotel was destroyed in the 1985 Mexico City earthquake, the mural was restored and moved to its own museum.
 <br>
-<br>In 1501 Lorenzo di Credi repainted the background, which was probably gilded, with a more modern landscape featuring a throne with baldachin, trompe-l'oeil reliefs and two landscapes between pillars. The Gothic cusps were also eliminated in that occasion.
+<br>The mural depicts famous people and events in the history of Mexico, passing through the Alameda Central park in Mexico City. Some notable figures include <a target="_blank" href="/en/frida-kahlo">Frida Kahlo</a>, <a target="_blank" href="/en/jose-guadalupe-posada">José Guadalupe Posada</a>, Francisco I. Madero, Benito Juárez, Sor Juana Inés de la Cruz, Porfirio Díaz, Agustín de Iturbide, Ignacio Manuel Altamirano, Maximilian I of Mexico, Juan de Zumárraga, Antonio López de Santa Anna, Winfield Scott, Victoriano Huerta, José Martí, Manuel Gutiérrez Nájera, Hernán Cortés, Nicolás Zúñiga y Miranda, and La Malinche.
 <br>
-<br>The work is a Maestà, a Madonna enthroned, a theme particularly fashionable in Florentine art at the time. The central group with the Madonna and Child is surrounded by eight adoring angels depicted in smaller size. The saints Thomas of Aquino, Barnabas, Dominic and Peter of Verona are at the sides: these were three saints of the Dominican Order (the same owning the convent) and the namesake of Barnaba degli Agli, a Florentine man who had donated 6,000 florins for the convent's restoration and enlargement.
-<br>
-<br>The naked Child is shown while grasping two flowers: a white rose, symbol of purity, and a red one, a forecast of his future passion connected with the Eucharist: the panel was in fact painted for the church's high altar, where the celebration of this sacrament occurs.
-<br>
-<br>The composition resembles that of <a target="_blank" href="/en/masaccio">Masaccio</a>'s San Giovenale Triptych (1422). The scheme is also similar to the cartoon of the Assumption by Lorenzo Ghiberti for the windows in the façade of Florence Cathedral (1404–1405). It is also one of the most ancient polyptychs in which the figures are in the same painted surface, without being divided into different compartments.
-<br>
-<br>Elements such as the less evolved perspective and the tile pavements (also found in an anonymous Florentine triptych from 1419 and an altarpiece by Angelico himself at San Gimignano) led to the datation of some three years before his San Pietro Martire Triptych, which is documented from 1428.
-<br>
-<br>The work had a predella, now at the National Gallery, London and portraying Adoration of Saints, Prophets and Members of the Dominican Order. The latter also houses a tondo with St. Romulus, perhaps located above the polyptych. The side pillars were decorated by ten small panels with saints and blessed, four of which are known today: two are at the Musée Condé of Chantilly and two in private collections.</span>
+<br>The central focus of the mural is on a display of bourgeois complacency and values shortly before the Mexican Revolution of 1910. Elegantly dressed upper-class figures promenade under the figure of the long ruling dictator Porfirio Díaz. An indigenous family is forced back by police batons and to the right flames and violence loom. To the far left, victims of the Inquisition, wearing the penitential sanbenito robes and the conical coroza hat, are consigned to the flames at an auto-da-fé. The center of the mural is dominated by the elegantly dressed skeleton La Calavera Catrina holding arms with the Mexican graphic artist who first conceived and drew her, <a target="_blank" href="/en/jose-guadalupe-posada">José Guadalupe Posada</a> in a black suit and cane. La Catrina wears a Feathered Serpent boa around her shoulders. On La Catrina's right she is holding hands with a child version of <a target="_blank" href="/en/diego-rivera">Diego Rivera</a> in short pants. Rivera's wife <a target="_blank" href="/en/frida-kahlo">Frida Kahlo</a> is standing just behind and between him and La Catrina; Kahlo has her hand on Rivera's shoulder and she is holding a yin-yang device. La Malinche and <a target="_blank" href="/en/jose-guadalupe-posada">Posada</a> are staring directly into each other's eyes.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
