@@ -2,21 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00129/images/gustave-courbet/a-burial-at-ornans.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/johannes-vermeer/woman-with-a-lute.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Burial at Ornans</h2>
+        <h2 class="artwork-name">Woman with a lute</h2>
         <h3 class="artist">
-          Gustave Courbet
-                    ·  1850
+          Johannes Vermeer
+                    ·  1664
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This painting depicts the burial of Courbet’s great uncle in the small French town of Ornans, and it is considered to be one of the turning points in French art. The painting depicted the scene with an unflattering air, and it did not romanticize the depictions of grief and mourning, as in traditional Romantic paintings. Critics of the piece decried both the style of the painting as well as the size. At 10 feet tall by 22 feet wide, the size of the canvas was typically reserved for religious or heroic scenes, and the painting critics said was intentionally ugly and harsh. For the subjects in the painting, Courbet also used the real people who had actually been at the burial, rather than actors used as models for the art. As it had such a deleterious effect on the Romantic style of painting, it could also be easily called “The Burial of Romanticism,” as Courbet himself said: “The Burial at Ornans was in reality the burial of Romanticism.”
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Woman with a Lute, also known as Woman with a Lute Near a Window, is a painting created about 1662–1663 by Dutch painter <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a> and now at the Metropolitan Museum of Art in New York.
 <br>
-<br>This 22 foot long canvas situated in a main room at the Musee d'Orsay buries the viewer as if he or she were in a cave. In a decidedly non-classical composition, figures mill about in the darkness, unfocused on ceremony. As a prime example of Realism, the painting sticks to the facts of a real burial and avoids amplified spiritual connotations. Emphasizing the temporal nature of life, Courbet intentionally did not let the light in the painting express the eternal. While sunset could have expressed the great transition of the soul from the temporal to the eternal, Courbet covered the evening sky with clouds so the passage of day into night is just a simple echo of the coffin passing from light into the dark of the ground. Some critics saw the adherence to the strict facts of death as slighting religion and criticized it as a shabbily composed structure with worn-faced working folk raised up to life-size in a gigantic work as if they had some kind of noble importance. Other critics such as Proudhon loved the inference of equality and virtue of all people and recognized how such a painting could help turn the course of Western art and politics.</span>
+<br>The painting depicts a young woman wearing an ermine-trimmed jacket and enormous pearl earrings as she eagerly looks out a window, presumably expecting a male visitor. "A musical courtship is suggested by the viola da gamba on the floor in the foreground and by the flow of songbooks across the tabletop and onto the floor," according to a web page about the work at the Metropolitan Museum of Art website. The tuning of a lute was recognized by contemporary viewers as a symbol of the virtue of temperance. The <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil on canvas</a> work is 20¼&nbsp;inches high and 18&nbsp;inches wide (51.4 × 45.7&nbsp;cm). The painting's canvas was almost certainly cut from the same bolt as that used for Lady Writing a Letter with her Maid.
+<br>
+<br>The work likely was painted shortly after Young Woman with a Water Pitcher, and it shares with that painting its framing of the figure within rectangular motifs. But the painting has more muted tones, reflecting a shift in that direction by Vermeer in the mid- to late 1660s. At this time, Vermeer began using shadows and soft contours to further evoke an atmosphere of intimacy. "The impression of spatial recession and atmosphere is somewhat diminished by darkening with age of the objects in the foreground and by abrasion of the paint surface, mostly in the same area," according to the Metropolitan Museum of Art web page.
+<br>
+<br>The painting was given to the museum in 1900 by a bequest of railroad industrialist Collis P. Huntington.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
