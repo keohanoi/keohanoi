@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/james-rosenquist/silo-1964.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/jean-auguste-dominique-ingres/the-vow-of-louis-xiii-1824.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Silo</h2>
+        <h2 class="artwork-name">The Vow of Louis XIII</h2>
         <h3 class="artist">
-          James Rosenquist
-                    ·  1964
+          Jean Auguste Dominique Ingres
+                    ·  1824
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This picture was originally based on part of the 'T-zone' (i.e. taste zone) image from Camel cigarette advertisements. It was shown in its first state in Rosenquist's exhibition at the Green Gallery in January-February 1964 under the title 'Candidate', and was reproduced on the poster announcement. At that time the image consisted mainly of a huge head of a girl, full face, holding a cigarette in one hand, against a red background. Her lips were parted in a dazzling smile. The T-shaped enclosure which stood in front of the painting (and which framed and gave prominence to the area of the mouth and throat) had an illuminated 25 watt light bulb hanging from its top, just above the row of gleaming teeth, while its lower part enclosed a chair with a pan of water beneath it containing five artificial flowers painted in Day-Glo colours. 
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Vow of Louis XIII is an 1824 painting by Jean-Auguste-Dominique Ingres, now in Montauban Cathedral. It shows a vow to the Virgin Mary by Louis XIII of France. It is an oil painting on canvas measuring 421 x 262 cm.
 <br>
-<br>Rosenquist said with regard to this work that advertising, especially in the United States, has become a constant bombardment of images, a kind of brainwashing. The chair was like a seat for brainwashing; in fact he even thought of allowing people to sit in it during the exhibition.
+<br>It was commissioned by France's Ministry of Interior in August 1820 for the cathedral of Notre-Dame in Montauban. The subject of the painting was to be Louis XIII's vow in 1638 to consecrate his kingdom to the Virgin in Her Assumption. When Ingres accepted the commission, he was living in Florence. Although he had experienced success as a portrait painter, his ambition was to establish a reputation in the more prestigious genre of <a target="_blank" href="/en/paintings-by-genre/history-painting">history painting</a>. He went to work with his usual diligence, and spent four years bringing the large canvas to completion.
 <br>
-<br>As he wrote on 5 January 1974: 'Later that year, I continued to work on it and it became what is now Silo. It was shown at the Dwan Gallery in Los Angeles in autumn of 1964, therefore, mid-summer 1964 would be the completion of the final state of this work.' The upper part of the picture, from just above the level of the chin, was entirely overpainted in blue, while the T-zone was repainted with a combination of images, a dish rack, a woman's hand pulling off a piece of wax paper and a fuzzy picture of branches and leaves. He also attached a small blackboard to this area. He had previously used a larger section of the same advertising image of a dish rack in another picture of 1964 called 'Dishes', now in the collection of Virginia Wright, Seattle. Instead of being the zone where cigarette smoke is savoured, the woman's nose, mouth and throat become in the final version the place where she chews things up and they become digested, almost fermented - hence the new title 'Silo'. It was originally his intention when overpainting to reduce the picture to the lower zone, but he found in the end that the whole area was still necessary.</span>
+<br>He travelled to Paris with it in October 1824. It was a critical success at that year's Salon and was later seen as representing Ingres as the main representative of classicism, in opposition to the romanticism represented at the same Salon by The Massacres of Scio by <a target="_blank" href="/en/eugene-delacroix">Delacroix</a>. Conceived in a <a target="_blank" href="/en/raphael">Raphaelesque</a> style relatively free of the archaisms for which he had been reproached in the past, it marked Ingres' grand return to the Paris art world after his years in Rome and Florence, and his abandonment of a more daring style. Ingres found himself celebrated throughout France. In January 1825 he was awarded the Cross of the Légion d'honneur by Charles X, and in June 1825 he was elected to the Institute.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
