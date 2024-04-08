@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00381/images/rosa-bonheur/highland-raid-rosa-bonheur.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/michael-bell/never-look-back-2009.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Highland Raid</h2>
+        <h2 class="artwork-name">Never Look Back</h2>
         <h3 class="artist">
-          Rosa Bonheur
-                    ·  1860
+          Michael Bell
+                    ·  2009
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1855, Rosa Bonheur went to Scotland to meet Queen Victoria who loved animal painting. There, the artist did several sketches; some of them she developed later into paintings with Scottish themes, <i>Highland Raid</i> among them. The subject was anachronistic, as the Scots were not doing cattle raids in the 1850s and 1860s; this practice was dropped a hundred years before. But the subject gave Bonheur an excellent opportunity to show all types of hurting animals: goats, cows of different races, colors, and textures of the fur. <br><br>The excellent study of the anatomy that distinguished the Bonheur's painting emerges in every subject of the work, combined with an extraordinary setting and clever use of <i>chiaroscuro</i>. The steep nature of the land allows the artist to play with the background environment and open, on the left, a patch of the rough sea under the stormy, leaden sky, crossed by clear sun rays, as is typical of the Scottish imaginary. The men are silhouetted in the running, as the real protagonists here are the living beings unable to communicate but through the power of the muscles, the forced and restless poses. Three bulls in the front row look at the observer to involve him in work. The black bull, a powerful, attentive one, is the center of the painting. He serves as an axis of symmetry to the picture through the outstretched ears, and the fixed gaze searching our attention. Further to the right, a light bull with a raised hoof shows itself in profile as it scans the sea, perhaps in search of an escape route. Each animal is not only physically described, but also has a unique kind of emotional quality.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In "Ticket to Ride" Michael Bell created a cinematic painting series as a journey through one woman’s harrowing search for redemption, only nothing inspires redemption quite like revenge.
+<br>
+<br>"Never Look Back" is the fourth of nine large-format mixed-media paintings that range from emotionally-driven portraits as allegories reminiscent of dramatic film-stills to dark, ambiguous hotel room scenes and metropolitan landscapes on 60" X 60" canvases overlaid with mixed-media subway maps painted into the background of each work. 
+<br>
+<br>Bell’s narrative strategy is for the viewer to question how much of Ticket to Ride is just a dream, and how much is rooted in reality. Its major movement is the journey taken by an Italian Femme Fetale that begins on a New York City subway platform awaiting her metaphorical “train” and her journey continues -- painting by painting -- like a roller coaster ride through her mind.  
+<br> 
+<br>In Never Look Back our Italian Femme Fetale contradicts the title by doing exactly what the title suggests she not do, as she glances back at a White Surveillance Van in the alley.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
