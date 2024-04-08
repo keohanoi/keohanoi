@@ -2,18 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/gustave-dore/cover.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/mary-cassatt/the-cup-of-tea-1879.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Raven (Cover)</h2>
+        <h2 class="artwork-name">The Cup of Tea</h2>
         <h3 class="artist">
-          Gustave Dore
+          Mary Cassatt
+                    ·  1879
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Edgar Allen Poe published his poem The Raven in 1845, and although it did not bring the writer much money, it did bring him much fame. The poem became very popular, and it soon became republished, printed, illustrated, and parodied all throughout culture. Gustave Dore’s illustrations of the poems are an example of the response to the poem. Dore’s illustrations to the poem appeared in an independent publication in 1884, almost forty years after the original was published. Unfortunately, Dore was never able to see these illustrations in print, as he died before it was published. It remains one of the most famous poems ever written. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mary Cassatt’s sister Lydia was a big part of her life. Neither of them deciding to marry, they lived together in France until Lydia’s death in 1882. While she was alive, Mary used Lydia as a model in many of her paintings, The Cup of Tea being one of them. This painting is more of a genre painting than a portrait, as it represents a social custom that Cassatt revisited many times in her paintings: the taking of a cup of tea. Painted in an impressionistic manner, many art critics viewed the painting as unfinished, due to the fact that Cassatt left small peripheral portions of the canvas unpainted. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
