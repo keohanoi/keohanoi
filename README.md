@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/helen-frankenthaler/mountains-and-sea-1962.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/sonya-rapoport/digital-mudra-1989.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Mountains and Sea</h2>
+        <h2 class="artwork-name">Digital Mudra</h2>
         <h3 class="artist">
-          Helen Frankenthaler
-                    ·  1952
+          Sonya Rapoport
+                    ·  1989
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Initially associated with abstract expressionism, her career was launched in 1952 with the exhibition of Mountains and Sea. This painting (inspired by inspired by a trip to Nova Scotia) is large - measuring seven feet by ten feet - and has the effect of a watercolor, though it is painted in oils. In it, she introduced the technique of painting directly onto an unprepared canvas so that the material absorbs the colors. She heavily diluted the oil paint with turpentine so that the color would soak into the canvas. This technique, known as "soak stain" was used by Jackson Pollock (1912–1956), and others; and was adopted by other artists notably Morris Louis (1912–1962), and Kenneth Noland (1924–2010), and launched the second generation of the Color Field school of painting. This method would sometimes leave the canvas with a halo effect around each area to which the paint was applied but has a disadvantage in that the oil in the paints will eventually cause the canvas to discolor and rot away.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In a 1987 interactive installation at the Kala Institute entitled "Digital Mudrā" Rapoport returned to the data acquired from "Biorhythm: How Do You Feel?". She associated each participant's gesture with one of 52 hand gestures known as Mudrās. In doing so, Rapoport suggested the cross-cultural correlations of hand gestures and their trans-cultural meanings. Mudrās and their word meanings were juxtaposed within a western context and transcribed onto a computer printout and also, into a Kathakali dance. Rapoport discovered that the words people chose to describe their gestures in western culture, and the words given to the gestures in the Mudrā vocabulary were surprisingly similar. Finally, Rapoport created a slide presentation showing current political leaders making similar gestures having similar verbal contexts.
+<br>
+<br>In 1988 she received a grant from the California Arts Council for the production of "Digital Mudrā" online via Carl Loeffler and Fred Truck's Art Com Electronic Network (ACEN). In 1989, a simplified version of "Digital Mudrā" was uploaded to the Internet as a web-based interactive artwork. A part of the simplified "Digital Mudrā" is shown on the left.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
