@@ -2,25 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/rembrandt/head-of-christ-1652.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/00129/images/caravaggio/ecce-homo.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Head of Christ</h2>
+        <h2 class="artwork-name">Ecce Homo</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1652
+          Caravaggio
+                    ·  1605
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Head of Christ is a 1648 painting by the Dutch artist <a target="_blank" href="/en/rembrandt">Rembrandt</a>, based on a Jewish model and thus marking a turning-point in the artist's work. It is now in the Gemäldegalerie in Berlin.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ecce Homo (c. 1605/6 or 1609 according to John Gash) is a painting by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a>. It is housed in the Palazzo Bianco, Genoa. According to Giambatista Cardi, nephew of the Florentine artist Cigoli, Cardinal Massimo Massimi commissioned paintings on the theme of Ecce Homo from three artists, Cigoli, <a target="_blank" href="/en/caravaggio">Caravaggio</a>, and Domenico Passignano, without informing the artists of the multiple commissions. Cardi claimed the cardinal liked Cigoli's version best.
 <br>
-<br>There are multiple versions of Rembrandt's Head of Christ which compose an international collection of paintings in the possession of a number of different cultural institutions and individuals. These similar heads in varying poses were possibly created as devotional objects. Today about a dozen are known, but only this one is considered by the RRP to be by the master's hand. This one came into the collection via a bequest by Herr and Frau Martin Bromberg of Hamburg.
+<br>The scene is taken from the Gospel of (John 19): Pontius Pilate displays Christ to the crowd with the words, "Ecce homo!" ("Behold the man"). Caravaggio's version of the scene combined Pilate's display with the earlier moment of Christ, already crowned with thorns, mockingly robed like a king by his tormentors. Massimi already possessed a Crowning with Thorns, by Caravaggio, and Ecce Homo may have been intended as a companion piece. Stylistically, the painting displays characteristics of Caravaggio's mature Roman-period style. The forms are visible close-up and modelled by dramatic light, the absence of depth or background, and the psychological realism of, the torturer, who seems to mix sadism with pity. Pilate, in keeping with tradition, is shown as a rather neutral and perhaps almost sympathetic figure.
 <br>
-<br>This painting was documented by Hofstede de Groot in 1914, who wrote; "158. HEAD OF CHRIST. B.-HdG. 413. Turned three-quarters left. The head is slightly inclined. Long dark curls and a short full beard. In a reddish-brown cloak. Half-length, without the hands, about half life size. Painted about 1656-58. Oak panel, 10 inches by 8 inches. Mentioned by Michel, pp. 451, 443, 563 [270, 343, 435]. Sale. John Henderson, London, February 13, 1882. In the collection of Rodolphe Kann, Paris, 1907 catalogue, p. 72&nbsp;; bought as a whole in 1907 by the dealers Duveen Brothers. In the Kaiser Friedrich Museum, Berlin, 1911 catalogue, No. 811C; presented by Herr and Frau Martin Bromberg of Hamburg."
+<br>The contract for Ecce Homo was signed on 25 June 1605, with the painting to be delivered in August. Whether Caravaggio met his deadline is uncertain, as by July he was arrested for attacking the house of Laura della Vecchia and her daughter, Isabella. Friends stood bail for him, but on 29 July he was in far more serious trouble for assaulting the notary Mariano Pasqualone over a well-known courtesan Lena and Caravaggio's model who is referred to by Pasqualone in the police complaint as "Michelangelo's (i.e. Caravaggio's) girl". Consequently, Caravaggio fled to Genoa until the end of August. He continued to be in trouble with the law throughout the year, with a complaint against him in September for throwing stones at his landlady's house, and a mysterious incident in October in which he was wounded in the throat and ear (Caravaggio claimed he had fallen on his own sword). In May 1606 he fled Rome again after killing Ranuccio Tomassoni in a duel, and he was not settled in Naples until the latter part of that year. Cigoli's Ecce Homo was not painted until 1607, and clearly attempts to mimic Caravaggio's style, suggesting that Massimi had not yet received his Caravaggio and was turning elsewhere. It is instructive to compare the two paintings: Caravaggio, unlike Cigoli, has dropped the convention of showing Christ's torturer as a grotesque, and has shown Pilate dressed as a 17th-century official.
 <br>
-<br>During WWII the painting was stored in a vault along with most of the paintings that were in the Kaiser Friedrich Museum located at what is today the Bode Museum. After the war it was recovered and returned to West-Berlin, which is how it came to be in the collection of the Gemäldegalerie. In 1959 it was stolen, but recovered 2 years later. The painting was included in most Rembrandt catalogs of the 20th-century, only recently being its exclusive status as the only surviving copy by the master's hand in the RRP catalog. It is, however, still connected with Rembrandt's workshop and is grouped together with all the other versions. It was included in the 2011 exhibition "Rembrandt and the Face of Jesus" held in the museums of Detroit (DIA), Philadelphia (PMA) and Paris (Louvre) April 21, 2011–February 12, 2012, cat. no. 35.</span>
+<br>Several scholars, such as Sebastian Schutze dispute the attribution of this work to Caravaggio, with Schutze noting that "the composition seems extremely cramped, and it's narrative structure strangely fractured. The Roman governor seems to belong to a quite different plane of reality; he appears like the donor figure in an altarpiece and is painted in a different manner, with his facial features exaggerated almost to the point of caricature."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
