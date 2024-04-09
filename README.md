@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/mary-cassatt/the-cup-of-tea-1879.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/akseli-gallen-kallela/in-the-sauna-1889.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Cup of Tea</h2>
+        <h2 class="artwork-name">In the Sauna</h2>
         <h3 class="artist">
-          Mary Cassatt
-                    ·  1879
+          Akseli Gallen-Kallela
+                    ·  1889
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Mary Cassatt’s sister Lydia was a big part of her life. Neither of them deciding to marry, they lived together in France until Lydia’s death in 1882. While she was alive, Mary used Lydia as a model in many of her paintings, The Cup of Tea being one of them. This painting is more of a genre painting than a portrait, as it represents a social custom that Cassatt revisited many times in her paintings: the taking of a cup of tea. Painted in an impressionistic manner, many art critics viewed the painting as unfinished, due to the fact that Cassatt left small peripheral portions of the canvas unpainted. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saunassa (Finnish: In the Sauna) is an 1889 <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/akseli-gallen-kallela">Akseli Gallen-Kallela</a>. It was painted in Ekola's croft in Keuruu. Gallen-Kallela gave his work to Knut Tilgmann, whose brother gave it to Ateneum in 1922. Gallen-Kallela didn't like the picture and thought was it was unfinished.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
