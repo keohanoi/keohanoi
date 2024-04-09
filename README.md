@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/norman-rockwell/the-problem-we-all-live-with-1935.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/louise-elisabeth-vigee-le-brun/anna-ivanovna-tolstaya.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The problem we all live with</h2>
+        <h2 class="artwork-name">Anna Ivanovna Tolstaya</h2>
         <h3 class="artist">
-          Norman Rockwell
-                    ·  1964
+          Louise Elisabeth Vigee Le Brun
+                    ·  1796
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An iconic image of the civil rights movement in the United States, it depicts Ruby Bridges, a six-year-old African-American girl, on her way in to an all-white public school in New Orleans on November 14, 1960 during the process of racial desegregation. Because of threats and violence against her, she is escorted by four U.S. Deputy Marshals; the painting is framed such that the marshals' heads are cropped at the shoulders.On the wall behind her is written the racial slur "nigger" and the letters "KKK"; a smashed tomato thrown at Bridges is also visible. The white crowd is not visible, as the viewer is looking at the scene from their point of view. The painting was originally published as a centerfold in the January 14, 1964 issue of Look.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Vigée Le Brun fled France at the beginning of the Revolution. She spent the next decade in exile, much of it in St. Petersburg, where she painted Countess Tolstaya (1774–1825). The artist’s portraits are marked by a sense of apparent directness and intimacy – as if we meet the sitters as equals, sharing a bond of mutual understanding. The Countess, casually posed, is at one with her wild surroundings; setting aside convention, she wears an unusually simple dress, inspired by Greek and Roman examples. The portrait holds out the promise of a life freed from society’s constrictions and more in sympathy with nature – a vital element of Enlightenment thought.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
