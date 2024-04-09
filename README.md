@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00301/images/jarik-jongman/dsc01695-72-dpi.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/frank-stella/michapol-i-1971.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">NSA data center, Bluffdale, Utah</h2>
+        <h2 class="artwork-name">Michapol I</h2>
         <h3 class="artist">
-          Jarik Jongman
-                    ·  2019
+          Frank Stella
+                    ·  1971
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jarik Jongman introduces waiting rooms, data centers and film sets as a stage for ideas about reality and human behaviour in the ‘post truth’ society. More than ever, ‘truth’ seems to have become a fluid concept. Furthermore, the paradoxical situation has arisen, wherein the abundance of information available is merely contributing to our insecurity. In his current work the artist constructs new, imaginary visual spaces, departing from personal memories and associations and found imagery from newspapers, magazines and the internet.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The shaped canvas recurs in the works of Stella's Polish Village series, to which Michapol I belongs. Each composition is developed from color variations and interlocking geometric forms influenced in part by Russian Constructivism. Also inspired by Polish synagogues of the seventeenth through nineteenth centuries, the works of the Polish Village series are large-scale collages, in which the artist pasted felt, paper, and wood onto the stretched canvas. Despite their sculptural qualities, Stella described the impulse behind Michapol I and the other works of the series as "pictorial."</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
