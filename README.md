@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/david-wilkie/the-abbotsford-family-1817(1).jpg"
+        src="https://uploads1.wikiart.org/00142/images/57726d81edc2cb3880b483a0/bartolom-esteban-murillo-the-young-beggar.JPG!Large.JPG"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Abbotsford family</h2>
+        <h2 class="artwork-name">The Young Beggar</h2>
         <h3 class="artist">
-          David Wilkie
-                    ·  1817
+          Bartolome Esteban Murillo
+                    ·  1650
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wilkie visited Sir Walter Scott and his family at their country home of Abbotsford in 1817. Scott is seated as though he is about to relate a story to the gathering of family and friends. Wilkie commented on the 'good humour and merriment' of everyone in the party. He exercised artistic licence, depicting Scott's daughters as bare footed country milkmaids, but also included a realistic portrayal of Scott's highland dog, a present from the Laird of Glengary. The landscape background recalls the Tweed Valley, with a distant view of Melrose. Painted on panel the picture has the character of an oil sketch.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Murillo was known for his realistic paintings of all aspects of his daily life, and this painting poignantly depicts a beggar boy, sitting alone in a street corner, destitute and forlorn. The painting is a wonderful example of tenebrism, the portrayal of light and shadow, at which Murillo excelled. Clear sunlight shines through an opening, casting light on the boy, whose clothes are torn and feet are bare. A ceramic jug and a basket of apples lie at his side. You can almost feel the boys sorrow at his situation, as he grasps his clothes, hoping for a meal, or a bed, or whatever some nice passerby might offer him. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
