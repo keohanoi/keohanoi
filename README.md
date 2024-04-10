@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/naum-gabo/kinetic-construction-standing-wave-1920.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/jacques-louis-david/portrait-of-francois-buron-1769.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Kinetic Construction (Standing Wave)</h2>
+        <h2 class="artwork-name">Portrait of Francois Buron</h2>
         <h3 class="artist">
-          Naum Gabo
-                    ·  1920
+          Jacques-Louis David
+                    ·  1769
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the aftermath of the Russian Revolution, when this work was made, materials were hard to come by. 'It was the height of civil war, hunger and disorder in Russia. To find any part of machinery was next to impossible', said Gabo. Originally made to demonstrate the principles of kinetics to his students, it reflects the artist's belief in a sculpture in which space and time were active components. A strip of metal is made to oscillate so that a standing wave is set up. This movement in real time creates the illusion of volumetric space. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Portrait of François Buron is a 1769 painting by <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>. It dates from his period of training and is one of his earliest known works. It shows his uncle François Buron and remained with his descendents until the death of his final descendent A Baudry in 1903. It was sold at the Regnault sale on 22 June 1905 for 6,000 francs, it then passed to Drouot at the Victor Gay sale on 23 April 1909 for 1,500 francs. It was sold anonymously on 15 December 1937 and later formed part of the collections of Robert Lebel and Madame Gas. It was sold to the Wildenstein galerie and then to its present private owner in New York City in 1985.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
