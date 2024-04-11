@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/leonardo-da-vinci/st-jerome.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/frederic-edwin-church/niagara-falls-from-the-american-side-1867.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Jerome</h2>
+        <h2 class="artwork-name">Niagara Falls, from the American Side</h2>
         <h3 class="artist">
-          Leonardo da Vinci
-                    ·  1480
+          Frederic Edwin Church
+                    ·  1867
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St Jerome in the Wilderness (c. 1480) is an unfinished painting by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>, now in the Vatican Museums, Rome.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Niagara Falls, from the American Side is a painting by the American artist <a target="_blank" href="/en/frederic-edwin-church">Frederic Edwin Church</a> (1826–1900). Completed in 1867, and based on preliminary sketches made by the artist at Niagara Falls and on a sepia photograph, it is the third of a series of paintings Church made of this famous landmark. The painting is now in the collection of the Scottish National Gallery. Church was a leading member of the Hudson River School of painters.
 <br>
-<br>The painting depicts Saint Jerome during his retreat to the Syrian desert, where he lived the life of a hermit. St Jerome kneels in a rocky landscape, gazing toward a crucifix which can be discerned faintly sketched in at the extreme right of the painting. In Jerome's right hand he holds a rock with which he is traditionally shown beating his chest in penance. At his feet is the lion which became a loyal companion after he extracted a thorn from its paw. The lion, the stone and a cardinal's hat are the traditional attributes of the saint.
+<br>The painting depicts the view from the east side of Niagara Falls&nbsp;– the American side. In the spray of the waterfall a rainbow is visible. The painting has been described as giving the impression of the water being in constant motion, rushing down, roaring.
 <br>
-<br>On the left-hand side of the panel the background is a distant landscape of a lake surrounded by precipitous mountains shrouded in mist. To the right-hand side, the only discernible feature is a faintly-sketched church, seen through the opening in the rocks. The church's presence may allude to Jerome's position in Western Christianity as one of the Doctors of the Church.
+<br>Church made his first painting of the falls in 1857. He had visited the falls several times in July and late August the previous year, making a number of pencil and oil sketches from different points of view. He elected to paint the scene from the Canadian side, choosing unconventional dimensions for the painting that emphasized the panoramic effect.
 <br>
-<br>The composition of the painting is innovative for the oblique trapezoid form of the figure of the saint. The angular forms contrast with the sinuous form of the lion which transcribes an "S" across the bottom of the painting. The form of St Jerome prefigures that of the Virgin Mary in the Virgin of the Rocks. The rendering of the muscles in the neck and shoulders is seen as the first of Leonardo's anatomical drawings.
+<br>The painting was an immediate success, attracting over 100,000 visitors within the first fortnight of its premiere at a New York gallery. Following this, it was exhibited at major cities on the Eastern seaboard, toured Britain twice and was selected for the 1867 Exposition Universelle in Paris. It was purchased by the recently founded Corcoran Gallery of Art in 1876, cementing that institution's success. When the Corcoran closed in 2014, its collection was gifted to the National Gallery of Art, Washington, where the painting can be seen today in the Corcoran gallery.
 <br>
-<br>The panel has been reduced in size and the remaining part was cut in two at some point in its history and was reassembled for the early 19th-century collector, Cardinal Fesch, the uncle of Napoleon Bonaparte. Popular legend has it that the Cardinal discovered the part of the panel with the saint’s torso being offered as a table-top in a shop in Rome. Many years later, he found another piece being used as a wedge for shoemaker’s bench. Whatever the circumstances of Fesch's finding the parts, the repaired panel was sold by his descendants to Pope Pius IX, who installed it in the Pinacoteca Vaticana, now part of the Vatican Museums. The St. Jerome was once believed to have been part of the collection of the painter <a target="_blank" href="/en/angelica-kauffman">Angelica Kauffman</a>, but this theory too has been rejected by recent scholars.</span>
+<br>The painting Niagara Falls, from the American Side was commissioned from Church by the American art dealer Michael Knoedler in 1866. It was the third painting of the series and may have been originally destined for the Exposition. The painting was purchased by John S. Kennedy in 1887, who gifted it to his homeland of Scotland. Niagara Falls, from the American Side is the only major work by Frederic Edwin Church which is in a public collection in Europe.
+<br>
+<br>The canvas is painted in the <a target="_blank" href="/en/artists-by-art-movement/romanticism">Romantic style</a> and captures the aesthetic principles of the sublime and the picturesque. Church was a member of the Hudson River School, a group of landscape artists, whose aesthetic vision was influenced by romanticism. The Romantic movement validated intense emotions. The movement was placing new emphasis on the sentiments of visionary and transcendental experience. Emotions like awe&nbsp;– especially that which is experienced in confronting the sublimity of untamed nature and its picturesque qualities&nbsp;– were now entirely new aesthetic categories, and very different from art styles of the same era&nbsp;– the unemotional Realism and of the calm, balanced <a target="_blank" href="/en/paintings-by-style/classicism">Classicism</a>&nbsp;– as a source of aesthetic experience.
+<br>
+<br>The Sublime view of nature was as something of a large scale dramatic subject, an expression of the sublime&nbsp;– defined by Edmund Burke as the strongest emotion that can be felt.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
