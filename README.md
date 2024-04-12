@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/stuart-davis/egg-beater-no-4-1928.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/images/lucian-freud/hotel-bedroom.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Egg Beater No. 4</h2>
+        <h2 class="artwork-name">Hotel Bedroom</h2>
         <h3 class="artist">
-          Stuart Davis
-                    ·  1928
+          Lucian Freud
+                    ·  1954
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1927, Stuart Davis affixed an eggbeater, a rubber glove, and an electric fan to a table in his studio. This combination of modern appliances, reminiscent of Dada's appreciation for absurd pairings, became the focal point of his art for a year. Egg Beater, No. 4 is the last in a series of four highly distinctive compositions depicting the same still-life and is often regarded as his first truly abstract painting.<br><br>By choosing seemingly unrelated objects, Davis was able to disregard their utilitarian functions and instead concentrate on the relationships between color, shapes, and space. "My aim," Davis wrote, "was... to strip a subject down to the real physical source of its stimulus." In No. 4, objects are deconstructed and distilled into basic shapes and planes so that their forms become nearly unidentifiable. Overlapping planes and bold colors evoke the improvisation and rhythm of jazz music. While the previous works in the series suggested depth of space through the arrangement of shapes and planes, space in this final piece is ambiguous. Here, Davis offers a more intellectual approach to still-life painting, one that engages the mind rather than the senses.<br><br>Although the artist never considered himself a pure abstractionist, shortly after completing this series, he reintroduced signs, text, and recognizable urban landmarks into his work. Nonetheless, he maintained that the Egg Beater series represented a turning point in his artistic development. He later recalled that it "allowed me to understand certain structural principles that I have continued to use ever since."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Settling in Paris in 1952, Freud painted many portraits, including Hotel Bedroom (1954), which features a woman lying in a bed with white sheets pulled up to her shoulders. Her left hand rests on her cheek, and her gaze is fixed on a faraway place. In sharp contrast, a standing man is standing behind her and staring at her. His dark form looms over her menacingly, silhouetted against the sunlight. Other windows in the building across the street are visible in the background.<br><br>The man is Freud himself, and the woman is Lady Caroline Hamilton Temple Blackwood, the Guinness ale heiress with whom he eloped in 1952 after the divorce from his first wife. At the time they were staying at the Hotel La Louisiane, and the work reflects the anxiety and tension in their relationship, which had already begun to unravel. She would soon leave him, and the distraught Freud, while having many more relationships, would never marry again. This painting is among the works that Freud exhibited it at the Venice Biennale when he was invited to serve as the representative of Britain in 1954, a great honor. Like this and other early portraits by the artist, the work has a flat, drawing-like quality. Here, however, the body of the artist is a black hole, threatening to suck the light out of the rest of the picture. The artist's standing pose also seems to predict a turning point in his working method. This is the last portrait he completed while sitting down. From that point on, he chose to stand while painting. One of his more narrative works, it exemplifies the autobiographical self-absorption and detachment associated with his later work.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
