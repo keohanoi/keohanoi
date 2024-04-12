@@ -2,19 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00324/images/marcel-broodthaers/the-farm-animals-1974.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00294/images/aztec-art/tripod-vessel-with-date-glyph.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Farm Animals</h2>
+        <h2 class="artwork-name">Tripod Vessel with Date Glyph</h2>
         <h3 class="artist">
-          Marcel Broodthaers
-                    ·  1974
+          Aztec Art
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This print comments on the resonance of commercial names and hence advertising's ability to exalt mechanics or technology into a legendary sphere. Engraved illustrations of breeds of cattle are captioned with car names.<br><br>Various breeds of cattle are presented in a grid-like pattern resembling pages from an educational or scientific manual. However, the names printed beneath each cow are those of car manufacturers. As a young man, Broodthaers befriended the Surrealist painter <a target="_blank" href="https://www.wikiart.org/en/rene-magritte">René Magritte</a>. One of Magritte's most famous paintings (<a target="_blank" href="https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948"><i>The treachery of images</i></a>, 1929) featured a picture of a pipe with the words 'This is not a pipe' written in French underneath. Broodthaers was fascinated by the way Magritte used words to contradict a visual image. Here he plays his own game, pitting visual and linguistic meanings against each another.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The hourglass shape of this sizable vessel is reminiscent of the form of ceremonial braziers that were closely linked to the religious architecture in the Aztec capital Tenochtitlan. The thick-walled, heavy vessel is supported by three hollow, bulbous feet containing clappers, which produced sounds when the vessel was moved. The middle of the vessel is encircled by a broad band decorated with interlocked scrolls framed by circles. On the front is a cartouche containing the date glyph "4 Reed," which possibly refers to the year 1431 A.D., during which the third enlargement of the Main Temple at Tenochtitlan was celebrated. The band and cartouche were made in molds, as evidenced by multiple seams, and have the natural clay color in which the rest of the vessel is covered, with reddish-brown burnished slip.<br><br>Ceramic braziers, often bearing deity images, some reaching three feet in height, were placed outside temples or in front of altars. Offerings of human and animal remains as well as aromatic incense of balls of latex, were burnt in them. The rising smoke was believed to carry the offerings to the gods.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
