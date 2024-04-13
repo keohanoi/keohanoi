@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/willem-de-kooning/seated-woman.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/piero-della-francesca/portraits-federico-da-montefeltro-and-battista-sforza-1465(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Seated Woman</h2>
+        <h2 class="artwork-name">Portraits Federico da Montefeltro and Battista Sforza</h2>
         <h3 class="artist">
-          Willem de Kooning
-                    ·  1940
+          Piero della Francesca
+                    ·  1465
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Seated Woman' originated from a portrait commission and features Elaine Fried, who frequently modeled for de Kooning at the time. Her auburn-colored hair is visible in the painting, where she is portrayed wearing a low-cut yellow dress and seated on a chair with one leg crossed over the other. One of her arms rests in her lap, while the other seems to bend towards her face, but without a hand attached. Curator John Elderfield notes that her body parts appear more like disconnected shapes that float around her body. De Kooning explained in the 1950s that he reduced body parts to interchangeable shapes, like spots of paint or brushstrokes, due to the challenges he faced in painting them.<br><br>The painting reveals de Kooning's artistic influences, such as the fractured form of the figure reminiscent of Picasso and the erasures and unfinished quality similar to <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/the-artist-with-his-mother-1936">Arshile Gorky's 'The Artist and his Mother'</a>. The background, scraped down multiple times to create a smooth surface, contains oranges, greens, and blues that hint at Cubist space and Mondrian's Neo-Plastic paintings. The squares in the painting also suggest the artist's studio walls, covered with various canvases tacked and piled against them. Seated Woman can be viewed as a companion piece to a series of paintings of seated men, and it marked de Kooning's first significant painting of a woman, a subject he would frequently return to over the years.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The double portrait of the Dukes of Urbino, also known as the Diptych of Federico da Montefeltro and Battista Sforza is a diptych, oil on panel (47 × 33&nbsp;cm each panel), with portraits of the Federico da Montefeltro and Battista Sforza. It is the work of <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a> dated to about 1465 to 1472 and in the collection of the Uffizi Gallery in Florence. It is one of the most famous works of the Italian Renaissance.
+<br>
+<br>It is a tempera made over wood.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
