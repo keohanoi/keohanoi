@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/paolo-uccello/st-george-and-the-dragon.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/willem-de-kooning/seated-woman.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. George and the Dragon</h2>
+        <h2 class="artwork-name">Seated Woman</h2>
         <h3 class="artist">
-          Paolo Uccello
-                    ·  1470
+          Willem de Kooning
+                    ·  1940
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Saint George and the Dragon is a painting by <a target="_blank" href="/en/paolo-uccello">Paolo Uccello</a> dating from around 1470. It is on display in the National Gallery, London, United Kingdom. It was formerly housed in the Palais Lanckoroński in Vienna, belonging to Count Lanckoroński and sold by his son and heir Anton in 1959 through Mr Farago. The first mention of it being there is 1898.
-<br>
-<br>Gothicizing tendencies in Paolo Uccello's art are nowhere more apparent than in this painting. It shows a scene from the famous story of Saint George and the dragon. On the right George is spearing the beast, and on the left the princess is using her belt as a leash to take the dragon up to the town.
-<br>
-<br>The eye in the storm gathering on the right of Saint George is lined up with his spear showing there has been divine intervention.
-<br>
-<br>An earlier less dramatic version of the same subject by the Italian artist is in the Musée Jacquemart-André, Paris.
-<br>
-<br>The painting is used as the basis for the U. A. Fanthorpe poem, Not My Best Side, and may have served as inspiration for Sir John Tenniel's illustration of the Jabberwock in Through the Looking-Glass, and What Alice Found There.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">'Seated Woman' originated from a portrait commission and features Elaine Fried, who frequently modeled for de Kooning at the time. Her auburn-colored hair is visible in the painting, where she is portrayed wearing a low-cut yellow dress and seated on a chair with one leg crossed over the other. One of her arms rests in her lap, while the other seems to bend towards her face, but without a hand attached. Curator John Elderfield notes that her body parts appear more like disconnected shapes that float around her body. De Kooning explained in the 1950s that he reduced body parts to interchangeable shapes, like spots of paint or brushstrokes, due to the challenges he faced in painting them.<br><br>The painting reveals de Kooning's artistic influences, such as the fractured form of the figure reminiscent of Picasso and the erasures and unfinished quality similar to <a target="_blank" href="https://www.wikiart.org/en/arshile-gorky/the-artist-with-his-mother-1936">Arshile Gorky's 'The Artist and his Mother'</a>. The background, scraped down multiple times to create a smooth surface, contains oranges, greens, and blues that hint at Cubist space and Mondrian's Neo-Plastic paintings. The squares in the painting also suggest the artist's studio walls, covered with various canvases tacked and piled against them. Seated Woman can be viewed as a companion piece to a series of paintings of seated men, and it marked de Kooning's first significant painting of a woman, a subject he would frequently return to over the years.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
