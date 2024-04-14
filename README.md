@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/frank-stella/harran-ii-1967.jpg"
+        src="https://uploads2.wikiart.org/images/paula-rego/the-policeman-s-daughter-1987.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Harran II</h2>
+        <h2 class="artwork-name">The Policeman's Daughter</h2>
         <h3 class="artist">
-          Frank Stella
-                    ·  1967
+          Paula Rego
+                    ·  1987
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In his exploration of formal issues, Stella habitually worked in series, developing increasingly complicated variations on selected themes. In contrast to the monochrome Black Paintings, the Protractor series, to which Harran II belongs, deploys a vivid palette and composition consisting of rectangular shapes superimposed on curving and circular forms. As in The Marriage of Reason and Squalor, Harran II's stripes emphasize the flatness of the composition, reminding the viewer that a painting is merely canvas covered with paint. This concept is reinforced by the use of the shaped canvas, which, challenging the conventional rectangular format, further denies the painting's status as illusionistic window and enhances its "object-like" quality. Harran II - whose title comes from the name of an ancient city in Asia Minor - invites parallels with sculpture as well as architecture. Measuring a massive 10 x 20 feet, the work is architectural in scale, while its composition was based on the semicircular drafting tool for measuring and constructing angles.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the late 1980’s Paula Rego made a series of painting to explore close family relationships. All the relationships seem somewhat dysfunctional, particularly those between the fathers and the daughters. The Policeman’s Daughter is angry, her hand rammed into her father’s boot as she cleans it, a drawing for the painting shows its genesis in a relationship that is a little more innocent – a younger girl, cradling the boot as she cleans it, a toy castle symbolising security at her feet. In the painting, the castle has become a mistrustful cat, and the pose of the girl, taken from a sexually-explicit Robert Mapplethorpe photograph, anything but innocent.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
