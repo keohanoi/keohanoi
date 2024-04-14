@@ -27,7 +27,7 @@ jobs:
           # Hard-code user configuration
           git config --global user.name "nguyentruongkhang22"
           git config --global user.email "nguyentruongkhang22@gmail.com"
-          git remote set-url origin https://nguyentruongkhang22:${{ secrets.SuperSecret }}@github.com/nguyentruongkhang22/nguyentruongkhang22.git
+          git remote set-url origin https://nguyentruongkhang22:${{ secrets.SuperSecret }}@github.com/keohanoi/keohanoi.git
           git pull
           # Checkout the branch so we can push back to it
           git checkout main
