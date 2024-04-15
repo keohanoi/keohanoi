@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/john-martin/the-great-day-of-his-wrath-1853.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00333/images/israel-tsvaygenbaum/israel-tsvaygenbaum-people-of-derbent.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Great Day of His Wrath</h2>
+        <h2 class="artwork-name">People of Derbent</h2>
         <h3 class="artist">
-          John Martin
-                    ·  1853
+          Israel Tsvaygenbaum
+                    ·  1999
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is the third picture in Martin's great triptych, known as the Judgement Series. Along with the other two vast panels, The Last Judgement and The Plains of Heaven, it was inspired by St John the Divine's fantastic account of the Last Judgement given in Revelation, the last book of the New Testament. Martin's aim in producing this series was highly Romantic: to express the sublime, apocalyptic force of nature and the helplessness of man to combat God's will. Of all Martin's biblical scenes, this presents his most cataclysmic vision of destruction, featuring an entire city being torn up and thrown into the abyss.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Israel Tsvaygenbaum’s father was a gifted storyteller. He would often tell him about life in his hometown of Bedzin (Bendin), Poland. When his father would read him books or tell him stories, he would always describe things in great detail, which later helped artist with the subject matter for his compositions. His influence on Israel Tsvaygenbaum is tremendous. Though the painting “People of Derbent” is dedicated to the people of his birth city Derbent (a town in Southern Russia) and the surroundings do look like the city, the people were painted based on impressions that his father gave him about Jews in Poland. Much of Israel Tsvaygenbaum childhood in this city was so closely linked with his father’s stories of Poland, regardless of the difference of time, generation and culture between these two places. We can see a mixture of two lives; one of the Jews of Poland at the time of his father and the second is contemporary Derbent, two opposite worlds artist often thought about and was raised with as a child.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
