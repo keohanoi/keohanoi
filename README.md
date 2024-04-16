@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00142/images/el-greco/christ-driving-the-traders-from-the-temple-1.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/sandro-botticelli/madonna-in-glory-with-seraphim-1470(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ driving the traders from the temple</h2>
+        <h2 class="artwork-name">Madonna in Glory with Seraphim</h2>
         <h3 class="artist">
-          El Greco
-                    ·  1576
+          Sandro Botticelli
+                    ·  1470
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ Driving the Money Changers from the Temple is a 1571 Christian art painting by <a target="_blank" href="/en/el-greco">El Greco</a>, now in the Minneapolis Institute of Art. It depicts the Cleansing of the Temple, an event in the Life of Christ.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna in Glory with Seraphim is a painting by the Italian Renaissance painter <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, executed c. 1469-1470. It is housed in Galleria degli Uffizi, Florence.
 <br>
-<br>There exist three other copies of the painting and also a faithful reproduction in the National Gallery in London, which has recently been considered as authentic by scholars in the field of visual arts. Two versions and that other on loan from Madrid are titled Purification of the Temple. The one at the National Gallery in Washington is called Christ Cleansing the Temple.</span>
+<br>Some panel paintings of the Madonna by Botticelli remain from the years around 1470 which are striking expressions of Botticelli's stylistic development. Two full figure pictures of the Madonna - the Madonna in Glory and the Madonna of the Rosegarden - are in the Uffizi. They represent monumental seated figures filling the entire picture.
+<br>
+<br>Mary is enthroned on clouds in a glory of seraphim. The Christ Child, with the cruciform nimbus, is looking towards the observer and raising his hand in blessing. Botticelli has succeeded in expressing the tensions in this theme with sensitivity: the mother, who is fully aware of the Passion her son will suffer, is holding him protectively in her arms.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
