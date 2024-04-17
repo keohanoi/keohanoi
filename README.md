@@ -2,19 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00237/images/robert-rauschenberg/59-008.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/william-adolphe-bouguereau/shepherdess-1889.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Canyon</h2>
+        <h2 class="artwork-name">Shepherdess</h2>
         <h3 class="artist">
-          Robert Rauschenberg
-                    ·  1959
+          William-Adolphe Bouguereau
+                    ·  1889
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Among Rauschenberg's most iconic and controversial combines, <i>Canyon</i> features amongst its mixed media; pieces of wood, a pillow, a mirror, and a stuffed bald eagle. The eagle appears to emerge directly from the canvas, perched on top of a cardboard box and peering down on a pillow dangling below the assemblage. A photograph of Rauschenberg's son emerges from the incongruous cacophony of objects, boldly outlined with black above a mint green patch of paint so that it stands out amidst the fragments of printed matter. <br><br>Rauschenberg acquired the taxidermied eagle from fellow artist Sari Dienes, who retrieved the bird from the detritus of a recently departed neighbor that had shot the bird during his time as one of the last of Teddy Roosevelt's <a target="_blank" href="https://en.wikipedia.org/wiki/Rough_Riders">Rough Riders</a>. While Rauschenberg submitted a notarized letter in 1988 that the bird was killed well before the 1940 <i>Bald and Golden Eagle Protection Act</i> went into effect, the stuffed eagle still became the source of recent governmental ire. In 2007, the estate of the former owner - Ileana Sonnabend - declared that <i>Canyon</i> was of zero value because it could not be sold without violating the 1940 <i>Bald and Golden Eagle Protection Act</i>. However, in 2011, the United States government appraised the work at 15 million dollars, and also levied a penalty for an undervaluation at Sonnabend's heirs. In the end, the U.S. government dropped the 40 million plus dollar claim against Sonnabend's estate after the work was donated to the Museum of Modern Art. While the eagle became the source of immense bureaucratic drama over the course of many years, it is also the most potent source of allegory and imagery within the work. Critics cite references ranging from nationalism in the guise of McCarthyism to the Greek Ganymede myth embedded within the taxidermied bird, yet Rauschenberg always left the interpretation open to the viewer.<br><br><a target="_blank" href="https://www.theartstory.org/artist-rauschenberg-robert-artworks.htm">theartstory.org</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Shepherdess (French: Pastourelle), also known as The Little Shepherdess is a painting by <a target="_blank" href="/en/william-adolphe-bouguereau">William-Adolphe Bouguereau</a> completed in 1889. The title is taken from the Southern French dialect. The painting depicts an idyllic, pastoral scene of a lone young woman in peasant attire posed for the artist, balancing a stick (likely her crook) across her shoulders, standing barefooted in the foreground. In the background are oxen grazing in the field. It is one of many paintings by Bouguereau depicting shepherdesses, including one of the same name created in 1881.
+<br>
+<br>The subject is a model employed by Bouguereau for this and other paintings, including The Bohemian.
+<br>
+<br>It is currently in the permanent collection at the Philbrook Museum of Art in Tulsa, where it has become an emblematic image for the museum. It was the central image of a travelling exhibition about Bouguereau and his students that Philbrook created in 2006.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
