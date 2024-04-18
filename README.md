@@ -2,27 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/rembrandt/andromeda.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00142/images/57726d7cedc2cb3880b47bc2/waterhouse-hylas-and-the-nymphs-manchester-art-gallery-1896-15.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Andromeda</h2>
+        <h2 class="artwork-name">Hylas and the Nymphs</h2>
         <h3 class="artist">
-          Rembrandt
-                    ·  1631
+          John William Waterhouse
+                    ·  1896
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Andromeda Chained to the Rocks (1630) is a 34 x 25 oil on panel painting by the Dutch Golden Age painter <a target="_blank" href="/en/rembrandt">Rembrandt</a>. It is now in the Mauritshuis, The Hague, Netherlands. Andromeda represents Rembrandt's first full length mythological female nude <a target="_blank" href="/en/paintings-by-genre/history-painting">history painting</a> and is taken from a story in Ovid's Metamorphoses.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Hylas and the Nymphs is an 1896 oil painting by <a target="_blank" href="/en/john-william-waterhouse">John William Waterhouse</a>. The painting depicts a moment from the Greek and Roman legend of the tragic youth Hylas, based on accounts by Ovid and other ancient writers, in which the enraptured Hylas is abducted by Naiads (female water nymphs) while seeking drinking water. The painting has been interpreted as a metaphor for dangerous female sexuality, and warning against nymphomania.
 <br>
-<br>In Metamorphoses, Andromeda (mythology) is the daughter of an Ethiopian king and queen, Cepheus and Cassiopeia. Cassiopeia was very boastful about her beauty, and asserted that she was more beautiful than Juno, the queen of the gods and the Nereids. Insulted by Cassiopeia's assertions, Neptune sent a sea monster to the Ethiopian coast. Neptune then could only be appeased upon the sacrifice of Andromeda, the kings beautiful virgin daughter, to the sea monster. Andromeda was chained naked to rocks by the coast, awaiting the sea monster. Perseus, passing by, had noticed the beautiful girl and made a deal with her parents that he would save her, should he be allowed to have her hand in marriage. The king and queen agree and Andromeda was spared.
+<br>Hylas was the son of King Theiodamas of the Dryopians. After Hercules killed Hylas's father, Hylas became a companion of Hercules and later his lover. They both became Argonauts, accompanying Jason in his quest on his ship Argo in seeking the Golden Fleece. During the journey, Hylas was sent to find fresh water. He found a pond occupied by Naiads, and they lured Hylas into the water and he disappeared.
 <br>
-<br>This painting depicts a classic example of the damsel in distress. In this theme a beautiful young woman is placed in a perilous situation, usually involving a monster or being trapped in captivity. The damsel can then only be rescued by a hero, whom of which she usually ends up marrying. In this painting, Andromeda has a distressed look on her face as she is completely shackled and unable to move. Although Perseus does not make an appearance in this painting, in similar works we can see Perseus being portrayed in a heroic and graceful light, shown through the use of warm colors and heroic poses.
+<br>The painting measures 98.2 by 163.3 centimetres (38.7&nbsp;in ×&nbsp;64.3&nbsp;in). It depicts Hylas, a male youth in classical garb, wearing a blue tunic with a red sash, and bearing a wide-necked water jar. He is bending down beside a pond in a glade of lush green foliage, reaching out towards seven young women, the water nymphs, who are emerging from the pond among the leaves and flowers of Nymphaeaceae (water lilies), including an early depiction of the yellow waterlily, Nuphar lutea). The nymphs are naked, their alabaster skin luminous in the dark but clear water, with yellow and white flowers in their auburn hair. They have very similar physical features, perhaps based on just two models.
 <br>
-<br>Many artists such as <a target="_blank" href="/en/titian">Titian</a> have depicted this story by showing Andromeda, her rescuer Perseus, and the sea monster all in the same composition. Her beauty as described in her source material can be seen in some of these other works, along with Perseus' role as her rescuer. In this work, Rembrandt shies away from classical conventions by showing her not as a glamorous beauty but as a frightened naturalistic looking girl. No other figure is included, but her alarmed look out of the picture space to the right creates narrative tension. The painting is an example of Rembrandt's rejection of idealized beauty. Since he did not believe true beauty existed naturally, he painted women as he saw them; naturally imperfect and flawed.
+<br>Hylas is being enticed to enter the water, from which he will not return. One of the nymph holds his wrist and elbow, a second plucks at his tunic, and a third holds out some pearls in the palm of her hand. The face of Hylas in profile is shadowed and barely visible, but the faces of the nymphs are clearly visible as they gaze upon him. The scene is depicted from a slightly elevated position, looking down at the water like Hylas, so no sky is visible.
 <br>
-<br>Rembrandt's subsequent nude mythological paintings from this period Diana Bathing and Danaë show his evolving portrayal of the nude.</span>
+<br>Some of Waterhouse's preparatory sketches are in the Ashmolean Museum in Oxford.
+<br>
+<br>Hylas was a recurrent theme for British artists in the 19th and early 20th centuries, with examples by William Etty (1833) and Henrietta Rae (1910), and an earlier example by Waterhouse himself (1893). Waterhouse also painted other tragic youths from Greek legend, such as Narcissus (1903) (at the Walker Art Gallery in Liverpool)A poem "Hercules and Hylas" was published by Francis Burdett Thomas Coutts-Nevill in 1896.
+<br>
+<br>The painting was acquired from the artist by the Manchester Art Gallery in 1896. It was exhibited at the Royal Academy Summer Exhibition in 1987.
+<br>
+<br>It was removed from display in gallery 10, "In Pursuit of Beauty", in early 2018 "to prompt conversations about how we display and interpret artworks in Manchester's public collection". Visitors to the gallery were invited to fill the empty space left on the wall with sticky notes giving their reaction. After an outcry, it was quickly returned to the gallery after an absence of a few days.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
