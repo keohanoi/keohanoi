@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/piero-della-francesca/battle-between-heraclius-and-chosroes(1).jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00319/images/charly-palmer/girl.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Battle between Heraclius and Chosroes</h2>
+        <h2 class="artwork-name">Open For Business</h2>
         <h3 class="artist">
-          Piero della Francesca
-                    ·  1466
+          Charly Palmer
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This artwork is a part of The Legend of the True Cross - a series of frescoes painted by Francesca in the Basilica of San Francesco in Arezzo. Not only is it his largest work, but it is also considered one of his finest, as well as one of the finest works of the Early Renaissance period. The theme of the frescoes was derived from a 13th century book on the lives of the Saints, and the Triumph of the True Cross, which was said to be the actual cross on which Christ was crucified. The exact date of the painting is unknown, but it believed to be after 1447, when the Bacci family of Arezzo paid an unidentified painter. </span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Charly Palmer depicts a young African American female student who aspires to become an attorney and run her own law firm. This art print measures 24x18 inches and is printed on high quality, heavy stock watercolor paper. It ships signed and numbered by the artist and with a certificate of authenticity from the artist.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
