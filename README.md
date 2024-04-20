@@ -2,27 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00268/images/raphael/raphael-madonna-sedia-1.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/johannes-vermeer/a-young-woman-seated-at-the-virginals-a-young-woman-seated-at-the-virginal.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna della Sedia</h2>
+        <h2 class="artwork-name">A young woman seated at the virginals (A young woman seated at the virginal)</h2>
         <h3 class="artist">
-          Raphael
-                    ·  1518
+          Johannes Vermeer
+                    ·  1672
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Madonna della seggiola or Madonna della sedia is a Madonna painting by the Italian renaissance artist <a target="_blank" href="/en/raphael">Raphael</a>, dating to c. 1513-1514 and housed in the Palazzo Pitti collection in Florence. It depicts Mary embracing the child Christ, while the young John the Baptist devoutly watches.<br>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Young Woman Seated at the Virginals is a painting generally attributed to <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>, though this was for a long time widely questioned. A series of technical examinations from 1993 onwards confirmed the attribution. It is thought to date from c.1670 and is now in part of the Leiden Collection in New York. It should not be confused with Young Woman Seated at a Virginal in the National Gallery, London, also by Vermeer.
 <br>
-<br>Painted during his Roman period, this Madonna does not have the strict geometrical form and linear style of his earlier Florentine treatments of the same subject. Instead, the warmer colors seem to suggest the influence of <a target="_blank" href="/en/titian">Titian</a> and Raphael's rival Sebastiano del Piombo.<br>
+<br>The painting's early provenance is unclear, though possibly it was owned in Vermeer's lifetime by Pieter van Ruijven and later inherited by Jacob Dissius. By 1904 it was one of two Vermeers owned by Alfred Beit, the other being Lady Writing a Letter with her Maid. It remained in the Beit family until sold to Baron Rolin in 1960. The painting was not widely known until described in the catalogue of the Beit collection published in 1904. In the first decades following 1904 it was widely accepted as a Vermeer. Then in the mid-twentieth century, as some "Vermeers" were discovered to be forgeries by Han van Meegeren and doubt was cast on others, it fell from favour.
 <br>
-<br>Ingres greatly admired Raphael and paid tribute to him by including this painting in many of his works, such as in the background of Henri IV playing with his children and Raphael and La Fornarina, on the table in front of the subject in his Portrait of monsieur Rivière, and worked into the carpet in Napoleon I on his Imperial Throne. Johann Zoffany also included this painting along with many others in his 1770s painting of the Tribuna of the Uffizi.<br>
+<br>In 1993 Baron Rolin asked Sotheby's to conduct research into the painting. A series of technical examinations followed, which have convinced most experts that it is a Vermeer, though probably one that was reworked in parts after the painter's death. Rolin's heirs sold the painting through Sotheby's in 2004 to Steve Wynn for $30 million. It was later purchased for the Leiden Collection owned by Thomas Kaplan. It has appeared in several Vermeer exhibitions in recent years, in the United States, Britain, Japan, Italy and France.
 <br>
-<br>Because of the painting's roundness, it became the subject of a legend in which a peasant girl saves a hermit from a pack of wolves in the branches of an oak, and the hermit prophesies that she will become immortalized for her good deed. Years later, the girl had two children, and the tree was made into wine barrels. Raphael happened upon the trio and used a barrel bottom to paint them. This scenario was the subject of an 1839 lithograph by August Hopfgarten and a painting by Johann Michael Wittmer.<br>
+<br>The painting originally had the same dimensions as Vermeer's Lacemaker. Tentative evidence that the <a target="_blank" href="/en/paintings-by-media/canvas-0">canvas</a> was cut from the same bolt as the Lacemaker, which was gathered in the 1990s, was strengthened by a later, more sophisticated study. The ground appears identical to that used for the two Vermeers owned by London's National Gallery. X-ray examination has revealed evidence of a pin-hole at the vanishing point, as habitually used by Vermeer in conjunction with a thread to achieve correct perspective in his paintings. Pigments are used in the painting in a way typical of Vermeer, most notably the expensive ultramarine as a component in the background wall. The use of green earth in shadows is also distinctive. The use of lead-tin-yellow suggests that the painting cannot be a nineteenth- or twentieth-century fake or imitation. Examination of the cloak, often cited as the crudest part of the painting, shows that it was painted over another garment after some time had elapsed. It is not known how long this gap was, or if Vermeer was responsible for the repainting.
 <br>
-<br>In 1858, Nathaniel Hawthorne wrote that the painting was "the most beautiful picture in the world" after having seen it via "a hundred engravings and copies".<br></span>
+<br>The hairstyle can be dated to c.1670, and matches the hairstyle in the Lacemaker, which on other grounds is also often dated to the same period. It is not clear if the painting was completed before or after the similar but more ambitious Young Woman Seated at a Virginal in the National Gallery, London. The painting is unsigned.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
