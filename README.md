@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00142/images/57726d9aedc2cb3880b4b6e8/the-agnew-clinic-thomas-eakins.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00142/images/57726d7eedc2cb3880b47f24/newton-williamblake.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Agnew Clinic</h2>
+        <h2 class="artwork-name">Isaac Newton</h2>
         <h3 class="artist">
-          Thomas Eakins
-                    ·  1889
+          William Blake
+                    ·  1795
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In this work, Eakins depicts Dr. Agnew, standing at the edge of the operating arena, overseeing a procedure in which three doctors perform a mastectomy on a female patient. Behind them, a female nurse stands at attention, presumably waiting to assist in the operation. Rows of seated male medical students watch the surgery. The white clothes of the doctors, the sheets covering a part of the patient's body, as well as her pale skin stand in sharp contrast to the dark tones in which the students are painted.<br><br>This painting marks the second time Eakins took as his subject a doctor teaching and performing surgery in a medical school setting. Once again, the stark and often gritty Realism for which he is best known is present in this work, but when compared with his earlier painting <a target="_blank" href="https://www.wikiart.org/en/thomas-eakins/the-gross-clinic-1875"><i>The Gross Clinic</i></a> (1875), we can see a different, perhaps even more mature, approach to the subject matter. The work is notably awash in light that helps to draw the viewer to the action of the surgery. A heightened element of drama is created by choice of surgery depicted. While Dr. Agnew was a specialist in this type of operation, a mastectomy was, to the general public, a shocking and scary surgery of which little was still known. The fact that it had a high fatality rate imbues the scene with a more serious tone. Eakins placed himself in the crowd of students (on the far right of the canvas), but the inclusion of a female nurse, modeled on the first nurse graduate from the university's program, is unique to this work. Dr. Agnew, familiar with the earlier painting of Dr. Gross, insisted on not being painted with blood on his hands, as surgeons were too often associated with butchers.<br><br>The University of Pennsylvania's School of Medicine students commissioned the portrait as a gift for Dr. D. Hayes Agnew, who was retiring at the end of the term. They had wanted a simple portrait of the doctor, but Eakins created a more elaborate scene at no extra fee. The successful reception of the work when it was unveiled at the school's graduation, which included a standing ovation, buoyed the artist's spirits, and set the stage for a successful, albeit not scandal-free, later career. Despite the rejection of the work from a Society of American Artists show, a slight which led to Eakins severing all ties with the organization, it was well-received when first shown to a large public at the Chicago World's Columbian Exhibition in 1893.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Newton is a monotype by the English poet, painter and printmaker <a target="_blank" href="/en/william-blake">William Blake</a> first completed in 1795, but reworked and reprinted in 1805. It is one of the 12 "Large Colour Prints" or "Large Colour Printed Drawings" created between 1795 and 1805, which also include his series of images on the biblical ruler Nebuchadnezzar.
+<br>
+<br>Isaac Newton is shown sitting naked and crouched on a rocky outcropping covered with algae, apparently at the bottom of the sea. His attention is focused upon diagrams he draws with a compass upon a scroll that appears to unravel from his mouth. The compass is a smaller version of that held by Urizen in Blake's The Ancient of Days.
+<br>
+<br>Blake's opposition to the Enlightenment was deeply rooted. In his annotation to his own engraving of the classical character Laocoön, Blake wrote "Art is the Tree of Life. Science is the Tree of Death." Newton's theory of optics was especially offensive to Blake, who made a clear distinction between the vision of the "vegetative eye" and spiritual vision. The deistic view of God as a distant creator who played no role in daily affairs was anathema to Blake, who claimed to regularly experience visions of a spiritual nature. He contrasts his "four-fold vision" to the "single vision" of Newton, whose "natural religion" of scientific materialism he characterized as sterile. Newton was incorporated into Blake's infernal trinity along with the philosophers Francis Bacon and John Locke.
+<br>
+<br>Blake's print would later serve as the basis for <a target="_blank" href="/en/eduardo-paolozzi">Eduardo Paolozzi</a>'s 1995 bronze sculpture Newton, after William Blake, which resides in the piazza of the British Library.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
