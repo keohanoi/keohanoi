@@ -2,27 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/dante-gabriel-rossetti/the-day-dream-1880.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/00129/images/caravaggio/flagellation-of-christ.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Day Dream</h2>
+        <h2 class="artwork-name">Flagellation of Christ</h2>
         <h3 class="artist">
-          Dante Gabriel Rossetti
-                    ·  1880
+          Caravaggio
+                    ·  1607
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Day Dream or, as it was initially intended to be named, Monna Primavera, is an oil on canvas painting by the Pre-Raphaelite Brotherhood founder <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>. The work, which measures 158.7 centimetres (62.5&nbsp;in) in height by 92.7 centimetres (36.5&nbsp;in) wide, was undertaken in 1880 and depicts Jane Morris posed in a seated position on the bough of a sycamore tree. A small stem of honeysuckle is in her hand, a token of love in the Victorian era, that may be an indication of the secret affair the artist was immersed in with her at the time. The artwork was left to the Victoria and Albert Museum by Constantine Alexander Ionides in 1900.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Flagellation of Christ is a painting by the Italian Baroque painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>, now in the Museo Nazionale di Capodimonte, Naples. It is dated to 1607, and may have been reworked by the artist in 1610. It is not to be confused with Christ at the Column, another Flagellation by Caravaggio of the same period.
 <br>
-<br>During 1878 Rossetti completed a chalk sketch of Morris, his secret lover, whom he had met at the Theatre Royal, Drury Lane, in 1857. She was the model for several of his well-known paintings, including Proserpine. The drawing was displayed above the mantlepiece in Rossetti's studio. Initially the painting was to be called Monna Primavera, or Vanna Primavera, possibly inspired by La Vita Nuova, a narrative that captivated Rossetti and was the basis for earlier pieces of his works of art. Rossetti was also a poet and penned sonnets to accompany several of his paintings; the last composition in his series entitled Sonnets for Pictures is associated with this painting. The sonnet reads:
+<br>According to art biographer Gian Pietro Bellori (1672), this work was commissioned by the di Franco (or de Franchis) family for a chapel in the church of San Domenico Maggiore in Naples. The family were connected with the Confraternity of the Pio Monte della Misericordia, for whose church Caravaggio had already painted The Seven Works of Mercy. It was moved to the museum at Capodimonte in 1972.
 <br>
-<br>Rossetti had not initially been fully satisfied with the painting and he made several revisions to it. He wrote to Morris apologising for copying the feet of another woman to the picture. An earlier painting of Morris, entitled The Salutation of Beatrice, had similarly used a different model's hands in the final version.
+<br>The Flagellation of Christ had long been a popular subject in religious art—and in contemporary religious practice, where the church encouraged self-flagellation as a means by which the faithful might enter into the suffering of Christ. Caravaggio would have had in mind the famous fresco by Sebastiano del Piombo in the church of San Pietro in Montorio in Rome. Caravaggio has reworked Piombo's composition by drastically reducing the picture space so that the sculptural figures seem presented on a shallow stage. He has, however, retained Piombo's sense of the flagellation as a kind of sadistic ballet, with the figures arranged rhythmically across the canvas. Caravaggio's painting introduces an acutely observed reality into the scene: Christ is in this drooping pose, not because it might seem graceful, but because the torturer on the right is kicking the back of his knee while the figure on the left holds his hair tightly in his fist.
 <br>
-<br>Morris is posed in seated position on the bough of a sycamore tree. A small stem of honeysuckle is in her hand, a token of love in the Victorian era and may be an indication of the secret affair the artist was immersed in with her at the time. Unusually for Rossetti work during this time – this is one of his last paintings – the model is pictured full length. The painting is signed "D. Rossetti 1880" on the lower right.
-<br>
-<br>The scene is a representation of a young woman in a green silk dress, shaded by the arabesque of the winged sycamore tree's leaves. Above her head and around her the tree branches are depicted almost embracing her, or as if she was emerging from the tree itself, almost as a dryad, or tree nymph. She is portrayed clad all in green, her dress is a romantic wide and loose silk robe, flowing in graceful folds down, blending in with the tree's leaves, that connects the subject and its surroundings visually. She is immersed in her day dreams, turning her gaze downwards, away, towards something unseen or perhaps only perceived by her. The depiction of the young, elegant woman in her shelter surrounded by the branches, is adding to the secretive feeling of the painting, maybe indicating the furtiveness of the affair or a clandestine meeting place. In the shelter it is dark, but around her shoulder there is light, light blue compartments against a dark green background, signalling that it is daytime.</span>
+<br>This series of highly dramatic and innovative Neapolitan altarpieces — the Seven Works of Mercy, this Flagellation, and a close companion piece, Christ at the Column, all done within a few months of his arrival in the city — instantly made Caravaggio the most talked-about artist in Naples, and the church of Sant'Anna dei Lombardi (Saint Anna of the Lombards — Caravaggio was originally from Lombardy) became a centre of the <a target="_blank" href="/en/artists-by-painting-school/caravaggisti">Caravaggisti</a>, artists painting in the style of Caravaggio. These were not only native Neapolitans like Carlo Sellitto and Battistello Caracciolo, but included Flemish artists like Louis Finson and Abraham Vink who would later help spread Caravaggism to northern Europe.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
