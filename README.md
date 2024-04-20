@@ -2,29 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00363/images/francesco-hayez/the-kiss-francesco-hayez-2.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/dante-gabriel-rossetti/the-day-dream-1880.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Kiss</h2>
+        <h2 class="artwork-name">The Day Dream</h2>
         <h3 class="artist">
-          Francesco Hayez
-                    ·  1859
+          Dante Gabriel Rossetti
+                    ·  1880
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Il bacio (Italian pronunciation:&nbsp;[il ˈbaːtʃo]; The Kiss) is an 1859 painting by the Italian artist <a target="_blank" href="/en/francesco-hayez">Francesco Hayez</a>. It is possibly his best known work. This painting conveys the main features of Italian <a target="_blank" href="/en/artists-by-art-movement/romanticism">Romanticism</a> and has come to represent the spirit of the Risorgimento. It was commissioned by Alfonso Maria Visconti di Saliceto, who donated to the Pinacoteca di Brera after his death.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Day Dream or, as it was initially intended to be named, Monna Primavera, is an oil on canvas painting by the Pre-Raphaelite Brotherhood founder <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>. The work, which measures 158.7 centimetres (62.5&nbsp;in) in height by 92.7 centimetres (36.5&nbsp;in) wide, was undertaken in 1880 and depicts Jane Morris posed in a seated position on the bough of a sycamore tree. A small stem of honeysuckle is in her hand, a token of love in the Victorian era, that may be an indication of the secret affair the artist was immersed in with her at the time. The artwork was left to the Victoria and Albert Museum by Constantine Alexander Ionides in 1900.
 <br>
-<br>The painting represents a couple from the Middle Ages, embracing while they kiss each other. It is among the most passionate and intense representations of a kiss in the history of Western art. The girl leans backwards, while the man bends his left leg so as to support her, simultaneously placing a foot on the step next to him as though poised to go at any moment. The couple, though at the center of the painting, are not recognizable, as Hayez wanted the action of the kissing to be at the center of the composition. In the left part of the canvas shadowy forms lurk in the corner to give an impression of conspiracy and danger.
+<br>During 1878 Rossetti completed a chalk sketch of Morris, his secret lover, whom he had met at the Theatre Royal, Drury Lane, in 1857. She was the model for several of his well-known paintings, including Proserpine. The drawing was displayed above the mantlepiece in Rossetti's studio. Initially the painting was to be called Monna Primavera, or Vanna Primavera, possibly inspired by La Vita Nuova, a narrative that captivated Rossetti and was the basis for earlier pieces of his works of art. Rossetti was also a poet and penned sonnets to accompany several of his paintings; the last composition in his series entitled Sonnets for Pictures is associated with this painting. The sonnet reads:
 <br>
-<br>This painting has been regarded as a symbol of Italian Romanticism, of which it encompasses many features. On a more superficial level, the painting is the representation of a passionate kiss, which puts itself in accordance with the principles of Romanticism. Therefore, it emphasizes deep feelings rather than rational thought, and presents a reinterpretation and reevaluation of the Middle Ages in a patriotic and nostalgic tone.
+<br>Rossetti had not initially been fully satisfied with the painting and he made several revisions to it. He wrote to Morris apologising for copying the feet of another woman to the picture. An earlier painting of Morris, entitled The Salutation of Beatrice, had similarly used a different model's hands in the final version.
 <br>
-<br>On a deeper level, the painting aims to portray the spirit of the Risorgimento. The girl's pale blue dress signifies France, which in 1859 (the year of the painting's creation) made an alliance with the Kingdom of Piedmont and Sardinia, enabling the latter to unify the many states of the Italian peninsula into the new kingdom of Italy.
+<br>Morris is posed in seated position on the bough of a sycamore tree. A small stem of honeysuckle is in her hand, a token of love in the Victorian era and may be an indication of the secret affair the artist was immersed in with her at the time. Unusually for Rossetti work during this time – this is one of his last paintings – the model is pictured full length. The painting is signed "D. Rossetti 1880" on the lower right.
 <br>
-<br>This painting is notable for its vivid colors and textures, in particular the blue dress, which appears to be a beautiful silk which shimmers before the viewer's eyes.
-<br>
-<br>The Kiss has enjoyed extensive popularity from its exhibition onward, especially in Italy, and has been the subject of much commentary. In the 1920s the art director of Perugina, one of Italy's leading chocolate manufacturers, revised the image of the painting and created the typical blue box of the popular "Baci" chocolates with the picture of two lovers. In 1954 the great Italian director Luchino Visconti took inspiration from the painting for one of the leading scenes of his masterpiece movie, Senso.</span>
+<br>The scene is a representation of a young woman in a green silk dress, shaded by the arabesque of the winged sycamore tree's leaves. Above her head and around her the tree branches are depicted almost embracing her, or as if she was emerging from the tree itself, almost as a dryad, or tree nymph. She is portrayed clad all in green, her dress is a romantic wide and loose silk robe, flowing in graceful folds down, blending in with the tree's leaves, that connects the subject and its surroundings visually. She is immersed in her day dreams, turning her gaze downwards, away, towards something unseen or perhaps only perceived by her. The depiction of the young, elegant woman in her shelter surrounded by the branches, is adding to the secretive feeling of the painting, maybe indicating the furtiveness of the affair or a clandestine meeting place. In the shelter it is dark, but around her shoulder there is light, light blue compartments against a dark green background, signalling that it is daytime.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
