@@ -2,24 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/paul-werner/old-ship-yard-groenland-with-crane-at-wittenburg-amsterrdam(1).jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/david-wilkie/the-abbotsford-family-1817(1).jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Old shipyard Groenland with crane at Wittenburg, Amsterdam</h2>
+        <h2 class="artwork-name">The Abbotsford family</h2>
         <h3 class="artist">
-          Paul Werner
-                    ·  2005
+          David Wilkie
+                    ·  1817
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Paul Werner painted many times the small old ship-yard Groenland in the neighborhood Wittenburg, in Amsterdam city - here with a view over the canal-water Wittenburgervaart. 
-<br>The view is from the bridge over the canal Wittenburgervaart, connecting Wittenburg with Oostenburg. The last year before the ship yard was destroyed.
-<br>
-<br>Owner of this watercolor on paper - including the copyrights - is the Amsterdam City Archives - Beeldbank Amsterdam
-<br>
-<br></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Wilkie visited Sir Walter Scott and his family at their country home of Abbotsford in 1817. Scott is seated as though he is about to relate a story to the gathering of family and friends. Wilkie commented on the 'good humour and merriment' of everyone in the party. He exercised artistic licence, depicting Scott's daughters as bare footed country milkmaids, but also included a realistic portrayal of Scott's highland dog, a present from the Laird of Glengary. The landscape background recalls the Tweed Valley, with a distant view of Melrose. Painted on panel the picture has the character of an oil sketch.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
