@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00475/images/wassily-kandinsky/composition-iv-1911.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/samuel-palmer/samuel-palmera-hilly-scene-1828.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Composition IV</h2>
+        <h2 class="artwork-name">A Hilly Scene</h2>
         <h3 class="artist">
-          Wassily Kandinsky
-                    ·  1911
+          Samuel Palmer
+                    ·  1828
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An interesting story that indicates Kandinsky’s intellectual examination in the creation of his works revolves around this composition. He became exhausted during the months of studying he went through in preparation for this painting, and decided to go for a walk. His assistant at the time, Gabrielle Munter, who was tidying up the studio in the artist’s absence, inadvertently turned the canvas on its side. Upon Kandinsky’s return, he saw the canvas, fell to his knees and began weeping at the beauty of the painting. His newly found perspective on the piece would change his artistic vision and direction for the rest of his life. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is one of Palmer's finest works, painted shortly after he settled in Shoreham in Kent. The Darent valley appeared to Palmer a perfect, neo-Platonic world and he called it the 'Valley of Vision'. In this picture he creates an ideal image of pastoral contentment, unaffected by the outside world. The unseasonal combination of flowering horse-chestnut and huge ripe heads of wheat symbolise fertility and the richness of the soil, and Palmer may have been inspired by Edmund Spenser's lines from the Faërie Queene (1596), Book iii, Canto VI, beginning 'There is continuall spring, and harvest there'. The prominent church spire signifies a divine presence within the landscape. This is emphasised by the gothic arch created by the branches at the top of the composition, which relates closely to Coming from Evening Church (1830). In the background, the characteristic rounded hills of Shoreham and the crescent moon, here shown on its back, were later adopted as motifs by artists of the mid-twentieth century. Inspired by John Milton's poetic evocations, the moon in its various phases became a recurring feature in Palmer's work.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
