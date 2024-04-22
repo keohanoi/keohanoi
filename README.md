@@ -2,20 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/images/daniel-spoerri/the-boxes-snare-picture-1961.jpg"
+        src="https://uploads2.wikiart.org/water-1566(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Boxes (Snare-Picture)</h2>
+        <h2 class="artwork-name">Water</h2>
         <h3 class="artist">
-          Daniel Spoerri
-                    ·  1961
+          Giuseppe Arcimboldo
+                    ·  1566
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe"> Daniel Spoerri gave the following definition: objects, which are found in randomly orderly or disorderly situations, are mounted on whatever they are found on (table, box, drawer, etc.) in the exact constellation they are found in(...). By declaring the result to be a tableau, the horizontal becomes vertical. For example: the leftovers of a meal are mounted on the table and the table is then hung on a wall (...)”.
-<br>The invention of the “snare-picture” marks the beginning of Spoerri’s career as a visual artist. Snare-pictures were first exhibited at the «Festival d’art d’avantgarde», in Paris, Nov.18 – Dec. 1960.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Employing the images of water creatures, this painting is more than jut a collection of fish. In the portrait, Arcimboldo ingeniously combines water creatures, coral, and shells into a depiction of an older woman. His use of pearls to form a necklace and earring is a smart way to include jewelry on his subject, at the same time as keeping with his water theme, as they are also products of the sea. This image was included on the album cover of the rock band Kansas for their album “Masque.” It is a fitting image for the title of the album, as Arcimboldo’s paintings were all subtle masks of images made up to be something else. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
