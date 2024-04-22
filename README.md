@@ -2,27 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/leonardo-da-vinci/st-jerome.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/robert-mangold/circle-in-and-out-of-a-polygon-2-1973.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">St. Jerome</h2>
+        <h2 class="artwork-name">Circle In and Out of a Polygon 2</h2>
         <h3 class="artist">
-          Leonardo da Vinci
-                    ·  1480
+          Robert Mangold
+                    ·  1973
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">St Jerome in the Wilderness (c. 1480) is an unfinished painting by <a target="_blank" href="/en/leonardo-da-vinci">Leonardo da Vinci</a>, now in the Vatican Museums, Rome.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Shortly after receiving an M.F.A. from Yale University in 1963, Robert Mangold worked as a guard at the Museum of Modern Art in New York. Reminiscing about the months he spent there, Mangold commented that even the greatest paintings began to lose their appeal after hours of uninterrupted viewing. The Mondrians were the exception, however, and actually looked “better and better over time.”
 <br>
-<br>The painting depicts Saint Jerome during his retreat to the Syrian desert, where he lived the life of a hermit. St Jerome kneels in a rocky landscape, gazing toward a crucifix which can be discerned faintly sketched in at the extreme right of the painting. In Jerome's right hand he holds a rock with which he is traditionally shown beating his chest in penance. At his feet is the lion which became a loyal companion after he extracted a thorn from its paw. The lion, the stone and a cardinal's hat are the traditional attributes of the saint.
+<br>Inspired, perhaps, by Piet Mondrian’s reductivist tendency, Mangold emptied his painting of all external references, focusing instead on internal formal relationships. For this reason, his work is often described as Minimalist. But whereas much Minimalist painting and sculpture is premised on predetermined, mathematical progressions, rigid configurations, and industrial materials, Mangold’s work is quite unsystematic. The difference between Mangold’s art and that of many of his contemporaries lies in its idiosyncratic, intuitive nature. His geometric compositions are frequently distorted: what appears to be a perfect circle or square drawn on a two-dimensional surface is partially contorted in order to fit within the confines of the shaped canvases. While he has worked in series to explore the various permutations of such designs, Mangold has not limited himself to one specific strategy and often makes unique images. His palette, consisting of warm ochers, saturated blues, olive greens, and chocolate browns, among other hues, is more reminiscent of Italian frescoes than of the cool, detached tones and commercially mixed colors commonly used by artists associated with Minimalism.
 <br>
-<br>On the left-hand side of the panel the background is a distant landscape of a lake surrounded by precipitous mountains shrouded in mist. To the right-hand side, the only discernible feature is a faintly-sketched church, seen through the opening in the rocks. The church's presence may allude to Jerome's position in Western Christianity as one of the Doctors of the Church.
-<br>
-<br>The composition of the painting is innovative for the oblique trapezoid form of the figure of the saint. The angular forms contrast with the sinuous form of the lion which transcribes an "S" across the bottom of the painting. The form of St Jerome prefigures that of the Virgin Mary in the Virgin of the Rocks. The rendering of the muscles in the neck and shoulders is seen as the first of Leonardo's anatomical drawings.
-<br>
-<br>The panel has been reduced in size and the remaining part was cut in two at some point in its history and was reassembled for the early 19th-century collector, Cardinal Fesch, the uncle of Napoleon Bonaparte. Popular legend has it that the Cardinal discovered the part of the panel with the saint’s torso being offered as a table-top in a shop in Rome. Many years later, he found another piece being used as a wedge for shoemaker’s bench. Whatever the circumstances of Fesch's finding the parts, the repaired panel was sold by his descendants to Pope Pius IX, who installed it in the Pinacoteca Vaticana, now part of the Vatican Museums. The St. Jerome was once believed to have been part of the collection of the painter <a target="_blank" href="/en/angelica-kauffman">Angelica Kauffman</a>, but this theory too has been rejected by recent scholars.</span>
+<br>In 1973 Mangold created at least four versions of Circle In and Out of a Polygon; two were executed on canvas and two on Masonite. In all four the interior graphite line becomes interchangeable with the top, left, and bottom borders of the support. Similarly, half of the circle is outlined on the acrylic surface, while the other half continues as the curved edge on the painting’s right. Mangold challenges his viewers to mentally reverse such images in order to comprehend the compositional nuances of the geometric abstraction. It is this emphasis on the conceptual basis of vision that truly links Mangold to the Minimalists, who brought their audiences to an unprecedented level of perceptual awareness. (Nancy Spector)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
