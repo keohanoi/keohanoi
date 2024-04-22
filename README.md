@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/water-1566(1).jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/00206/images/august-friedrich-schenck/fd101810.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water</h2>
+        <h2 class="artwork-name">Anguish</h2>
         <h3 class="artist">
-          Giuseppe Arcimboldo
-                    ·  1566
+          August Friedrich Schenck
+                    ·  1878
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Employing the images of water creatures, this painting is more than jut a collection of fish. In the portrait, Arcimboldo ingeniously combines water creatures, coral, and shells into a depiction of an older woman. His use of pearls to form a necklace and earring is a smart way to include jewelry on his subject, at the same time as keeping with his water theme, as they are also products of the sea. This image was included on the album cover of the rock band Kansas for their album “Masque.” It is a fitting image for the title of the album, as Arcimboldo’s paintings were all subtle masks of images made up to be something else. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">August Schenck spent most of his career in France, specialising in painting landscapes and animal subjects. For over thirty years he was a regular exhibitor at the Paris Salons, where Anguish was first shown in 1878. In Anguish, Schenck has given the ewe clearly recognisable human characteristics, such as determination and sorrow, so that the viewer immediately identifies with its predicament and emotions. The sinister murder of crows also appear organised and patiently await a moment of weakness. Schenck is here metaphorically examining a broader human condition in the context of an animal painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
