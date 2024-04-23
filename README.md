@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00381/images/peter-paul-rubens/wolf-and-fox-hunt-peter-paul-rubens.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/vincent-van-gogh/houses-in-auvers-2-1890.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Wolf and Fox Hunt</h2>
+        <h2 class="artwork-name">Houses in Auvers 2</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1616
+          Vincent van Gogh
+                    ·  1890
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">With characteristic business acumen, Rubens created a market for a new art form: very large hunting scenes painted on canvas, of which this one is the first. The few earlier examples were either models for or copies after tapestries, but Rubens’s large "hunts" of about 1616–21 were made as replacements for that very expensive medium. This canvas, originally more symmetrical in design, was trimmed at the top and left side because (according to a client in 1616) "none but great Princes have houses fitt to hange it up in." Rubens painted the picture with the help of assistants but declared that the wolves were his own work.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In May 1890, van Gogh moved from the south of France to Auvers, northwest of Paris, painting many of his finest pictures there in a feverish spurt of activity before his suicide in July. Houses at Auvers shows the landscape of early summer. The view from above creates a flattened tapestry of shapes in which the tiled and thatched roofs of the houses form a mesmerizing patchwork of color.<br><br><a target="_blank" href="https://collections.mfa.org/objects/33278/houses-at-auvers?ctx=ba6379fd-8457-4b21-985c-037c940d6b7e&amp;idx=0">Boston MFA Website for the painting</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
