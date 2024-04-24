@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/sam-gilliam/red-april-1970.jpg"
+        src="https://uploads2.wikiart.org/images/robert-barry/closed-gallery-1969.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Red April</h2>
+        <h2 class="artwork-name">Closed Gallery</h2>
         <h3 class="artist">
-          Sam Gilliam
-                    ·  1970
+          Robert Barry
+                    ·  1969
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The title Red April references the assassination of Dr. Martin Luther King, Jr. (April 4, 1968), and the riots that followed in Washington, D.C., where Sam Gilliam resided.
-<br>
-<br>Gilliam painted Red April by pouring and splattering acrylic pigments (some thinned-out, some thick and intense) onto a raw canvas he placed on the floor. Gilliam folded the canvas like an accordion and let the paint dry for a while. He intended for some of the pigment to remain wet so that when he unfolded the canvas, it would pull off and adhere to the canvas on top of it. Gilliam then stretched the canvas on beveled stretchers, so it would appear to be coming out of the wall.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Closed Gallery is a 1969 piece consisting of three invitations to gallery shows in Amsterdam, Turin, and Los Angeles printed on simple white cards. They informed the recipients that during the exhibition, the gallery would be closed. “It’s the purest form of this notion of what the physicality of art is and what art is really all about. One doesn’t need to even have the gallery space", said David Platzker, who sent out numerous announcement cards worldwide, each saying simply “During the exhibition the gallery will be closed”. “I got permission from Robert [Barry] to do the show,” Platzker said. “I asked him if he would lend me copies of the three prior announcement cards and he said, ‘Why would you want them? There is no show. I don’t want people to come to the gallery because the gallery is closed.’</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
