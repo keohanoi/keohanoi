@@ -2,27 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/johannes-vermeer/a-young-woman-seated-at-the-virginals-a-young-woman-seated-at-the-virginal.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/diego-velazquez/equestrian-portrait-of-don-gaspar-de-guzmancount-duke-of-olivares-1634.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A young woman seated at the virginals (A young woman seated at the virginal)</h2>
+        <h2 class="artwork-name">Equestrian Portrait of Don Gaspar de GuzmanCount Duke of Olivares</h2>
         <h3 class="artist">
-          Johannes Vermeer
-                    ·  1672
+          Diego Velazquez
+                    ·  1634
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Young Woman Seated at the Virginals is a painting generally attributed to <a target="_blank" href="/en/johannes-vermeer">Johannes Vermeer</a>, though this was for a long time widely questioned. A series of technical examinations from 1993 onwards confirmed the attribution. It is thought to date from c.1670 and is now in part of the Leiden Collection in New York. It should not be confused with Young Woman Seated at a Virginal in the National Gallery, London, also by Vermeer.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gaspar de Guzmán, Count-Duke of Olivares, on Horseback (Spanish: Gaspar de Guzmán, conde-duque de Olivares, a caballo) is an oil on canvas painting by Spanish painter <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a>, made around the year 1636. It has been in the Museo del Prado in Madrid since its inauguration in 1819.
 <br>
-<br>The painting's early provenance is unclear, though possibly it was owned in Vermeer's lifetime by Pieter van Ruijven and later inherited by Jacob Dissius. By 1904 it was one of two Vermeers owned by Alfred Beit, the other being Lady Writing a Letter with her Maid. It remained in the Beit family until sold to Baron Rolin in 1960. The painting was not widely known until described in the catalogue of the Beit collection published in 1904. In the first decades following 1904 it was widely accepted as a Vermeer. Then in the mid-twentieth century, as some "Vermeers" were discovered to be forgeries by Han van Meegeren and doubt was cast on others, it fell from favour.
+<br>The object of the work was to validate the power of Gaspar de Guzman, Count of Olivares and Duke of Sanlúcar la Mayor, known as the Count-Duke of Olivares, the chief minister under Philip IV of Spain, a Spanish nobleman and influential politician. In the style of Velázquez, this painting is an exception, as its design and color are more vigorous and pompous than his usual more somber portraits.
 <br>
-<br>In 1993 Baron Rolin asked Sotheby's to conduct research into the painting. A series of technical examinations followed, which have convinced most experts that it is a Vermeer, though probably one that was reworked in parts after the painter's death. Rolin's heirs sold the painting through Sotheby's in 2004 to Steve Wynn for $30 million. It was later purchased for the Leiden Collection owned by Thomas Kaplan. It has appeared in several Vermeer exhibitions in recent years, in the United States, Britain, Japan, Italy and France.
+<br>Olivares is portrayed on horseback, an honor usually reserved for monarchs and reflects the power he attained as valido or right hand of the king (equivalent to the current prime minister's office). The picture resembles equestrian portraits Velázquez had painted for the Hall of Realms of the Buen Retiro Palace but was not made for this series, but rather as displaying a particular custom of Olivares bound for home. It is not dated but stands at just after this series, around 1638, and was possibly painted after the battle of Fuenterrabía, a military success that was attributed to Olivares although he was not personally involved. The picture did not join the royal collection at the predecessor of the Prado Museum until a century later.
 <br>
-<br>The painting originally had the same dimensions as Vermeer's Lacemaker. Tentative evidence that the <a target="_blank" href="/en/paintings-by-media/canvas-0">canvas</a> was cut from the same bolt as the Lacemaker, which was gathered in the 1990s, was strengthened by a later, more sophisticated study. The ground appears identical to that used for the two Vermeers owned by London's National Gallery. X-ray examination has revealed evidence of a pin-hole at the vanishing point, as habitually used by Vermeer in conjunction with a thread to achieve correct perspective in his paintings. Pigments are used in the painting in a way typical of Vermeer, most notably the expensive ultramarine as a component in the background wall. The use of green earth in shadows is also distinctive. The use of lead-tin-yellow suggests that the painting cannot be a nineteenth- or twentieth-century fake or imitation. Examination of the cloak, often cited as the crudest part of the painting, shows that it was painted over another garment after some time had elapsed. It is not known how long this gap was, or if Vermeer was responsible for the repainting.
+<br>The Count-Duke looks at the viewer, making sure all can witness his feat. The figure is viewed from a low viewpoint and his torso is turned back, making it look more slender; Olivares had a massive body and was rather clumsy, as seen in the portraits that Velazquez had done before. The horse raises its front legs, performing a somersault or levade as it looks toward the battlefield. Drawing a diagonal from the hills that can be seen in the landscape, the composition provides energy to the portraiture; in this dynamism, the work reminds of <a target="_blank" href="/en/peter-paul-rubens">Rubens</a>. This equestrian portrait differs from those made for the royal family and is believed to have been suggested by Olivares; Velazquez had to take particular care, as Olivares was the highest political office of the court (after the king) and had supported him in his early days as a painter in Madrid.
 <br>
-<br>The hairstyle can be dated to c.1670, and matches the hairstyle in the Lacemaker, which on other grounds is also often dated to the same period. It is not clear if the painting was completed before or after the similar but more ambitious Young Woman Seated at a Virginal in the National Gallery, London. The painting is unsigned.</span>
+<br>The Count-Duke wears a wide-brimmed feathered hat and the band of the State; the hand holds a marshal's baton, which marks the direction of the battle. The armor he wears is possibly preserved in the Palace of Liria of Madrid (collection of the House of Alba).
+<br>
+<br>The rich chromaticism and treatment of light give the scene a great vitality.
+<br>
+<br>The battle in the distance is treated with small spots. The landscape is very schematic, as defined Velázquez, with no buildings or characters. Perhaps it is because the painter did not know the town of Hondarribia, where the battle happened as described, although other sources believe the painting did not refer to any particular battle. The hills fade in green and blue tones, providing a feeling of remoteness, for it is said to have a very sharp aerial perspective.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
