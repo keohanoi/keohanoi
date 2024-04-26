@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/j-zsef-rippl-r-nai/a-park-at-night-1895(1).jpg"
+        src="https://uploads1.wikiart.org/images/samuel-palmer/a-church-among-trees-1830.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Park at Night</h2>
+        <h2 class="artwork-name">A Church among Trees</h2>
         <h3 class="artist">
-          Jozsef Rippl-Ronai
-                    ·  1895
+          Samuel Palmer
+                    ·  1830
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This pastel dates from his Parisian period also known as "the black period", during which Rippl-Ronai exhibited with the Nabis. The work shows a nocturnal landscape, empty of all human figures. Only the lights suggest the presence of houses and roads.
-<br>The trees in the foreground, treated like a photographic negative, pale against a dark background, add a disquieting touch to this unidentified landscape. The title, A Park at Night gives a vague sense of the surroundings. But the place remains unclear. Is it Paris or some other town? The cast-iron lamp posts argue for Paris. The recurring motif of the tree trunks gives the pastel an uneasy feeling, because like ghosts they are vertical and vaporous. This theme of vague anxiety can be compared with the atmosphere often described by the Belgian symbolists.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Palmer drew this about five years after he first met Blake. It shows the strong influence of Blake’s illustrations to Thornton’s Virgil, displayed nearby. There is a similar contrast of dark and light, though handled more broadly.
+<br>This drawing is also an evocation of the English pastoral vision, which complements Blake’s idea of England as a country where Jerusalem would one day have been ‘builded’. The peaceful walk to the church is flanked by wheat sheaves – a symbol of the Last Judgement, when the good are gathered into God’s heaven.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
