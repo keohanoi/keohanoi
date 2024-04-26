@@ -2,23 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/edgar-degas/comte-le-pic-and-his-sons.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/raphael/vision-of-ezekiel-1518.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Comte Le Pic and his Sons</h2>
+        <h2 class="artwork-name">Vision of Ezekiel</h2>
         <h3 class="artist">
-          Edgar Degas
-                    ·  1870
+          Raphael
+                    ·  1518
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ludovic Lepic and His Daughters (French: Ludovic Lepic et ses filles) is a painting by <a target="_blank" href="/en/edgar-degas">Edgar Degas</a> that was completed around 1871. The painting depicts Ludovic-Napoléon Lepic with his young daughters.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ezekiel's Vision is a c. 1518 painting by <a target="_blank" href="/en/raphael">Raphael</a> showing the prophet Ezekiel's vision of God in majesty. It is housed in the Palatine Gallery of Palazzo Pitti, Florence, central Italy.
 <br>
-<br>On February 10, 2008, the painting was stolen from Foundation E.G. Bührle in Zürich, Switzerland. It was recovered in April 2012 with slight damage.
+<br>The work is remembered by Renaissance art biographer <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a> as property of a Bolognese nobleman, Vincenzo Ercolani. There is trace of payment by him to Raphael for 8 ducats in 1510, but this is generally considered just a down payment, since stylistically the work (inspired for example by <a target="_blank" href="/en/michelangelo">Michelangelo</a>'s Sistine Chapel ceiling) cannot be dated before 1518.
 <br>
-<br>Degas also painted Ludovic Lepic in the painting Place de la Concorde.</span>
+<br>In Florence since as early as 1589, it was ceded to Francesco I de' Medici and was placed at the Uffizi. The painting is known to be at Palazzo Pitti in 1697. In 1799 it was robbed by the French, who kept it in Paris until returning it back in 1816.
+<br>
+<br>The work was once considered to be by the hand of Giulio Romano, with Raphael providing only the drawing. However, it has been subsequently assigned to Raphael.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
