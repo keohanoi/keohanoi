@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/patrick-heron/brown-ground-with-soft-red-and-green-august-1958-july-1959-1959.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00281/images/sergio-illuminato/enantiodromia.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Brown Ground with Soft Red and Green: August 1958 - July 1959</h2>
+        <h2 class="artwork-name">ENANTIODROMIA</h2>
         <h3 class="artist">
-          Patrick Heron
-                    ·  1959
+          Sergio Mario Illuminato
+                    ·  2020
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Heron painted this work over a period of eleven months, from August 1958 to July 1959. From 1957 he had begun to experiment with vertical and horizontal bands of colour in his paintings. With this particular work Heron now combined both elements on the same canvas. Built up over time, the different layers of colours intersected, overlapped and ate away at one another, creating the soft-edged square shapes now visible. As the artist himself explained: 'I did not draw these shapes in this configuration - the shapes and their relationship grew out of this process of allowing each colour area to adjust physically to adjacent colour areas'.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Enantiodromia, the game of opposites in becoming, that is, the conception according to which everything that exists passes into its opposite. And the most beautiful harmony is generated from the things that differ: Heraclitus discovered.<br><br>Enantiodromia. il gioco degli opposti nel divenire, cioè la concezione secondo la quale tutto ciò che esiste passa nel suo opposto. E Dalle cose che differiscono si genera l’armonia più bella: ha scoperto Eraclito. <br><br>Énantiodromie, le jeu des contraires à devenir, c'est-à-dire la conception selon laquelle tout ce qui existe passe à son contraire. Et la plus belle harmonie est générée à partir des choses qui diffèrent: Héraclite découvert.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
