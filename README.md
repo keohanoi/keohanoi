@@ -2,29 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/ivan-kramskoy/christ-in-the-wilderness-1872.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/sandro-botticelli/serie-von-vier-gemälden-zum-leben-des-hl-zenobius-von-florenz-1505(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ in the Wilderness</h2>
+        <h2 class="artwork-name">Scenes from the Life of Saint Zenobius</h2>
         <h3 class="artist">
-          Ivan Kramskoy
-                    ·  1872
+          Sandro Botticelli
+                    ·  1505
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Christ in the Desert, or Christ in the Wilderness (Russian: Христос в пустыне, tr. Khristos v pustyne) is a painting by Russian artist <a target="_blank" href="/en/ivan-kramskoy">Ivan Kramskoi</a>, reflecting the Fasting of Christ. Kramskoi was offered a professorship for the painting by the Russian Academy of Arts Council, but having learned that in the beginning of 1873, rejected it (he had been expelled from the Academy earlier, and chose to keep his "youthful commitment to independence from the Academy"). Subsequently, it became one of the favourite paintings of Pavel Tretyakov, who bought it for his gallery in the year the painting was finished.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Scenes from the Life of Saint Zenobius is a series of paintings by the Italian Renaissance artist <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>. Four panels from the series survive, which are now in three different museums. Each depicts three or more incidents from the life of Zenobius, an early Bishop of Florence who perhaps died in 417. The works are all in tempera on wood, and around 66 cm (26 in) high, though their length varies rather more, from about 149 cm to 182 cm (55 to 72 in).
 <br>
-<br>The theme of Christ's temptation had attracted Kramskoi already in the early 1860s. In that period he made the first sketch of the composition. The first version of Christ in the Desert is dated to 1867, but turned to be unsuccessful. Kramskoi realized that the choice of vertical format was inappropriate. He opted for the horizontal format and introduced the pallid rocky desert in the background.
+<br>The National Gallery in London has two panels. One of these, Four Scenes from the Early Life of Saint Zenobius shows (left to right): Zenobius rejects the bride chosen by his parents, then walks away; Zenobius is baptized; his mother is baptized by the bishop of Florence; he is consecrated as Bishop of Florence by Pope Damasus (this in Rome). The second London panel shows Three Miracles of Saint Zenobius. The Metropolitan Museum of Art in New York has a panel with another three miracles, also called by them Three Miracles of Saint Zenobius. The Gemäldegalerie in Dresden has a panel showing a miracle in three scenes, and the death of the saint.
 <br>
-<br>Kramskoi described the early history of the painting in his letters to writer Vsevolod Garshin.
+<br>It is generally agreed that the paintings come from the last phase of Botticelli's career, perhaps c. 1500–1505; some authorities regard them as possibly the artist's latest surviving works.
 <br>
-<br>Christ in the Desert is one of Kramskoi's Jesus-themed paintings, the other being Rejoice, King of the Jews and Herodias. Kramskoy used primarily cold colors to reflect the chill dawn in the background. The thoughtful figure of Christ, wearing a dark wrap and red tunic underneath is slightly shifted to the right of the center. Kramskoi wrote: "To the question "this is not Christ, how do you know he looked like that?", I permitted myself to reply "but even the actual, living Christ has not been recognised". The painting emphasizes Jesus' human constituent of hypostatic union and features a mind struggle instead of action. Because the horizon divides the canvas plane almost in half, the figure of Jesus dominates the painting space and harmonizes with stern wilderness simultaneously.
+<br>The New York panel shows: at left Zenobius encounters the funeral procession of a youth, and restores him to life. At centre Zenobius finds a group weeping at the death of a porter who had carried the relics of saints (shown as skeletons in a coffin) over the Apennine range, and restores him to life, with the help of the relics. At right a sub-deacon called Eugenius (who also became a saint) is shown three times: in the bishop's palace interior Zenobius gives him a cup of salt and water, which he carries and then administers to a female relative who had died without receiving the Last Rites, which brings her back to life.
 <br>
-<br>Kramskoi sold his work to Tretyakov for 6,000 rubles.
+<br>The London miracle panel has three scenes. At left, two young men had treated their mother badly, and been cursed by her. Zenobius exorcises them. At centre: Zenobius restores to life the son of a "noble lady from Gaul". She had left him with the bishop while she made a pilgrimage to Rome, and he died. At right, outside the cathedral he restores the sight of a blind beggar, who had promised to become a Christian in that event.
 <br>
-<br>The painting received a wide feedback and appeared at the Peredvizhniks' second exposition of 1873. Pavel Tretyakov wrote: "I liked Kramskoi's Saviour very much... that's why I was harrying up to purchase him, but many people did not appreciate him much and the others did not at all. In my opinion this is the best painting in our school recently; maybe I am mistaken". Critic Vladimir Stasov noted that a "sorrowful note sensibly resounds in the general physological array of the work". Vsevolod Garshin outlined the "expression of immense moral force, hatred against evil and complete resoluteness to fight it". According to Ivan Goncharov, who wrote "Christ in the Desert. A Painting of Mr. Kramskoi" (original Russian title: "Христос в пустыне». Картина г. Крамского"), "the entire figure seems to have diminished a bit from its natural size, contracted, not from starvation, thirst and bad weather, but from internal, inhuman insight to his thought and will during the struggle of forces of spirit and flesh". He also emphasized that "there is nothing festive, heroic, victorious — the future fate of the world and of all livings is concealed in that miserable, small being, in pauper appearance, under the rags, in humble simplicity, inseparable with true majesty and force". The Russian art researcher Georgy Wagner wrote the article "On the Interpretation of I. N. Kramskoi's Painting "Christ in the Desert" (Russian: "Об истолковании картины И.Н. Крамского "Христос в пустыне").</span>
+<br>In the Dresden panel a single miracle is shown in three scenes, from left to right. A young man is run over by a cart and killed. His distraught mother, a widow, carries him to the church. He is resurrected by a prayer of Zenobius (not shown) and reunited with his mother. At right, Zenobius on his death bed.
+<br>
+<br>Some scholars, including Martin Davies, thought that the surviving series may not be complete, since one of the better known miracles of the saint, where a dead elm burst into leaf after being touched by the saint's bier, is not shown in any of these scenes. But this was before the written Life of Zenobius by Fra Clemente Mazzo (1475) was identified as the source, rather than another version; the paintings clearly follow the sequence, details and chapter divisions of this, and the sequence appears complete.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
