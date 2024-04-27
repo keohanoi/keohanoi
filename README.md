@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/cima-da-conegliano/the-baptism-of-christ.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/3-gian-maria-tosatti-volume-piccola.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Baptism of Christ</h2>
+        <h2 class="artwork-name">Volume - landscape VIII</h2>
         <h3 class="artist">
-          Cima da Conegliano
-                    ·  1493
+          Gian Maria Tosatti
+                    ·  2011
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Baptism of Christ is a painting by Italian Renaissance painter <a target="_blank" href="/en/cima-da-conegliano">Cima da Conegliano</a>, dating from 1492. It is housed in the church of San Giovanni in Bragora in Venice.
-<br>
-<br>The painting portrays Christ at the center of the scene, standing with joined hands. His attitude is that of humble submission to baptism, which is being given him by Saint John the Baptist, who appears on the right.
-<br>
-<br>At the left are three angels with Christ's garments, in red and blue colors, which he will use after the baptism. The scene is completed by an angelic choir in the sky, and a generic oriental city on a spur in the left, behind the angels, while another one is visible in the far background.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The work attempts to measure the impact of people inside an environment. If their impact is too strong or violent on the balance of the space, a candle, put down on the floor, could be put out. Once the candle will be put out, no one can lit it again. On a label, close to the candle, it will be recorded date and time of lighting and switching off, with a signature of a witness.<br><br>(Temple University, Roma)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
