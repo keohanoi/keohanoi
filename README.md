@@ -2,25 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/claude-lorrain/the-embarkation-of-the-queen-of-sheba-1648.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/john-william-waterhouse/the-annunciation.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Embarkation of the Queen of Sheba</h2>
+        <h2 class="artwork-name">The Annunciation</h2>
         <h3 class="artist">
-          Claude Lorrain
-                    ·  1648
+          John William Waterhouse
+                    ·  1914
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Seaport with the Embarkation of the Queen of Sheba is an oil painting by <a target="_blank" href="/en/claude-lorrain">Claude Lorrain</a> (born Claude Gellée, traditionally known as Claude), in the National Gallery, London, signed and dated 1648. The large oil on canvas painting was commissioned by Frédéric Maurice de La Tour d'Auvergne, Duc de Bouillon, general of the Papal army, together with Claude's Landscape with the Marriage of Isaac and Rebecca. It depicts the departure of the Queen of Sheba to visit to King Solomon in Jerusalem, described in the tenth chapter of the First Book of Kings. A more usual subject would be their meeting; this is one of many harbour scenes painted by Claude. The Queen is departing from a city with classical buildings, with the early morning sun lighting the sea, as vessels are loaded.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ecce Ancilla Domini (Latin: "Behold the handmaiden of the Lord"), or The Annunciation, is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by the English artist <a target="_blank" href="/en/dante-gabriel-rossetti">Dante Gabriel Rossetti</a>, first painted in 1850 and now in Tate Britain in London. The Latin title is a quotation from the Vulgate text of the first chapter of the Gospel of Saint Luke, describing the Annunciation, where Mary accepts the message brought to her by the Angel Gabriel that she would give birth to a child (Jesus) by God.
 <br>
-<br>The composition draws the eye to a group of people on the steps to the right, at the intersection of a line of perspective (the steps) and a strong vertical (the left column of the building's portico). The Queen wears a pink tunic, royal blue cloak, and golden crown, and is about to board a waiting launch to take her to her ship – perhaps the ship partially concealed by the pillars to the left, or the one further out to sea, over the picture's vanishing point.
+<br>Rossetti deliberately used a limited colour range for this oil painting. The predominance of white, symbolic of virginity, is complemented by vibrant blue (a colour associated with Mary, though notably not used in his The Girlhood of Mary Virgin in 1849 and shown below) and red, for Christ's blood. Lilies are traditionally the symbol of Mary in Italian Renaissance art, but they are also considered funereal flowers, indicative of Christ's death.
 <br>
-<br>The painting was one of the first works to be acquired by the National Gallery in 1824, being one of five works by Claude Lorrain bought from the collection of John Julius Angerstein. It has the catalogue number NG14. This and similar works by Claude inspired <a target="_blank" href="/en/william-turner">J. M. W. Turner</a> to paint Dido Building Carthage and The Decline of the Carthaginian Empire, which Turner left to the nation as part of the Turner Bequest on the condition that they were to be hung besides Claude's pair of works.
+<br>Christina Rossetti posed for Mary but, as with her previous year's modelling, her brother altered her hair colour: in this instance making it auburn to continue the red palette. William Rossetti posed for Gabriel.
 <br>
-<br>It is numbered 114 in Claude's Liber Veritatis.</span>
+<br>This painting received mixed reviews. The most obvious break with tradition was Rossetti's choice of placing Mary in bed - her long nightgown suggestive of a newly-wed bride - woken by the angel, who is normally depicted appearing as Mary prays. Also controversial were Gabriel's lack of wings (the flames at his feet suggest a Classical influence) and his obvious nakedness, glimpsed through the side of his robe. Note also the dove's halo, and the differences between Mary's and Gabriel's haloes, which may have arisen because Mary's was painted in 1850, whereas Gabriel's was not added until 1853.
+<br>
+<br>The painting was first exhibited in April 1850 at the Old Portland Gallery on Regent Street. Francis McCracken, a well known Pre-Raphaelite patron, bought it in 1853 for £50 and the Tate Gallery purchased it in 1886. In February 2013 it was not on display.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
