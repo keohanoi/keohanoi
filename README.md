@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00307/images/sergio-illuminato/36-antiedipo-06-07-2020.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/petrus-christus/st-eligius-as-a-goldsmith-showing-a-ring-to-the-engaged-couple-1449.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">ANTI-OEDIPUS</h2>
+        <h2 class="artwork-name">St. Eligius as a goldsmith showing a ring to the engaged couple</h2>
         <h3 class="artist">
-          Sergio Mario Illuminato
-                    ·  2020
+          Petrus Christus
+                    ·  1449
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The paradox of the wedding between language and the unconscious. A fluid form of my drive life becomes color and light and finally sign, but not yet an irreducible representation for everyone. The virgin and the child are dear to me.<br><br>Il paradosso delle nozze tra il linguaggio e l’inconscio. Una forma fluida della mia vita pulsionale si fa colore e luce e infine segno, ma non ancora rappresentazione irriducibile per ciascuno. A me è cara la vergine e il bambino.<br><br>Le paradoxe du mariage entre langue et inconscient. Une forme fluide de ma vie pulsionnelle devient couleur et lumière et enfin signe, mais pas encore une représentation irréductible pour tous. La vierge et l'enfant me sont chers.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">A Goldsmith in His Shop, Possibly Saint Eligius is a 1449 painting by <a target="_blank" href="/en/petrus-christus">Petrus Christus</a>, now in the Metropolitan Museum of Art.
+<br>
+<br>The main figure in the painting was long thought to be Saint Eligius, the patron saint of goldsmiths, due to the presence of a halo. In 1993 the halo was recognized as a later addition and removed. The Ducht art histocian Hugo van der Velden thinks the main figure may be the famous goldsmith Willem van Vleuten, who by then lived in Bruges.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
