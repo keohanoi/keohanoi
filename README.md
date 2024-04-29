@@ -2,27 +2,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/vittore-carpaccio/christ-with-the-symbols-of-the-passion-surrounded-by-angels-1496.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/00197/images/piet-mondrian/tableay-no-iv-lozenge-composition.png"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Christ with the Symbols of the Passion Surrounded by Angels</h2>
+        <h2 class="artwork-name">Tableau No. IV - Lozenge Composition</h2>
         <h3 class="artist">
-          Vittore Carpaccio
-                    ·  1496
+          Piet Mondrian
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Christ between Four Angels and the Instruments of the Passion is a painting by the Italian Renaissance master <a target="_blank" href="/en/vittore-carpaccio">Vittore Carpaccio</a>, executed in 1496 and now housed in the Civici musei e gallerie di storia e arte of Udine, northern Italy.
-<br>
-<br>The work was painted for the church of St. Peter Martyr of Udine. It was acquired by the Austrians after the Napoleonic Wars, and assigned to the Hofmuseum in Vienna in 1838. It was given back to Italy in 1919.
-<br>
-<br>The work is signed and dated VICTORIS CHARPATJO / VENETI OPVS / 1496 on a cartouche attached to the basement. It is contemporary of Carpaccio's cycle of the Legend of Saint Ursula and shows some influences of <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>.
-<br>
-<br>It depicts Christ standing on a double basement, keeping the Cross. Behind him is a damask cloth held by two angels and, at the sides, a landscape inspired to the Venetian hills; the castle on the right is similar to that of Udine. In the foreground are four angels with the Instruments of the Passion: from the left, the Holy Lance, the nails from the cross, the sticks of the Flagellation and the Holy Sponge. On the cross is the Crown of Thorns and the inscription "INRI". Blood rays spring up from Christ's wounds, ending in the Holy Chalice and turning themselves into the sacramental bread.
-<br>
-<br>The sacrifice of Christ is also alluded to by the deer which is being slaughtered by a leopard on the lawn on the right.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Piet Mondrian intended his abstract or so-called "neo-plastic" paintings to express his fundamentally spiritual notion that universal harmonies preside in nature. The horizontal and vertical elements of his compositions, assiduously calibrated to produce a balanced asymmetry, represented forces of opposition that parallel the dynamic equilibrium at work in the natural world. By 1921 Mondrian had distilled his compositions into black lines that intersect at right angles, defining rectangles painted only in white or gray and the three primary colors.<br><br>In 1918 the artist turned one of these square canvases 45 degrees to rest "on point," doing so without rotating the linear elements within the composition. Approximately three years later he merged that format with the elemental color scheme of his mature works to produce this monumental painting, the earliest of the neo-plastic diamond or lozenge compositions. Repainted around 1925, when the black lines were thickened, this picture relates to several other works of the 1920s, where color is restricted to the periphery. Mondrian said the diamond compositions were about cutting, and indeed the sense of cropping here is emphatic. Forms are incomplete, sliced by the edge of the canvas, thus implying a pictorial continuum that extends beyond the physical boundary of the painting.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
