@@ -2,19 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00197/images/francisco-goya/francisco-de-goya-still-life-with-golden-bream-google-art-project.jpg!Large.jpg"
+        src="https://uploads0.wikiart.org/images/joan-miro/not_detected_227973.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Still Life With Golden Beam</h2>
+        <h2 class="artwork-name">Painting</h2>
         <h3 class="artist">
-          Francisco Goya
-                    ·  1812
+          Joan Miro
+                    ·  1936
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although Francisco de Goya was an extremely prolific artist, he painted perhaps only a dozen still lifes, late in life. In Still Life with Golden Bream, he has captured the physical beauty of the fish while at the same time seeming to identify strongly with the animal's demise. The fish appear to be piled on a grassy knoll near a beach, which Goya has deftly suggested by the foam of a wave breaking diagonally from lower right to upper left. The scene is illuminated by moonlight glinting across the wet, scaly bodies of the fish and reflected in their large, staring eyes. Goya departs from traditional artistic depictions of dead animals, investing his still lifes with great pathos. Parallels can be drawn between Goya's representation of animals and his treatment of human corpses in his riveting series of prints Disasters of War, one of the greatest accusations against the horrors of war.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In the late twenties Miró questioned paint as a medium and began to search for new vehicles of expression. Later, while working on his paintings on masonite, he grew aware of certain poetic qualities inherent in the material and sensed their aesthetic potential.
+<br>Miró was in pursuit of the interpenetration of materials, which often appears imposed by force. The contrast of the materials (casein, black shoe polish, tar and sand, in addition to oil colours) and the rough support of the "masonite" express the violence of the execution.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
