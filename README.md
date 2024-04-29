@@ -2,26 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/images/peter-paul-rubens/perseus-freeing-andromeda.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/george-romney/abraham-rawlinson-1738-1803-mp-of-ellel-hall-near-lancaster-1767.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Perseus Freeing Andromeda</h2>
+        <h2 class="artwork-name">Abraham Rawlinson (1738–1803), MP, of Ellel Hall, near Lancaster</h2>
         <h3 class="artist">
-          Peter Paul Rubens
-                    ·  1622
+          George Romney
+                    ·  1767
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perseus Freeing Andromeda is a painting by the Flemish artist <a target="_blank" href="/en/peter-paul-rubens">Peter Paul Rubens</a>, executed in 1622. It is housed in the Gemäldegalerie of Berlin, Germany.
-<br>
-<br>The painting belonged the M. Pasquier collection in Rouen, which was auctioned in 1755 in Paris. In the 18th century it entered the collection of Frederick II of Prussia and, in 1830, it became part of the Berlinese museum collection.
-<br>
-<br>The scene is similar to another Perseus Freeing Andromeda by Rubens now in the Hermitage Museum of St. Petersburg. It depicts the Greek mythology hero Perseus in the act of freeing Andromeda, after defeating the sea monster which kept her as prisoner. Perseus, wearing helmet, cuirass and cloak, is sided by two puttoes, and one of them is helping him in removing the ropes that tie Andromeda to the rock.
-<br>
-<br>On the left, two puttoes are playing with Pegasus, Perseus' winged horse.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is an outstanding and perceptive portrait of one of Lancaster's most prominent merchants, whose company supplied Gillows of Lancaster, the famous furniture makers, with mahogany obtained in its slaving transactions in the West Indies.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
