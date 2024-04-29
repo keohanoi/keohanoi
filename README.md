@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/henri-matisse/the-moraccans-1916.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/keith-haring/crack-is-wack-1986.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Moroccans</h2>
+        <h2 class="artwork-name">Crack Is Wack</h2>
         <h3 class="artist">
-          Henri Matisse
-                    ·  1916
+          Keith Haring
+                    ·  1986
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Matisse planned this picture as early as 1913, and it recalls visits made to Morocco around this time. A figure sits on the right with a back to us, fruit lies in the left foreground, and a mosque rises in the background beyond a terrace. Matisse said that he occasionally used black in his pictures in order to simplify the composition, though here it undoubtedly also recalls the stark shadows produced by the strong sunshine in the region. Like Bathers by a River (1917), The Moroccans was significantly influenced by Picasso's Cubism, and some have even compared it to Picasso's Three Musicians (1921). Although it employs the same brilliant color as much of Matisse's work, its use of abstract motifs and rigid diagrammatic composition is unusual, and has attracted considerable speculation. Rather than use the scene as an opportunity for decoration, it is as if Matisse has tried to find the means to chart and map it.</span>
-                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This mural (1986) on handball court at 128th Street and 2nd Avenue was inspired by the crack epidemic and its effect on New York City. It was created as a warning and was initially executed independently, without City permission. The mural was immediately put under the protection and jurisdiction of the City Department of Parks and still exists.</span>
+                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
   </div>
