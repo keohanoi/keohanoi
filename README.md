@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/giovanni-paolo-panini/view-of-the-colosseum-1747.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/joshua-reynolds/self-portrait-3.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">View of the Colosseum</h2>
+        <h2 class="artwork-name">Self-portrait shading the Eyes</h2>
         <h3 class="artist">
-          Giovanni Paolo Panini
-                    ·  1747
+          Joshua Reynolds
+                    ·  1749
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This view of the Colosseum and the Arch of Constantine is a somewhat fanciful reconstruction showing each monument from its best side. Fallen walls of the Colosseum have been tidied up, and several other works of antiquity have been introduced into the landscapes, such as the famous Borghese vase (now in the Louvre Museum, Paris) at the left. Roman ruins had become popular subjects by the 1700s, in part due to the new interest in archaeology. Panini was a master of these souvenir paintings so favored by wealthy English visitors on their Grand Tour of Europe; this painting and its companion, View of the Roman Forum, were originally in a private British collection.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Reynolds' early self-portrait is a subject that he frequently revisited throughout his career. It is believed to have been painted prior to his trip to Europe and depicts the artist turning towards the viewer, his left hand positioned at his forehead, as if aiding his vision or shielding himself from bright light. In his right hand, he holds an artist's palette and mahlstick. This unique portrayal of the artist with the tools of his profession sets it apart as the only self-portrait of Reynolds in this style. The painting serves as evidence of his pride in his career and his skill as a self-promoter from a young age.<br><br>In contrast to typical portraiture of the time, where sitters were depicted formally and in established poses, Reynolds chose to depict himself as a man of action caught in the moment of painting. Art historian Mark Hallett notes that this departure from convention demonstrates Reynolds' experimentation with movement and non-traditional poses, which would go on to influence his later portraits. Originally a vertical composition, the painting was later reduced at the top and bottom, likely in the 19th century.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
