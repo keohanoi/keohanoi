@@ -2,20 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/george-luks/view-of-beacon-street-from-boston-common-1923.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/kenzo-okada/footsteps-1954.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">View of Beacon Street from Boston Common</h2>
+        <h2 class="artwork-name">Footsteps</h2>
         <h3 class="artist">
-          George Luks
-                    ·  1923
+          Kenzo Okada
+                    ·  1954
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">By the late nineteenth century, concern arose that city children had insufficient access to the outdoors. The Playground Association of America, founded in 1906, was dedicated to promoting parks and recreation for urban children. George Luks’s “View of Beacon Street from Boston Common” illustrates this goal: two beautifully dressed young girls, accompanied by their governess, walk their dog in Boston Common, a large park in the center of the city. Although the common had been established in the seventeenth century for the communal pasturing of cows, by the nineteenth century it was an oasis of nature in the midst of the city.
-<br>Best known for his gritty images of street life in New York’s poorer districts, Luks painted more prosperous people and neighborhoods when he visited Boston from 1922 to 1923. He was a guest of Margarett Sargent, a cousin of the artist John Singer Sargent. Wealthy and socially prominent, Margarett Sargent had studied drawing and painting with Luks in New York. Because she was his guide to Boston, Luks became familiar with the more affluent areas of the city, such as Beacon Street and the adjacent Boston Common. Behind the girls who are enjoying fresh air and exercise in the park, Luks painted the graceful bow fronts of the early nineteenth-century townhouses on Beacon Street, architectural features popular in Boston and almost unknown in New York.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Footsteps, painted in 1954, represents one of Okada's early forays into abstract expressionism. In keeping with the ideas of his fellow abstract expressionists, Okada drew imagery from his subconscious, allowing it to dictate his creative hand. He had no preconceived imagery for a picture, but preferred working in the spirit of Zen Buddhism, which emphasizes meditation. Occasionally he was known to work out the ideas for a composition using natural elements such as sticks, stones, and paper. This process helped him to develop the image before actually beginning his painting.
+<br>
+<br>In Footsteps, the tiny daubs of gray and black paint that lead the viewer's eye into the composition, the broken, black horizontal line in the upper right, and the porous brown triangular shape in the bottom left are evocative of pebbles, rocks, and sticks. Okada's tendency to suggest landscape arises in the faint horizontal shape on the right resembling a mountain or hill, the white amorphous shapes evoking clouds, and the touches of gray in the center resembling footprints in the snow—a fleeting suggestion for the title of this painting. The geometric shapes clustered on the left of the canvas, suggest houses, windows, and roofs, implying human presence in harmony with nature. Okada revealed his Asian heritage through the calm simplicity of the composition, the soft, muted palette, and the subtle allusions to nature. By balancing void against condensed weight, he realized the oriental pictorial tradition of implying vast and ambiguous space.
+<br>
+<br>Okada achieved texture in Footsteps by scraping back paint, painting wet-into-wet, splattering paint onto a dry surface, and using a dry brush. Drips of paint run in different directions on the composition, suggesting that Okada rotated the canvas as he worked. The painting is built up with thin oil washes; bare ground is exposed in some areas between forms, but most of the canvas is covered with thin glazes. The geometric shapes and the interweaving of lush textures and tones suggest aspects of nature.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
