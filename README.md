@@ -2,21 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/caravaggio/salome-with-the-head-of-john-the-baptist(1).jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/piero-della-francesca/polyptych-of-st-anthony(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Salome with the Head of John the Baptist</h2>
+        <h2 class="artwork-name">Polyptych of St. Anthony</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1607
+          Piero della Francesca
+                    ·  1469
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Salome with the Head of John the Baptist (London), c. 1607/1610, is a painting by the Italian master <a target="_blank" href="/en/caravaggio">Caravaggio</a> in the National Gallery, London.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Polyptych of Perugia (also known as Polyptych of St. Anthony) is a complex of paintings by the Italian Renaissance master <a target="_blank" href="/en/piero-della-francesca">Piero della Francesca</a>, finished around 1470. It is housed in the Galleria Nazionale dell'Umbria, Perugia, Italy.
 <br>
-<br>The painting was discovered in a private collection in 1959. The early Caravaggio biographer Giovanni Bellori, writing in 1672, mentions a Salome with the Head of John the Baptist sent by the artist to the Grand Master of the Knights of Malta in the hope of regaining favour after having been expelled from the Order in 1608. It seems likely, however, that Bellori was referring to a different painting of the same subject (see Salome with the Head of John the Baptist (Madrid)). The handling and the raking light link this painting to works done in Naples during the artist's brief stay in the city during 1606–1607, an impression confirmed by the blances between Salome and the Virgin in the Madonna of the Rosary, and between the executioner holding the head of the Baptist and one of the two torturers in Christ at the Column and The Flagellation of Christ. From November to February 2012–2013 this painting was part of the exhibition "Bodies and Shadows: Caravaggio and His Legacy" at the LACMA.</span>
+<br>The work was executed for the new Franciscan convent of Sant'Antonio da Padova in Perugia, most likely in the years following his sojourn in Rome. It portrays the Virgin enthroned with the Child in the central part, flanked by several saints: Anthony of Padua and John the Baptist on the left, Francis and Elizabeth of Hungary in the right. In the cusp is the Annunciation. The upper part of the predella shows the saints Clare and Lucy, while in the lower part are miracles stories of the main Franciscan saints.
+<br>
+<br>The central part of the polyptych shows a still archaic formula, both in the composition of the frame and in the gold backgrounds: Piero della Francesca was in fact called to complete a work already begun by a local painter. The figures are impressively robust and full-bodied, the realism of iconography innovative and the perspective of the niche throne on which Mary sits is meticulously worked out. Of lesser quality are the predella panels, which are in fact attributed to assistants. More innovative and typical of the artist's style is the Annunciation, set in a bright cloister, whose illusionist view is considered amongst the greatest perspective renderings of Renaissance art.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
