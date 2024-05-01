@@ -2,25 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/images/eileen-agar/the-autobiography-of-an-embryo-1934.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/antoine-watteau/not_detected_229434-1715.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Autobiography of an Embryo</h2>
+        <h2 class="artwork-name">Nymph and Satyr, or Jupiter and Antiope</h2>
         <h3 class="artist">
-          Eileen Agar
-                    ·  1934
+          Antoine Watteau
+                    ·  1715
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This complex and multi-coloured composition was painted by Agar in 1933-4, while she was living at 47 Bramham Gardens, Earls Court, London. Although not yet part of the Surrealist movement she was aware of ideas being promulgated by the group. Her idiosyncratic juxtaposition of ideas and images, which had first emerged in Three Symbols (Tate T00707), was developed further in The Autobiography of an Embryo.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Jupiter and Antiope (French: Jupiter et Antiope) is an oil painting by the French artist <a target="_blank" href="/en/antoine-watteau">Antoine Watteau</a>. It is also known as the Satyr and the Sleeping Nymph and was probably painted between 1714 and 1719. Intended to be placed over a doorway, today it hangs in the Louvre in Paris.
 <br>
-<br>The horizontal painting is divided into four sections with a decorative border running along the top and bottom of the canvas. The composition is reminiscent of the arrangement of a classical wall painting, with winged putti on top of the dividing columns. A Greco-Roman influence is also evident in the abstract shapes and patterns. Draped figures, which recall antiques statues, and the geometric patterns similarly echo the decoration on ancient Greek vessels.
+<br>The painting is oval shaped, with a width of 107.5&nbsp;cm and a height of 73&nbsp;cm. In the foreground it depicts the naked, sleeping Antiope. She lies with her head on the left edge of the painting, twisted so that her front side faces the viewer. Her right arm is bent under her head while her left arm hangs down into the abyss in front of her. This arm covers the right breast, while the left remains free. Her legs are bent up towards the viewer, with the right continuing the line of her body at the knee while her left leg is only slightly bent to point back to the lower right of the painting. The whole body is painted in pale, warm colours and lights up the otherwise dark and earthy image. Under the sleeping woman there is a cloth, which hangs over the abyss near her breast, disappears under her arm near her head and is lifted by the satyr behind her.
 <br>
-<br>Such an array of symbols evokes a cultural heritage. In the second section the head of a African woman resembles African sculptures and a head seen in profile refers to Italian Renaissance portraiture. More specifically, the squat figure who appears twice in the first two sections, represents Ubu, a character in the French play of 1896 by Alfred Jarry. These quotations are combined with modern elements, such as the brick wall in the second section and the graffitti-like head on the far right.
+<br>The satyr, whose head is crowned with grape vines symbolising the presence of the god Bacchus. lies in the opposite direction behind the woman, with the front of his body also facing the viewer. With his left arm he lifts the cloth to the height of Antiope's shoulder and it is obvious that he has just uncovered the sleeping maiden. His left arm is bent on a tree root at the right edge of the image and props up his upper body. With his head and upper body, the satyr looms over the hips of the sleeper in order to gaze upon her - he licks his lips lustfully. His body is shadowy and cannot be made out below his hips. The satyr is depicted in brown tones. His suntanned skin and muscular body forms a clear contrast with the softly worked, shapely Antiope.
 <br>
-<br>Organic and biological forms run through the composition. Agar may have taken her lead from the Czech painter Franticek Foltyn, who taught her in Paris, and who incorporated similar motifs into his work. Shells and winged forms are combined with plant-like structures, and circular shapes suggest fossils, cells or embryonic forms. Agar apparently kept a fish tank in the 1930s and was intrigued by the aquariums at the zoos in London and Naples. In her autobiography (pp. 84-5) she noted that when living in Paris she had frequently visited the Jardin des Plantes, where she became fascinated by 'the bones of that protobird, the Archaeopteryx'. This may relate to the winged structure in the third segment. She added, 'I was enthralled by fossils, their muted colour and embedded beauty. They reach us as signals in time, isolated objects which take on the importance of a problem resolved at some moment far back beyond the mists of human memory. I learnt about the secrets of animal structure and from there my thoughts led easily to the problem of human structure' (quoted in Illustrated Catalogue of Acquisitions 1986-88, p.240). This connection was made more concrete when Agar discovered that 'human foetuses have gills for about 12 weeks because in the evolution of our species we went though an amphibian stage' (quoted in Illustrated Catalogue of Acquisitions 1986-88, p.240). (Chloe Johnson)</span>
+<br>The lower edge of the image is taken up by an abyss, which is depicted in dark brown tones and is edged with bare soil. On either side, gnarled roots grow in the soil, which rise into indistinct trees. The ground continues above the trees into the background, where there is a hill with lone houses. Above that is the cloudy sky, discreetly lit by the glow of twilight.
+<br>
+<br>The composition fits the oval shape of the image. The sleeping Antiope forms the central horizontal, with her hips and bent legs creating the central vertical. The arms of the satyr and the legs of the woman curve in parallel with the upper edge of the painting - in this way the two central characters repeat the oval within the image, which is broken only by dangling left arm of the woman. Spatial depth is created by the stooped posture of Jupiter and by the bent knees of Antiope.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
