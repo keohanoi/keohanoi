@@ -2,33 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/parmigianino/madonna-and-child-with-st-john-and-st-jerome-1527.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/berthe-morisot/in-the-wheatfield-at-gennevilliers-1875.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Madonna and Child with St. John the Baptist and St. Jerome</h2>
+        <h2 class="artwork-name">In the Wheatfield at Gennevilliers</h2>
         <h3 class="artist">
-          Parmigianino
-                    ·  1527
+          Berthe Morisot
+                    ·  1875
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Vision of Saint Jerome is a painting by the Italian <a target="_blank" href="/en/artists-by-art-movement/mannerism-late-renaissance">Mannerist</a> artist <a target="_blank" href="/en/parmigianino">Parmigianino</a>, executed in 1526–1527. It is now in the National Gallery, London, United Kingdom.
-<br>
-<br>The work was commissioned on 3 January 1526 in Rome, by Maria Bufalini, wife of Antonio Caccialupi, to decorate the family chapel in the church of San Salvatore in Lauro. The contract mentioned "Francesco Mazola de Parma" and one "Pietro" with the same name, perhaps Parmigianino's uncle Piero Ilario Mazzola. The elongated shape derives from its original destination as part of a triptych, whose sides (never painted) should represent the Immaculate Conception (to which the chapel was dedicated) and the saints Joachim and Anna.
-<br>
-<br>According to late Renaissance art biographer <a target="_blank" href="/en/giorgio-vasari">Giorgio Vasari</a>, Parmigianino was working to this painting during the Sack of Rome, and he had to stop when the city was ravaged by the imperial troops. He was able to escape paying a ransom, while his uncle remained in Rome, being able to hide the painting in the refectory of Santa Maria della Pace.
-<br>
-<br>In 1558 the Bufalini family decided to move it in their chapel in Sant'Agostino at Città di Castello, from where it was acquired in 1790 by the English painter James Durno. In England, it was sold to the Marquess of Albercon for 1,500 guineas, then, after a series of changes of hand, to the National Gallery, in 1826.
-<br>
-<br>There are preparatory drawings in the Musée Condé, the British Museum and other museums, for a total of some twenty. A drawing in the Galleria nazionale di Parma is the one which is more similar to the final version, although showing a horizontal composition.
-<br>
-<br>The painting is divided into two narrative sectors: a lower one, with Saint Jerome is sleeping near the crucifix (with his traditional symbol, the cardinal hat visible near a skull) and receives the vision of St. John the Baptist, identified by the long cross and the baptismal washbasin which is tied at his belt; St. John indicates the Child, represented in the upper sector between the legs of the Madonna, with a shining background behind them.
-<br>
-<br>Parmigianino's attention to detail is shown by the Baptist's reed cross, the speckled skin which covers him, the undergrowth near the sleeping Jerome, the sheen on Mary's dress, the last perhaps inspired by classical sculptures seen by Parmigianino during his trips.
-<br>
-<br>St. John's raised right arm and upwards-pointing finger are reminiscent of <a target="_blank" href="/en/leonardo-da-vinci">Leonardo's</a> painting St. John the Baptist.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This artwork portrays a scene from the village of Gennevilliers, which is situated just outside Paris and was owned by the Manet family, who were related to Morisot's husband. This location was a popular spot for many Impressionist artists, including Monet, who found inspiration for their works in this area. The painting itself features a pleasing visual arrangement of three horizontal color bands, separated by the presence of a young boy on the right side of the canvas. The wheat that gives the painting its title is located at the center of the canvas, drawing the viewer's gaze to it.<br><br>Morisot's loose brushwork renders the wheat in a hazy manner, while the buildings in the background are painted with slightly more clarity, revealing the smokestacks of the factories that dominate the horizon. This contrast highlights the changing nature of the landscape from agricultural to industrial, reflecting the city's growth and the gradual disappearance of the rural way of life. In the foreground, a figure emerges from the edge of the wheat field, carrying his belongings on his shoulder. This figure could represent the archetypal rural villager who is trying to flee from the encroaching industrialization. Hence, Morisot's artwork can be interpreted as both a charming representation of the countryside and a subtle critique of modern life's transformation, a theme that many French painters, from the Realists to the post-Impressionists, found popular.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
