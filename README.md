@@ -2,19 +2,25 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/00163/images/norman-lewis/lewis-carved-bobbin-guru-1935-1.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/tivadar-kosztka-csontvary/pilgrimage-to-the-cedars-in-lebanon-1907.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Baule Mask</h2>
+        <h2 class="artwork-name">Pilgrimage to the Cedars in Lebanon</h2>
         <h3 class="artist">
-          Norman Lewis
-                    ·  1935
+          Tivadar Kosztka Csontvary
+                    ·  1907
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">In 1935, Lewis attended the exhibition African Negro Art at the Museum of Modern Art. Deeply inspired by the forms he encountered, he executed colorful pastel drawings—some on sandpaper—of masks from the Baulé and Dan cultures. A typed statement in Lewis’s archive reveals his clear understanding of the severe distinctions between African sculpture and the Greco-Roman model of naturalism that had previously informed his work and teaching.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Pilgrimage to Cedars of Lebanon (in Hungarian: Zarándoklás a cédrusokhoz Libanonban) is a picture of the Hungarian painter Tivadar Csontváry Kosztka of 1907.
+<br>
+<br>The picture is painted with oil paints and has dimensions of 200 × 192&nbsp;cm. The picture is in the Hungarian National Gallery in Budapest.
+<br>
+<br>It is one of the most iconic paintings in Hungarian painting. After 40 years Tivadar Costco Chontvari left pharmaceuticals and took up art. He traveled thousands of miles in search of inspiration. The picture of cedar trees painted in Lebanon while on pilgrimage is a key part of his work. The symbolism stems from the strong religious character. According to the ancient beliefs, cedars play an important role in ancient Hungarian mythology. The cedar is a symbol of fertility, assumed to be the tree of life and the tree of knowledge.
+<br>
+<br>In his painting, Chontvari presents his outlook, which is reflected in the art. It is a complex system of symbols, and synthesizes diverse content.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
