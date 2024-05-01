@@ -2,31 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/lorenzo-lotto/the-annunciation.jpg!Large.jpg"
+        src="https://uploads6.wikiart.org/00381/images/jacques-louis-david/2-sappho-and-phaon-jacques-louis-david.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Annunciation</h2>
+        <h2 class="artwork-name">Sappho and Phaon</h2>
         <h3 class="artist">
-          Lorenzo Lotto
-                    ·  1534
+          Jacques-Louis David
+                    ·  1809
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Recanati Annunciation (Italian: Annunciazione di Recanati) is a painting by the Italian Renaissance painter <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, executed around 1534 and housed in the Civic Museum of Villa Colloredo Mels, Recanati, Italy.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Sappho and Phaon is an 1809 <a target="_blank" href="/en/artists-by-art-movement/neoclassicism">neoclassical</a> painting by the French painter <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a> of Cupid, Sappho and her lover Phaon. It was commissioned by Prince Nikolai Yusupov for his Moika Palace and is now the only painting by David in the Hermitage Museum in Saint Petersburg.
 <br>
-<br>The work could date to the artist's sojourn in Venice, from where it would be shipped to the Marche around 1527. Otherwise, it could date to a later period when he moved there to executed other works. Today it is generally assigned to a few time after the Crucifixion of Monte San Giusto (1533-1534).
-<br>
-<br>The commissioners were perhaps the Brotherhood of the Recanati Traders, who moved to a new seat in 1533 and would therefore use the work for the latter's decoration.
-<br>
-<br>The canvas is mentioned for the first time in 1601.
-<br>
-<br>The painting depicts a bedroom where an Annunciation takes place following an unusual scheme: the angel is on the right, holding a white lily, and has got in from a loggia which opens to a garden (the hortus conclusus). His right arm is pointing at the Father God who has shown in a cloud and is blessing Mary from inside the loggia. Mary is portrayed in the left foreground, looking at the spectator and raising her hands in a surprised gesture.
-<br>
-<br>Stylistically, Lotto used expressive gestures and somewhat under-size heads. The number of carefully painted details show the influence of Northern European paintings: they include the baldachin bed, the small window with sealed glasses, the shelf with a small still life, the hatstand, the stool with an hourglass, the prie-dieu and a scared cat which is fleeing. The baldachin was inspired by a relief by Andrea Sansovino at Loreto.
-<br>
-<br>The Madonna who face the seer and the angel who tries to draw her attention are taken instead from <a target="_blank" href="/en/titian">Titian</a> works. According to Italian art historian Giulio Carlo Argan:</span>
+<br>Sappho is shown sitting in a chair at the foot of a bed in a classically decorated room with columns, a marble floor and a view to a rural landscape outside (with Venus's birds, doves, sitting on the doorstep). Phaon stands behind the chair holding a spear and bow. On her knee is a scroll with some of her verses in praise of Phaon and Cupid kneels in front of her, holding up her lyre, which she tries to play with her right hand whilst leaning her head back to let Phaon cradle her head in his left arm.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
