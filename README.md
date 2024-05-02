@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/00134/images/john-altoon/john-altoon.jpg"
+        src="https://uploads1.wikiart.org/00458/images/eugene-delacroix/liberty-leading-the-people-delacroix-eug-ne-1830.JPG!Large.JPG"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ocean Park Series</h2>
+        <h2 class="artwork-name">Liberty Leading the People</h2>
         <h3 class="artist">
-          John Altoon
-                    ·  1962
+          Eugene Delacroix
+                    ·  1830
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Oil on canvas. 72 x 84 in. <b>Orange County Museum of Art</b>, Newport Beach, CA: Museum purchase with additional funds provided by Dr. James B. Pick and Dr. Rosalyn M. Laudati, Mr. Ward Chamberlin, Mrs. E.G. Chamberlin, Patricia Fredericks, Mr. and Mrs. Carl Neisser, Mr. and Mrs. John Martin Shea, Mr. and Mrs. Samuel Goldstein, Zada Taylor, Mr. David H. Steinmetz, and Mrs. Bernard McDonald. Permission courtesy of the Estate of John Altoon and Braunstein/Quay Gallery, San Francisco, CA.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Perhaps Delacroix’s most influential and most recognizable paintings, Liberty Leading the People was created to commemorate the July Revolution of 1830, which removed Charles X of France from power. Delacroix wrote in a letter to his brother that a bad mood that had been hold of him was lifting due to the painting on which he was embarking (the Liberty painting), and that if he could not fight for his country then at least he would paint for it. The French government bought the painting in 1831, with plans to hang it in the room of the new king Louis-Philippe, but it was soon taken down for its revolutionary content. Lady Liberty was eventually the model for the Statue of Liberty, which was given to the United States 50 years later, and has also been featured on the French banknote. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
