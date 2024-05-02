@@ -2,20 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/hildegard-of-bingen/ninth-vision-personification-of-god-s-power.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/sandro-botticelli/portrait-of-a-young-man-1483-1(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ninth Vision. Personification of God's power</h2>
+        <h2 class="artwork-name">Portrait of a Young Man</h2>
         <h3 class="artist">
-          Hildegard of Bingen
+          Sandro Botticelli
+                    ·  1483
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This miniature from The Book of Divine Works illustrates Hildegard of Bingen's Ninth Vision, the personification of God's power.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Portrait of a Young Man is a painting by the Italian Renaissance artist <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, c. 1483. It is housed in the National Gallery of London.
 <br>
-<br>The manuscript at Lucca is an early thirteenth-century illustrated copy of Hildegard's work.</span>
+<br>This was originally attributed to <a target="_blank" href="/en/giorgione">Giorgione</a>, Filippino Lippi or <a target="_blank" href="/en/masaccio">Masaccio</a> and is the only known en face portrait by Botticelli.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
