@@ -2,22 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/joshua-reynolds/self-portrait-4.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00245/images/harriet-bart/echosilence-dsc5246.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-Portrait</h2>
+        <h2 class="artwork-name">Requiem: Enduring Afghanistan</h2>
         <h3 class="artist">
-          Joshua Reynolds
-                    ·  1755
+          Harriet Bart
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This self-portrait was probably painted soon after Reynolds set up a studio in London in 1753. He had spent the previous three years studying art in Italy.
-<br>
-<br>The personal connections and artistic ambitions Reynolds developed when he was abroad served him well. These years marked the beginning of a carefully-managed and hugely successful career. This self-portrait, which deliberately echoes famous  
-<br>images by Rembrandt, signals his artistic aspirations. Such posturing struck a chord with London’s fashionable and aristocratic society, who wanted portraits that would flatter their growing cultural pretensions.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Enduring Afghanistan commemorates the names of American soldiers who died in Afghanistan. Military ID tags, affixed to a piece of chain link fence suspended from the ceiling, present a topography of death: the tags are arranged in a metallic map of Afghanistan, their depth corresponding to the numbers and locations of soldiers’ deaths. The fence speaks of separation but is also reminiscent of the fence of Ground Zero, which was effectively re-purposed for memorializing practices. In front of it sits a ledger, displayed on a carved wooden Koran stand. The ledger presents a handwritten list of names of fallen soldiers, which takes the place of the Koran, suggesting that these names have become a new text to be revered. - Christina Schmid, PhD</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
