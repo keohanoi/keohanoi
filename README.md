@@ -2,19 +2,33 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00163/images/ilya-kabakov/1.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/images/john-everett-millais/ferdinand-lured-by-ariel-1850.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Strange City</h2>
+        <h2 class="artwork-name">Ferdinand Lured by Ariel</h2>
         <h3 class="artist">
-          Ilya Kabakov
-                    ·  2014
+          John Everett Millais
+                    ·  1850
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The concept for an exhibit at the Grand Palais in 2014 is the creation of a utopian city resembling “The City of the Sun” that at the same time has a romantic, lofty content similar to Hermann Hesse’s Castile.  There are five buildings in this city that has the shape of a full circle.  The central building is located directly next to the entrance into the city and is titled “The Empty Museum.” Represented inside is the interior of a “classical” museum, but instead of paintings there area bright spots of light on its dark bordeaux-colored walls. The solemn music of J. S. Bach’s “Passacaglia” and everything together -- the semi-darkness, the gold gilding, the soft chairs – form a strange and lofty kind of union of a museum and a temple. <br><br>The other four buildings of the city, similar in layout, represent structures that partially resemble chapels with a central main space surrounded by a corridor.  The subjects displayed in each building are different, but all of them are united by an atmosphere of tranquility and concentration, thanks to the vertical direction of the central hall and the light shining downward through an aperture in the ceiling.  A large model of the magical city of “Manas” existing simultaneously in two planes -- the “heavenly” one up above and the “earthly” plane down below – is erected in the first building.<br><br>In the second building is the model for the structures “Center of Cosmic Energy” and “Center for Communication with the Noosphere,” which can serve, according to the idea of the Russian scientist D. Vernadsky, as a constant source of creativity, since it is precisely in the Noosphere that ideas created by humanity’s best minds are preserved.<br><br>In the third building is a visual representation of how one might meet one’s angel, in what way and under what circumstances that angel might come to our aid.  <br><br>The fourth building is devoted to the display of another enigmatic project:  presented within a composition of 12 paintings and an object are various versions of the image of a “Gate” standing at the very horizon that can be viewed to have the symbolic meaning of a gate both “into here” and “to the outside.” <br><br>In all the corridors surrounding the central space of the buildings are sketches, objects and models that help to reveal and complement the main concept.  Two other structures can be seen beyond the city walls, along the same axis with its entrance and exit.  Directly in front of the entrance into the city, not very far from it, is a “Gate” resembling in appearance and meaning a victory arch and it underscores the main axis of the entire exhibit.  At the very exit from the city along the exact same axis is the largest building of the project, “The Great Chapel” (with dimensions of 11 x 22 x 7 meters), that houses a large white space with an open ceiling and a multitude of fragmentary images on all four walls.  These fragments leave the impression that the reality surrounding us is disappearing in the white light, along with the peace and tranquility.  The “Chapel” harkens back to the tradition of the “artist’s space” and was conceptualized as a continuation of Giotto’s chapel and Rothko’s chapel.<br><br>The ring perimeter of the entire “city” is surrounded by two walls.  Inside they represent a suite with paintings hanging along both sides.  For this project we have selected only those works that correspond to the overall concept:  they are light, “meditative,” and insofar as possible, large.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ferdinand Lured by Ariel is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> which depicts an episode from Act I, Scene II of Shakespeare's play The Tempest. It illustrates Ferdinand's lines "Where should this music be? i' the air or the earth?". He is listening to Ariel singing the lyric "Full fathom five thy father lies". Ariel is tipping Ferdinand's hat from his head, while Ferdinand holds on to its string and strains to hear the song. Ferdinand looks straight at Ariel, but the latter is invisible to him.
+<br>
+<br>The painting was Millais' first attempt at the plein air Pre-Raphaelite Brotherhood style, which he did at Shotover Park near Oxford. He wrote to his close friend and Pre-Raphaelite colleague <a target="_blank" href="/en/william-holman-hunt">Holman Hunt</a> that he had painted a "ridiculously elaborate" landscape. Referring to Hunt's belief in devotion to detail he wrote that "you will find it very minute, yet not near enough for nature. To paint it as it ought to be would take me a month a weed — as it is, I have done every blade of grass and leaf distinct."
+<br>
+<br>He painted the face of Ferdinand from another Pre-Raphaelite, Frederic George Stephens. The clothing and the pose are derived from plate 6 of Camille Bonnard's Costumes Historiques, which represents the costume of a "young Italian" of the fifteenth century.
+<br>
+<br>The supernatural green bats were the last additions to the composition. Their grotesque poses put off the patron who had originally undertaken to buy it, since they were a radical departure from the standard sylph-like fairy figures of the day. They adopt the poses of "see, hear, speak no evil."
+<br>
+<br>The invisibility of Ariel and the bats is suggested by their semi-merger with the green background. The connection with natural camouflage is implied by the presence of the green lizards hiding in front of the clump in the right foreground.
+<br>
+<br>The painting was bought by the collector Richard Ellison, and later entered the collection of Roger Makins, 1st Baron Sherfield who acquired several Millais paintings.
+<br>
+<br>Critical reception was initially mixed. The Atheneaum stated that it was "better in the painting" than Millais' controversial previous exhibit Christ in the House of His Parents, but "more senseless in the conception". The Art Journal identified "a considerable vein of eccentricity" in the portrayal of Ariel as "a hideous green gnome". The Times condemned it as a "deplorable example of perverted taste".
+<br>
+<br>In 1998, when it seemed as though the painting might leave Britain to be sold in the US, the columnist Kevin Myers, wrote that he would "put my foot through it" with "violent joy".</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
