@@ -2,33 +2,31 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/images/john-everett-millais/ferdinand-lured-by-ariel-1850.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/rogier-van-der-weyden/saint-john-altarpiece-1460.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Ferdinand Lured by Ariel</h2>
+        <h2 class="artwork-name">Saint John Altarpiece</h2>
         <h3 class="artist">
-          John Everett Millais
-                    ·  1850
+          Rogier van der Weyden
+                    ·  1460
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Ferdinand Lured by Ariel is a painting by <a target="_blank" href="/en/john-everett-millais">John Everett Millais</a> which depicts an episode from Act I, Scene II of Shakespeare's play The Tempest. It illustrates Ferdinand's lines "Where should this music be? i' the air or the earth?". He is listening to Ariel singing the lyric "Full fathom five thy father lies". Ariel is tipping Ferdinand's hat from his head, while Ferdinand holds on to its string and strains to hear the song. Ferdinand looks straight at Ariel, but the latter is invisible to him.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Altar of St. John is a c. 1455 oil-on-oak wood panel altarpiece by the Early Netherlandish painter <a target="_blank" href="/en/rogier-van-der-weyden">Rogier van der Weyden</a>, now in the Gemäldegalerie, Berlin. The triptych is linked to the artist's earlier Miraflores Altarpiece in its symbolic motifs, format and intention.
 <br>
-<br>The painting was Millais' first attempt at the plein air Pre-Raphaelite Brotherhood style, which he did at Shotover Park near Oxford. He wrote to his close friend and Pre-Raphaelite colleague <a target="_blank" href="/en/william-holman-hunt">Holman Hunt</a> that he had painted a "ridiculously elaborate" landscape. Referring to Hunt's belief in devotion to detail he wrote that "you will find it very minute, yet not near enough for nature. To paint it as it ought to be would take me a month a weed — as it is, I have done every blade of grass and leaf distinct."
+<br>The panels show – from left to right – the birth of Saint John, the baptism of Christ by John in Jordan, and the beheading of John, with the rather attractive Salome receiving the disembodied head on a plate. Each panel is set within painted archivolts, which contain painted reliefs depicting statuettes of the apostles, and scenes from the lives of both Christ and John, with the overall theme of salvation. The faux sculptural reliefs are painted in grisaille, and give the impression that the scenes are set within a church.
 <br>
-<br>He painted the face of Ferdinand from another Pre-Raphaelite, Frederic George Stephens. The clothing and the pose are derived from plate 6 of Camille Bonnard's Costumes Historiques, which represents the costume of a "young Italian" of the fifteenth century.
+<br>There are two extant versions of the altarpiece, almost equal in size, leading to complexities in establishing attribution and authenticity. The version in Berlin is considered the original, that in Frankfurt a near contemporary copy.
 <br>
-<br>The supernatural green bats were the last additions to the composition. Their grotesque poses put off the patron who had originally undertaken to buy it, since they were a radical departure from the standard sylph-like fairy figures of the day. They adopt the poses of "see, hear, speak no evil."
+<br>The three panels describe the major events in John's life: his birth, baptism of Christ, and his decapitation at the hands of Salome. The reliefs in the archivolts detail secondary events from his life. The overall theme is of the sacraments, each panel can be associated with a specific liturgical ceremony. Of the six archivolt scenes, four detail scenes of Mary's life, including the "Marriage of the Virgin", the "Annunciation" and the "Birth of Christ".
 <br>
-<br>The invisibility of Ariel and the bats is suggested by their semi-merger with the green background. The connection with natural camouflage is implied by the presence of the green lizards hiding in front of the clump in the right foreground.
+<br>The archivolts of this panel show the angel appearing to John's father Zacharias, in the temple. According to Luke 1:12–17, an angel of the Lord had earlier appeared and announced to Zechariah that his wife would give birth to a son, whom he was to name John, and that this son would be the forerunner of the Lord. Citing their advanced age, Zechariah asked with disbelief for a sign so he would know the truth of this prophecy. In reply, the angel identified himself as Gabriel, sent by God, and stated that because of Zechariah's doubt he would be struck dumb and "not able to speak, until the day that these things shall be performed". This punishment of muteness is referred to in the archivolt reliefs.
 <br>
-<br>The painting was bought by the collector Richard Ellison, and later entered the collection of Roger Makins, 1st Baron Sherfield who acquired several Millais paintings.
+<br>Zacharias appears in the main panel sitting in the foreground with a pen and scroll. To his right, Mary presents his son to him. By including the Virgin, Rogier strays from the Gospel account of the scene, referring instead to the apocryphal version popularised by the Golden Legend and the Meditations on the Life of Christ, both of which have Mary presenting the child John. Erwin Panofsky suggests that Rogier might have been influenced by Andrea Pisano's relief The Naming of the Baptist at the Florence Baptistery, which shows a similar scene of Mary presenting to Zechariah, who sits holding a pen and scroll.
 <br>
-<br>Critical reception was initially mixed. The Atheneaum stated that it was "better in the painting" than Millais' controversial previous exhibit Christ in the House of His Parents, but "more senseless in the conception". The Art Journal identified "a considerable vein of eccentricity" in the portrayal of Ariel as "a hideous green gnome". The Times condemned it as a "deplorable example of perverted taste".
-<br>
-<br>In 1998, when it seemed as though the painting might leave Britain to be sold in the US, the columnist Kevin Myers, wrote that he would "put my foot through it" with "violent joy".</span>
+<br>In the central panel John can be identified by his red robe. This panel shows the apparition of God in the sky above painted in red hues, from which emanates a curved Latin script, above a dove. The panels are typical of the harmony and unity characteristic of Rogier; especially in the manner in which the figures echo each other. This is most evident in the figure of the woman in the birth panel, who occupies the same space and resembles Salome to the far right.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
