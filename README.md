@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads4.wikiart.org/00142/images/57726d81edc2cb3880b48431/albrecht-d-rer-melencolia-i-google-art-project-427760.jpg!Large.jpg"
+        src="https://uploads3.wikiart.org/00318/images/gian-maria-tosatti/gian-maria-tosatti-lucifero-2015-environmental-installation-09.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Melancholy I</h2>
+        <h2 class="artwork-name">Seven Seasons of the Spirit. 3. Lucifer</h2>
         <h3 class="artist">
-          Albrecht Durer
-                    ·  1514
+          Gian Maria Tosatti
+                    ·  2015
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dürer's Melencolia I is one of three large prints of 1513 and 1514 known as his Meisterstiche (master engravings). The other two are <a target="_blank" href="https://www.wikiart.org/en/albrecht-durer/the-knight-death-and-the-devil-1513">Knight, Death, and the Devil</a>  and <a target="_blank" href="https://www.wikiart.org/en/albrecht-durer/st-jerome-in-his-study-1514">Saint Jerome in His Study</a>. The three are in no way a series, but they do correspond to the three kinds of virtue in medieval scholasticism--moral, theological, and intellectual--and they embody the complexity of Dürer's thought and that of his age.<br>Melencolia I is a depiction of the intellectual situation of the artist and is thus, by extension, a spiritual self-portrait of Dürer. In medieval philosophy each individual was thought to be dominated by one of the four humors; melancholy, associated with glack gall, was the least desirable of the four, and melancholics were considered the most likely to succumb to insanity. Renaissance thought, however, also linked melancholy with creative genius; thus, at the same time that this idea changed the status of this humor, it made the self-conscious artist aware that his gift came with terrible risks.<br>The winged personification of Melancholy, seated dejectedly with her head reasting on her hand, holds a caliper and is surrounded by other tools associated with geometry, the one of the seven liberal arts that underlies artistic creation--and the one through which Dürer, probably more than most artists, hoped to approach perfection in his own work. An influential treatise, the De Occulta Philosophia of Cornelius Agrippa of Nettesheim, almost certainly known to Dürer, probably holds the explanation for the number I in the title: creativity in the arts was the realm of the imagination, considered the first and lowest in the hierarchy of the three categories of genius. The next was the realm of reason, and the highest the realm of spirit. It is ironic that this image of the artist paralyzed and powerless exemplifies Dürer's own artistic power at its superlative height.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Lucifero (Lucifer) is a research about the archetype of the devil. It is research about the role of evil in God’s plans, about the concept of “mistake” and about redemption. This third chapter of the project “Seven Seasons of the Spirit” works on a theological perspective, using the archetypes of Christianity as a widely shared symbolic plane that can create, with the visitors, a deep dialogue that may, in the end, turn into a political perspective. This monumental work of 65.000 sq/f is focused on a solitary figure, the visitor itself, who finds himself in a constant game of reflections. Feeling confused, feeling like the devil can allow the visitor to feel the deep and infinite nostalgia of the light that dominates the character who gives the name to this installation.<br><br>(ex Magazzini Generali del porto, Napoli)</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
