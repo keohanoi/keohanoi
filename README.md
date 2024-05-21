@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/images/nicolaes-maes/old-woman-dozing-1656.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/pierre-auguste-renoir/camille-monet-and-her-son-jean-in-the-garden-at-argenteuil-1874.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Old Woman Dozing</h2>
+        <h2 class="artwork-name">Camille Monet and Her Son Jean in the Garden at Argenteuil</h2>
         <h3 class="artist">
-          Nicolaes Maes
-                    ·  1656
+          Pierre-Auguste Renoir
+                    ·  1874
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">An Old Woman Dozing (circa 1656) is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil</a> on canvas painting by the Dutch painter <a target="_blank" href="/en/nicolaes-maes">Nicolaes Maes</a>. It is an example of Dutch Golden Age painting and is part of the collection of the Royal Museums of Fine Arts of Belgium.
-<br>
-<br>The woman is dozing over a book and on the table next to her is a lace pillow for bobbin lace. Lace pillows were a favorite subject by Maes, who painted them with their owners:
-<br>
-<br>This painting was documented by Hofstede de Groot in 1914, who wrote; "99. AN OLD WOMAN DOZING OVER HER BOOK. She is in black with a white cap. She sits on a chair facing the spectator. Her spectacles are in her right hand, which rests on a Bible in her lap. Her head rests on her left hand&nbsp;; her elbow is on the table with a red cover beside her. On the table are a lace-pillow and a Bible open at the book of Amos. On a shelf on the wall are a jug and a candlestick with a candle in it. Canvas, 54 inches by 41 1/2 inches. Acquired from Gauchez, Paris, 1885, for the Museum (for 66,000 francs). In the Brussels Museum, 1908 catalogue, No. 279."</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">During the summer of 1874, when Monet, Manet and Renoir worked in close proximity to each other, Monet’s first wife Camille most often posed for Manet and Renoir rather than her husband. Two paintings, one by Manet and one by Renoir, done simultaneously on a summer afternoon, capture a moment of peaceful calm in the Monet's garden. In 1924, Monet recounted the circumstances of the day in his garden at Argenteuil: "Manet, enthralled by the color and the light, undertook an outdoor <a target="_blank" href="https://www.metmuseum.org/art/collection/search/436965">painting</a> of figures under trees. During the sitting, Renoir arrived. . . . He asked me for palette, brush and canvas, and there he was, painting away alongside Manet. The latter was watching him out of the corner of his eye. . . . Then he made a face, passed discreetly near me, and whispered in my ear about Renoir: 'He has no talent, that boy! Since you are his friend, tell him to give up painting!'" However later, as a celebrator of beauty, and especially feminine sensuality, it has been said that "Renoir is the final representative of a tradition which runs directly from Rubens to Watteau". While many Impressionist painters focused on landscapes, Renoir painted people in intimate and candid moments. Renoir’s works are also notable for their use of vibrant light and color. His style emphasized freely brushed touches of color, so that his figures softly fuse with one another and their surroundings.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
