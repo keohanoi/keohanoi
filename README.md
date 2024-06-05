@@ -2,20 +2,20 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00280/images/shammout-self-port/tumblr-pmaxybylka1vk4jv6-640-1.jpg!Large.jpg"
+        src="https://uploads2.wikiart.org/images/gwen-john/self-portrait-1902(1).jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">"To Where...?"</h2>
+        <h2 class="artwork-name">Self Portrait</h2>
         <h3 class="artist">
-          Ismail Shammout
-                    ·  1953
+          Gwen John
+                    ·  1902
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">"To Where...?" shows a distraught father, on the forced march out of Lydda, carries a sleeping child on his left shoulder, while a little girl clutches his right hand and looks up at him in exhaustion, and a third child trails behind. A stunning photo-like record of the loss and helplessness that was inflicted on some 800,000 Palestinians in that year, and came to be known as "Al Nakba" (the Catastrophe).</span>
-                        <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gwen John trained at the Slade School of Art in London. She was taught in a traditional style, which involved laborious copying of Old Master paintings. This training shows through in the naturalism and carefully controlled colour range of this picture. As a woman in a career still largely dominated by men, including her successful brother Augustus, Gwen had to struggle for recognition. The self-scrutinising intensity of this image, and the isolation of the figure, registers some sense of this struggle. But the self-assessment, and our response to it, is left ambiguous.</span>
+                        <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
   </div>
