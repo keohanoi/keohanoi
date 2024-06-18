@@ -2,27 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/george-romney/adam-walker-and-his-family-1801.jpg!Large.jpg"
+        src="https://uploads4.wikiart.org/images/nikolaos-gyzis/the-underground-school-1885.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Adam Walker and his family</h2>
+        <h2 class="artwork-name">The Secret School</h2>
         <h3 class="artist">
-          George Romney
-                    ·  1801
+          Nikolaos Gyzis
+                    ·  1886
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">As a longstanding friend of the sitter's Romney described the painting as 'his favourite picture of friendship'.
-<br>
-<br>Sitters back to top:
-<br>Eliza Gibson (née Walker) (died 1856), Daughter of Adam Walker. Sitter in 1 portrait.
-<br>Adam Walker (1731-1821), Inventor and writer. Sitter in 5 portraits.
-<br>Adam John Walker (1769 or 1770-1839), Divine; second son of Adam Walker. Sitter in 1 portrait.
-<br>Deane Franklin Walker (1778-1865), Astronomer; youngest son of Adam Walker. Sitter in 1 portrait.
-<br>Eleanor Walker (active 1764-circa 1801), Wife of Adam Walker. Sitter in 1 portrait.
-<br>William Walker (1766?-1816), Astronomer; eldest son of Adam Walker. Sitter in 3 portraits.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Gyzis's Secret School was one of five of his works to be included in the 1888 annual Panhellenic Exposition of Athens. A reviewer mentions Gyzis's Greek School at the Time of Slavery,31 which, since no other work by Gyzis deals with a similar subject, must be Secret School.32 What is quite intriguing is the fact that even though the myth was well-established by the time of the exposition, there do not seem to be any other references to the painting in the press. By 1900, however, the painting was well on its way to becoming a national icon. That year, inspired by Gyzis's painting, the poet Ioannis Polemis (1862–1924) wrote "The Secret School,"33 which, through its inclusion in school textbooks, served to further perpetuate the myth.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
