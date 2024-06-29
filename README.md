@@ -2,21 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/images/jacques-louis-david/paris-and-helen-1788.jpg!Large.jpg"
+        src="https://uploads8.wikiart.org/images/mary-cassatt/the-childs-bath.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris and Helen</h2>
+        <h2 class="artwork-name">The Child's Bath</h2>
         <h3 class="artist">
-          Jacques-Louis David
-                    ·  1788
+          Mary Cassatt
+                    ·  1893
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Loves of Paris and Helen is a 1788 painting by <a target="_blank" href="/en/jacques-louis-david">Jacques-Louis David</a>, showing Helen of Troy and Paris from Homer's Iliad. It is now in the Louvre Museum.
-<br>
-<br>It was the result of a commission from the comte d'Artois. It shows David in his 'galante' phase and was interpreted as a satire on the manners of the comte d'Artois. The caryatids in the background are copies of those by Jean Goujon in the Louvre.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although she exhibited at the Impressionist Salon, Cassatt’s works encompassed many styles, and she frequently innovated new techniques for her paintings. In The Child’s Bath, we can see her influence from Japanese wood block prints. At the time she created this painting, the high vantage point, tight cropping of the forms, and bold outline were all unconventional artistic devices. Cassatt was able to avid an over-sentimental portrayal of this intimate scene by using the aforementioned techniques, diving us a glimpse into the bath without dripping with sweet sentimentality. Cassatt was also influenced to use this Japanese wood block technique by the works of Edgar Degas, who created many similar works. </span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
