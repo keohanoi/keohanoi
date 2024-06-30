@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads8.wikiart.org/images/mary-cassatt/the-childs-bath.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00237/images/ancient-greek-painting/terracotta-group-of-two-girls-playing-a-game-known-as-ephedrismos-300-1.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Child's Bath</h2>
+        <h2 class="artwork-name">Terracotta Group of Two Girls Playing a Game Known as Ephedrismos</h2>
         <h3 class="artist">
-          Mary Cassatt
-                    ·  1893
+          Ancient Greek Painting and Sculpture
+                    ·  -300
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Although she exhibited at the Impressionist Salon, Cassatt’s works encompassed many styles, and she frequently innovated new techniques for her paintings. In The Child’s Bath, we can see her influence from Japanese wood block prints. At the time she created this painting, the high vantage point, tight cropping of the forms, and bold outline were all unconventional artistic devices. Cassatt was able to avid an over-sentimental portrayal of this intimate scene by using the aforementioned techniques, diving us a glimpse into the bath without dripping with sweet sentimentality. Cassatt was also influenced to use this Japanese wood block technique by the works of Edgar Degas, who created many similar works. </span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The subject of this group with one person carrying another has a long history in Greek art. It is thought to illustrate a game called ephedrismos. A stone was placed upright on the ground, and balls or pebbles were thrown at it from a distance. The loser's eyes were covered, and he had to carry the other player on his back until he found and touched the stone. There were probably a number of variations. Here the little girl carries her companion but does not have her eyes covered.<br><br><a target="_blank" href="https://www.metmuseum.org/art/collection/search/247884">The Met</a></span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
