@@ -2,23 +2,23 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/00129/images/diego-velazquez/adoration-of-the-kings.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/raphael/the-veiled-woman-or-la-donna-velata.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Adoration of the Kings</h2>
+        <h2 class="artwork-name">The Veiled Woman, or La Donna Velata</h2>
         <h3 class="artist">
-          Diego Velazquez
-                    ·  1619
+          Raphael
+                    ·  1516
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Adoration of the Magi is a 1619 Baroque painting by the Spanish artist <a target="_blank" href="/en/diego-velazquez">Diego Velázquez</a> now held in the Museo del Prado. It shows three kings presenting gifts to the Christ child: Melchoir, who kneels in the foreground; Balthazar, who stands behind him wearing a red cape and a lace collar; and Caspar, who appears between the other two. An unidentified young man who stands behind Balthazar is looking on. Kneeling near the Virgin's left shoulder is Saint Joseph. The size and format of the painting indicate that it was made for an altarpiece.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">La velata, or La donna velata ("The woman with the veil"), is one of the most famous portraits by the Italian Renaissance painter <a target="_blank" href="/en/raphael">Raphael</a>.
 <br>
-<br>Carl Justi praised Adoration of the Magi as being "distinguished by great power of colouring and chiaroscuro."
+<br>The subject of the painting appears in another portrait, La Fornarina, and is traditionally identified as the fornarina (bakeress) Margherita Luti, Raphael's Roman mistress.
 <br>
-<br>The earliest record of this painting is from about 1764, when it was in the Jesuit Novitiate of San Luis, Seville. It was given by Ferdinand VII to the Museo del Prado in 1819.</span>
+<br>As usual with Raphael, the subject's clothing is chosen and painted with close attention; here it is strikingly opulent.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
