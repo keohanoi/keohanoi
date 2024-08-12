@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads7.wikiart.org/images/luca-giordano/messina-returning-to-spain-1678.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/bartolome-esteban-murillo/dolorosa-1665.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Messina Returning to Spain</h2>
+        <h2 class="artwork-name">Dolorosa</h2>
         <h3 class="artist">
-          Luca Giordano
-                    ·  1678
+          Bartolome Esteban Murillo
+                    ·  1665
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This is a fine example of the middle stages of Giordano's career. The work shows a richness and dynanism in the figures along with a decorative nature that dominated the Baroque period in painting. This picture is the only surviving set of four paintings by Giordano fo Charless II of Spain to commemorate the victory of Messina over the French army.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Dolorosa Madonna is a Madonna painting by the Spanish artist <a target="_blank" href="/en/bartolome-esteban-murillo">Bartolomé Esteban Murillo</a>. The work is oil on canvas and was painted in 1665.
+<br>
+<br>It is located in the Museo de Bellas Artes de Sevilla in Seville, Spain.</span>
                         <div class="text-shadow-container ng-hide" ng-show="showShadow"></div>
       </p>
     </div>
