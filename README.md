@@ -2,23 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads3.wikiart.org/00142/images/sandro-botticelli/lamentation-over-the-dead-christ.jpg!Large.jpg"
+        src="https://uploads7.wikiart.org/images/ion-bitzan/object-book-1979.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Lamentation over the Dead Christ with Saints</h2>
+        <h2 class="artwork-name">Object Book</h2>
         <h3 class="artist">
-          Sandro Botticelli
-                    ·  1495
+          Ion Bitzan
+                    ·  1979
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Lamentation over the Dead Christ with Saints is a painting of the Lamentation of Christ by the Italian Renaissance artist <a target="_blank" href="/en/sandro-botticelli">Sandro Botticelli</a>, dated between 1490-1495. The painting was originally kept in Santa Maria Maggiore, Florence. It is currently housed in the Museo Poldi Pezzoli of Milan. The painting is one of two versions of The Lamentation by Botticelli. The Lamentation over Dead Christ, circa 1492, is currently housed in the Alte Pinakothek in Munich.
-<br>
-<br>The painting depicts the lamentation (expression of great sorrow or deep sadness)  over Christ’s death. The Virgin Mary sits vertically with the dead Christ on her lap, his body appearing extremely small. The positioning of the two bodies creates the Pieta, which means pity in Italian and is a representation of The Virgin Mary mourning dead Christ. The Three Maries are circling the inner group expressing despair. Mary Magdalen is positioned at the feet of Christ in turmoil. St.John sits above The Virgin Mary and cradles her head in an attempt to soothe her. Joseph of Arimathea stands above the group holding the crown of thorns and three nails. Botticelli paints the figures in contorted and distorted poses. He does not apply the rules of naturalism to the painting. Instead, he focuses on his own personal preference of geometry. This very style of geometry had an influence on third generation renaissance painters to come.
-<br>
-<br>Sandro Botticelli was a second generation renaissance painter born Allesandro di Mariano Filipepi in 1445. His nickname was Botticelli meaning little barrel. The renaissance began in fourteenth century Italy. Dramatic changes in art, architecture, and sculpture took place during this time. Botticelli has been noted as one of the most powerful painters of the lyrical current. In his later works, Botticelli developed a more personal style, particularly in his religious themed art. He is believed to have been influenced by Girolamo Savonarola. His range of work included religious pieces, mythical themes, portraits, alter pieces and Madonna (art). Additional famous works by Botticelli include Birth of Venus (Botticelli), Primavera (painting) and The Mystical Nativity.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Bitzan has done several object books that place emphasis on the material quality as well as the symbolism of the book. "What Ion Bitzan wants to convey to us in his infinitely varied creation is the wonder that we should experience in books or in the act of reading. It is the wonder that children feel in front of that unique object - the book, unique, yet multiple, since it opens into itself in the successions of its innumerable pages. "There's nothing written on them!", a man had exclaimed at the close of an exhibition of Bitzan's work in New York: noticing the interest with which the public savored the endless variety of the artist's inventions...It is either nothing, or it is everything: a facsimile of exalting virtues..." said writer Dan Hăulică.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
