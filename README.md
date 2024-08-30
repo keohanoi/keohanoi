@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads6.wikiart.org/00453/images/marie-laurencin/06-511616.jpg!Large.jpg"
+        src="https://uploads5.wikiart.org/images/kathe-kollwitz/not_detected_235973.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Spanish Dancers</h2>
+        <h2 class="artwork-name">Memorial for Karl Liebknecht</h2>
         <h3 class="artist">
-          Marie Laurencin
-                    ·  1921
+          Kathe Kollwitz
+                    ·  1919
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Marie Laurencin was exiled from Paris for almost five years between 1914 and 1919, during which time she mainly stayed in Spain, before moving to Switzerland and Germany. She was greatly affected by her separation from the French capital, the unrivalled centre of artistic creativity. After her return, she developed a new style in the 1920s which is reflected in the Spanish Dancers. The muted colours and the geometric patterns inherited from Cubism are replaced by light tones and undulating compositions. The alliance between the feminine world and the animal world, which became her favourite theme, is dazzling here.<br>Three young women seem to spin around a small bounding dog, in front of a large grey horse. Marie Laurencin herself is depicted kneeling in the foreground wearing a pink tutu, the only warm tone in the painting. Her hands are entwined with those of the young woman on the right. The young woman on the left, excluded from this complicity, is executing a dance step and holding a hat in place on her head. Her eyes lead almost seamlessly into the large almond-shaped eye of the horse. The animals here are free companions, the dancers' confidantes in a strange paradise.<br><br><a target="_blank" href="https://www.musee-orangerie.fr/en/artworks/danseuses-espagnoles-196417">Musée de l'Orangerie</a></span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Kollwitz created a woodcut print in honor of Rosa Luxembourg and Karl Liebknecht, founders of the Marxist Spartacus League, who were executed for their involvement in the Spartacist uprising in 1919. As a supporter of Marxist politics, Kollwitz visited Liebknecht's home to offer condolences and made drawings of him at the request of his family. She began her image of Liebknecht as a lithograph but later completed it as her first woodcut print.<br><br>The woodcut print is a tribute to Liebknecht's ideas and actions and depicts him lying in state at his memorial, with mourners paying their respects. The composition plays with rigid horizontality and tilting arcs, with Liebknecht's body as a stiff, stone horizontal slab at the bottom center of the image. The mourners, mostly male workers of varying ages, occupy most of the composition and are arranged in a curved arc, with their heads and torsos bowed towards Liebknecht. The woman and child in the foreground symbolize future generations who benefit from Liebknecht's ideology, while the man's overemphasized hand prominently resting on Liebknecht's chest illustrates the physicality of the ideological fight.<br><br>Although the woodcut print was meant to honor Liebknecht, some members of the German Communist Party objected to Kollwitz's work because she was not an official member of the party, despite her commitment to radical politics.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
