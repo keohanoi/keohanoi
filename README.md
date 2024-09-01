@@ -2,25 +2,27 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads2.wikiart.org/00129/images/caravaggio/flagellation-of-christ.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/images/lorenzo-lotto/madonna-with-a-bishop-and-st-onuphrius-1508.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Flagellation of Christ</h2>
+        <h2 class="artwork-name">Madonna with a Bishop and St. Onuphrius</h2>
         <h3 class="artist">
-          Caravaggio
-                    ·  1607
+          Lorenzo Lotto
+                    ·  1508
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">The Flagellation of Christ is a painting by the Italian Baroque painter <a target="_blank" href="/en/caravaggio">Caravaggio</a>, now in the Museo Nazionale di Capodimonte, Naples. It is dated to 1607, and may have been reworked by the artist in 1610. It is not to be confused with Christ at the Column, another Flagellation by Caravaggio of the same period.
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Madonna with Child between Saints Flavian and Onuphrius is an <a target="_blank" href="/en/paintings-by-media/oil-on-sacking">oil painting</a> by <a target="_blank" href="/en/lorenzo-lotto">Lorenzo Lotto</a>, signed and dated 1508, now in the Borghese Gallery, Rome, Italy.
 <br>
-<br>According to art biographer Gian Pietro Bellori (1672), this work was commissioned by the di Franco (or de Franchis) family for a chapel in the church of San Domenico Maggiore in Naples. The family were connected with the Confraternity of the Pio Monte della Misericordia, for whose church Caravaggio had already painted The Seven Works of Mercy. It was moved to the museum at Capodimonte in 1972.
+<br>The painting was executed in the same year of the Recanati Polyptych, when Lotto moved to Rome (although it is not known if he had already painted it before leaving the Marche). It was first mentioned in a 1693 document, when it was already part of the Borghese Collection.
 <br>
-<br>The Flagellation of Christ had long been a popular subject in religious art—and in contemporary religious practice, where the church encouraged self-flagellation as a means by which the faithful might enter into the suffering of Christ. Caravaggio would have had in mind the famous fresco by Sebastiano del Piombo in the church of San Pietro in Montorio in Rome. Caravaggio has reworked Piombo's composition by drastically reducing the picture space so that the sculptural figures seem presented on a shallow stage. He has, however, retained Piombo's sense of the flagellation as a kind of sadistic ballet, with the figures arranged rhythmically across the canvas. Caravaggio's painting introduces an acutely observed reality into the scene: Christ is in this drooping pose, not because it might seem graceful, but because the torturer on the right is kicking the back of his knee while the figure on the left holds his hair tightly in his fist.
+<br>The painting uses the Holy Conversation composition, with the Madonna and Child in the center between two saints, a scheme widely used by <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a> and other Venetian painters of the time.
 <br>
-<br>This series of highly dramatic and innovative Neapolitan altarpieces — the Seven Works of Mercy, this Flagellation, and a close companion piece, Christ at the Column, all done within a few months of his arrival in the city — instantly made Caravaggio the most talked-about artist in Naples, and the church of Sant'Anna dei Lombardi (Saint Anna of the Lombards — Caravaggio was originally from Lombardy) became a centre of the <a target="_blank" href="/en/artists-by-painting-school/caravaggisti">Caravaggisti</a>, artists painting in the style of Caravaggio. These were not only native Neapolitans like Carlo Sellitto and Battistello Caracciolo, but included Flemish artists like Louis Finson and Abraham Vink who would later help spread Caravaggism to northern Europe.</span>
+<br>It depicts, on a dark background, a thoughtful Madonna. The Child is rather fat, and is trying to reach St. Flavian of Ricina, painted on the left. The latter is offering Jesus a pierced heart, a symbol of the future Passion. The identification of Flavian, the patron of the city of Recanati in the Marche, is disputed, and some scholars identified him as Ignatius of Antioch: according to the legend, after his death his heart opened and the name of Jesus (as referred by Lotto with the monogram YHS on it) in golden letters.
+<br>
+<br>On the right is Onuphrius the hermit, whose character was inspired by <a target="_blank" href="/en/albrecht-durer">Dürer</a>'s Christ among the Doctors, which the German artist had painted in Venice in 1506. Other elements recalling Dürer's works include the general asymmetry of the composition, the bright colors and the drapes, which Lotto had previous painted as screwed up paper, and are now instead softer and more colored.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
