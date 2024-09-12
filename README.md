@@ -2,19 +2,21 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads1.wikiart.org/images/ad-reinhardt/study-for-a-painting-1938-1.jpg"
+        src="https://uploads5.wikiart.org/images/giovanni-bellini/dead-christ-supported-by-two-angels.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Study for a Painting</h2>
+        <h2 class="artwork-name">Dead Christ Supported by Two Angels</h2>
         <h3 class="artist">
-          Ad Reinhardt
-                    ·  1938
+          Giovanni Bellini
+                    ·  1460
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This early composition by Ad Reinhardt exhibits the artist's profound interest and understanding of the Cubist art of Pablo Picasso and George Braque. The palette is typical of the style and is comprised of four colors essential for a Cubist painting: black, white, brown, and gray. The abstract shapes are dynamically arranged on the flat surface where the biomorphic curves intermingle with hard edges and straight lines. This small gouache presents Reinhardt as a talented young artist with a gift for absorption of the most relevant styles of painting of the time.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Dead Christ Supported by Two Angels is a painting by Italian Renaissance painter <a target="_blank" href="/en/giovanni-bellini">Giovanni Bellini</a>, created around 1460. It is housed in the Museo Correr in Venice.
+<br>
+<br>The panel is one of Bellini's earliest Pietà compositions, together with those in the Accademia Carrara of Bergamo and in the Museo Poldi Pezzoli of Milan. The date in the sepulchre's edge (1499) is apocriphal, such as <a target="_blank" href="/en/albrecht-durer">Albrecht Dürer</a>'s monogram.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
