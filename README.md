@@ -2,19 +2,19 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads5.wikiart.org/00219/images/francesca-woodman/ar00351-10.jpg!Large.jpg"
+        src="https://uploads1.wikiart.org/00281/images/sergio-illuminato/mutation.jpg!Large.jpg"
         alt="Charred Journal: Firewritten V" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Untitled</h2>
+        <h2 class="artwork-name">MUTATION</h2>
         <h3 class="artist">
-          Francesca Woodman
-                    ·  1980
+          Sergio Mario Illuminato
+                    ·  2020
         </h3>
       </div>
       <p class="description">
-        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">This black and white square-format photograph shows the artist Francesca Woodman crouching against a dilapidated wall. The wall is heavily marked and stained, with two sections of wallpaper remnants, one darker and one lighter, to the right of the frame and a black mark above the artist’s head. There is a skirting board where the wall meets the wooden floor, which is strewn with paint chips and debris. Woodman’s body is oriented to the centre of the frame, occupying the bottom right corner of the image. Her head is in three quarter profile as she looks directly at the camera. She wears a mid-length dress with a black polka dot pattern and long sleeves. The dress is partially unzipped along the left side of her body exposing her abdomen and the bottom of her breast. Her left hand is positioned above her breast as if holding the dress open, while her right hand covers her mouth; her fingers are spread across her cheek and her thumb is in her mouth.<br><br>This photograph was taken in 1976 in Providence, Rhode Island during which time Woodman was a student at the Rhode Island School of Design (RISD). This image belongs to a series of five photographs titled the Polka Dot series, which were all shot in the same interior space with Woodman wearing the same polka dot dress. The artist often worked in series and favoured shooting in decrepit, run-down interiors. Her friend and fellow RISD student Sloan Rankin stated that, ‘Francesca was at ease in everything that was dusty, and had predilection for mold.’ (Quoted in Baker, Daly, Davenport 2003, p.66.) Woodman’s use of dilapidated and abandoned interiors creates a feeling of being out of time, which is heightened by her vintage clothing bought at thrift stores.<br><br>Woodman often photographed herself, but in the majority of the self-portraits her face or body is obscured, veiled, or distorted in some manner. The art critic and philosopher Arthur Danto has noted that Woodman ‘never shows herself as herself. The difference is that she always shows herself as the same character – the character of a young woman in various mise-en-scenes.’ (Quoted in Pierini 2009, p.21.) This idea of performing a character is supported by author and art historian Chris Townsend who has suggested that, in this particular image, Woodman plays the part of ‘the mistreated heroine in a Victorian melodrama’ with whom she self-identified (Chris Townsend, Francesca Woodman: Scattered in Space and Time, London 2006, p.21). However, the apparent vulnerability on display in this image – suggested by the artist’s crouching pose and hand splayed defensively across her face – is tempered by Woodman’s focused gaze to the camera and bodily exposure.</span>
+        <span class="artwork-description-text ng-binding" ng-bind-html="viewModel.ArtworkOfTheDay.Description | unsafe">Alchemy and artistic expression share the principle of purification and transformation that allows everyone to travel beyond the visible world. The artist, like the alchemist, has the power to distil his behavior, separate the sensations, burn the residues that bind him to the material world, in order to be able to generate significant signs and colors.<br><br>L’alchimia e l’espressività artistica condividono il principio di purificazione e trasformazione che consente a tutti di viaggiare oltre il mondo visibile. L’artista, come l’alchimista, ha il potere di distillare i suoi comportamenti, separare le sensazioni, bruciare i residui che lo legano al mondo materiale, al fine di essere in grado di generare segni e colori significativi.<br><br>L'alchimie et l'expressivité artistique partagent le principe de purification et de transformation qui permet à chacun de voyager au-delà du monde visible. L'artiste, comme l'alchimiste, a le pouvoir de distiller son comportement, de séparer les sensations, de brûler les résidus qui le lient au monde matériel, afin de pouvoir générer des signes et des couleurs significatifs.</span>
                         <div class="text-shadow-container" ng-show="showShadow" style=""></div>
       </p>
     </div>
