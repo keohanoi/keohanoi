@@ -41,9 +41,13 @@ const scrapeArtwork = async () => {
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
   const page = await browser.newPage();
+  await page.setUserAgent(
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
+  );
 
   // Go to WikiArt
-  await page.goto('https://www.wikiart.org/');
+  await page.goto('https://www.wikiart.org/', { waitUntil: 'networkidle2' });
+  await page.waitForSelector('.artwork-of-the-day'); // Wait for the main container
 
   // Get page content
   const content = await page.content();
