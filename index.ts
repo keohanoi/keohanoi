@@ -45,6 +45,7 @@ const scrapeArtwork = async () => {
   // Get page content
   const content = await page.content();
   const $ = cheerio.load(content);
+  console.log(" ---> $: ", $)
 
   // Extract data
   const artwork = $('.artwork-of-the-day article h3 a').text().trim();
