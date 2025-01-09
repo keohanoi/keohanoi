@@ -31,6 +31,7 @@ jobs:
           git remote set-url origin https://keohanoi:${{ secrets.SuperSecret }}@github.com/keohanoi/keohanoi.git
           git pull
           # Checkout the branch so we can push back to it
+          git reset --hard
           git checkout main
           git add -A
           # Only commit and push if we have changes
