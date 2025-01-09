@@ -26,12 +26,12 @@ jobs:
       - name: Commit files
         run: |
           # Hard-code user configuration
+          git reset --hard
           git config --global user.name "keohanoi"
           git config --global user.email "nguyentruongkhang22@gmail.com"
           git remote set-url origin https://keohanoi:${{ secrets.SuperSecret }}@github.com/keohanoi/keohanoi.git
           git pull
           # Checkout the branch so we can push back to it
-          git reset --hard
           git checkout main
           git add -A
           # Only commit and push if we have changes
