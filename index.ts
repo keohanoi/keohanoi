@@ -36,7 +36,7 @@ const saveTemplate = (data: { img: string; artwork: string; artist: string; des:
 };
 
 const scrapeArtwork = async () => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
   // Go to WikiArt
