@@ -36,7 +36,10 @@ const saveTemplate = (data: { img: string; artwork: string; artist: string; des:
 };
 
 const scrapeArtwork = async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+  });
   const page = await browser.newPage();
 
   // Go to WikiArt
@@ -45,7 +48,6 @@ const scrapeArtwork = async () => {
   // Get page content
   const content = await page.content();
   const $ = cheerio.load(content);
-  console.log(" ---> $: ", $)
 
   // Extract data
   const artwork = $('.artwork-of-the-day article h3 a').text().trim();
