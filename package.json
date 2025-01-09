@@ -1,25 +1,18 @@
 {
-  "name": "daily-artwork-crawler",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "keohanoi",
+  "module": "index.ts",
+  "type": "module",
   "scripts": {
-    "crawl": "cd src && node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bun run index.ts"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hsins/Daily-GitHub-Trending.git"
+  "devDependencies": {
+    "@types/bun": "latest"
   },
-  "author": "Hsins",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Hsins/Daily-GitHub-Trending/issues"
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   },
-  "homepage": "https://github.com/Hsins/Daily-GitHub-Trending#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "puppeteer": "^21.3.1",
-    "request-promise": "^4.2.6"
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.11.1"
   }
 }

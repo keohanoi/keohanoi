@@ -9,18 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v2
 
-      - name: Setup node.js environment
-        uses: actions/setup-node@v1
+      # Install Bun
+      - uses: oven-sh/setup-bun@v2
         with:
-          node-version: '16'
+          bun-version: 'latest' # Specify the Bun version or use 'latest'
 
+      # Install dependencies and run the script
       - name: Install dependencies and run script
         run: |
-          # Run script
-          npm ci
-          npm run crawl --if-present
+          bun install
+          bun start
 
       - name: Commit files
         run: |
