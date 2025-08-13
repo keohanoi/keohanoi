@@ -1,5 +1,3 @@
-import puppeteer from 'puppeteer';
-import * as cheerio from 'cheerio';
 import fs from 'fs';
 import path from 'path';
 
@@ -35,37 +33,125 @@ const saveTemplate = (data: { img: string; artwork: string; artist: string; des:
   console.log('Template saved to:', templatePath);
 };
 
-const scrapeArtwork = async () => {
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-  });
-  const page = await browser.newPage();
-  await page.setUserAgent(
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
-  );
+interface WikiArtPainting {
+  id: string;
+  title: string;
+  artistName: string;
+  image: string;
+  year?: number;
+  style?: string;
+  genre?: string;
+  media?: string;
+  completitionYear?: number;
+}
 
-  // Go to WikiArt
-  await page.goto('https://www.wikiart.org/', { waitUntil: 'networkidle2' });
-  await page.waitForSelector('.artwork-of-the-day'); // Wait for the main container
+const fetchArtworkFromAPI = async () => {
+  // Fallback artworks in case API fails
+  const fallbackArtworks: WikiArtPainting[] = [
+    {
+      id: '1',
+      title: 'Starry Night',
+      artistName: 'Vincent van Gogh',
+      image: 'https://uploads0.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg',
+      year: 1889,
+      style: 'Post-Impressionism',
+      genre: 'landscape'
+    },
+    {
+      id: '2',
+      title: 'The Great Wave off Kanagawa',
+      artistName: 'Katsushika Hokusai',
+      image: 'https://uploads7.wikiart.org/images/katsushika-hokusai/the-great-wave-off-kanagawa-1831.jpg',
+      year: 1831,
+      style: 'Ukiyo-e',
+      genre: 'marina'
+    },
+    {
+      id: '3',
+      title: 'Girl with a Pearl Earring',
+      artistName: 'Johannes Vermeer',
+      image: 'https://uploads3.wikiart.org/images/johannes-vermeer/girl-with-a-pearl-earring-1665.jpg',
+      year: 1665,
+      style: 'Baroque',
+      genre: 'portrait'
+    },
+    {
+      id: '4',
+      title: 'The Persistence of Memory',
+      artistName: 'Salvador Dalí',
+      image: 'https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg',
+      year: 1931,
+      style: 'Surrealism',
+      genre: 'symbolic painting'
+    },
+    {
+      id: '5',
+      title: 'The Birth of Venus',
+      artistName: 'Sandro Botticelli',
+      image: 'https://uploads0.wikiart.org/images/sandro-botticelli/the-birth-of-venus-1485.jpg',
+      year: 1485,
+      style: 'Early Renaissance',
+      genre: 'mythological painting'
+    }
+  ];
 
-  // Get page content
-  const content = await page.content();
-  const $ = cheerio.load(content);
+  try {
+    console.log('Attempting to fetch from WikiArt API...');
+    const response = await fetch('https://www.wikiart.org/en/App/Painting/MostViewedPaintings?offset=0&quantity=100&limit=100&randomSeed=123&json=2', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'en-US,en;q=0.9',
+      }
+    });
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    const data = await response.json() as WikiArtPainting[];
+    console.log('Successfully fetched from API');
+    
+    // Select a random artwork from the response
+    const randomIndex = Math.floor(Math.random() * data.length);
+    const selectedArtwork = data[randomIndex];
+    
+    processArtwork(selectedArtwork);
+    
+  } catch (error) {
+    console.log('API failed, using fallback artworks:', error.message);
+    // Use fallback artworks
+    const randomIndex = Math.floor(Math.random() * fallbackArtworks.length);
+    const selectedArtwork = fallbackArtworks[randomIndex];
+    processArtwork(selectedArtwork);
+  }
+};
 
-  // Extract data
-  const artwork = $('.artwork-of-the-day article h3 a').text().trim();
-  const img = $('.artwork-of-the-day img').attr('src') || '';
-  const artist = $('.artwork-of-the-day article h5 a').text().trim();
-  const des = $('.artwork-of-the-day .artwork-description-text').text().trim();
+const processArtwork = (selectedArtwork: WikiArtPainting) => {
+  // Extract and format the data
+  const artwork = selectedArtwork.title || 'Untitled';
+  const artist = selectedArtwork.artistName || 'Unknown Artist';
+  const img = selectedArtwork.image || '';
+  
+  // Create a description from available data
+  let des = `A masterpiece by ${artist}`;
+  if (selectedArtwork.year || selectedArtwork.completitionYear) {
+    const year = selectedArtwork.year || selectedArtwork.completitionYear;
+    des += `, created in ${year}`;
+  }
+  if (selectedArtwork.style) {
+    des += `, representing the ${selectedArtwork.style} style`;
+  }
+  if (selectedArtwork.genre) {
+    des += ` in the ${selectedArtwork.genre} genre`;
+  }
+  des += '.';
 
   // Log extracted data
   console.log({ img, artwork, artist, des });
 
   // Save the template
   saveTemplate({ img, artwork, artist, des });
-
-  await browser.close();
 };
 
-scrapeArtwork();
+fetchArtworkFromAPI();
