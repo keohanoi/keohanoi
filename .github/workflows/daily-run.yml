@@ -25,15 +25,16 @@ jobs:
 
       - name: Commit files
         run: |
-          # Hard-code user configuration
-          git reset --hard
+          # Configure git user
           git config --global user.name "keohanoi"
           git config --global user.email "nguyentruongkhang22@gmail.com"
           git remote set-url origin https://keohanoi:${{ secrets.SuperSecret }}@github.com/keohanoi/keohanoi.git
-          git pull
-          # Checkout the branch so we can push back to it
-          git checkout main
+          
+          # Check for changes and commit if any exist
           git add -A
-          # Only commit and push if we have changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Daily Artwork at $(date +'%Y-%m-%d %H:%M')")
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m ":rocket: Fetch GitHub Daily Artwork at $(date +'%Y-%m-%d %H:%M')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
