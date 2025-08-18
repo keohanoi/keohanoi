@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg"
-        alt="Two Children Teasing a Cat" />
+        src="https://www.artic.edu/iiif/2/97cb5c4b-cce5-c4d8-f303-613ce92832c7/full/843,/0/default.jpg"
+        alt="Mao" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two Children Teasing a Cat</h2>
+        <h2 class="artwork-name">Mao</h2>
         <h3 class="artist">
-          Annibale Carracci
+          Andy Warhol
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Annibale Carracci in the Paintings genre.
+        A masterpiece by Andy Warhol, created in 1972, representing the Pop Art style in the painting genre.
       </p>
     </div>
   </div>
