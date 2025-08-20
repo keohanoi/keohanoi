@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP318843.jpg"
-        alt="The Dream of the Shepherd (Der Traum des Hirten)" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg"
+        alt="Wheat Field with Cypresses" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Dream of the Shepherd (Der Traum des Hirten)</h2>
+        <h2 class="artwork-name">Wheat Field with Cypresses</h2>
         <h3 class="artist">
-          Ferdinand Hodler
+          Vincent van Gogh
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Ferdinand Hodler, created in 1896 in the Paintings genre.
+        A masterpiece by Vincent van Gogh, created in 1889 in the Paintings genre.
       </p>
     </div>
   </div>
