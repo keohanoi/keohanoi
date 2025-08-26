@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP-28009-001.jpg"
-        alt="Sebastián Martínez y Pérez (1747–1800)" />
+        src="https://www.artic.edu/iiif/2/321c45f5-22a3-84a2-44cc-cf66642d4cf2/full/843,/0/default.jpg"
+        alt="Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Sebastián Martínez y Pérez (1747–1800)</h2>
+        <h2 class="artwork-name">Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)</h2>
         <h3 class="artist">
-          Goya (Francisco de Goya y Lucientes)
+          Pierre-Auguste Renoir
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Goya (Francisco de Goya y Lucientes), created in 1792 in the Paintings genre.
+        A masterpiece by Pierre-Auguste Renoir, created in 1879, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
