@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg"
-        alt="Wheat Field with Cypresses" />
+        src="https://www.artic.edu/iiif/2/e204d686-0e19-c10c-cf72-1000aae5be4a/full/843,/0/default.jpg"
+        alt="Unfinished Study of Sheep" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Wheat Field with Cypresses</h2>
+        <h2 class="artwork-name">Unfinished Study of Sheep</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Constant Troyon
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1889 in the Paintings genre.
+        A masterpiece by Constant Troyon, representing the nineteenth century style in the painting genre.
       </p>
     </div>
   </div>
