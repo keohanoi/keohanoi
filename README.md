@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/e204d686-0e19-c10c-cf72-1000aae5be4a/full/843,/0/default.jpg"
-        alt="Unfinished Study of Sheep" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP240360.jpg"
+        alt="The Annunciation" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Unfinished Study of Sheep</h2>
+        <h2 class="artwork-name">The Annunciation</h2>
         <h3 class="artist">
-          Constant Troyon
+          Hans Memling
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Constant Troyon, representing the nineteenth century style in the painting genre.
+        A masterpiece by Hans Memling in the Paintings genre.
       </p>
     </div>
   </div>
