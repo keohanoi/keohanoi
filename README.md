@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/843,/0/default.jpg"
-        alt="At the Moulin Rouge" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP276131.jpg"
+        alt="Portrait of a Man" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">At the Moulin Rouge</h2>
+        <h2 class="artwork-name">Portrait of a Man</h2>
         <h3 class="artist">
-          Henri de Toulouse-Lautrec
+          Velázquez
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Henri de Toulouse-Lautrec, created in 1892, representing the Post-Impressionism style in the oil on canvas genre.
+        A masterpiece by Velázquez in the Paintings genre.
       </p>
     </div>
   </div>
