@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DT7241.jpg"
-        alt="Virgin and Child" />
+        src="https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg"
+        alt="The Old Guitarist" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Virgin and Child</h2>
+        <h2 class="artwork-name">The Old Guitarist</h2>
         <h3 class="artist">
-          Joos van Cleve
+          Pablo Picasso
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Joos van Cleve in the Paintings genre.
+        A masterpiece by Pablo Picasso, representing the Blue period style in the oil on panel genre.
       </p>
     </div>
   </div>
