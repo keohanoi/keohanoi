@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg"
-        alt="The Old Guitarist" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT2147.jpg"
+        alt="Woman in a Riding Habit (L'Amazone)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Old Guitarist</h2>
+        <h2 class="artwork-name">Woman in a Riding Habit (L'Amazone)</h2>
         <h3 class="artist">
-          Pablo Picasso
+          Gustave Courbet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Pablo Picasso, representing the Blue period style in the oil on panel genre.
+        A masterpiece by Gustave Courbet in the Paintings genre.
       </p>
     </div>
   </div>
