@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg"
-        alt="Starry Night" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP240360.jpg"
+        alt="The Annunciation" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Starry Night</h2>
+        <h2 class="artwork-name">The Annunciation</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Hans Memling
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the landscape genre.
+        A masterpiece by Hans Memling in the Paintings genre.
       </p>
     </div>
   </div>
