@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/3ee54063-9d78-ee86-0103-b477d988a93f/full/843,/0/default.jpg"
-        alt="Blue and Green Music" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/LC-33_92ab-Primary_Temp.jpg"
+        alt="The Crucifixion; The Last Judgment" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Blue and Green Music</h2>
+        <h2 class="artwork-name">The Crucifixion; The Last Judgment</h2>
         <h3 class="artist">
-          Georgia O'Keeffe
+          Jan van Eyck
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Georgia O'Keeffe, created in 1919, representing the Modernism style in the oil on canvas genre.
+        A masterpiece by Jan van Eyck in the Paintings genre.
       </p>
     </div>
   </div>
