@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg"
-        alt="Paris Street; Rainy Day" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP-28009-001.jpg"
+        alt="Sebastián Martínez y Pérez (1747–1800)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris Street; Rainy Day</h2>
+        <h2 class="artwork-name">Sebastián Martínez y Pérez (1747–1800)</h2>
         <h3 class="artist">
-          Gustave Caillebotte
+          Goya (Francisco de Goya y Lucientes)
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gustave Caillebotte, created in 1877, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Goya (Francisco de Goya y Lucientes), created in 1792 in the Paintings genre.
       </p>
     </div>
   </div>
