@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DT262309.jpg"
-        alt="Saint Paul with a Donor; Christ Appearing to His Mother" />
+        src="https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg"
+        alt="Paris Street; Rainy Day" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Saint Paul with a Donor; Christ Appearing to His Mother</h2>
+        <h2 class="artwork-name">Paris Street; Rainy Day</h2>
         <h3 class="artist">
-          Master of the Saint Ursula Legend
+          Gustave Caillebotte
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Master of the Saint Ursula Legend in the Paintings genre.
+        A masterpiece by Gustave Caillebotte, created in 1877, representing the Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
