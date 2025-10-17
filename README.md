@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/2843f22e-8ef1-2cd5-b53e-6712cd664e9a/full/843,/0/default.jpg"
-        alt="The Rock" />
+        src="https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg"
+        alt="The Bay of Marseille, Seen from L'Estaque" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Rock</h2>
+        <h2 class="artwork-name">The Bay of Marseille, Seen from L'Estaque</h2>
         <h3 class="artist">
-          Peter Blume
+          Paul Cezanne
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Peter Blume, created in 1944, representing the Surrealism style in the painting genre.
+        A masterpiece by Paul Cezanne, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
