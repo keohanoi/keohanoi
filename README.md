@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a34d9d72-c4ec-0750-389e-a01215c9aab0/full/843,/0/default.jpg"
-        alt="Pastoral Landscape with Ruins" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP142735.jpg"
+        alt="Madonna and Child" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Pastoral Landscape with Ruins</h2>
+        <h2 class="artwork-name">Madonna and Child</h2>
         <h3 class="artist">
-          Adriaen van de Velde
+          Duccio di Buoninsegna
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Adriaen van de Velde, created in 1664, representing the 17th Century style in the oil on canvas genre.
+        A masterpiece by Duccio di Buoninsegna in the Paintings genre.
       </p>
     </div>
   </div>
