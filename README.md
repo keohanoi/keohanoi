@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP-19709-001.jpg"
-        alt="Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)" />
+        src="https://www.artic.edu/iiif/2/b0d02c1d-ec9d-039e-1977-469806e8e3d9/full/843,/0/default.jpg"
+        alt="Woman Descending the Staircase (Frau die Treppe herabgehend)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)</h2>
+        <h2 class="artwork-name">Woman Descending the Staircase (Frau die Treppe herabgehend)</h2>
         <h3 class="artist">
-          Jacques Louis David
+          Gerhard Richter
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Jacques Louis David, created in 1788 in the Paintings genre.
+        A masterpiece by Gerhard Richter, created in 1965, representing the contemporary style in the oil on canvas genre.
       </p>
     </div>
   </div>
