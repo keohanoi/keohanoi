@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/d367c578-7f80-b7f7-78aa-ffa9d9dff0cc/full/843,/0/default.jpg"
-        alt="Water Painting IX" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT234058.jpg"
+        alt="An Egyptian Peasant Woman and Her Child" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water Painting IX</h2>
+        <h2 class="artwork-name">An Egyptian Peasant Woman and Her Child</h2>
         <h3 class="artist">
-          Joseph Raffael
+          Léon Bonnat
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Joseph Raffael, created in 1974 in the painting genre.
+        A masterpiece by Léon Bonnat, created in 1869 in the Paintings genre.
       </p>
     </div>
   </div>
