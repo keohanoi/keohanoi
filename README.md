@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg"
-        alt="Two Children Teasing a Cat" />
+        src="https://www.artic.edu/iiif/2/d367c578-7f80-b7f7-78aa-ffa9d9dff0cc/full/843,/0/default.jpg"
+        alt="Water Painting IX" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two Children Teasing a Cat</h2>
+        <h2 class="artwork-name">Water Painting IX</h2>
         <h3 class="artist">
-          Annibale Carracci
+          Joseph Raffael
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Annibale Carracci in the Paintings genre.
+        A masterpiece by Joseph Raffael, created in 1974 in the painting genre.
       </p>
     </div>
   </div>
