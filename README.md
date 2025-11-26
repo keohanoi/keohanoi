@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/18092196-50ae-3ff1-9205-1b3110e966c3/full/843,/0/default.jpg"
-        alt="Distant View of Niagara Falls" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP-26501-001.jpg"
+        alt="The Adoration of the Magi" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Distant View of Niagara Falls</h2>
+        <h2 class="artwork-name">The Adoration of the Magi</h2>
         <h3 class="artist">
-          Thomas Cole
+          Quinten Massys
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Thomas Cole, created in 1830 in the painting genre.
+        A masterpiece by Quinten Massys, created in 1526 in the Paintings genre.
       </p>
     </div>
   </div>
