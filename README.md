@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP-26501-001.jpg"
-        alt="The Adoration of the Magi" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT2147.jpg"
+        alt="Woman in a Riding Habit (L'Amazone)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Adoration of the Magi</h2>
+        <h2 class="artwork-name">Woman in a Riding Habit (L'Amazone)</h2>
         <h3 class="artist">
-          Quinten Massys
+          Gustave Courbet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Quinten Massys, created in 1526 in the Paintings genre.
+        A masterpiece by Gustave Courbet in the Paintings genre.
       </p>
     </div>
   </div>
