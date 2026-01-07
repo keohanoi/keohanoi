@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg"
-        alt="Starry Night" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT7241.jpg"
+        alt="Virgin and Child" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Starry Night</h2>
+        <h2 class="artwork-name">Virgin and Child</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Joos van Cleve
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the landscape genre.
+        A masterpiece by Joos van Cleve in the Paintings genre.
       </p>
     </div>
   </div>
