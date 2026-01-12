@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/565dd29f-6c02-3f31-3db2-46902059f047/full/843,/0/default.jpg"
-        alt="Wounded Lioness" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg"
+        alt="Two Children Teasing a Cat" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Wounded Lioness</h2>
+        <h2 class="artwork-name">Two Children Teasing a Cat</h2>
         <h3 class="artist">
-          Pierre Andrieu
+          Annibale Carracci
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Pierre Andrieu, representing the 19th century style in the oil on canvas genre.
+        A masterpiece by Annibale Carracci in the Paintings genre.
       </p>
     </div>
   </div>
