@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg"
-        alt="Paris Street; Rainy Day" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP-19709-001.jpg"
+        alt="Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris Street; Rainy Day</h2>
+        <h2 class="artwork-name">Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)</h2>
         <h3 class="artist">
-          Gustave Caillebotte
+          Jacques Louis David
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gustave Caillebotte, created in 1877, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Jacques Louis David, created in 1788 in the Paintings genre.
       </p>
     </div>
   </div>
