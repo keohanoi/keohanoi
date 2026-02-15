@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DT234058.jpg"
-        alt="An Egyptian Peasant Woman and Her Child" />
+        src="https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg"
+        alt="The Persistence of Memory" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">An Egyptian Peasant Woman and Her Child</h2>
+        <h2 class="artwork-name">The Persistence of Memory</h2>
         <h3 class="artist">
-          Léon Bonnat
+          Salvador Dalí
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Léon Bonnat, created in 1869 in the Paintings genre.
+        A masterpiece by Salvador Dalí, created in 1931, representing the Surrealism style in the symbolic painting genre.
       </p>
     </div>
   </div>
