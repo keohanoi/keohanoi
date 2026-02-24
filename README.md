@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg"
-        alt="The Bay of Marseille, Seen from L'Estaque" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DT2147.jpg"
+        alt="Woman in a Riding Habit (L'Amazone)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Bay of Marseille, Seen from L'Estaque</h2>
+        <h2 class="artwork-name">Woman in a Riding Habit (L'Amazone)</h2>
         <h3 class="artist">
-          Paul Cezanne
+          Gustave Courbet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Paul Cezanne, representing the Post-Impressionism style in the oil on canvas genre.
+        A masterpiece by Gustave Courbet in the Paintings genre.
       </p>
     </div>
   </div>
