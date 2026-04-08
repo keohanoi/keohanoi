@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/9ae64560-a416-ec19-851a-c76c5ca3c64f/full/843,/0/default.jpg"
-        alt="Cow's Skull with Calico Roses" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP-17641-001.jpg"
+        alt="The Vision of Saint John" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cow's Skull with Calico Roses</h2>
+        <h2 class="artwork-name">The Vision of Saint John</h2>
         <h3 class="artist">
-          Georgia O'Keeffe
+          El Greco (Domenikos Theotokopoulos)
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Georgia O'Keeffe, created in 1931, representing the Modernism style in the oil on canvas genre.
+        A masterpiece by El Greco (Domenikos Theotokopoulos) in the Paintings genre.
       </p>
     </div>
   </div>
