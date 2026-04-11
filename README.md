@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/c8ee825f-bc8c-c76b-1f05-5d692d9a6b47/full/843,/0/default.jpg"
-        alt="The Crucifixion" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/LC-33_92ab-Primary_Temp.jpg"
+        alt="The Crucifixion; The Last Judgment" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Crucifixion</h2>
+        <h2 class="artwork-name">The Crucifixion; The Last Judgment</h2>
         <h3 class="artist">
-          Francisco de Zurbarán
+          Jan van Eyck
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Francisco de Zurbarán, created in 1627, representing the Renaissance style in the oil on canvas genre.
+        A masterpiece by Jan van Eyck in the Paintings genre.
       </p>
     </div>
   </div>
