@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg"
-        alt="The Harvesters" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP240360.jpg"
+        alt="The Annunciation" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Harvesters</h2>
+        <h2 class="artwork-name">The Annunciation</h2>
         <h3 class="artist">
-          Pieter Bruegel the Elder
+          Hans Memling
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Pieter Bruegel the Elder, created in 1565 in the Paintings genre.
+        A masterpiece by Hans Memling in the Paintings genre.
       </p>
     </div>
   </div>
