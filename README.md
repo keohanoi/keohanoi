@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg"
-        alt="Two Children Teasing a Cat" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP318843.jpg"
+        alt="The Dream of the Shepherd (Der Traum des Hirten)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Two Children Teasing a Cat</h2>
+        <h2 class="artwork-name">The Dream of the Shepherd (Der Traum des Hirten)</h2>
         <h3 class="artist">
-          Annibale Carracci
+          Ferdinand Hodler
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Annibale Carracci in the Paintings genre.
+        A masterpiece by Ferdinand Hodler, created in 1896 in the Paintings genre.
       </p>
     </div>
   </div>
