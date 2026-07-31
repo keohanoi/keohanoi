@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://images.metmuseum.org/CRDImages/ep/original/DP-20589-001.jpg"
-        alt="Virgin and Child" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/LC-33_92ab-Primary_Temp.jpg"
+        alt="The Crucifixion; The Last Judgment" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Virgin and Child</h2>
+        <h2 class="artwork-name">The Crucifixion; The Last Judgment</h2>
         <h3 class="artist">
-          Dieric Bouts
+          Jan van Eyck
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Dieric Bouts in the Paintings genre.
+        A masterpiece by Jan van Eyck in the Paintings genre.
       </p>
     </div>
   </div>
