@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a49c5ada-f461-d7d1-0f1b-468ac577a872/full/843,/0/default.jpg"
-        alt="The Resurrection" />
+        src="https://images.metmuseum.org/CRDImages/ep/original/DP-26501-001.jpg"
+        alt="The Adoration of the Magi" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Resurrection</h2>
+        <h2 class="artwork-name">The Adoration of the Magi</h2>
         <h3 class="artist">
-          Cecco del Caravaggio
+          Quinten Massys
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Cecco del Caravaggio, representing the 17th Century style in the oil on canvas genre.
+        A masterpiece by Quinten Massys, created in 1526 in the Paintings genre.
       </p>
     </div>
   </div>
