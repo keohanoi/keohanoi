@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/3a34f988-f779-2e96-1786-8945b6b9c87d/full/843,/0/default.jpg"
-        alt="Landscape" />
+        src="https://www.artic.edu/iiif/2/2843f22e-8ef1-2cd5-b53e-6712cd664e9a/full/843,/0/default.jpg"
+        alt="The Rock" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Landscape</h2>
+        <h2 class="artwork-name">The Rock</h2>
         <h3 class="artist">
-          Jean Charles Cazin
+          Peter Blume
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Jean Charles Cazin, representing the 19th century style in the painting genre.
+        A masterpiece by Peter Blume, created in 1944, representing the Surrealism style in the painting genre.
       </p>
     </div>
   </div>
