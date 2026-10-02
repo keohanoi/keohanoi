@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/1db67905-d421-95bf-1e91-4b60dd776886/full/843,/0/default.jpg"
-        alt="Final Study for "Bathers at Asnières"" />
+        src="https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/843,/0/default.jpg"
+        alt="Arrival of the Normandy Train, Gare Saint-Lazare" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Final Study for "Bathers at Asnières"</h2>
+        <h2 class="artwork-name">Arrival of the Normandy Train, Gare Saint-Lazare</h2>
         <h3 class="artist">
-          Georges Seurat
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Georges Seurat, created in 1883, representing the Post-Impressionism style in the oil on panel genre.
+        A masterpiece by Claude Monet, created in 1877, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
