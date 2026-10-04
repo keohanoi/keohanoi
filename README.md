@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/38bb6be4-223e-af7a-7e18-f9ad0c388d3c/full/843,/0/default.jpg"
-        alt="The Interior of the Palm House on the Pfaueninsel Near Potsdam" />
+        src="https://www.artic.edu/iiif/2/1753b638-d4fb-8e45-3db9-92dde7f053da/full/843,/0/default.jpg"
+        alt="Priest and Boy" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Interior of the Palm House on the Pfaueninsel Near Potsdam</h2>
+        <h2 class="artwork-name">Priest and Boy</h2>
         <h3 class="artist">
-          Carl Blechen
+          Lawrence Carmichael Earle
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Carl Blechen, created in 1834, representing the 19th century style in the oil on canvas genre.
+        A masterpiece by Lawrence Carmichael Earle in the drawings (visual works) genre.
       </p>
     </div>
   </div>
