@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/fa96ef54-c3b1-8f4d-390a-219f7bc64c4a/full/843,/0/default.jpg"
-        alt="Man with Lance Riding through the Snow" />
+        src="https://www.artic.edu/iiif/2/d4bc1723-7cbc-d36d-a9cb-f84553f2a6f6/full/843,/0/default.jpg"
+        alt="The Poet's Garden" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Man with Lance Riding through the Snow</h2>
+        <h2 class="artwork-name">The Poet's Garden</h2>
         <h3 class="artist">
-          Adolphe Schreyer
+          Vincent van Gogh
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Adolphe Schreyer, representing the nineteenth century style in the painting genre.
+        A masterpiece by Vincent van Gogh, created in 1888, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
