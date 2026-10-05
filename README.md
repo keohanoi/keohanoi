@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/1753b638-d4fb-8e45-3db9-92dde7f053da/full/843,/0/default.jpg"
-        alt="Priest and Boy" />
+        src="https://www.artic.edu/iiif/2/fa96ef54-c3b1-8f4d-390a-219f7bc64c4a/full/843,/0/default.jpg"
+        alt="Man with Lance Riding through the Snow" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Priest and Boy</h2>
+        <h2 class="artwork-name">Man with Lance Riding through the Snow</h2>
         <h3 class="artist">
-          Lawrence Carmichael Earle
+          Adolphe Schreyer
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Lawrence Carmichael Earle in the drawings (visual works) genre.
+        A masterpiece by Adolphe Schreyer, representing the nineteenth century style in the painting genre.
       </p>
     </div>
   </div>
