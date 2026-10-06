@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg"
-        alt="The Child's Bath" />
+        src="https://www.artic.edu/iiif/2/8b526140-7667-b1df-97bb-2d0f6e1be095/full/843,/0/default.jpg"
+        alt="Three Little Girls" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Child's Bath</h2>
+        <h2 class="artwork-name">Three Little Girls</h2>
         <h3 class="artist">
-          Mary Cassatt
+          Narcisse Virgile Diaz de la Peña
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Mary Cassatt, created in 1893, representing the Impressionism style in the painting genre.
+        A masterpiece by Narcisse Virgile Diaz de la Peña, representing the nineteenth century style in the oil on panel genre.
       </p>
     </div>
   </div>
