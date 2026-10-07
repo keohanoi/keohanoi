@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/081be15c-8812-c174-eeb2-cf318a2e67cf/full/843,/0/default.jpg"
-        alt="Oil Sketch for "A Sunday on La Grande Jatte — 1884"" />
+        src="https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg"
+        alt="The Bedroom" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Oil Sketch for "A Sunday on La Grande Jatte — 1884"</h2>
+        <h2 class="artwork-name">The Bedroom</h2>
         <h3 class="artist">
-          Georges Seurat
+          Vincent van Gogh
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Georges Seurat, created in 1884, representing the Post-Impressionism style in the painting genre.
+        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
