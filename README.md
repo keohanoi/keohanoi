@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/843,/0/default.jpg"
-        alt="Self-Portrait" />
+        src="https://www.artic.edu/iiif/2/081be15c-8812-c174-eeb2-cf318a2e67cf/full/843,/0/default.jpg"
+        alt="Oil Sketch for "A Sunday on La Grande Jatte — 1884"" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Self-Portrait</h2>
+        <h2 class="artwork-name">Oil Sketch for "A Sunday on La Grande Jatte — 1884"</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Georges Seurat
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1887, representing the Post-Impressionism style in the oil on board genre.
+        A masterpiece by Georges Seurat, created in 1884, representing the Post-Impressionism style in the painting genre.
       </p>
     </div>
   </div>
