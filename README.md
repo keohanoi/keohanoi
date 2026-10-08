@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg"
-        alt="Stacks of Wheat (End of Summer)" />
+        src="https://www.artic.edu/iiif/2/831a05de-d3f6-f4fa-a460-23008dd58dda/full/843,/0/default.jpg"
+        alt="Nighthawks" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stacks of Wheat (End of Summer)</h2>
+        <h2 class="artwork-name">Nighthawks</h2>
         <h3 class="artist">
-          Claude Monet
+          Edward Hopper
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Edward Hopper, created in 1942, representing the Modernism style in the modern and contemporary art genre.
       </p>
     </div>
   </div>
