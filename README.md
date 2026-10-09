@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/db94c894-a24c-c2e0-9db9-0506567a0152/full/843,/0/default.jpg"
-        alt="Poppy Field (Giverny)" />
+        src="https://www.artic.edu/iiif/2/48b2de88-ba73-8e19-f448-d1cef4a1c847/full/843,/0/default.jpg"
+        alt="The Song of the Lark" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Poppy Field (Giverny)</h2>
+        <h2 class="artwork-name">The Song of the Lark</h2>
         <h3 class="artist">
-          Claude Monet
+          Jules Breton
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Jules Breton, created in 1884, representing the 19th century style in the oil on canvas genre.
       </p>
     </div>
   </div>
