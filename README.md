@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg"
-        alt="Water Lilies" />
+        src="https://www.artic.edu/iiif/2/e204d686-0e19-c10c-cf72-1000aae5be4a/full/843,/0/default.jpg"
+        alt="Unfinished Study of Sheep" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water Lilies</h2>
+        <h2 class="artwork-name">Unfinished Study of Sheep</h2>
         <h3 class="artist">
-          Claude Monet
+          Constant Troyon
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1906, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Constant Troyon, representing the nineteenth century style in the painting genre.
       </p>
     </div>
   </div>
