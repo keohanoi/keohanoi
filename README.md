@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/e204d686-0e19-c10c-cf72-1000aae5be4a/full/843,/0/default.jpg"
-        alt="Unfinished Study of Sheep" />
+        src="https://www.artic.edu/iiif/2/c617e2f0-d5fe-0772-390e-6d8c83895815/full/843,/0/default.jpg"
+        alt="The Red Armchair" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Unfinished Study of Sheep</h2>
+        <h2 class="artwork-name">The Red Armchair</h2>
         <h3 class="artist">
-          Constant Troyon
+          Pablo Picasso
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Constant Troyon, representing the nineteenth century style in the painting genre.
+        A masterpiece by Pablo Picasso, representing the Cubism style in the painting genre.
       </p>
     </div>
   </div>
