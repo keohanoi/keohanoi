@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
-        alt="Water Lily Pond" />
+        src="https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg"
+        alt="The Old Guitarist" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water Lily Pond</h2>
+        <h2 class="artwork-name">The Old Guitarist</h2>
         <h3 class="artist">
-          Claude Monet
+          Pablo Picasso
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
+        A masterpiece by Pablo Picasso, representing the Blue period style in the oil on panel genre.
       </p>
     </div>
   </div>
