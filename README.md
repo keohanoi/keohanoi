@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/12662645-5164-4bb1-cfec-3517a4c9779c/full/843,/0/default.jpg"
-        alt="Are They Thinking about the Grape? (Pensent-ils au raisin?)" />
+        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
+        alt="Water Lily Pond" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Are They Thinking about the Grape? (Pensent-ils au raisin?)</h2>
+        <h2 class="artwork-name">Water Lily Pond</h2>
         <h3 class="artist">
-          François Boucher
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by François Boucher, created in 1747, representing the 18th Century style in the oil on canvas genre.
+        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
