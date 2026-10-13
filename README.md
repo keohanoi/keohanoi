@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/c617e2f0-d5fe-0772-390e-6d8c83895815/full/843,/0/default.jpg"
-        alt="The Red Armchair" />
+        src="https://www.artic.edu/iiif/2/12662645-5164-4bb1-cfec-3517a4c9779c/full/843,/0/default.jpg"
+        alt="Are They Thinking about the Grape? (Pensent-ils au raisin?)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Red Armchair</h2>
+        <h2 class="artwork-name">Are They Thinking about the Grape? (Pensent-ils au raisin?)</h2>
         <h3 class="artist">
-          Pablo Picasso
+          François Boucher
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Pablo Picasso, representing the Cubism style in the painting genre.
+        A masterpiece by François Boucher, created in 1747, representing the 18th Century style in the oil on canvas genre.
       </p>
     </div>
   </div>
