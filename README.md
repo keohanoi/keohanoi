@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/b0d02c1d-ec9d-039e-1977-469806e8e3d9/full/843,/0/default.jpg"
-        alt="Woman Descending the Staircase (Frau die Treppe herabgehend)" />
+        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
+        alt="Water Lily Pond" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman Descending the Staircase (Frau die Treppe herabgehend)</h2>
+        <h2 class="artwork-name">Water Lily Pond</h2>
         <h3 class="artist">
-          Gerhard Richter
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gerhard Richter, created in 1965, representing the contemporary style in the oil on canvas genre.
+        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
