@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/d4bc1723-7cbc-d36d-a9cb-f84553f2a6f6/full/843,/0/default.jpg"
-        alt="The Poet's Garden" />
+        src="https://www.artic.edu/iiif/2/b0d02c1d-ec9d-039e-1977-469806e8e3d9/full/843,/0/default.jpg"
+        alt="Woman Descending the Staircase (Frau die Treppe herabgehend)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Poet's Garden</h2>
+        <h2 class="artwork-name">Woman Descending the Staircase (Frau die Treppe herabgehend)</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Gerhard Richter
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1888, representing the Post-Impressionism style in the oil on canvas genre.
+        A masterpiece by Gerhard Richter, created in 1965, representing the contemporary style in the oil on canvas genre.
       </p>
     </div>
   </div>
