@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/91e4c46b-9ef3-ca78-148c-86845e457d88/full/843,/0/default.jpg"
-        alt="La durée poignardée (Time Transfixed)" />
+        src="https://www.artic.edu/iiif/2/2d43ebe4-89aa-ae2d-6fd6-085bb6b77ee0/full/843,/0/default.jpg"
+        alt="Into the World There Came a Soul Called Ida" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">La durée poignardée (Time Transfixed)</h2>
+        <h2 class="artwork-name">Into the World There Came a Soul Called Ida</h2>
         <h3 class="artist">
-          René Magritte
+          Ivan Albright
         </h3>
       </div>
       <p class="description">
-        A masterpiece by René Magritte, created in 1938, representing the Surrealism style in the oil on canvas genre.
+        A masterpiece by Ivan Albright, created in 1929, representing the Modernism style in the oil on canvas genre.
       </p>
     </div>
   </div>
