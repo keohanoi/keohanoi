@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
-        alt="Water Lily Pond" />
+        src="https://www.artic.edu/iiif/2/91e4c46b-9ef3-ca78-148c-86845e457d88/full/843,/0/default.jpg"
+        alt="La durée poignardée (Time Transfixed)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Water Lily Pond</h2>
+        <h2 class="artwork-name">La durée poignardée (Time Transfixed)</h2>
         <h3 class="artist">
-          Claude Monet
+          René Magritte
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
+        A masterpiece by René Magritte, created in 1938, representing the Surrealism style in the oil on canvas genre.
       </p>
     </div>
   </div>
