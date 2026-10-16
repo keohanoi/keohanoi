@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg"
-        alt="Stacks of Wheat (End of Summer)" />
+        src="https://www.artic.edu/iiif/2/8f5f8f8f-8765-b04e-8ffa-f4379d9511f5/full/843,/0/default.jpg"
+        alt="Champs de Mars: The Red Tower" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stacks of Wheat (End of Summer)</h2>
+        <h2 class="artwork-name">Champs de Mars: The Red Tower</h2>
         <h3 class="artist">
-          Claude Monet
+          Robert Delaunay
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Robert Delaunay, created in 1911, representing the Modernism style in the painting genre.
       </p>
     </div>
   </div>
