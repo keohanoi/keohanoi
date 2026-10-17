@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg"
-        alt="Stacks of Wheat (End of Summer)" />
+        src="https://www.artic.edu/iiif/2/be9551d4-860f-37a0-1408-086617f1824e/full/843,/0/default.jpg"
+        alt="Inventions of the Monsters" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stacks of Wheat (End of Summer)</h2>
+        <h2 class="artwork-name">Inventions of the Monsters</h2>
         <h3 class="artist">
-          Claude Monet
+          Salvador Dalí
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Salvador Dalí, created in 1937, representing the Surrealism style in the painting genre.
       </p>
     </div>
   </div>
