@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/b55d836c-ee20-59f8-1f0c-a95e09905361/full/843,/0/default.jpg"
-        alt="Interior of St. Mark's, Venice" />
+        src="https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg"
+        alt="Stacks of Wheat (End of Summer)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Interior of St. Mark's, Venice</h2>
+        <h2 class="artwork-name">Stacks of Wheat (End of Summer)</h2>
         <h3 class="artist">
-          David Dalhoff Neal
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by David Dalhoff Neal, created in 1869 in the painting genre.
+        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
