@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg"
-        alt="Paris Street; Rainy Day" />
+        src="https://www.artic.edu/iiif/2/3fa3855e-d7e7-d2a4-0f95-a38268026bad/full/843,/0/default.jpg"
+        alt="Pardon in Brittany" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris Street; Rainy Day</h2>
+        <h2 class="artwork-name">Pardon in Brittany</h2>
         <h3 class="artist">
-          Gustave Caillebotte
+          Gaston La Touche
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gustave Caillebotte, created in 1877, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Gaston La Touche, created in 1896, representing the nineteenth century style in the oil on canvas genre.
       </p>
     </div>
   </div>
