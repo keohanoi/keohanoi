@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg"
-        alt="A Sunday on La Grande Jatte — 1884" />
+        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
+        alt="Water Lily Pond" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Sunday on La Grande Jatte — 1884</h2>
+        <h2 class="artwork-name">Water Lily Pond</h2>
         <h3 class="artist">
-          Georges Seurat
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Georges Seurat, created in 1884, representing the Pointillism style in the oil on canvas genre.
+        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
