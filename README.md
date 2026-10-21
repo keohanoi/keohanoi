@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/18092196-50ae-3ff1-9205-1b3110e966c3/full/843,/0/default.jpg"
-        alt="Distant View of Niagara Falls" />
+        src="https://www.artic.edu/iiif/2/cefba431-1241-6240-3a92-ffa787e5fa49/full/843,/0/default.jpg"
+        alt="White Crucifixion" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Distant View of Niagara Falls</h2>
+        <h2 class="artwork-name">White Crucifixion</h2>
         <h3 class="artist">
-          Thomas Cole
+          Marc Chagall
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Thomas Cole, created in 1830 in the painting genre.
+        A masterpiece by Marc Chagall, created in 1938, representing the Modernism style in the painting genre.
       </p>
     </div>
   </div>
