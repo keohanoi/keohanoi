@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/0274aa9e-95d1-2a8e-12e3-2b09d7749b4f/full/843,/0/default.jpg"
-        alt="Calf's Head and Ox Tongue" />
+        src="https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/843,/0/default.jpg"
+        alt="At the Moulin Rouge" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Calf's Head and Ox Tongue</h2>
+        <h2 class="artwork-name">At the Moulin Rouge</h2>
         <h3 class="artist">
-          Gustave Caillebotte
+          Henri de Toulouse-Lautrec
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gustave Caillebotte, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Henri de Toulouse-Lautrec, created in 1892, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
