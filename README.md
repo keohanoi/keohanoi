@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/1bc44619-6b1d-5398-cf41-f4af38f6e17f/full/843,/0/default.jpg"
-        alt="Tiger Resting" />
+        src="https://www.artic.edu/iiif/2/321c45f5-22a3-84a2-44cc-cf66642d4cf2/full/843,/0/default.jpg"
+        alt="Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Tiger Resting</h2>
+        <h2 class="artwork-name">Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)</h2>
         <h3 class="artist">
-          Pierre Andrieu
+          Pierre-Auguste Renoir
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Pierre Andrieu, representing the 19th century style in the painting genre.
+        A masterpiece by Pierre-Auguste Renoir, created in 1879, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
