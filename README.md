@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/f2fc8911-5008-d7e5-3399-c32785e7a790/full/843,/0/default.jpg"
-        alt="Painting" />
+        src="https://www.artic.edu/iiif/2/47fd1564-93f5-f30b-7786-013421133b4a/full/843,/0/default.jpg"
+        alt="The Assumption of the Virgin" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Painting</h2>
+        <h2 class="artwork-name">The Assumption of the Virgin</h2>
         <h3 class="artist">
-          Joan Miró
+          Domenico Theotokópoulos, called El Greco
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Joan Miró in the painting genre.
+        A masterpiece by Domenico Theotokópoulos, called El Greco, created in 1577, representing the Mannerism style in the oil on canvas genre.
       </p>
     </div>
   </div>
