@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/47fd1564-93f5-f30b-7786-013421133b4a/full/843,/0/default.jpg"
-        alt="The Assumption of the Virgin" />
+        src="https://www.artic.edu/iiif/2/0f951635-312c-0829-451b-553f461c5518/full/843,/0/default.jpg"
+        alt="Cupid Chastised" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Assumption of the Virgin</h2>
+        <h2 class="artwork-name">Cupid Chastised</h2>
         <h3 class="artist">
-          Domenico Theotokópoulos, called El Greco
+          Bartolomeo Manfredi
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Domenico Theotokópoulos, called El Greco, created in 1577, representing the Mannerism style in the oil on canvas genre.
+        A masterpiece by Bartolomeo Manfredi, created in 1613, representing the Renaissance style in the oil on canvas genre.
       </p>
     </div>
   </div>
