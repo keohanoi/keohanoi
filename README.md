@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/843,/0/default.jpg"
-        alt="Portrait of Pablo Picasso" />
+        src="https://www.artic.edu/iiif/2/c12058f4-188f-c6ed-f0fe-52b32acfb296/full/843,/0/default.jpg"
+        alt="Apples and Grapes" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Pablo Picasso</h2>
+        <h2 class="artwork-name">Apples and Grapes</h2>
         <h3 class="artist">
-          Juan Gris
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Juan Gris, representing the Cubism style in the oil on canvas genre.
+        A masterpiece by Claude Monet, created in 1880, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
