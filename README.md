@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://uploads0.wikiart.org/00142/images/vincent-van-gogh/the-starry-night.jpg"
-        alt="Starry Night" />
+        src="https://www.artic.edu/iiif/2/8f06717c-9ede-f22b-d13b-327a50c22f9c/full/843,/0/default.jpg"
+        alt="Woman at the Piano" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Starry Night</h2>
+        <h2 class="artwork-name">Woman at the Piano</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Pierre-Auguste Renoir
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the landscape genre.
+        A masterpiece by Pierre-Auguste Renoir, created in 1875, representing the Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
