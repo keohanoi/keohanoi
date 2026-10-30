@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/4d1b3ad0-14db-0d21-ad9f-17abb8bdfbb5/full/843,/0/default.jpg"
-        alt="Bordighera" />
+        src="https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/843,/0/default.jpg"
+        alt="Woman at Her Toilette" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Bordighera</h2>
+        <h2 class="artwork-name">Woman at Her Toilette</h2>
         <h3 class="artist">
-          Claude Monet
+          Berthe Morisot
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1884, representing the Impressionism style in the painting genre.
+        A masterpiece by Berthe Morisot, created in 1875, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
