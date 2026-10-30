@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/843,/0/default.jpg"
-        alt="Woman at Her Toilette" />
+        src="https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg"
+        alt="American Gothic" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman at Her Toilette</h2>
+        <h2 class="artwork-name">American Gothic</h2>
         <h3 class="artist">
-          Berthe Morisot
+          Grant Wood
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Berthe Morisot, created in 1875, representing the Impressionism style in the painting genre.
+        A masterpiece by Grant Wood, created in 1930, representing the Realism style in the oil paintings (visual works) genre.
       </p>
     </div>
   </div>
