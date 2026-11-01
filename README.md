@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/db94c894-a24c-c2e0-9db9-0506567a0152/full/843,/0/default.jpg"
-        alt="Poppy Field (Giverny)" />
+        src="https://www.artic.edu/iiif/2/80df29cd-493f-23c0-3e51-4ddc38b3f34f/full/843,/0/default.jpg"
+        alt="Barks Fleeing Before the Storm" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Poppy Field (Giverny)</h2>
+        <h2 class="artwork-name">Barks Fleeing Before the Storm</h2>
         <h3 class="artist">
-          Claude Monet
+          Jules Dupré
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Jules Dupré, created in 1870, representing the nineteenth century style in the oil on canvas genre.
       </p>
     </div>
   </div>
