@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/80df29cd-493f-23c0-3e51-4ddc38b3f34f/full/843,/0/default.jpg"
-        alt="Barks Fleeing Before the Storm" />
+        src="https://www.artic.edu/iiif/2/64734461-887d-80b9-8489-e38cb05ac01d/full/843,/0/default.jpg"
+        alt="Mother and Child" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Barks Fleeing Before the Storm</h2>
+        <h2 class="artwork-name">Mother and Child</h2>
         <h3 class="artist">
-          Jules Dupré
+          Pablo Picasso
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Jules Dupré, created in 1870, representing the nineteenth century style in the oil on canvas genre.
+        A masterpiece by Pablo Picasso, created in 1921, representing the classicism style in the oil on canvas genre.
       </p>
     </div>
   </div>
