@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg"
-        alt="The Child's Bath" />
+        src="https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg"
+        alt="The Bedroom" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Child's Bath</h2>
+        <h2 class="artwork-name">The Bedroom</h2>
         <h3 class="artist">
-          Mary Cassatt
+          Vincent van Gogh
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Mary Cassatt, created in 1893, representing the Impressionism style in the painting genre.
+        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
