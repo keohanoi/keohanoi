@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/1f925e43-ff81-5ad7-da75-b28ea651c09f/full/843,/0/default.jpg"
-        alt="Irises" />
+        src="https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/843,/0/default.jpg"
+        alt="Woman at Her Toilette" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Irises</h2>
+        <h2 class="artwork-name">Woman at Her Toilette</h2>
         <h3 class="artist">
-          Claude Monet
+          Berthe Morisot
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1914, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Berthe Morisot, created in 1875, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
