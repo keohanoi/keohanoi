@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg"
-        alt="Paris Street; Rainy Day" />
+        src="https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/843,/0/default.jpg"
+        alt="A Peasant Woman Digging in Front of Her Cottage" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Paris Street; Rainy Day</h2>
+        <h2 class="artwork-name">A Peasant Woman Digging in Front of Her Cottage</h2>
         <h3 class="artist">
-          Gustave Caillebotte
+          Vincent van Gogh
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gustave Caillebotte, created in 1877, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Vincent van Gogh, representing the Realism style in the oil on canvas genre.
       </p>
     </div>
   </div>
