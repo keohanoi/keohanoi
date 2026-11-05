@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/1d3a275d-45dd-6026-b6ed-d7d8df417a3d/full/843,/0/default.jpg"
-        alt="A Peasant Woman Digging in Front of Her Cottage" />
+        src="https://www.artic.edu/iiif/2/7f1ea423-7538-3bc7-3d4a-0766522ab62f/full/843,/0/default.jpg"
+        alt="The Family Concert" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">A Peasant Woman Digging in Front of Her Cottage</h2>
+        <h2 class="artwork-name">The Family Concert</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Jan Steen
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, representing the Realism style in the oil on canvas genre.
+        A masterpiece by Jan Steen, created in 1666, representing the 17th Century style in the oil on canvas genre.
       </p>
     </div>
   </div>
