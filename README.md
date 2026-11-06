@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/b0d02c1d-ec9d-039e-1977-469806e8e3d9/full/843,/0/default.jpg"
-        alt="Woman Descending the Staircase (Frau die Treppe herabgehend)" />
+        src="https://www.artic.edu/iiif/2/0f951635-312c-0829-451b-553f461c5518/full/843,/0/default.jpg"
+        alt="Cupid Chastised" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Woman Descending the Staircase (Frau die Treppe herabgehend)</h2>
+        <h2 class="artwork-name">Cupid Chastised</h2>
         <h3 class="artist">
-          Gerhard Richter
+          Bartolomeo Manfredi
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Gerhard Richter, created in 1965, representing the contemporary style in the oil on canvas genre.
+        A masterpiece by Bartolomeo Manfredi, created in 1613, representing the Renaissance style in the oil on canvas genre.
       </p>
     </div>
   </div>
