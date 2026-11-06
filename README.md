@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/7f1ea423-7538-3bc7-3d4a-0766522ab62f/full/843,/0/default.jpg"
-        alt="The Family Concert" />
+        src="https://www.artic.edu/iiif/2/8f06717c-9ede-f22b-d13b-327a50c22f9c/full/843,/0/default.jpg"
+        alt="Woman at the Piano" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Family Concert</h2>
+        <h2 class="artwork-name">Woman at the Piano</h2>
         <h3 class="artist">
-          Jan Steen
+          Pierre-Auguste Renoir
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Jan Steen, created in 1666, representing the 17th Century style in the oil on canvas genre.
+        A masterpiece by Pierre-Auguste Renoir, created in 1875, representing the Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
