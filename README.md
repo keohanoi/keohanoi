@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a45e5f55-d02b-ce98-8bab-3af549684f58/full/843,/0/default.jpg"
-        alt="Painting with Troika" />
+        src="https://www.artic.edu/iiif/2/80df29cd-493f-23c0-3e51-4ddc38b3f34f/full/843,/0/default.jpg"
+        alt="Barks Fleeing Before the Storm" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Painting with Troika</h2>
+        <h2 class="artwork-name">Barks Fleeing Before the Storm</h2>
         <h3 class="artist">
-          Vasily Kandinsky
+          Jules Dupré
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vasily Kandinsky in the oil on cardboard genre.
+        A masterpiece by Jules Dupré, created in 1870, representing the nineteenth century style in the oil on canvas genre.
       </p>
     </div>
   </div>
