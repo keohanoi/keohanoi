@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg"
-        alt="Stacks of Wheat (End of Summer)" />
+        src="https://www.artic.edu/iiif/2/e204d686-0e19-c10c-cf72-1000aae5be4a/full/843,/0/default.jpg"
+        alt="Unfinished Study of Sheep" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Stacks of Wheat (End of Summer)</h2>
+        <h2 class="artwork-name">Unfinished Study of Sheep</h2>
         <h3 class="artist">
-          Claude Monet
+          Constant Troyon
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1890, representing the Impressionism style in the oil on canvas genre.
+        A masterpiece by Constant Troyon, representing the nineteenth century style in the painting genre.
       </p>
     </div>
   </div>
