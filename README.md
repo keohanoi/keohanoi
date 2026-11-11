@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/2843f22e-8ef1-2cd5-b53e-6712cd664e9a/full/843,/0/default.jpg"
-        alt="The Rock" />
+        src="https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/843,/0/default.jpg"
+        alt="Arrival of the Normandy Train, Gare Saint-Lazare" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Rock</h2>
+        <h2 class="artwork-name">Arrival of the Normandy Train, Gare Saint-Lazare</h2>
         <h3 class="artist">
-          Peter Blume
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Peter Blume, created in 1944, representing the Surrealism style in the painting genre.
+        A masterpiece by Claude Monet, created in 1877, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
