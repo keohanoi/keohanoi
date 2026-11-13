@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg"
-        alt="The Bedroom" />
+        src="https://www.artic.edu/iiif/2/2ae64c8a-266d-470a-a25a-c83127564636/full/843,/0/default.jpg"
+        alt="Hercules and the Lernaean Hydra" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">The Bedroom</h2>
+        <h2 class="artwork-name">Hercules and the Lernaean Hydra</h2>
         <h3 class="artist">
-          Vincent van Gogh
+          Gustave Moreau
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Vincent van Gogh, created in 1889, representing the Post-Impressionism style in the oil on canvas genre.
+        A masterpiece by Gustave Moreau, created in 1875, representing the nineteenth century style in the oil on canvas genre.
       </p>
     </div>
   </div>
