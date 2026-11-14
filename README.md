@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/12662645-5164-4bb1-cfec-3517a4c9779c/full/843,/0/default.jpg"
-        alt="Are They Thinking about the Grape? (Pensent-ils au raisin?)" />
+        src="https://www.artic.edu/iiif/2/aa2b57e9-3773-03c1-0fb4-0135e7358dc6/full/843,/0/default.jpg"
+        alt="Picture of Dorian Gray" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Are They Thinking about the Grape? (Pensent-ils au raisin?)</h2>
+        <h2 class="artwork-name">Picture of Dorian Gray</h2>
         <h3 class="artist">
-          François Boucher
+          Ivan Albright
         </h3>
       </div>
       <p class="description">
-        A masterpiece by François Boucher, created in 1747, representing the 18th Century style in the oil on canvas genre.
+        A masterpiece by Ivan Albright, created in 1943, representing the Surrealism style in the painting genre.
       </p>
     </div>
   </div>
