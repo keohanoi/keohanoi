@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/aa870b0d-5a1b-660a-6dc6-56c12109cf6e/full/843,/0/default.jpg"
-        alt="Landscape with Saint John on Patmos" />
+        src="https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/843,/0/default.jpg"
+        alt="Water Lily Pond" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Landscape with Saint John on Patmos</h2>
+        <h2 class="artwork-name">Water Lily Pond</h2>
         <h3 class="artist">
-          Nicolas Poussin
+          Claude Monet
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Nicolas Poussin, created in 1640, representing the Renaissance style in the oil on canvas genre.
+        A masterpiece by Claude Monet, created in 1900, representing the Impressionism style in the painting genre.
       </p>
     </div>
   </div>
