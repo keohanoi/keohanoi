@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/66f95ea3-a11a-1cf4-6599-d0a49bb25744/full/843,/0/default.jpg"
-        alt="On the Bank of the Seine, Bennecourt" />
+        src="https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/843,/0/default.jpg"
+        alt="Portrait of Pablo Picasso" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">On the Bank of the Seine, Bennecourt</h2>
+        <h2 class="artwork-name">Portrait of Pablo Picasso</h2>
         <h3 class="artist">
-          Claude Monet
+          Juan Gris
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1868, representing the Impressionism style in the painting genre.
+        A masterpiece by Juan Gris, representing the Cubism style in the oil on canvas genre.
       </p>
     </div>
   </div>
