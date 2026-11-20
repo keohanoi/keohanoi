@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/843,/0/default.jpg"
-        alt="Portrait of Pablo Picasso" />
+        src="https://www.artic.edu/iiif/2/df0a03a4-be1c-3f8d-73b1-5941dca57bba/full/843,/0/default.jpg"
+        alt="Untitled (Painting)" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Portrait of Pablo Picasso</h2>
+        <h2 class="artwork-name">Untitled (Painting)</h2>
         <h3 class="artist">
-          Juan Gris
+          Mark Rothko
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Juan Gris, representing the Cubism style in the oil on canvas genre.
+        A masterpiece by Mark Rothko, created in 1953 in the painting genre.
       </p>
     </div>
   </div>
