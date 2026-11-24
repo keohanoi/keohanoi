@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/cefba431-1241-6240-3a92-ffa787e5fa49/full/843,/0/default.jpg"
-        alt="White Crucifixion" />
+        src="https://www.artic.edu/iiif/2/52ac8996-3460-cf71-cb42-5c4d0aa29b74/full/843,/0/default.jpg"
+        alt="The Basket of Apples" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">White Crucifixion</h2>
+        <h2 class="artwork-name">The Basket of Apples</h2>
         <h3 class="artist">
-          Marc Chagall
+          Paul Cezanne
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Marc Chagall, created in 1938, representing the Modernism style in the painting genre.
+        A masterpiece by Paul Cezanne, representing the Post-Impressionism style in the oil on canvas genre.
       </p>
     </div>
   </div>
