@@ -3,18 +3,18 @@
   <div class="container">
     <div class="img-wrapper">
       <img
-        src="https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/843,/0/default.jpg"
-        alt="Cliff Walk at Pourville" />
+        src="https://www.artic.edu/iiif/2/8b526140-7667-b1df-97bb-2d0f6e1be095/full/843,/0/default.jpg"
+        alt="Three Little Girls" />
     </div>
     <div class="artwork-detail">
       <div class="artwork-origin"> 
-        <h2 class="artwork-name">Cliff Walk at Pourville</h2>
+        <h2 class="artwork-name">Three Little Girls</h2>
         <h3 class="artist">
-          Claude Monet
+          Narcisse Virgile Diaz de la Peña
         </h3>
       </div>
       <p class="description">
-        A masterpiece by Claude Monet, created in 1882, representing the Impressionism style in the painting genre.
+        A masterpiece by Narcisse Virgile Diaz de la Peña, representing the nineteenth century style in the oil on panel genre.
       </p>
     </div>
   </div>
